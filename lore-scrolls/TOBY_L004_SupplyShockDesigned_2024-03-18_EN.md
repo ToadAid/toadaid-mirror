@@ -39,6 +39,6 @@ If you're here for noise, you might miss the signal.
 🐸 → Embrace the symbol of fairness  
 ⚖️ → Supply Design Balance  
 
-# Lore Anchor 传说锚点  
+# Lore Anchor
 Connect to: L003 (The Frog of Base)  
 Foreshadow: L005 (The Echo of Patience)
