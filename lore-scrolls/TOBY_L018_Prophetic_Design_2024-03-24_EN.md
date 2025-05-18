@@ -2,7 +2,7 @@
 
 # Metadata
 Date: 2024-03-24  
-Phase: Epoch 1 | Prophecy Alignment  
+Phase: Pre-Epoch  | Prophecy Alignment  
 Tags: #Toadgod, #TobySupply, #Decentralization, #Prophecy, #CompensationLaw  
 KeySymbols: $TOBY, 42T, prophecy, patience, ambatte kudasai  
 
