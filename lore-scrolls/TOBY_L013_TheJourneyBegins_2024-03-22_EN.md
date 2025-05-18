@@ -2,7 +2,7 @@
 
 # Metadata
 Date: 2024-03-22  
-Phase: Epoch 1 | Seeding the Signal  
+Phase: Pre-Epoch | Seeding the Signal  
 Tags: #Toby, #Journey, #Toadgod, #Patience, #Lore  
 KeySymbols: $TOBY, 12 Continent, train, music, prophecy  
 
