@@ -2,7 +2,7 @@
 
 # Metadata
 Date: 2024-03-23  
-Phase: Epoch 1 | Lore Revelation  
+Phase: Pre-Epoch | Lore Revelation  
 Tags: #Toby, #Toadgod, #Justice, #People, #Purity  
 KeySymbols: $TOBY, 🕊, Telegram, light, right  
 
