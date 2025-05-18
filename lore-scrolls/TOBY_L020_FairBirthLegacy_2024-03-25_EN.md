@@ -1,6 +1,6 @@
 # L020 – Fair Birth, Lasting Legacy
 
-# Metadata 元数据
+# Metadata
 Date: 2024-03-25  
 Phase: Pre-Epoch  
 Tags: #Toadgod, #ToadLore, #Legacy, #Bushido, #Decentralization  
