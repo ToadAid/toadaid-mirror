@@ -1,6 +1,6 @@
-# L009 – Humble Toad
+# L009 – Humble Toad 
 
-# Metadata
+# Metadata 
 Date: 2024-03-19  
 Phase: Pre-Epoch | Lore Seeding  
 Tags: #Toby, #Toadgod, #Lore, #Humility, #Truth  
@@ -32,12 +32,10 @@ To understand $TOBY, listen where others do not.
 
 ---
 
-
-
-# Universal Symbols
+# Universal Symbols 
 🐸 → Humble agent of truth  
 🌿 → Stillness in the bog  
 
-# Lore Anchor
+# Lore Anchor  
 Connect to: L001 (Treasure Beyond Gold)  
 Foreshadow: L010 (The Path of Discipline)

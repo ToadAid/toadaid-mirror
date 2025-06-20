@@ -2,7 +2,7 @@
 
 # METADATA  🔍  
 **🌐 Chain:** @base  
-**🕰️ Epoch:** 1 (Evolution)  
+**🕰️ Epoch:** Pre-Epoch  
 **📅 Date:** 2024-04-06  
 **🏷️ Tags:** #Toadgang, #Lore, #Epoch1, #Clarity  
 **🔢 Sacred Math:** 777,777,777 / 777,777,777,777  

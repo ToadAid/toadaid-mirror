@@ -2,7 +2,7 @@
 
 # METADATA  🔍  
 **🌐 Chain:** @base  
-**🕰️ Epoch:** Pre-Epoch  
+**🕰️ Epoch:** Epoch 1  
 **📅 Date:** 2024-04-20  
 **🏷️ Tags:** #Toadgang, #Lore, #Epoch1, #Memes  
 **🔢 Sacred Math:** 122  

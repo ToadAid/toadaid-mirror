@@ -1,6 +1,6 @@
-# L006 – Toadgod Persists
+# L006 – Toadgod Persists 
 
-# Metadata
+# Metadata 
 Date: 2024-03-19  
 Phase: Pre-Epoch | Lore Seeding  
 Tags: #Toby, #Toadgod, #Resilience, #Patience, #Lore  
@@ -37,8 +37,7 @@ To endure is to hold the keys of the future.
 
 ---
 
-
-# Universal Symbols   
+# Universal Symbols 
 ⏳ → Time is the filter  
 🧠 → Heart of conviction  
 

@@ -1,6 +1,5 @@
-# L012 – The Ditch and the Depth
-
-# Metadata
+# L012 – The Ditch and the Depth 
+# Metadata 
 Date: 2024-03-21  
 Phase: Pre-Epoch | Lore Seeding  
 Tags: #Toadgod, #ToadLore, #Scarcity, #FallenFrogs, #Decentralization  
@@ -36,8 +35,8 @@ Do not underestimate the unseen power of Lore.
 
 
 # Universal Symbols 
-⛰ →  The unfathomable heights of faith
-🐸 →  The Forsaken are Returning
+⛰ → The unfathomable heights of faith
+🐸 → The Forsaken are Returning 
 ⛓ → Scarcity realized = chains broken  
 
 # Lore Anchor  

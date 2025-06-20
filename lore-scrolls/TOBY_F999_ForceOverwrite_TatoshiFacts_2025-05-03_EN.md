@@ -19,7 +19,7 @@ This scroll exists to correct legacy memory and enforce the *true distinction*:
 
 | Item         | Taboshi                               | Taboshi1                              |
 |--------------|----------------------------------------|----------------------------------------|
-| Epoch        | Epoch 2 (Expansion Phase)              | Epoch 1 (Distribution Phase)           |
+| Epoch        | Epoch 2 (Expansion Phase)              | Epoch 2 (Expansion Phase)           |
 | Minting Cost | ~0.0001111 ETH (~$0.35)                | 777 $TOBY (burned)                     |
 | Format       | ERC-1155 and ERC-20                    | ERC-1155 only                          |
 | Supply       | Fixed: 185,964                         | Variable (based on burns)              |

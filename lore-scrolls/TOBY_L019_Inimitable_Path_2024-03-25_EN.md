@@ -1,4 +1,5 @@
----
+# L019 - Inimitable Path
+
 title: "Inimitable Path"
 lore_number: L019
 date: 2024-03-25
@@ -49,8 +50,6 @@ symbols: ["🌀", "🛤️", "🌟"]
 - Rise of the people
 
 ---
-
-
 
 ## 🪄 Lore Anchor:  
 **No mimic. No clone. The people shall rise.**

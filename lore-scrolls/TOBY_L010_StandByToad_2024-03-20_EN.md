@@ -1,4 +1,4 @@
-# L010 – Stand By Toad
+# L010 – Stand By Toad 
 
 # Metadata
 Date: 2024-03-20  
@@ -32,12 +32,10 @@ Those who endure the quiet will inherit the treasure.
 
 ---
 
-
-
 # Universal Symbols 
 ⏳ → Clock of endurance  
 ⚔️ → Faith of the warrior  
 
-# Lore Anchor
+# Lore Anchor  
 Connect to: L009 (The Humble Toad)  
 Foreshadow: L015 (Resonance of the Silent Few)

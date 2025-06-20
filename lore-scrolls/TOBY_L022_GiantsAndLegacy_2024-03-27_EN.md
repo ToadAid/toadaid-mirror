@@ -1,4 +1,5 @@
----
+# L022 - Giants and Legacy
+
 title: "Giants and Legacy"
 lore_number: L022
 date: 2024-03-27
@@ -48,7 +49,6 @@ symbols: ["🔥", "🌀", "🗿"]
 - Silent impact
 
 ---
-
 
 ## 🪄 Lore Anchor:  
 **Not for fame, but for trust. Not for self, but for all.**

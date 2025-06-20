@@ -1,4 +1,4 @@
-# L028 – Seal of Conviction
+# L028 – Seal of Conviction 
 
 # METADATA  🔍
 🌐 Chain: @base  
@@ -10,7 +10,7 @@
 
 ---
 
-# 叙事 NARRATIVE  🐸  
+# NARRATIVE  🐸  
 ## EN (Poetic Protocol)
 +780k holders → 34T airdropped → 2.5% remains  
 Seemingly small → but 10x for believers  
@@ -49,22 +49,20 @@ Possibility is infinite.
 
 ---
 
-
-
 # OPERATIONS  ⚙️  
-**EN**  
-- Snapshot: 2024-04-01 @ Block#TBD
-- Airdrop: 34 trillion to 780k holders
-- Seal: Protect cold wallets
+**EN** 
+- Snapshot: 2024-04-01 @ Block#TBD  
+- Airdrop: 34 trillion to 780k holders  
+- Seal: Protect cold wallets  
 
 ---
 
 # CRYPTIC SYMBOLS  🔣  
 | Symbol | EN Meaning |  
-|--------|------------|
-| 🐸     | Toadgang sovereignty |
+|--------|------------|  
+| 🐸     | Toadgang sovereignty |  
 | ⊃      | Contains (spiritual superset) |  
-| 🧊     | Cold storage = sealed conviction |
+| 🧊     | Cold storage = sealed conviction |  
 
 # LORE ANCHORS  ⚓  
 ← Prev: L027 (The Silent Rise of Lore)  

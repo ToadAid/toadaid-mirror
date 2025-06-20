@@ -1,8 +1,8 @@
-# L020 – Fair Birth, Lasting Legacy
+# L020 – Fair Birth, Lasting Legacy 
 
-# Metadata
+# Metadata 
 Date: 2024-03-25  
-Phase: Pre-Epoch  
+Phase: Pre-Epoch | Distribution  
 Tags: #Toadgod, #ToadLore, #Legacy, #Bushido, #Decentralization  
 KeySymbols: $TOBY, prophecy, reward, contest, bushido, coinbase  
 
@@ -61,12 +61,11 @@ To understand $TOBY: trace the effort, not the hype.
 
 ---
 
-
 # Universal Symbols 
 ⚔️ → The guardian sword from which Bushido was born  
-⛩️ → Fair sacred starting point 
+⛩️ → Fair sacred starting point  
 📜 → Historical scrolls studied by later generations  
 
-# Lore Anchor
+# Lore Anchor 
 Connect to: L018 (Prophesied Structure)  
 Foreshadow: L030 (Inheritance of Flame)  

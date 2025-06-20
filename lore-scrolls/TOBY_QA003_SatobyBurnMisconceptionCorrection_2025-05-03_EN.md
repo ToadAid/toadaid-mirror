@@ -23,7 +23,7 @@ KeySymbols: \$TOBY, 🧬, 🔥, ⏳
 
 Key facts:
 
-* 🔥 The burn-to-mint event only occurred during **Epoch 12 (Expansion Phase)**.
+* 🔥 The burn-to-mint event only occurred during **Epoch 2 (Expansion Phase)**.
 * 🧬 Each burn of 777 \$TOBY created one **Taboshi1 (ERC-1155 NFT)**.
 * ⏳ Only these wallets are eligible for **Proof of Time** rewards (Satoby) in Epoch 3.
 * 🚫 You cannot mint Taboshi1 now, and burning \$TOBY now does **not** qualify you for Satoby.

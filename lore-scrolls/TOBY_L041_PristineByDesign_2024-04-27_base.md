@@ -2,7 +2,7 @@
 
 # METADATA  🔍  
 **🌐 Chain:** @base  
-**🕰️ Epoch:** Pre-Epoch  
+**🕰️ Epoch:** Epoch 1  
 **📅 Date:** 2024-04-27  
 **🏷️ Tags:** #Toadgang, #Lore, #Decentralization, #Genesis  
 **🔢 Sacred Math:** 420T  

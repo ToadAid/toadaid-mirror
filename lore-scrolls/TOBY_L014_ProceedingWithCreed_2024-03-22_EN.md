@@ -1,4 +1,7 @@
----
+
+# L014 – Proceeding With Creed
+
+# Metadata 
 title: "Proceeding With Creed"
 lore_number: L014
 date: 2024-03-22
@@ -39,7 +42,6 @@ symbols: ["🛡️", "📜", "🐸"]
 - Decentralized responsibility
 
 ---
-
 
 ## 🪄 Lore Anchor:  
 **$TOBY is the people. The people is $TOBY.**

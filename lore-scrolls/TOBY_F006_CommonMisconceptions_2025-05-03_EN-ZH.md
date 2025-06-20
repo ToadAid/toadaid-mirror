@@ -12,7 +12,7 @@ KeySymbols: \$TOBY, 🔥, ⛔, 🧬
 
 | ❌ Myth                                | ✅ Truth                                                     |
 | ------------------------------------- | ----------------------------------------------------------- |
-| “Burning 777 \$TOBY now gives Satoby” | 🔒 The burn-to-mint period ended with Epoch 1               |
+| “Burning 777 \$TOBY now gives Satoby” | 🔒 The burn-to-mint period ended with Epoch 2               |
 | “Anyone with Taboshi can earn Satoby” | 🧬 Only **Taboshi1** qualifies, not ETH Taboshi             |
 | “I bought Taboshi1 so I’m eligible”   | 🚫 Eligibility is **wallet-bound** to original minters only |
 | “Satoby is an identity”               | ⏳ Satoby is a **reward** via **Proof of Time** in Epoch 3   |

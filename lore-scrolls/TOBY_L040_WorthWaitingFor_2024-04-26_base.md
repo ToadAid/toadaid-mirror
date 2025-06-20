@@ -2,7 +2,7 @@
 
 # METADATA  🔍  
 **🌐 Chain:** @base  
-**🕰️ Epoch:** Pre-Epoch  
+**🕰️ Epoch:** Epoch 1  
 **📅 Date:** 2024-04-26  
 **🏷️ Tags:** #Toadgang, #Lore, #Patience, #Taboshi  
 **🔢 Sacred Math:** 7, 777, 777777777  

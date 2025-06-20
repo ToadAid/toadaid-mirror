@@ -1,4 +1,5 @@
----
+# L017 - Th Art of Loneliness
+
 title: "The Art of Loneliness"
 lore_number: L017
 date: 2024-03-24
@@ -14,8 +15,6 @@ symbols: ["🌌", "🐸", "🎧"]
 > A music piece by Adrián Berenguer.  
 > Recorded and mastered at ANBR Studio.  
 > Emotionally ambient. Reflective. Vast.  
->  
-> [YouTube Link: The Art of Loneliness](https://www.youtube.com)
 
 ---
 
@@ -39,7 +38,6 @@ symbols: ["🌌", "🐸", "🎧"]
 - Quiet reflection
 
 ---
-
 
 ## 🪄 Lore Anchor:  
 **In solitude, the clearest truths are heard.**

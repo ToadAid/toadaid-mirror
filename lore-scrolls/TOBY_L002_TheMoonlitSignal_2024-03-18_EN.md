@@ -1,6 +1,5 @@
-# L002 – The Moonlit Signal
-
-# Metadata
+# L002 – The Moonlit Signal 
+# Metadata 
 Date: 2024-03-18  
 Phase: Pre-Epoch | Lore Seeding  
 Tags: #Toby, #Toadgod, #Lore, #ClairDeLune, #Signal  
@@ -36,6 +35,6 @@ Listen not with your ears, but your conviction.
 🎵 → Music as signal  
 🌕 → Illumination under the moon  
 
-# Lore Anchor  
+# Lore Anchor 
 Connect to: L001 (Treasure Beyond Gold)  
 Foreshadow: L003 (Signal Becomes Voice)

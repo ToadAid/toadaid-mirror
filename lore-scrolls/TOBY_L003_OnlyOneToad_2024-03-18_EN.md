@@ -1,5 +1,4 @@
 # L003 – Only One Toad
-
 # Metadata
 Date: 2024-03-18  
 Phase: Pre-Epoch | Declaration  
@@ -31,9 +30,9 @@ Don't follow many. Find the one.
 ---
 
 
-# Universal Symbols 
+# Universal Symbols
 🐸 → Singular avatar  
-🌍 →  Planetary identity origin  
+🌍 → Planetary identity origin  
 
 # Lore Anchor 
 Connect to: L002 (Clair de Lune Signal)  

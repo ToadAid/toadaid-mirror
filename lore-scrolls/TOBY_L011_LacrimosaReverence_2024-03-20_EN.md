@@ -1,6 +1,6 @@
-# L011 – Lacrimosa Reverence
+# L011 – Lacrimosa Reverence 
 
-# Metadata
+# Metadata 
 Date: 2024-03-20  
 Phase: Pre-Epoch | Cultural Transmission  
 Tags: #Toby, #Toadgod, #Lore, #Mozart, #Lacrimosa  
@@ -33,8 +33,6 @@ $TOBY is built not only on tech, but on **timeless resonance**.
 Reflect before the leap. The toad listens, even when it does not speak.  
 
 ---
-
-
 
 # Universal Symbols 
 🎼 → Eternal tones  

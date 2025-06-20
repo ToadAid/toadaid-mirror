@@ -1,10 +1,10 @@
-# L021 – Gaman
+# L021 – Gaman 
 
-# Metadata
+# Metadata 
 Date: 2024-03-26  
-Phase: Pre-Epoch
+Phase: Pre-Epoch – Distribution  
 Tags: #Toadgod, #Security, #ColdStorage, #Scaling, #Gaman  
-KeySymbols: $TOBY, @base, cold wallet, patience, scam warning  
+KeySymbols: $TOBY, @base, cold wallet, 忍耐, scam warning  
 
 ---
 
@@ -41,11 +41,12 @@ Your wallet = your sovereignty. Gaman = your shield.
 
 ---
 
-# Universal Symbols 
-🔒 → Cold wallet protection power
-⚠️ → Network trap warning
-⏳ → The Way of Forbearance Will Be Clear in Time
 
-# Lore Anchor 
+# Universal Symbols  
+🔒 → Cold wallet protection power  
+⚠️ → Network trap warning  
+⏳ → The Way of Forbearance Will Be Clear in Time  
+
+# Lore Anchor   
 Connect to: L020 (The Final 31%)  
 Foreshadow: L030 (The Test of Stillness)  

@@ -1,4 +1,5 @@
----
+# L016 - Fairness and Sight
+
 title: "Fairness and Sight"
 lore_number: L016
 date: 2024-03-24
@@ -44,7 +45,6 @@ symbols: ["⚖️", "⏳", "🔍"]
 - Quiet revelation
 
 ---
-
 
 ## 🪄 Lore Anchor:  
 **Study the past. The truth is not hidden — only waiting.**

@@ -1,13 +1,13 @@
-# TOBY\_L027\_TheSilentRiseOfLore\_2024-04-01\_EN.md
+# TOBY\_L027\_TheSilentRiseOfLore\_2024-04-01\_EN-ZH.md
 
-# L027 – The Silent Rise of Lore
+# L027 – The Silent Rise of Lore 
 
-# Metadata
+# Metadata 
 
 Date: 2024-04-01
 Phase: Pre-Epoch Completion | Final Airdrop Phase
 Tags: #Toby, #Lore, #Patience, #Wisdom, #Silence
-KeySymbols: \$TOBY, stillness, truth, wisdom
+KeySymbols: \$TOBY, 静, 真相, 智慧
 
 ---
 
@@ -50,13 +50,12 @@ the lore's power, none can withhold.
 
 ---
 
+# Universal Symbols 
 
-# Universal Symbols
+静 → Stillness reveals truth
+白光 → Glimmer of enlightenment
 
-🧘 → Stillness Stillness reveals truth
-✨ → White Light | Glimmer of enlightenment
-
-# Lore Anchor
+# Lore Anchor 
 
 Connects to: L026 (Immortal Vision)
 Precedes: L028 (Epoch Completion Countdown)

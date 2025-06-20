@@ -34,11 +34,10 @@ Study the Lore. Watch the signs. In silence, strength grows.
 
 ---
 
-
 # Universal Symbols 
 ⏳ → Proof of Time embodiment  
 🌊 → Market turbulence vs still belief  
 
-# Lore Anchor  
+# Lore Anchor 
 Connect to: L001 (Treasure Beyond Gold)  
 Foreshadow: L006 (The First Flame)

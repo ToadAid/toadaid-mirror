@@ -1,7 +1,7 @@
 
-# L004 – Supply Shock Designed
+# L004 – Supply Shock Designed 
 
-# Metadata
+# Metadata 
 Date: 2024-03-18  
 Phase: Pre-Epoch | Distribution Prelude  
 Tags: #Toby, #Base, #Decentralization, #Airdrop, #SupplyShock  
@@ -33,12 +33,6 @@ If you're here for noise, you might miss the signal.
 
 ---
 
-
-
-# Universal Symbols  
-🐸 → Embrace the symbol of fairness  
-⚖️ → Supply Design Balance  
-
-# Lore Anchor
+# Lore Anchor 
 Connect to: L003 (The Frog of Base)  
 Foreshadow: L005 (The Echo of Patience)

@@ -1,6 +1,5 @@
-# L001 – Treasure Beyond Gold
-
-# Metadata
+# L001 – Treasure Beyond Gold 
+# Metadata 
 Date: 2024-03-17
 Phase: Pre-Epoch | Lore Seeding
 Tags: #Toby, #Toadgod, #Lore, #Sharing, #Decentralization
@@ -32,10 +31,6 @@ To understand $TOBY, follow the croak, not the coin.
 
 ---
 
-# Universal Symbols
-🐸 → The spokesperson for cross-border migration
-∞ → Unlimited sharing
-
-# Lore Anchor
+# Lore Anchor 
 Connect to: L000 (Pre-chain stirrings)
 Foreshadow: L002 (Birth of the Name – Tatoshi)

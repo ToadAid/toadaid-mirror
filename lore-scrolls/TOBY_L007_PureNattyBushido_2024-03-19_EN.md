@@ -36,11 +36,10 @@ Study the Toad Lore. Walk the path. Bushido.
 
 ---
 
-
 # Universal Symbols 
-武士道 → Guardianship of Faith and Discipline → Boshido
-420T → Sacred Total Design 
-@base → Fair Airdrop Chain 
+武士道 → Boshido  
+420T → Toby Total Supply  
+@base → Base Chain  
 
 # Lore Anchor  
 Connect to: L006 (Persistence Through Time)  

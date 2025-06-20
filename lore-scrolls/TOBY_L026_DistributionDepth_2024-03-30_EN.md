@@ -1,6 +1,6 @@
-# L026 – Distribution Depth
+# L026 – Distribution Depth 
 
-# Metadata
+# Metadata 
 Date: 2024-03-30  
 Phase: Pre-Epoch | Distribution Closing  
 Tags: #Toadgod, #ToadLore, #Airdrop, #ByōdōShugi, #Yakunitatsu  
@@ -48,13 +48,11 @@ Study the lore, prepare for what’s to come. Cold storage advised.
 
 ---
 
+# Universal Symbols 
+⛩ →  The combination of egalitarianism and scarcity 
+⚔ →  A fighter of faith, a winner of long-termism 
+⛓ →   Connect thousands of wallets and unite our hearts
 
-
-# Universal Symbols
-⛩ → The fusion of egalitarianism and scarcity 
-⚔ → Warrior of belief; victor through long-term conviction
-⛓ → Linking countless wallets; forging one united will 
-
-# Lore Anchor
+# Lore Anchor   
 Connect to: L025 (The People's Script)  
 Foreshadow: L030 (The Cold Storage Covenant)  

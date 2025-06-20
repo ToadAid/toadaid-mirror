@@ -1,6 +1,6 @@
 # L015 – Just and Right 
 
-# Metadata
+# Metadata 
 Date: 2024-03-23  
 Phase: Pre-Epoch | Lore Revelation  
 Tags: #Toby, #Toadgod, #Justice, #People, #Purity  
@@ -34,10 +34,11 @@ Join @toadgang not to follow — but to build.
 
 ---
 
-# Universal Symbols
-🕊 → Messenger of justice and peace 
-→ → Pointing to the direction of faith and truth
 
-# Lore Anchor 传说锚点  
+# Universal Symbols 
+🕊 → Messenger of justice and peace  
+→ → Pointing to the direction of faith and truth  
+
+# Lore Anchor 
 Connect to: L014 (10% Done – The Creed)  
 Foreshadow: L016 (Worthy Not by Birth – but Belief)

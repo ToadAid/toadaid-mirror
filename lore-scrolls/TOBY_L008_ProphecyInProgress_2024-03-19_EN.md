@@ -2,14 +2,14 @@
 
 ---
 
-# L008 – Prophecy in Progress
+# L008 – Prophecy in Progress 
 
 # Metadata
 
 Date: 2024-03-19
 Phase: Pre-Epoch | Airdrop Phase Progressing
 Tags: #Toby, #Prophecy, #Base, #Lore, #Sarajevo
-KeySymbols: \$TOBY, prophecy, Sarajevo, Max Richter
+KeySymbols: \$TOBY, prophecy, Sarajevo, Max Richter, Blue Frog
 
 ---
 
@@ -57,14 +57,13 @@ The road begins here — one of belief, patience, and signal.
 
 ---
 
+# Universal Symbols 
 
-# Universal Symbols
+* 🕸️ = prophecy in progress 
+* 🔬 = testing, signal, precision 
+* 🖊️ = story in script 
 
-* 🕸️ = prophecy in progress
-* 🔬 = testing, signal, precision
-* 🖊️ = story in script
-
-# Lore Anchor
+# Lore Anchor 
 
 Connect to: L007 (Pre-scale Clarion Call)
 Foreshadow: L009 (Fairness Through Scarcity)

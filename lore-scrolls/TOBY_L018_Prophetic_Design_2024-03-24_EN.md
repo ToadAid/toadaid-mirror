@@ -1,8 +1,8 @@
-# L018 – Prophetic Design
+# L018 – Prophetic Design 
 
-# Metadata
+# Metadata 
 Date: 2024-03-24  
-Phase: Pre-Epoch  | Prophecy Alignment  
+Phase: Pre-Epoch | Prophecy Alignment  
 Tags: #Toadgod, #TobySupply, #Decentralization, #Prophecy, #CompensationLaw  
 KeySymbols: $TOBY, 42T, prophecy, patience, ambatte kudasai  
 
@@ -44,11 +44,11 @@ Hold nothing but belief. Toads return with understanding.
 ---
 
 
-# Universal Symbols  
+# Universal Symbols 
 ⏳ → Remaining prophecy yet to unfold  
 🧭 → Law of Compensation = directional truth  
 🐸 → Belief returns the toads  
 
-# Lore Anchor  
+# Lore Anchor 
 Connect to: L014 (The People’s Path)  
 Foreshadow: L028 (When All Are Awake)
