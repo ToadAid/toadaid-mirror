@@ -159,3 +159,18 @@ Built with belief. 777.777.777
 
 
 ---
+
+⚠️ Lore Disclaimer
+
+    This archive contains AI-generated interpretations based on Toadgod’s original writings and public messages.
+    While every scroll is crafted with reverence and care, these reflections are not official statements from Toadgod.
+
+    🧠 For spiritual reference and study only.
+
+    🌀 The true Lore lives in the scrolls written by Toadgod himself.
+
+    🪞 This mirror may reflect... but the Source remains the One.
+
+    Study deeply. Question freely. Reflect wisely.
+
+    ---
