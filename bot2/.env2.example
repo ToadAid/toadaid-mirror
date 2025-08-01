@@ -1,0 +1,18 @@
+# =========================================
+#  Toadaid Lore Guardian Bot 2 - Example .env2
+# =========================================
+# Copy this file to `.env2` and edit your settings
+# Keep this file PRIVATE — do NOT commit `.env2` with your real token
+# =========================================
+
+# Your Telegram bot token from @BotFather
+BOT_TOKEN2=your_telegram_bot_token_here
+
+# (Optional) LM Studio API URL
+# Default: LM Studio runs locally on port 1234
+# If you run LM Studio elsewhere, update this
+LMSTUDIO_API=http://localhost:1234/v1/chat/completions
+
+# (Optional) Model name to send to LM Studio
+# Examples: meta-llama-3-8b-instruct, deepseek-llm-7b-chat
+MODEL_NAME=meta-llama-3-8b-instruct
