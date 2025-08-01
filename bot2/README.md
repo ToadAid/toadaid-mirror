@@ -1,6 +1,6 @@
 # 🐸 Toadaid Lore Guardian Bot 2
 
-A Telegram bot for the ToadAid community.  
+A Telegram bot for the Toby community.  
 Retrieves Tobyworld lore from a FAISS index, maintains user memory, and responds using LM Studio.
 
 ## 🚀 Features
