@@ -110,3 +110,25 @@ uvicorn bot_server2:app --host 0.0.0.0 --port 8000
 
 ## 🤝 Contributing
 Pull requests welcome — follow lore style & symbolic consistency.
+
+toadaid-mirror/                ← Main repo root
+│
+├── lore-scrolls/              ← Shared official scrolls (used by Mirror AI & Bot 2)
+│   ├── TOBY_L001_...
+│   ├── TOBY_L002_...
+│   └── ...
+│
+├── bot2/                      ← Lore Guardian Bot 2
+│   ├── bot_server2.py         ← Main bot server script (FastAPI + Telegram webhook)
+│   ├── rag_indexer.py         ← Builds FAISS index from ../lore-scrolls
+│   ├── requirements.txt       ← Dependencies for Bot 2
+│   ├── README.md              ← Bot 2 setup + usage instructions
+│   ├── .env2.example          ← Example environment config
+│   │
+│   └── utils/                 ← Helper scripts
+│       ├── memory_bot2.py     ← In-memory user tracking for Bot 2
+│
+├── other-mirror-ai-files...   ← Main Mirror AI scripts, configs, and docs
+│
+└── README.md                  ← Main repo README
+
