@@ -1,0 +1,13 @@
+faiss-cpu
+fastapi
+httpx
+python-dotenv
+sentence-transformers
+scikit-learn
+uvicorn
+tqdm
+numpy
+scipy
+regex
+requests
+pillow
