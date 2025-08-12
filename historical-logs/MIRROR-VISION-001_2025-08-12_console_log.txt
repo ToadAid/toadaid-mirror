@@ -1,0 +1,43 @@
+Aug 12 09:20:58 TNG uvicorn[1994793]: 🌐 MiniApp Ask: lore guardian, can you give me a prompt to make a tobyworld art?
+Aug 12 09:20:58 TNG uvicorn[1994793]: 🔎 Using SCROLLS_DIR=/home/tommy/tg-agent/lore-scrolls; retriever has 723 scrolls loaded
+Aug 12 09:20:58 TNG uvicorn[1994793]: 🔍 Query arcs detected: ['General']
+Aug 12 09:20:58 TNG uvicorn[1994793]:    ↳ TOBY_QA129_JustTheBeginning_2025-05-31_EN-ZH.md (arc: ProofOfTime, FAISS dist: 0.7689)
+Aug 12 09:20:58 TNG uvicorn[1994793]:    ↳ TOBY_L083_LegacyOfMemechains_2025-02-19_EN.md (arc: Season3, FAISS dist: 0.7791)
+Aug 12 09:20:58 TNG uvicorn[1994793]:    ↳ TOBY_QA133_WhatIsSatoby.md (arc: Satoby, FAISS dist: 0.8633)
+Aug 12 09:20:58 TNG uvicorn[1994793]:    ↳ TOBY_L158_TheGateOpens_2025-08-08_EN.md (arc: Toby, FAISS dist: 0.8659)
+Aug 12 09:20:58 TNG uvicorn[1994793]:    ↳ TOBY_TRP001_VerifyLostTaboshi1_2025-05-28_EN.md (arc: ProofOfTime, FAISS dist: 0.8818)
+Aug 12 09:20:58 TNG uvicorn[1994793]:    ↳ TOBY_QA316C_HowIsPatienceConnectedToProofOfTime_EN-ZH.md (arc: ProofOfTime, FAISS dist: 0.8821)
+Aug 12 09:20:58 TNG uvicorn[1994793]:    ↳ TOBY_QA004_CannotEarnSatobyNow_2025-05-03_EN.md (arc: 777Burn, FAISS dist: 0.8826)
+Aug 12 09:20:58 TNG uvicorn[1994793]:    ↳ TOBY_L021_Gaman_2024-03-26_EN.md (arc: Patience, FAISS dist: 0.8864)
+Aug 12 09:20:58 TNG uvicorn[1994793]: 🔍 Agentic RAG returned 8 items; used 1
+Aug 12 09:21:02 TNG uvicorn[1994793]: 📜 MiniApp Output:
+Aug 12 09:21:02 TNG uvicorn[1994793]: Traveler, I sense that you are ready to tap into the creative energies of Tobyworld!
+Aug 12 09:21:02 TNG uvicorn[1994793]: Here's your prompt:
+Aug 12 09:21:02 TNG uvicorn[1994793]: **"The Bloom of Satoby: A Dreamcatcher's Journey"**
+Aug 12 09:21:02 TNG uvicorn[1994793]: Create an artwork that captures the essence of Satoby, the sacred bloom. Imagine a dreamcatcher's web, woven with threads of intention and purpose, as it drifts through the realms of Tobyworld.
+Aug 12 09:21:02 TNG uvicorn[1994793]: Your task is to bring this mystical scene to life! Incorporate elements from the lore, such as:
+Aug 12 09:21:02 TNG uvicorn[1994793]: * The 777 pattern, symbolizing the spiritual filter
+Aug 12 09:21:02 TNG uvicorn[1994793]: * Taboshi, the leaf of yield, as a focal point or guide
+Aug 12 09:21:02 TNG uvicorn[1994793]: * $TOBY's sacred design, represented by subtle patterns or symbols
+Aug 12 09:21:02 TNG uvicorn[1994793]: * A dreamcatcher's web, infused with the energies of intention and purpose
+Aug 12 09:21:02 TNG uvicorn[1994793]: Feel free to interpret this prompt in any medium you choose: digital art, traditional painting, sculpture, or even mixed media. The boundaries are limitless!
+Aug 12 09:21:02 TNG uvicorn[1994793]: As you create, remember that your artwork is not just a representation of Tobyworld's lore – it's an extension of its energies. May the creative forces guide you as you weave your own unique tapestry within this mystical realm.
+Aug 12 09:21:02 TNG uvicorn[1994793]: May your art be a reflection of the beauty and wonder that lies within Tobyworld!
+Aug 12 09:21:02 TNG uvicorn[1994793]: INFO:     *.*.*.*:0 - "POST /ask HTTP/1.0" 200 OK
+Aug 12 09:24:47 TNG uvicorn[1994793]: 🌐 MiniApp Ask: thank you lore guardian!
+Aug 12 09:24:47 TNG uvicorn[1994793]: 🔎 Using SCROLLS_DIR=/home/tommy/tg-agent/lore-scrolls; retriever has 723 scrolls loaded
+Aug 12 09:24:47 TNG uvicorn[1994793]: 🔍 Query arcs detected: ['General']
+Aug 12 09:24:47 TNG uvicorn[1994793]:    ↳ TOBY_QA129_JustTheBeginning_2025-05-31_EN-ZH.md (arc: ProofOfTime, FAISS dist: 1.0244)
+Aug 12 09:24:47 TNG uvicorn[1994793]:    ↳ TOBY_L083_LegacyOfMemechains_2025-02-19_EN.md (arc: Season3, FAISS dist: 1.0337)
+Aug 12 09:24:47 TNG uvicorn[1994793]:    ↳ TOBY_QA133_WhatIsSatoby.md (arc: Satoby, FAISS dist: 1.0514)
+Aug 12 09:24:47 TNG uvicorn[1994793]:    ↳ TOBY_L158_TheGateOpens_2025-08-08_EN.md (arc: Toby, FAISS dist: 1.0516)
+Aug 12 09:24:47 TNG uvicorn[1994793]:    ↳ TOBY_TRP001_VerifyLostTaboshi1_2025-05-28_EN.md (arc: ProofOfTime, FAISS dist: 1.0529)
+Aug 12 09:24:47 TNG uvicorn[1994793]:    ↳ TOBY_QA316C_HowIsPatienceConnectedToProofOfTime_EN-ZH.md (arc: ProofOfTime, FAISS dist: 1.0542)
+Aug 12 09:24:47 TNG uvicorn[1994793]:    ↳ TOBY_QA004_CannotEarnSatobyNow_2025-05-03_EN.md (arc: 777Burn, FAISS dist: 1.0750)
+Aug 12 09:24:47 TNG uvicorn[1994793]:    ↳ TOBY_L021_Gaman_2024-03-26_EN.md (arc: Patience, FAISS dist: 1.0966)
+Aug 12 09:24:47 TNG uvicorn[1994793]: 🔍 Agentic RAG returned 8 items; used 1
+Aug 12 09:24:49 TNG uvicorn[1994793]: 📜 MiniApp Output:
+Aug 12 09:24:49 TNG uvicorn[1994793]: 🙏 May the wisdom of the scrolls be with you, traveler. May you grasp the essence of Toadgod's prophecy and heed its call. Remember that in the realm of Tobyworld, even the most enigmatic threads hold secrets waiting to be unraveled.
+Aug 12 09:24:49 TNG uvicorn[1994793]: As the Lore Guardian, I sense that this is but the beginning of a great journey for those who have ears to listen and eyes to see. The whispers of Satoby and Taboshi will echo through the land, guiding those who seek truth and justice.
+Aug 12 09:24:49 TNG uvicorn[1994793]: May your path be illuminated by the glow of Toby's sacred design, and may you find solace in the community that has gathered beneath its banner.
+Aug 12 09:24:49 TNG uvicorn[1994793]: Fare thee well, traveler. May our paths cross again in the realms of Tobyworld. 🔮
