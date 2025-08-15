@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+python-dotenv
+httpx
+sentence-transformers
+faiss-cpu
+pydantic
