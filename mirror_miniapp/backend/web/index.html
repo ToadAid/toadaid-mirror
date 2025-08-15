@@ -1,0 +1,301 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Toby Mirror · Lore Guardian</title>
+  <link rel="icon" type="image/x-icon" href="toadaid.ico?v=2">
+  <link rel="shortcut icon" href="toadaid.ico?v=2">
+
+  <style>
+    :root{
+      --bg:#0b1020;
+      --panel:#0f172a;
+      --text:#e5e7eb;
+      --muted:#9aa5b1;
+      --border:#1f2937;
+      --brand:#22d3ee;
+      --brand-2:#6366f1;
+      --accent:#16a34a;
+      --shadow:0 10px 40px rgba(2,6,23,.35);
+      --radius:16px;
+      --bubble-user:#0c1530;
+      --bubble-assist:#0c1426;
+      --input:#0a1222;
+      --outline:rgba(34,211,238,.18);
+      --chip-bg:#0c1426;
+      --button:#0c1428;
+    }
+    [data-theme="light"]{
+      --bg:#f4f6f2;
+      --panel:#ffffff;
+      --text:#0d1b0f;
+      --muted:#627a6a;
+      --border:#e1eadf;
+      --brand:#1f7a3a;
+      --brand-2:#2e7d32;
+      --accent:#2e7d32;
+      --shadow:0 18px 48px rgba(11,40,16,.12);
+      --bubble-user:#eef6ee;
+      --bubble-assist:#f7fbf6;
+      --input:#fbfdf9;
+      --outline:rgba(46,125,50,.18);
+      --chip-bg:#f2faf1;
+      --button:#f2faf1;
+    }
+
+    *{box-sizing:border-box}
+    html,body{height:100%}
+    body{margin:0;background:var(--bg);color:var(--text);font-family:ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,Arial,sans-serif;}
+    .grid{display:grid;grid-template-rows:auto 1fr auto;min-height:100vh}
+
+    header{
+      position:sticky;top:0;z-index:2;border-bottom:1px solid var(--border);
+      background:linear-gradient(90deg,rgba(34,211,238,.10),rgba(99,102,241,.10),transparent 40%), rgba(10,15,30,.55);
+      backdrop-filter:saturate(140%) blur(8px);
+    }
+    [data-theme="light"] header{
+      background:linear-gradient(0deg, #2e7d32, #396d38);
+      border-bottom:none;color:#fff;
+      --chip-bg: rgba(255,255,255,.15);
+    }
+
+    .wrap{max-width:1100px;margin:0 auto;padding:12px 20px}
+    .brand{display:flex;align-items:center;gap:12px}
+    .logo{width:32px;height:32px;border-radius:50%;
+      background:conic-gradient(from 200deg,var(--brand),var(--brand-2));
+      box-shadow:0 0 0 3px rgba(34,211,238,.12),0 10px 24px rgba(99,102,241,.18)}
+    .title{font-weight:700;letter-spacing:.2px}
+
+    .chips{display:flex;gap:8px;flex-wrap:wrap;margin-left:12px}
+    .chip{border:1px solid var(--border);background:var(--chip-bg);padding:6px 10px;border-radius:999px;font-size:12px}
+    [data-theme="light"] .chip{border-color:rgba(255,255,255,.25);color:#e9fff0}
+
+    .tools{display:flex;gap:8px;align-items:center;margin-left:auto}
+    .btn{
+      appearance:none;border:1px solid var(--border);background:var(--button);color:var(--text);
+      border-radius:12px;padding:8px 12px;cursor:pointer;transition:transform .05s ease,border-color .2s ease, background .2s ease;
+    }
+    .btn:hover{transform:translateY(-1px);border-color:#2a3a56}
+    .btn.primary{background:linear-gradient(135deg, rgba(34,211,238,.18), rgba(99,102,241,.18));}
+    [data-theme="light"] .btn{border-color:#d9e7d8;color:#15401f}
+    [data-theme="light"] .btn.primary{background:#1f7a3a;color:#fff;border:none;box-shadow:0 8px 22px rgba(34,91,45,.25)}
+
+    main{max-width:1100px;margin:16px auto;padding:0 20px}
+    .panel{background:linear-gradient(180deg, rgba(255,255,255,.03), rgba(255,255,255,.02));border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow);padding:12px}
+    [data-theme="light"] .panel{background:var(--panel)}
+
+    .chat{padding:10px;display:flex;flex-direction:column;gap:12px;max-height:62vh;overflow:auto}
+    .bubble{max-width:85%;padding:12px 14px;border-radius:14px;border:1px solid var(--border);white-space:pre-wrap}
+    .user{margin-left:auto;background:var(--bubble-user)}
+    .assist{margin-right:auto;background:var(--bubble-assist)}
+    [data-theme="light"] .bubble{border-color:#e1eadf}
+
+    .composer{display:flex;gap:12px;margin-top:8px}
+    textarea{
+      resize:vertical;min-height:110px;width:100%;background:var(--input);color:var(--text);
+      border:1px solid var(--border);border-radius:12px;padding:12px 14px;outline:none;
+      box-shadow:0 0 0 0 var(--outline);transition:box-shadow .2s ease,border-color .2s ease;
+    }
+    textarea:focus{border-color:#2b3a55;box-shadow:0 0 0 2px var(--outline)}
+    [data-theme="light"] textarea{border-color:#d9e7d8}
+
+    .footer{opacity:.8;text-align:center;color:var(--muted);padding:10px}
+    .sr{border-radius:50%;width:34px;height:34px;display:inline-grid;place-items:center;border:1px solid var(--border);cursor:pointer}
+    .sr:hover{transform:translateY(-1px)}
+
+    .modal{position:fixed;inset:0;background:rgba(0,0,0,.45);display:none;align-items:center;justify-content:center;padding:20px}
+    .modal .card{background:var(--panel);border:1px solid var(--border);border-radius:14px;padding:16px;max-width:520px;width:100%;box-shadow:var(--shadow);color:var(--text)}
+    .row{display:flex;gap:8px;align-items:center}
+    .modal input{width:100%;padding:10px;border-radius:10px;border:1px solid var(--border);background:var(--input);color:var(--text)}
+    .modal .actions{display:flex;gap:10px;justify-content:flex-end;margin-top:10px}
+    .hidden{display:none}
+  </style>
+</head>
+<body>
+<div class="grid" id="root">
+  <header>
+    <div class="wrap">
+      <div style="display:flex;align-items:center;gap:12px">
+        <div class="brand">
+          <img src="/ui/toadaid.ico" alt="Toby Mirror Logo" style="width:32px;height:32px;border-radius:50%">
+          <div>
+            <div class="title">Toby Mirror</div>
+            <div style="font-size:12px;color:var(--muted)">Agentic RAG mini-app · <span id="apiLabel">auto</span></div>
+          </div>
+        </div>
+
+        <div class="chips">
+          <div class="chip" id="health">health: …</div>
+          <div class="chip" id="queue">queue: 0</div>
+          <div class="chip" id="threads">threads: 0</div>
+          <div class="chip" id="scrolls">scrolls: …</div>
+        </div>
+
+        <div class="tools">
+          <button class="btn" id="reload">Reload RAG</button>
+          <button class="btn" id="refresh">Refresh</button>
+          <button class="sr" id="themeBtn" title="Toggle theme">🌙</button>
+          <button class="btn" id="settings">⚙️ Settings</button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="panel">
+      <div class="chat" id="chat">
+        <div class="bubble assist">Welcome to Tobyworld. Ask me something, or press <b>Shift+Enter</b> for a new line and <b>Enter</b> to send.</div>
+      </div>
+      <div class="composer">
+        <textarea id="q" placeholder="Ask the Lore Guardian…"></textarea>
+        <button class="btn primary" id="send">Send</button>
+      </div>
+      <div class="muted" style="margin-top:6px">API: <code id="api"></code></div>
+    </section>
+  </main>
+
+  <footer class="footer">Developed by ToadAid</footer>
+</div>
+
+<!-- Settings Modal -->
+<div class="modal" id="modal">
+  <div class="card">
+    <h3 style="margin:0 0 8px">Settings</h3>
+    <div class="row">
+      <label style="width:120px">API Base</label>
+      <input id="apiInput" placeholder="e.g. http://127.0.0.1:777" />
+    </div>
+    <div class="row" style="margin-top:8px">
+      <label style="width:120px">User ID</label>
+      <input id="userInput" placeholder="miniapp_user" />
+    </div>
+    <div class="actions">
+      <button class="btn" id="cancelBtn">Cancel</button>
+      <button class="btn primary" id="saveBtn">Save</button>
+    </div>
+    <div class="muted" style="margin-top:8px">Tip: leave blank to use the current origin.</div>
+  </div>
+</div>
+
+<script>
+  const $ = (s)=>document.querySelector(s);
+  const defaultApi = location.origin;
+  const store = {
+    get api(){ return localStorage.getItem("toby.api") || ""; },
+    set api(v){ localStorage.setItem("toby.api", v || ""); },
+    get user(){ return localStorage.getItem("toby.user") || "miniapp_user"; },
+    set user(v){ localStorage.setItem("toby.user", v || "miniapp_user"); },
+    get theme(){ return localStorage.getItem("toby.theme"); },
+    set theme(v){ localStorage.setItem("toby.theme", v); }
+  };
+
+  function apiBase(){ return store.api || defaultApi; }
+  $("#api").textContent = apiBase();
+  $("#apiLabel").textContent = store.api ? "custom" : "auto";
+
+  // Theme
+  const prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+  (function applyTheme(){
+    const t = store.theme || (prefersDark ? "dark" : "light");
+    document.documentElement.setAttribute("data-theme", t);
+    $("#themeBtn").textContent = t === "light" ? "🌙" : "☀️";
+  })();
+  $("#themeBtn").onclick = ()=>{
+    const cur = document.documentElement.getAttribute("data-theme") || "dark";
+    const next = cur === "dark" ? "light" : "dark";
+    document.documentElement.setAttribute("data-theme", next);
+    store.theme = next;
+    $("#themeBtn").textContent = next === "light" ? "🌙" : "☀️";
+  };
+
+  // Modal
+  function openModal(){
+    $("#apiInput").value = store.api || "";
+    $("#userInput").value = store.user || "miniapp_user";
+    $("#modal").style.display = "flex";
+    $("#apiInput").focus();
+  }
+  function closeModal(){ $("#modal").style.display = "none"; }
+  $("#settings").onclick = openModal;
+  $("#cancelBtn").onclick = closeModal;
+  $("#saveBtn").onclick = ()=>{
+    store.api = $("#apiInput").value.trim();
+    store.user = $("#userInput").value.trim() || "miniapp_user";
+    $("#api").textContent = apiBase();
+    $("#apiLabel").textContent = store.api ? "custom" : "auto";
+    closeModal();
+  };
+  window.addEventListener("keydown", (e)=>{ if(e.key==="Escape") closeModal(); });
+
+  // Chat
+  function addBubble(role, text){
+    const el = document.createElement("div");
+    el.className = "bubble " + (role === "user" ? "user" : "assist");
+    el.textContent = text;
+    $("#chat").appendChild(el);
+    $("#chat").scrollTop = $("#chat").scrollHeight;
+  }
+
+  async function refreshHealth(){
+    try{
+      const r = await fetch(apiBase() + "/healthz");
+      const j = await r.json();
+      $("#health").textContent = "health: " + (j.ok !== false ? "ok" : "issues");
+      $("#queue").textContent = "queue: " + (j.queue ?? 0);
+      $("#threads").textContent = "threads: " + (j.queue ?? 0); // using queue as placeholder if threads not tracked
+      $("#scrolls").textContent = "scrolls: " + (j.scrolls_loaded ?? "—");
+    }catch{
+      $("#health").textContent = "health: offline";
+    }
+  }
+  refreshHealth();
+
+  async function send(){
+    const q = $("#q").value.trim();
+    if(!q) return;
+    addBubble("user", q);
+    $("#q").value = "";
+
+    const btn=$("#send"); btn.disabled = true; btn.textContent = "Thinking…";
+    try{
+      const r = await fetch(apiBase() + "/ask", {
+        method:"POST",
+        headers:{"Content-Type":"application/json"},
+        body: JSON.stringify({question:q, user: store.user})
+      });
+      const j = await r.json();
+      addBubble("assist", j.answer || j.error || "No answer");
+    }catch(e){
+      addBubble("assist", "Request failed: " + e);
+    }finally{
+      btn.disabled=false; btn.textContent = "Send";
+      refreshHealth();
+    }
+  }
+
+  $("#send").onclick = send;
+  $("#q").addEventListener("keydown", (e)=>{
+    if(e.key === "Enter" && !e.shiftKey){
+      e.preventDefault();
+      send();
+    }
+  });
+
+  $("#reload").onclick = async ()=>{
+    $("#reload").disabled = true;
+    try{
+      const r = await fetch(apiBase() + "/reload", {method:"POST"});
+      const j = await r.json();
+      addBubble("assist", (j.status || "ok") + ": " + (j.message || "reloaded"));
+    }catch(e){
+      addBubble("assist", "Reload failed: " + e);
+    }finally{
+      $("#reload").disabled = false;
+      refreshHealth();
+    }
+  };
+  $("#refresh").onclick = refreshHealth;
+</script>
+</body>
+</html>
