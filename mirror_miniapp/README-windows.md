@@ -19,6 +19,10 @@ Requires **LM Studio** running locally to serve the AI model.
 - Extract the `.zip` file.
 - Run `Setup_Tobyworld Mirror_1.0.0.0.exe` and follow the installer steps.
 
+- ## 3. Download the Scrolls
+- Download → [**Toadgod Scrolls (PDF)**](https://drive.google.com/file/d/1RvhpokWJbFQgVBx6FoTPQF3A2_lgtash/view?usp=drive_link)
+- Open on your device or print to study offline.
+
 
 ---
 
