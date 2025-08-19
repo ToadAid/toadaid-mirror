@@ -15,9 +15,10 @@ Requires **LM Studio** running locally to serve the AI model.
 ---
 
 ## 2. Install Tobyworld Mirror
-- Download → [[Setup Tobyworld Mirror 1.0.0.0.zip](./Setup_Tobyworld%20Mirror_1.0.0.0.zip)](https://t.co/VV0AgLRiBz)
+- Download → [**Windows_Tobyworld Mirror 1.0.0.0.zip**](https://drive.google.com/file/d/1mA7_YvpJMGpXySZY-O_0Ad8Ot50kfypA/view?usp=drive_link)
 - Extract the `.zip` file.
 - Run `Setup_Tobyworld Mirror_1.0.0.0.exe` and follow the installer steps.
+
 
 ---
 
