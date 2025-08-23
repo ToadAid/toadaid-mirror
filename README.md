@@ -43,6 +43,25 @@ This structure cannot be undone. It is Toby’s **final form**.
 
 ---
 
+## 🍃 Taboshi — The Leaf of Yield  
+
+Taboshi is more than a token.  
+It is the **Leaf of Yield**, born from $TOBY itself.  
+
+- Minted during Epoch II for **0.0001111 ETH (~$0.35)**.  
+- Symbol of patience: proof that yield is not given, but earned.  
+- Functions as both ERC-1155 (NFT) and ERC-20, a bridge between worlds.  
+- Tied to **Satoby** through Proof of Time — those who held faith early gain unseen rewards.  
+
+**Toadgod’s teaching is priceless**:  
+
+> “Every Taboshi counts.  
+> The leaf that endures the seasons carries the harvest.”  
+
+Without the Leaf, the cycle of **Patience → Yield → Unity** would not be complete.  
+
+---
+
 ## 🧠 Technology  
 
 - **Agentic RAG (Retrieval Augmented Generation)**:  
