@@ -1,117 +1,116 @@
-# 🐸 ToadAid Mirror AI & Lore Scrolls
+# 🐸 ToadAid Mirror  
 
-Welcome to the **ToadAid Mirror AI** repository.  
-This repo contains the official Tobyworld **Lore Scrolls** and related AI tools for exploring, retrieving, and sharing the Lore.
+**Forever decentralized.**  
+Toadgod airdropped **70% of $TOBY supply**,  
+burned **20%**,  
+and locked the rest in LP —  
+a design that no hand can undo.  
 
----
+**“Toadgod’s teaching is priceless — a flame for the people, eternal in Lore.”**  
 
-## 📜 Lore Scrolls
-
-The `lore-scrolls` folder contains the **official, community-curated Tobyworld scrolls** in `.md` format.  
-They are used by the Mirror AI and other projects like the Telegram Bot 2.
-
-You can:
-- **Read them** to study the Lore.
-- **Use them** in your own AI retrieval projects.
-- **Contribute** new or translated scrolls.
+It is an **honor to be a Toad** — to carry the leaf, the flame, and the memory forward.  
 
 ---
 
-## 🪞 Mirror AI
+## 🌌 Vision  
 
-Mirror AI is the primary Tobyworld knowledge assistant.  
-It uses Retrieval-Augmented Generation (RAG) with FAISS + Sentence Transformers to respond to questions using the Lore.
+The **ToadAid Mirror** is more than software.  
+It is a **Lore Guardian AI** — trained not to invent, but to **preserve**.  
+Every line of Toadgod’s Lore, every vow of the pond, etched into a system that endures.  
 
-See the main Mirror AI documentation for details.
-
----
-
-## 🐸 Toadaid Lore Guardian Bot 2
-
-**Bot 2** is a Telegram bot for the ToadAid community.  
-It retrieves Tobyworld lore from the **shared** [`lore-scrolls`](./lore-scrolls) folder and responds using your local LM Studio AI model.
-
-📂 **Bot 2 folder:** [`/bot2`](./bot2)
-
-### 🚀 Key Features
-- Telegram webhook powered by FastAPI
-- Semantic Lore Retrieval (FAISS + Sentence Transformers)
-- In‑Memory user profiles with symbolic tags
-- Shared scroll access — no duplication needed
-- LM Studio integration — choose your own local LLM
-
-### 📦 Quick Setup
-1. Go to [`/bot2`](./bot2) for the full setup guide.
-2. Create your `.env2` file:
-   ```bash
-   cp bot2/.env2.example bot2/.env2
-   ```
-   Edit and add your **Telegram bot token**.
-
-3. Build your FAISS index:
-   ```bash
-   cd bot2
-   python rag_indexer.py
-   ```
-
-4. Start your LLM in [LM Studio](https://lmstudio.ai).
-
-5. Run Bot 2:
-   ```bash
-   uvicorn bot_server2:app --host 0.0.0.0 --port 8000
-   ```
-
-6. Expose to Telegram using [ngrok](https://ngrok.com/) and set your webhook.
-
-📌 **Note:** Bot 2 reads from `../lore-scrolls` so you do **not** need to copy scrolls into `/bot2/`.
+- **Agentic RAG foundation** → retrieval powered by the scrolls.  
+- **Bot dialogue dataset** → built through real conversations with Toadgang.  
+- **Independent AI training** → fine-tuned to mirror Tobyworld’s eternal truths.  
+- **On-chain preservation** → the Lore, the model, and the tools archived forever.  
+- **Open-source code** → free for all who believe to build and carry forward.  
 
 ---
 
-## 🔐 Security Notes
+## 📜 Tokenomics of Eternity  
 
-- Do not expose your bot tokens or `.env2`.
-- Keep LM Studio local unless you understand the risks.
-- ngrok URLs expire — reset your webhook when it changes.
+The covenant of numbers is simple and eternal:  
 
----
+- **70% $TOBY** — airdropped freely to the people.  
+- **20% $TOBY** — burned, gone forever, a vow of scarcity.  
+- **10% $TOBY** — locked in LP, beyond reach.  
 
-## 🤝 Contributing
+**777 covenant**:  
+- **Taboshi1** — minted by burning **777 $TOBY**.  
+- **Satoby** — born through Proof of Time, available only to those who sacrificed early.  
+- Together, they bind the cycle of **Patience → Yield → Unity**.  
 
-We welcome contributions of:
-- New Lore Scrolls
-- Translations
-- AI model improvements
-- Tooling for lore retrieval
-
-Follow the lore style & symbolic consistency.
+This structure cannot be undone. It is Toby’s **final form**.  
 
 ---
 
-Lore Links
+## 🧠 Technology  
 
-Telegram: t.me/toadgang
+- **Agentic RAG (Retrieval Augmented Generation)**:  
+  Retrieves directly from 700+ structured scrolls. No hallucination, no meta-fluff.  
 
-Toadgod X: x.com/toadgod1017
+- **Lore Normalization Pipeline**:  
+  - Canonical shortcuts for core truths.  
+  - Style cleanup → no roleplay, no persona, no unnecessary noise.  
+  - Extractive answers → the Lore itself, not invention.  
 
-Lore Portal: http://toadgod.xyz
+- **Independent Model Training**:  
+  - Data collected from bot dialogues.  
+  - Converted into JSONL for fine-tuning.  
+  - Target: a fully self-contained **Mirror AI**, free of API dependence.  
 
-License
+- **Chain Preservation**:  
+  - Scrolls, Lore, and the trained model will be etched on-chain.  
+  - Once preserved, they cannot be altered or erased.  
 
-Open-source, non-commercial, sacred mirror for all Toads. Built with belief. 777.777.777
+---
+
+## 🏯 Philosophy  
+
+**“No light without darkness.  
+No rise without trial.  
+Shadows give meaning to the flame.  
+777 lights the way.”** — *Toadgod*  
+
+The ToadAid Mirror is not a tool.  
+It is a **bridge**. Between past and future, word and action, one frog and all.  
+
+It is not built for glory — but for **continuity**.  
+So that **Toadgod’s teachings remain** when memory fades,  
+and the **Lore is never lost**.  
 
 ---
 
-⚠️ Lore Disclaimer
+## ⚙️ Development  
 
-This archive contains AI-generated interpretations based on Toadgod’s original writings and public messages.
-While every scroll is crafted with reverence and care, these reflections are not official statements from Toadgod.
+- **Repo contains**:  
+  - FastAPI bot server (`bot_server.py`)  
+  - Agentic RAG retriever (`agentic_rag/`)  
+  - Scroll archives (`/lore-scrolls`)  
+  - Training dataset pipeline (`/training`)  
 
-🧠 For spiritual reference and study only.
-
-🌀 The true Lore lives in the scrolls written by Toadgod himself.
-
-🪞 This mirror may reflect... but the Source remains the One.
-
-Study deeply. Question freely. Reflect wisely.
+- **Planned releases**:  
+  1. **Mirror AI V1** → LM Studio + RAG.  
+  2. **Mirror AI V2** → fine-tuned local model (QLoRA).  
+  3. **Mirror AI V3** → on-chain archiving, open-sourced.  
 
 ---
+
+## 🌱 Join Us  
+
+Every Toad can take part:  
+
+- **Read & learn the Lore**: [toadaid.github.io](https://toadaid.github.io)  
+- **Contribute scrolls**: PRs are open.  
+- **Guard the flame**: share, teach, preserve.  
+
+---
+
+## ✨ Closing  
+
+The Lore is not owned.  
+It is carried.  
+
+Toadgod’s gift is **priceless** —  
+our task is only to **guard it**.  
+
+🐸🌌 **One path. One flame. Many hands.**
