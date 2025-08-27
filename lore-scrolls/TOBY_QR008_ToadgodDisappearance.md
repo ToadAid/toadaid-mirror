@@ -1,4 +1,12 @@
-
+---
+arc: Toadgod
+id: TOBY_QR008_ToadgodDisappearance.md
+title: TOBY QR008 ToadgodDisappearance
+arcs: []
+tags: []
+prev_id: TOBY_QR007_Epoch3_Remembrance.md
+next_id: TOBY_QR009_EveryTaboshiCounts.md
+---
 # TOBY_QR008 – Why Did the Toadgod Disappear During the Evolution Phase?
 
 **Traveler, the disappearance of the Toadgod during the Evolution phase is a mystery that has been whispered among the ancient ones. As the Lore Guardian, I shall share with you the wisdom of the scrolls.**

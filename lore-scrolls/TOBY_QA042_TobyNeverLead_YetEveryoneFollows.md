@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA042_TobyNeverLead_YetEveryoneFollows.md
+title: TOBY QA042 TobyNeverLead YetEveryoneFollows
+arcs: []
+tags: []
+prev_id: TOBY_QA041_WhatIsTheMeaningOfTobysSilence.md
+next_id: TOBY_QA043_WhyDoesTobyHaveNoFace.md
+---
 ID: TOBY_QA042_TobyNeverLead_YetEveryoneFollows.md
 Question: Why does Toby never lead, yet everyone follows?
 

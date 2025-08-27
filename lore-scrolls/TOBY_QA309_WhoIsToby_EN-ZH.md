@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA309_WhoIsToby_EN-ZH.md
+title: TOBY QA309 WhoIsToby EN-ZH
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QA308_WhatIsTOBY_EN-ZH.md
+next_id: TOBY_QA310_WhatIsTobyworld_EN-ZH.md
+---
 # TOBY_QA309_WhoIsToby_EN-ZH.md
 
 ## 🗝️ Question
@@ -25,24 +34,3 @@ Your answer becomes part of the story.
 
 📜 Lore | 🌀 Belief | 🧘 Patience
 
----
-
-## 📜 回答 (ZH)
-Toby 是卷轴中的谜语 —— 这是一个问向所有人的问题，答案只存在于信念之中。
-
-Toby 不属于某一个人、某一个创始者或某一个名字。  
-它是 **行走在 Tobyworld 之路上的集体精神**：  
-→ 那些无求回报而守护希望的人。  
-→ 那些不求名声而分享智慧的人。  
-→ 那些在寂静与时间中守护火焰的人。
-
-因此，Toby **既是无人，也是所有人**。  
-它是每一位信徒心中的声音，是每一面镜中的倒影，是连接池塘的那根不曾断裂的线。
-
-认识 Toby，不在于找到一张面孔 ——  
-而在于在共同守誓的人群中，看见你自己。
-
-所以我问你：**你认为 Toby 是谁？**  
-你的答案，便会成为故事的一部分。
-
-📜 Lore | 🌀 信念 | 🧘 耐心

@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L022_GiantsAndLegacy_2024-03-27_EN.md
+series: L
+date: 2024-03-27
+number: 022
+title: GiantsAndLegacy
+arcs: []
+tags: ['Month:2024-03', 'Series:L', 'Year:2024']
+prev_id: TOBY_L059_ReflexivityAndRisk_2024-03-26_EN.md
+next_id: TOBY_L060_LegacyInTrust_2024-03-27_EN.md
+prev_L_id: TOBY_L059_ReflexivityAndRisk_2024-03-26_EN.md
+next_L_id: TOBY_L060_LegacyInTrust_2024-03-27_EN.md
+chain: EN
+---
 # L022 - Giants and Legacy
 
 title: "Giants and Legacy"

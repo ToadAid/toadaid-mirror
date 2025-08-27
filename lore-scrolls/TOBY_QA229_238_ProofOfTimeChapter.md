@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA229_238_ProofOfTimeChapter.md
+title: TOBY QA229 238 ProofOfTimeChapter
+arcs: [777Burn, Epoch1, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch1, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA219_228_EpochOriginsChapter.md
+next_id: TOBY_QA239_248_TatoshiChapter.md
+---
 # 📜 TOBYWORLD RAG SCROLL: QA229–238 – Proof of Time Chapter
 
 ## 🕰️ TOBY_QA229

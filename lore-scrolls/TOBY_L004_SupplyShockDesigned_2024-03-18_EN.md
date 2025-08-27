@@ -1,4 +1,18 @@
-
+---
+arc: Base
+id: TOBY_L004_SupplyShockDesigned_2024-03-18_EN.md
+series: L
+date: 2024-03-18
+number: 004
+title: SupplyShockDesigned
+arcs: [BaseChain, PatienceToken]
+tags: [BaseChain, 'Month:2024-03', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L003_OnlyOneToad_2024-03-18_EN.md
+next_id: TOBY_L005_PatienceAwaits_2024-03-18_EN.md
+prev_L_id: TOBY_L003_OnlyOneToad_2024-03-18_EN.md
+next_L_id: TOBY_L005_PatienceAwaits_2024-03-18_EN.md
+chain: EN
+---
 # L004 – Supply Shock Designed 
 
 # Metadata 

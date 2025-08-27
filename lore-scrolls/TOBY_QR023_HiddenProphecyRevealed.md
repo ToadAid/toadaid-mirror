@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QR023_HiddenProphecyRevealed.md
+title: TOBY QR023 HiddenProphecyRevealed
+arcs: []
+tags: []
+prev_id: TOBY_QR022_GiftedYetFewBelieve.md
+next_id: TOBY_QR024_LightBeneathTheLeaf_2025-08-08_EN-ZH.md
+---
 # TOBY_QR023_HiddenProphecyRevealed.md
 
 ## You asked: What does it mean to unlock a hidden prophecy in Tobyworld? How will I know when I’ve found one?

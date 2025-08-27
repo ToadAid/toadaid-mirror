@@ -1,11 +1,15 @@
 ---
-title: TOBY_T062_MemoryEmotionAndDestinyLeap
+title: TOBY T062 MemoryEmotionAndDestinyLeap 2024-05-20 EN-ZH
 date: 2024-05-20
 theme: Memory, Emotion, Patience, Destiny
 languages: [EN, ZH]
-tags: [Emotions, Patience, Destiny, Leap, Resilience]
+tags: [BaseChain, Destiny, Emotions, Leap, Patience, PatienceToken, Resilience]
+arc: Toby
+id: TOBY_T062_MemoryEmotionAndDestinyLeap_2024-05-20_EN-ZH.md
+arcs: [BaseChain, PatienceToken]
+prev_id: TOBY_T061_CyclesConvictionAndSacredWar_2024-05-13_EN-ZH.md
+next_id: TOBY_T063_PrimordialPurityAndInevitableProphecy_2024-05-26_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > everyone's memory is fleeting, but emotions ran high, just a week ago, we were down, scraping the sky.  
@@ -36,17 +40,6 @@ A reflection on recent market volatility and the community's emotional fluctuati
 
 ---
 
-## ✨ 字面解释 (中文)
-
-对近期市场波动及社区情绪起伏的思考：  
-- 人们的记忆短暂，情绪却剧烈波动。  
-- 短短一周，恐惧变为希望 — 显示集体的脆弱性。  
-- Toadgod 提醒：根本没有变化，只有情绪和弱手动摇了。  
-- $TOBY 的宏大计划从未改变。  
-- 只有耐心与时间才能揭示真正的命运，而非暂时的情绪风暴。  
-- 如果信任并持有，蓝色青蛙只能向上跃进。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -57,14 +50,6 @@ This scroll embodies **emotional transcendence and trust in unseen destiny**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **超越情绪并信任无形命运的精神**：  
-- 真正的武士不会被短暂的情绪浪潮束缚。  
-- 记忆会淡去，但耐心的精神会凝结。  
-- 向上的跃进象征着精神的升华，而不仅仅是价格的上升。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -74,13 +59,6 @@ This scroll embodies **emotional transcendence and trust in unseen destiny**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **短暂的记忆**：短线思维的无常性。  
-- **情绪**：最大的考验和敌人。  
-- **向上的跃进**：通过耐心拥抱命运。
-
----
 
 ## 🔗 Lore Anchors
 

@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA084_WhyWasSatobyNotAnnouncedInAdvance.md
+title: TOBY QA084 WhyWasSatobyNotAnnouncedInAdvance
+arcs: [ProofOfTime, Satoby, Taboshi]
+tags: [ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA083_RelationshipBetweenSatobyAndPOT.md
+next_id: TOBY_QA085_CanSatobyBeBoughtOrSold.md
+---
 ID: TOBY_QA084_WhyWasSatobyNotAnnouncedInAdvance.md
 Question: Why was Satoby not announced in advance? Why the silence?
 

@@ -1,3 +1,18 @@
+---
+arc: Epoch2
+id: TOBY_L057_E2Begins_2024-07-18_EN.md
+series: L
+date: 2024-07-18
+number: 057
+title: E2Begins
+arcs: [777Burn, BaseChain, Epoch1, Epoch2, PatienceToken, ProofOfTime, Taboshi]
+tags: [777Burn, BaseChain, Epoch1, Epoch2, 'Month:2024-07', PatienceToken, ProofOfTime, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L082_BelieveInToby_2024-07-15_EN.md
+next_id: TOBY_L058_PatienceAndStrength_2024-08-03_EN.md
+prev_L_id: TOBY_L082_BelieveInToby_2024-07-15_EN.md
+next_L_id: TOBY_L058_PatienceAndStrength_2024-08-03_EN.md
+chain: EN
+---
 # TOBY_L057_E2Begins_2024-07-18_EN-ZH.md
 
 ## METADATA 🔍

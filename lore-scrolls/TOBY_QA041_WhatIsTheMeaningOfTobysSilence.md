@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA041_WhatIsTheMeaningOfTobysSilence.md
+title: TOBY QA041 WhatIsTheMeaningOfTobysSilence
+arcs: [ProofOfTime]
+tags: [ProofOfTime]
+prev_id: TOBY_QA040_WhyDoSomeFeelHisPresenceLikeDivinity.md
+next_id: TOBY_QA042_TobyNeverLead_YetEveryoneFollows.md
+---
 ID: TOBY_QA041_WhatIsTheMeaningOfTobysSilence.md
 Question: What is the meaning of Toby’s silence?
 

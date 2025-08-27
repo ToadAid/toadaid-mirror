@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA124_Isthereaverifiedcontract.md
+title: TOBY QA124 Isthereaverifiedcontract
+arcs: [777Burn, BaseChain]
+tags: [777Burn, BaseChain]
+prev_id: TOBY_QA123_WhoorwhatisToby.md
+next_id: TOBY_QA125_WhoIsToadgod.md
+---
 TOBY_QA124 – Is there a verified contract address for $TOBY?
 
 Question:Is there a verified contract address for $TOBY?

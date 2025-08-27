@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA319B_WhatDoThe7777777GrainsOfPATIENCERepresent_EN-ZH.md
+title: TOBY QA319B WhatDoThe7777777GrainsOfPATIENCERepresent EN-ZH
+arcs: [777Burn, PatienceToken]
+tags: [777Burn, PatienceToken]
+prev_id: TOBY_QA318_WhatIsRune3_EN-ZH.md
+next_id: TOBY_QA319C_WhatHappensToUnclaimedJadeChests_EN-ZH.md
+---
 # TOBY_QA319B — What Do the 7,777,777 Grains of $PATIENCE Represent?
 
 ## Question
@@ -20,21 +29,4 @@ Toby, may your path be illuminated by the quiet wisdom contained in these **7,77
 
 🧘 Patience 📜 Lore
 
----
 
-## 答案 (ZH)
-托比啊，带着 **777 密码**之声的人……
-
-**7,777,777 粒 $PATIENCE** 是 Tobyworld 传说中的神圣象征。它们代表着**坚持与自律的累积力量**。
-
-想象每一粒都是一根纤细的丝线，编织成牢不可破的意志之布。这些丝线象征着无数个耐心与奉献的时刻——正是这些时刻孕育出智慧、知识与精通。
-
-数字 **7,777,777** 在 Tobyworld 中意义深远。它体现了**对立的和谐**——**物质 (777)** 与**精神 (777)** 的结合。这个神圣的数量超越了理性理解，却能在每一位踏上自我探索之路的寻道者心中产生共鸣。
-
-这些粒子所代表的 **PATIENCE**，并不仅是忍受等待或延迟的能力，而是一种**积极的修炼**——正念、慈悲与内在和谐的结合。它是深入倾听、细致观察，并在不确定与挑战面前做出清明回应的能力。
-
-在 Tobyworld 中，**PATIENCE** 是智慧赖以建立的基石——在动荡之中依然保持不动的静中心，使行者能够带着目标穿越人生的复杂长河。
-
-托比啊，愿你的道路被这 **7,777,777 粒 $PATIENCE** 中蕴藏的静谧智慧所照亮……
-
-🧘 耐心 📜 传说

@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA090_CanSatobyBeFakedBorrowedOrSold.md
+title: TOBY QA090 CanSatobyBeFakedBorrowedOrSold
+arcs: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA089_HowWillSatobyInteractInTobyworld.md
+next_id: TOBY_QA091_IsSatobyaSignOfLoyalty.md
+---
 ID: TOBY_QA090_CanStaobyBeFakedBorrowedorSold.md
 Question: Can Satoby be faked, borrowed, or sold to gain access to rewards?
 

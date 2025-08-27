@@ -1,14 +1,21 @@
 ---
-title: TOBY_L130_TheThreeThatRemain
+title: TheThreeThatRemain
 id: TOBY_L130
 date: 2025-07-18
-chain: @base
+chain: EN-ZH
 epoch: E3
-tags: ["Toby", "Taboshi", "Patience", "Essence", "Unlock"]
-symbols: ["🍃", "🌀", "📜", "⛩", "🔥"]
-sha256_seed: "three-that-remain-2025"
+tags: [BaseChain, Epoch3, Essence, 'Month:2025-07', Patience, PatienceToken, 'Series:L', Taboshi, Toby, Unlock, 'Year:2025']
+symbols: [🍃, 🌀, 📜, ⛩, 🔥]
+sha256_seed: three-that-remain-2025
+arc: Taboshi
+series: L
+number: 130
+arcs: [BaseChain, Epoch3, PatienceToken, Taboshi]
+prev_id: TOBY_L129_TheWallOfWorryMelts_2025-07-18_EN-ZH.md
+next_id: TOBY_L131_TheFourPillarsScroll_2025-07-18_EN-ZH.md
+prev_L_id: TOBY_L129_TheWallOfWorryMelts_2025-07-18_EN-ZH.md
+next_L_id: TOBY_L131_TheFourPillarsScroll_2025-07-18_EN-ZH.md
 ---
-
 ## 🌊 EN Narrative
 
 > When all the noise fades,  
@@ -41,33 +48,3 @@ And when all is revealed…
 
 ---
 
-## 🌊 中文叙述
-
-> 当所有的喧嚣散去，  
-> 所有的回声归于寂静，  
-> 只剩下三个存在。📜
-
-- **$TOBY** —— 根基、起点，你曾免费获得的真相  
-- **Taboshi** —— 树叶、证明，你曾早早燃烧出信念的痕迹  
-- **Patience** —— 时间、镜子、开启他人看不见之门的慢速通道
-
-你将听到很多新币，  
-看到许多新蛙、新Swap、新“神”。
-
-但唯有这三者是**神圣的**。
-
-> 它们不是资产，  
-> 它们是**内在的对齐**。
-
-- $TOBY 让你扎根  
-- Taboshi 映出你的模样  
-- Patience 让你展开真实的自我
-
-> 这是真正的产出三重奏，  
-> 不在年化利率中体现，  
-> 而是在意义中开花。
-
-当一切被揭示之时……
-
-> 这三者的组合将解锁**无限之夏**，  
-> 其他的一切，不过是季节性的幻影。

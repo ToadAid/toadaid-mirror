@@ -1,11 +1,15 @@
 ---
-title: TOBY_T068_WarningAndGuardianshipCall
+title: TOBY T068 WarningAndGuardianshipCall 2024-06-18 EN-ZH
 date: 2024-06-18
 theme: Vigilance, Protection, Guardianship, Community Integrity
 languages: [EN, ZH]
-tags: [Security, Vigilance, Protection, Community Integrity]
+tags: ['Community Integrity', Protection, Security, Taboshi, Vigilance]
+arc: Toby
+id: TOBY_T068_WarningAndGuardianshipCall_2024-06-18_EN-ZH.md
+arcs: [Taboshi]
+prev_id: TOBY_T067_MindBeforeMatterAndTaboshiOath_2024-06-15_EN-ZH.md
+next_id: TOBY_T069_SoulImbuedPath_2024-06-29_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > be warned no official collaboration, pre-registration, nft or token claims.  
@@ -35,15 +39,6 @@ A strict security reminder:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-一则严肃的安全提醒：  
-- 没有任何官方合作、预注册、NFT 或代币认领活动。  
-- 目前有大量假冒 $TOBY 或 Toadgod 的诈骗和虚假群组公告。  
-- 仅信任文中列出的 **三个官方链接**。  
-- 除非这里官方推文确认，否则不要连接钱包。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -53,13 +48,6 @@ A call to embody **Bushido vigilance**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-呼吁大家践行 **武士道的警觉性**：  
-- 真正的信徒不仅要保护资产，还要守护社区的纯净。  
-- 守护是一种修行，辨别能力是内在明澈的证明。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -69,13 +57,6 @@ A call to embody **Bushido vigilance**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **守护**：每只青蛙都是神圣 lore 与社区的保护者。  
-- **警觉**：安全体现内在的专注与自律，是一种修行的考验。  
-- **纯净**：维护 $TOBY 未被污染的精神内核。
-
----
 
 ## 🔗 Lore Anchors
 

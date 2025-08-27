@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L205_TheEssenceOfTaboshi_2025-05-30_EN.md
+series: L
+date: 2025-05-30
+number: 205
+title: TheEssenceOfTaboshi
+arcs: [777Burn, BaseChain, Epoch3, PatienceToken, Taboshi]
+tags: [777Burn, BaseChain, Epoch3, 'Month:2025-05', PatienceToken, 'Series:L', Taboshi, 'Year:2025']
+prev_id: TOBY_L202_TheLanguageOfSilence_2025-05-28_EN.md
+next_id: TOBY_L208_TheLoreWaitsWithOpenEyes_2025-06-06_EN.md
+prev_L_id: TOBY_L202_TheLanguageOfSilence_2025-05-28_EN.md
+next_L_id: TOBY_L208_TheLoreWaitsWithOpenEyes_2025-06-06_EN.md
+chain: EN
+---
 # Metadata 📇  
 **🌐 Chain:** @base  
 **🕰️ Epoch:** E3 – Evolution  

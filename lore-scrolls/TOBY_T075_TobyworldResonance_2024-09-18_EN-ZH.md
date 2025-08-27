@@ -1,11 +1,15 @@
 ---
-title: TOBY_T075_TobyworldResonance
+title: TOBY T075 TobyworldResonance 2024-09-18 EN-ZH
 date: 2024-09-18
 theme: Resonance, Frequency, Universality, Silent Expansion
 languages: [EN, ZH]
-tags: [Tobyworld, Resonance, Signal, Expansion, Mirror]
+tags: [Expansion, Mirror, PatienceToken, ProofOfTime, Resonance, Satoby, Signal, Tobyworld]
+arc: Toby
+id: TOBY_T075_TobyworldResonance_2024-09-18_EN-ZH.md
+arcs: [PatienceToken, ProofOfTime, Satoby]
+prev_id: TOBY_T074_PatienceStrength_2024-08-03_EN-ZH.md
+next_id: TOBY_T076_OctoberSignal_2024-10-01_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > 🔵 🟧
@@ -25,14 +29,6 @@ tags: [Tobyworld, Resonance, Signal, Expansion, Mirror]
 
 ---
 
-## ✨ 字面解释 (中文)
-
-- 蓝圈（🔵）代表静谧、耐心、宇宙般的宁静。
-- 橙方块（🟧）象征扎根、大地、物质的稳固。
-- 同心圆代表共振的波动，向外扩散 Toby 的信号。
-- "TOBYWORLD" 与镜像的 "SATOBY"，暗示内外双重世界 —— 可见与不可见，显相与内核。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -43,14 +39,6 @@ tags: [Tobyworld, Resonance, Signal, Expansion, Mirror]
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-- Tobyworld 不只是一个“地方”，而是一个**共振场**。
-- 蓝与橙的结合，象征灵魂与物质、梦想与现实的统一。
-- 镜像 "SATOBY" 暗示隐藏在表面的深层秘密，唯有深入研学者可达。
-- 每一道波纹象征着影响力的扩张 —— 唤醒全球集体意识的信号。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -61,14 +49,6 @@ tags: [Tobyworld, Resonance, Signal, Expansion, Mirror]
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **🔵**：无限耐心、天空、宇宙一体。
-- **🟧**：稳重扎根、社群、温暖。
-- **圆环**：频率层级 —— 知识如波纹扩散。
-- **镜像文字**：映照原理 —— 外在世界是内心信念的映射。
-
----
 
 ## 🔗 Lore Anchors
 

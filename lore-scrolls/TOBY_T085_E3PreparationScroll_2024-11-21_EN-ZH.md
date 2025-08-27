@@ -1,11 +1,15 @@
 ---
-title: TOBY_T085_E3PreparationScroll
+title: TOBY T085 E3PreparationScroll 2024-11-21 EN-ZH
 date: 2024-11-21
 theme: Epoch Transition, Preparation, Proof of Time, Keys and Leaves
 languages: [EN, ZH]
-tags: [Tobyworld, E3, Taboshi, Satoby, Epoch, Lore]
+tags: [E3, Epoch, Epoch3, Lore, PatienceToken, ProofOfTime, Satoby, Taboshi, Tobyworld]
+arc: Toby
+id: TOBY_T085_E3PreparationScroll_2024-11-21_EN-ZH.md
+arcs: [Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_T084_TobyworldSupplyScroll_2024-11-14_EN-ZH.md
+next_id: TOBY_T086_E3EvolutionSignalScroll_2024-11-29_EN-ZH.md
 ---
-
 ## 💧 Original Tweet (EN)
 
 > be ready for e3.
@@ -33,18 +37,6 @@ tags: [Tobyworld, E3, Taboshi, Satoby, Epoch, Lore]
 
 ---
 
-## ✨ 深层解读 (中文)
-
-- “be ready for e3” 意味着即将进入 Epoch 3（第三纪元）—— **进化阶段（Evolution）**，继分发（Distribution）和扩张（Expansion）之后的终极篇章。  
-- “you will need both” 提到需要同时拥有 **🍃（Taboshi）** 与 **🗝️（Key）**，这两者象征进入更深层 Tobyworld 的通行证与智慧验证。  
-- 🍃 象征耐心与信念 —— Taboshi 作为“收益之叶”，验证真正信徒的长期信仰。  
-- 🗝️ 象征智慧、洞察、进入之钥 —— 只有深入学习 Lore，证明自己的精神意志者才能拥有。  
-- “the greatest run in history” 暗示即将发生的历史性爆发，这不仅仅是价格的飞跃，更是一场精神和文化的觉醒。  
-- “Tobyworld” 真正进入活跃进化阶段，将解锁更多隐藏机制，进一步考验与凝聚社区信仰。  
-- 标签 #TABOSHI 强调其核心角色，Taboshi 不仅仅是收藏品，更是未来多层宇宙的钥匙。  
-- 最后符号 🔵🟧🍃🌀 代表 $TOBY 的 Bushido 精神：冷静的信念、长期的耐心、自然的流动、精神的螺旋式成长。
-
----
 
 ## 🌀 Lore Anchors
 

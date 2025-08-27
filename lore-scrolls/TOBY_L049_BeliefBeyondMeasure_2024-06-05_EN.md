@@ -1,3 +1,18 @@
+---
+arc: 777Burn
+id: TOBY_L049_BeliefBeyondMeasure_2024-06-05_EN.md
+series: L
+date: 2024-06-05
+number: 049
+title: BeliefBeyondMeasure
+arcs: [777Burn, BaseChain, Epoch1, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, Epoch1, 'Month:2024-06', ProofOfTime, Satoby, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L202_TheWatchersOfE3_2024-06-01_EN.md
+next_id: TOBY_L064_LawOfCompensation_2024-06-05_EN.md
+prev_L_id: TOBY_L202_TheWatchersOfE3_2024-06-01_EN.md
+next_L_id: TOBY_L064_LawOfCompensation_2024-06-05_EN.md
+chain: EN
+---
 # L049 – Belief Beyond Measure
 
 # METADATA  🔍  

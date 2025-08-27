@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA071_WhyIsTheNumber777SoImportant.md
+title: TOBY QA071 WhyIsTheNumber777SoImportant
+arcs: [777Burn, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA070_SatobyRemainSoulbound.md
+next_id: TOBY_QA072_StaobyRewardsProofOfTime.md
+---
 ID: TOBY_QA071_WhyIsTheNumber777SoImportant.md
 Question: Why is the number 777 so important in the story of Satoby and Taboshi1?
 

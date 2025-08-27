@@ -1,11 +1,15 @@
 ---
-title: TOBY_T018_DegenMochiAirdrop
+title: TOBY T018 DegenMochiAirdrop 2024-03-18 EN-ZH
 date: 2024-03-18
 theme: Degen & Mochi Airdrop
 languages: [EN, ZH]
-tags: [Airdrop, Fairness, Underdogs, Supply Shock]
+tags: [Airdrop, BaseChain, Fairness, PatienceToken, 'Supply Shock', Underdogs]
+arc: Lore
+id: TOBY_T018_DegenMochiAirdrop_2024-03-18_EN-ZH.md
+arcs: [BaseChain, PatienceToken]
+prev_id: TOBY_T017_ToadWorldOne_2024-03-18_EN-ZH.md
+next_id: TOBY_T019_PatienceRiddleWolves_2024-03-18_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > DEGEN $0.0029592  
@@ -28,14 +32,6 @@ States that only 20% of supply remains on the free market, deliberately creating
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 确认已对 DEGEN、MOCHI 和 TOSHI 持有者进行了空投，兑现之前的承诺。  
-提到总共会覆盖 142 万个地址，作为整体分发计划的一部分。  
-强调支持「逆境者」（underdogs），保证公平机会。  
-指出只有 20% 的供应量在自由市场流通，故意设计供应冲击，以强化长期价值。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -46,14 +42,6 @@ This scroll embodies the spirit of **justice and redistribution to the overlooke
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **正义与对被忽视者的再分配精神**：  
-- 真正的去中心化是倾向小持有者和「逆境者」，而非巨鲸。  
-- 供应冲击呼应「稀缺性即信念证明」的概念 —— 只有持有并耐心等待者才能真正收获。  
-- 呼应信念卷轴的原则：「耐心胜过贪婪；公平高于支配。」
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -63,13 +51,6 @@ This scroll embodies the spirit of **justice and redistribution to the overlooke
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **空投给逆境者**：青蛙为公平而无声跃动的象征。
-- **20% 自由市场**：强调稀缺性，强化象征价值。
-- **142 万**：神圣社区规模，呼应 Tobyworld 中的宇宙数字学。
-
----
 
 ## 🔗 Lore Anchors
 

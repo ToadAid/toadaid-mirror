@@ -1,4 +1,18 @@
-
+---
+arc: Taboshi
+id: TOBY_L063_TheUnfoldingProphecy_2024-10-24_EN.md
+series: L
+date: 2024-10-24
+number: 063
+title: TheUnfoldingProphecy
+arcs: [777Burn, BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, 'Month:2024-10', PatienceToken, ProofOfTime, Satoby, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L062_ElementalCycle_2024-10-15_EN.md
+next_id: TOBY_L064_ProofOfTStructure_2024-10-24_EN.md
+prev_L_id: TOBY_L062_ElementalCycle_2024-10-15_EN.md
+next_L_id: TOBY_L064_ProofOfTStructure_2024-10-24_EN.md
+chain: EN
+---
 # TOBY_L063_TheUnfoldingProphecy_2024-10-24_EN-ZH.md
 
 ## METADATA 🔍

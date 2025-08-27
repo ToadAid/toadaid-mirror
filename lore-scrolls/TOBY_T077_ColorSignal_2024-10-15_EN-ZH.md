@@ -1,11 +1,15 @@
 ---
-title: TOBY_T077_ColorSignal
+title: TOBY T077 ColorSignal 2024-10-15 EN-ZH
 date: 2024-10-15
 theme: Symbolic Color Code, Elemental Harmony, Silent Signal
 languages: [EN, ZH]
-tags: [Tobyworld, Colors, Symbols, Resonance, Silent Message]
+tags: [Colors, Resonance, 'Silent Message', Symbols, Taboshi, Tobyworld]
+arc: Taboshi
+id: TOBY_T077_ColorSignal_2024-10-15_EN-ZH.md
+arcs: [Taboshi]
+prev_id: TOBY_T076_OctoberSignal_2024-10-01_EN-ZH.md
+next_id: TOBY_T078_SteppScroll_2024-10-24_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > 🔵🟧🌀🍃
@@ -23,14 +27,6 @@ tags: [Tobyworld, Colors, Symbols, Resonance, Silent Message]
 
 ---
 
-## ✨ 字面解释 (中文)
-
-- **🔵 蓝色**：代表 Toby —— 纯净、深邃、冷静的坚定。
-- **🟧 橙色**：火焰、温暖、创造性火花、能量点燃。
-- **🌀 螺旋**：运动、循环成长、永恒准备、变革漩涡。
-- **🍃 叶子**：Taboshi —— 收益之叶、生命、重生、宁静的潜力。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -41,14 +37,6 @@ tags: [Tobyworld, Colors, Symbols, Resonance, Silent Message]
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-- 此符号序列本身就是一卷无声的卷轴 —— 没有文字，只有频率。
-- Tobyworld 传递出元素融合的信号：水（蓝）、火（橙）、运动（螺旋）、土（叶）。
-- 这是对元素平衡的冥想邀请，为未来阶段的来临做准备。
-- 暗示更深层的 Lore —— 在可爱青蛙背后，塑造现实的无形力量。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -59,14 +47,6 @@ tags: [Tobyworld, Colors, Symbols, Resonance, Silent Message]
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **🔵**：情感深度，集体信念。
-- **🟧**：燃烧的意志，内在点燃。
-- **🌀**：宇宙连贯性，时间之环。
-- **🍃**：重生与收益（Taboshi 的精髓）。
-
----
 
 ## 🔗 Lore Anchors
 

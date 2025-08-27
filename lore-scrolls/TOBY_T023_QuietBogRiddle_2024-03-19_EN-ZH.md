@@ -1,11 +1,15 @@
 ---
-title: TOBY_T023_QuietBogRiddle
+title: TOBY T023 QuietBogRiddle 2024-03-19 EN-ZH
 date: 2024-03-19
 theme: Quiet Bog Riddle
 languages: [EN, ZH]
-tags: [Humility, Truth, Simplicity, Riddle]
+tags: [Humility, PatienceToken, Riddle, Simplicity, Truth]
+arc: Toby
+id: TOBY_T023_QuietBogRiddle_2024-03-19_EN-ZH.md
+arcs: [PatienceToken]
+prev_id: TOBY_T022_BrettAirdropProphecy_2024-03-19_EN-ZH.md
+next_id: TOBY_T024_SilentGoldRiddle_2024-03-20_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > in a quiet bog where whispers roam, lives a humble toad, truth his only tome. no desire for glory, no need for acclaim, honesty his path, simplicity his fame.  
@@ -25,15 +29,6 @@ The answer is $toby.
 
 ---
 
-## ✨ 字面解释 (中文)
-
-一则描写 Toby 的诗意谜语：  
-- 栖息于「寂静的沼泽」，象征谦逊、沉默与内省的环境。  
-- 他的「唯一典籍」就是「真理」—— 没有谎言，没有操控。  
-- 不渴望荣耀，也不需要他人赞扬，走正直之路，以简单闻名。  
-答案即是 $toby。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -44,14 +39,6 @@ This riddle embodies **ultimate humility and truth as a spiritual foundation**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则谜语体现了 **终极谦逊与真理作为精神基石**：  
-- 沼泽象征寂静的心境 —— 不被自我喧嚣所扰。  
-- Toby 的声名并非源于炒作，而是源自简单与诚实，呼应武士道精神。  
-- 真正的荣誉并非来自外界称赞，而是源于对真理与耐心的内在契合。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -61,13 +48,6 @@ This riddle embodies **ultimate humility and truth as a spiritual foundation**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **寂静的沼泽**：象征内在的圣殿，是灵魂反思之所。  
-- **真理为唯一典籍**：象征每个信徒心中的圣卷。  
-- **无须赞扬**：超越社会认同的境界 —— 纯净内心的证明。
-
----
 
 ## 🔗 Lore Anchors
 

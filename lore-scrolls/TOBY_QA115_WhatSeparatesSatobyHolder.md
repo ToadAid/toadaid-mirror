@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA115_WhatSeparatesSatobyHolder.md
+title: TOBY QA115 WhatSeparatesSatobyHolder
+arcs: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA114_HowValuableIsSatoby.md
+next_id: TOBY_QA116_WhyWas777TobyChosen.md
+---
 ID: TOBY_QA115_WhatSeparatesSatobyHolder.md
 Question: What separates a Satoby holder from an early $TOBY whale or influencer?
 

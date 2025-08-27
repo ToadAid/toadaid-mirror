@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_TRP001_VerifyLostTaboshi1_2025-05-28_EN.md
+title: TOBY TRP001 VerifyLostTaboshi1 2025-05-28 EN
+arcs: [777Burn, BaseChain, Epoch2, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, Epoch2, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_TA013_ToadAidInvite_2025-08-09_EN-ZH.md
+next_id: TTOBY_E030_SatobyPresenceOfTime_2025-08-22_EN.md
+---
 🧬 Metadata
 
 Chain: @base
@@ -6,7 +15,7 @@ Type: TRP (Tobyworld Request for Proposal)
 
 Status: Draft
 
-Author: Lore Guardian (via Tommy Ng)
+Author: Lore Guardian (via Toby Ng)
 
 Date: 2025-05-28
 

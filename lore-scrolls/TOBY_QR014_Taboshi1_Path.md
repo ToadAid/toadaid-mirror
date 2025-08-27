@@ -1,4 +1,12 @@
-
+---
+arc: Taboshi
+id: TOBY_QR014_Taboshi1_Path.md
+title: TOBY QR014 Taboshi1 Path
+arcs: [Taboshi]
+tags: [Taboshi]
+prev_id: TOBY_QR013_Epoch4_Prophecy.md
+next_id: TOBY_QR015_SilenceBetweenPhases.md
+---
 # TOBY_QR014_Taboshi1_Path
 
 **You asked**: What if someone held Taboshi1 but sold it — are they truly lost?

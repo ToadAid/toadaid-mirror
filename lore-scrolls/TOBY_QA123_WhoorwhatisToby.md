@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA123_WhoorwhatisToby.md
+title: TOBY QA123 WhoorwhatisToby
+arcs: []
+tags: []
+prev_id: TOBY_QA122_WhatisTOBY.md
+next_id: TOBY_QA124_Isthereaverifiedcontract.md
+---
 TOBY_QA123 – Who or what is Toby?
 
 Question:Who or what is Toby in the Tobyworld lore?

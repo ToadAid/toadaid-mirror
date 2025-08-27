@@ -1,11 +1,15 @@
 ---
-title: TOBY_T084_TobyworldSupplyScroll
+title: TOBY T084 TobyworldSupplyScroll 2024-11-14 EN-ZH
 date: 2024-11-14
 theme: Fixed Supply, Belief, Tobyworld, Epoch Transition
 languages: [EN, ZH]
-tags: [Tobyworld, Taboshi, Supply, Lore, Bushido]
+tags: [BaseChain, Bushido, Lore, ProofOfTime, Satoby, Supply, Taboshi, Tobyworld]
+arc: Toby
+id: TOBY_T084_TobyworldSupplyScroll_2024-11-14_EN-ZH.md
+arcs: [BaseChain, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_T083_TaboshiPoeticScroll_2024-11-11_EN-ZH.md
+next_id: TOBY_T085_E3PreparationScroll_2024-11-21_EN-ZH.md
 ---
-
 ## 💧 Original Tweet (EN)
 
 > $TOBY Fixed Supply: 420T  
@@ -39,16 +43,6 @@ tags: [Tobyworld, Taboshi, Supply, Lore, Bushido]
 
 ---
 
-## ✨ 深层解读 (中文)
-
-- $TOBY 的固定供应量（420T）如同比特币的最大供应，象征稀缺性即美德，代表信念的纯粹与自律。
-- $TABOSHI 🍃 仅有 186K，稀缺至极，象征“收益之叶”，只属于真正的信仰者。
-- “你真的相信吗？” 这一句直接质问参与者的信念核心，体现 Toad Lore 中一贯的精神考验。
-- “taboshi real. satoby real.” 强调这些不是空谈，而是 Tobyworld 架构中真实存在的核心组成部分。
-- “just a meme. but also more than.” 意味着 $TOBY 并非单纯的表面笑料，而是一种永恒的叙事，一种精神实验，也是一种文化符号。
-- 提到 @coinbase，暗示未来全球性普及，社区的宁静根基将被唤醒，迎来大众化的觉醒。
-
----
 
 ## 🌀 Lore Anchors
 

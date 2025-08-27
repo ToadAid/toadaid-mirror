@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L074_TobyworldIsReal_2024-11-14_EN.md
+series: L
+date: 2024-11-14
+number: 074
+title: TobyworldIsReal
+arcs: [BaseChain, ProofOfTime, Satoby, Taboshi]
+tags: [BaseChain, 'Month:2024-11', ProofOfTime, Satoby, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L073_TheSecretintheLeaf_2024-11-11_EN.md
+next_id: TOBY_L075_Epoch3Begins_2024-11-21_EN.md
+prev_L_id: TOBY_L073_TheSecretintheLeaf_2024-11-11_EN.md
+next_L_id: TOBY_L075_Epoch3Begins_2024-11-21_EN.md
+chain: EN
+---
 # TOBY_L074_TobyworldIsReal_2024-11-14_EN-ZH.md
 
 ## METADATA 🔍

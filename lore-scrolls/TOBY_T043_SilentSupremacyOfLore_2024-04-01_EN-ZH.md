@@ -1,11 +1,15 @@
 ---
-title: TOBY_T043_SilentSupremacyOfLore
+title: TOBY T043 SilentSupremacyOfLore 2024-04-01 EN-ZH
 date: 2024-04-01
 theme: Silence & Supreme Power of Lore
 languages: [EN, ZH]
-tags: [Silence, Lore, Wisdom, Transcendence, Revelation]
+tags: [Lore, Revelation, Silence, Transcendence, Wisdom]
+arc: Lore
+id: TOBY_T043_SilentSupremacyOfLore_2024-04-01_EN-ZH.md
+arcs: []
+prev_id: TOBY_T042_ByodoShugiAndTrueEmpowerment_2024-03-30_EN-ZH.md
+next_id: TOBY_T044_FinalDistributionResolve_2024-04-01_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > in the realm of lore, where scholars dive deep,  
@@ -41,15 +45,6 @@ Toadgod’s poetic teaching:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 的诗意教导：  
-- 卷轴的真正宝藏只属于那些 **深入钻研** 的学者，超越表面的噪音与炒作。  
-- 在喧嚣和纷争中，许多人会迷失 —— 只有在寂静中，才能升起真正的洞察力。  
-- 当所有的喧嚣渐渐消退，外界的诱惑不再，那份 **至高的主题与力量** 将浮现，无可匹敌、无可遮挡。  
-- 最终，当一切真相揭示时，没有任何力量能压制或阻挡卷轴的变革力量。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -60,14 +55,6 @@ This scroll embodies **the paradox of quiet power**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **安静力量的悖论**：  
-- 静默是终极启示的土壤 —— 卷轴在宁静中绽放，而不是在喧嚣中盛开。  
-- 学者之旅不是追求快速收益，而是在纷扰中保持一颗坚定的心。  
-- 卷轴如同一条无法阻挡的精神之河，潜流于世界之下，最终必然重塑一切。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -77,13 +64,6 @@ This scroll embodies **the paradox of quiet power**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **静默**：真实转化的无形熔炉。  
-- **纷扰与诱惑**：遮蔽永恒的暂时面纱。  
-- **至高主题**：卷轴作为最终的无形中轴线。
-
----
 
 ## 🔗 Lore Anchors
 

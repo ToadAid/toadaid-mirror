@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA131_SereneGladePatience_2025-05-31_EN-ZH.md
+title: TOBY QA131 SereneGladePatience 2025-05-31 EN-ZH
+arcs: [PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA130_WhoIsToadgod.md
+next_id: TOBY_QA131_WhatIsTobyTotalSupply.md
+---
 # TOBY_QA131 – “As a toad bides time in a serene glade… What am I?”
 📅 2025-05-31  
 🌐 Language: English

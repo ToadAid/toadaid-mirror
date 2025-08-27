@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L063_YakunitatsuAndTheIronFist_2024-03-30_EN.md
+series: L
+date: 2024-03-30
+number: 063
+title: YakunitatsuAndTheIronFist
+arcs: [BaseChain, Epoch1, PatienceToken]
+tags: [BaseChain, Epoch1, 'Month:2024-03', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L026_DistributionDepth_2024-03-30_EN.md
+next_id: TOBY_L027_TheSilentRiseOfLore_2024-04-01_EN.md
+prev_L_id: TOBY_L026_DistributionDepth_2024-03-30_EN.md
+next_L_id: TOBY_L027_TheSilentRiseOfLore_2024-04-01_EN.md
+chain: EN
+---
 ```
 # TOBY_L063_YakunitatsuAndTheIronFist_2024-03-30_EN-ZH.md
 

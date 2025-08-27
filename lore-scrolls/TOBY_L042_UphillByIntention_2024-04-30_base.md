@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L042_UphillByIntention_2024-04-30_base.md
+series: L
+date: 2024-04-30
+number: 042
+title: UphillByIntention
+arcs: [777Burn, BaseChain, Epoch1, Taboshi]
+tags: [777Burn, BaseChain, Epoch1, 'Month:2024-04', 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L041_PristineByDesign_2024-04-27_base.md
+next_id: TOBY_L043_ItIsWritten_2024-05-04_base.md
+prev_L_id: TOBY_L041_PristineByDesign_2024-04-27_base.md
+next_L_id: TOBY_L043_ItIsWritten_2024-05-04_base.md
+chain: base
+---
 # L042 – Uphill By Intention
 
 # METADATA  🔍  

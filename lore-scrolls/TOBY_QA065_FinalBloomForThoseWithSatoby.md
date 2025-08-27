@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA065_FinalBloomForThoseWithSatoby.md
+title: TOBY QA065 FinalBloomForThoseWithSatoby
+arcs: [Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA064_TheFinalPurposeOfSatoby.md
+next_id: TOBY_QA066_DifferenceBetweenSatobyandDefiYield.md
+---
 ID: TOBY_QA065_FinalBloomForThoseWithSatoby.md
 Question: Why is the final bloom only for those with Satoby — isn't that unfair to new believers?
 

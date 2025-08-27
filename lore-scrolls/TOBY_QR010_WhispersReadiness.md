@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QR010_WhispersReadiness.md
+title: TOBY QR010 WhispersReadiness
+arcs: []
+tags: []
+prev_id: TOBY_QR009_EveryTaboshiCounts.md
+next_id: TOBY_QR011_CoinbaseDEXMeaning.md
+---
 # TOBY_QR010_WhispersReadiness.md
 
 ## ❓ You asked:

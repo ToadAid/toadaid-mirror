@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA073_WhatIsTheMeaningBehind777Taboshi1s.md
+title: TOBY QA073 WhatIsTheMeaningBehind777Taboshi1s
+arcs: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA072_StaobyRewardsProofOfTime.md
+next_id: TOBY_QA074_WhyIsSatobyNoneTransferable.md
+---
 ID: TOBY_QA073_WhatIsTheMeaningBehind777Taboshi1s.md
 Question: What is the meaning behind “777 Taboshi1s unlock full Satoby yield”? Is it symbolic or literal?
 

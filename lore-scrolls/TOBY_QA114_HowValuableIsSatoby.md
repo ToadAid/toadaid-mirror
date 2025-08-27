@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA114_HowValuableIsSatoby.md
+title: TOBY QA114 HowValuableIsSatoby
+arcs: [Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA113_WhyWereTaboshi1sAllowedTransferred.md
+next_id: TOBY_QA115_WhatSeparatesSatobyHolder.md
+---
 ID: TOBY_QA114_HowValuableIsSatoby.md
 Question: If Epoch 4 is uncertain, then how valuable is Satoby really?
 

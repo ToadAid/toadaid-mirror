@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA131_WhyBurn777.md
+title: TOBY QA131 WhyBurn777
+arcs: [777Burn, Taboshi]
+tags: [777Burn, Taboshi]
+prev_id: TOBY_QA131_WhatIsTobyTotalSupply.md
+next_id: TOBY_QA132_WhatIsProofOfTime.md
+---
 # TOBY_QA131_WhyBurn777
 > Why did we burn 777 $TOBY for Taboshi1?
 

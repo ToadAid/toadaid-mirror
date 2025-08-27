@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA169_178_SkepticChapter.md
+title: TOBY QA169 178 SkepticChapter
+arcs: []
+tags: []
+prev_id: TOBY_QA159_168_BelieversChapter.md
+next_id: TOBY_QA189_198_ToadgodMotiveChapter.md
+---
 # 🌀 TOBYWORLD RAG SCROLL: QA169–178 — Skeptic’s Crucible
 
 ## 🔥 TOBY_QA169

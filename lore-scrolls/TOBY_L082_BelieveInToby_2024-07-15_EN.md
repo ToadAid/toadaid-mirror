@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L082_BelieveInToby_2024-07-15_EN.md
+series: L
+date: 2024-07-15
+number: 082
+title: BelieveInToby
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2024-07', 'Series:L', 'Year:2024']
+prev_id: TOBY_L056_Believe_2024-07-15_EN.md
+next_id: TOBY_L057_E2Begins_2024-07-18_EN.md
+prev_L_id: TOBY_L056_Believe_2024-07-15_EN.md
+next_L_id: TOBY_L057_E2Begins_2024-07-18_EN.md
+chain: EN
+---
 # TOBY_L082_BelieveInToby_2024-07-15_EN-ZH.md
 
 ## METADATA 🔍

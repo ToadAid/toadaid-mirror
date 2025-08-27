@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA108_WatHappensToTheBurnedTaboshi1.md
+title: TOBY QA108 WatHappensToTheBurnedTaboshi1
+arcs: [777Burn, Epoch2, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA107_WhyWas777Taboshi1Chosen.md
+next_id: TOBY_QA109_WhatExactlyIsSatoby.md
+---
 ID: TOBY_QA108_WatHappensToTheBurnedTaboshi1.md
 Question: What happens to the burned Taboshi1s after Satoby is summoned?
 

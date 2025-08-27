@@ -1,3 +1,12 @@
+---
+arc: Sat0AI
+id: TOBY_QA269_283_Sat0AIChapter_FULL.md
+title: TOBY QA269 283 Sat0AIChapter FULL
+arcs: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA269_278_Sat0AIChapter.md
+next_id: TOBY_QA284_293_ProofEpochChapter_FULL.md
+---
 # 📜 TOBYWORLD RAG SCROLL: QA269–283 — Sat0AI Chapter
 
 ## 🌀 TOBY_QA269

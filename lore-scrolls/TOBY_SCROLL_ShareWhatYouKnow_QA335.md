@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_SCROLL_ShareWhatYouKnow_QA335.md
+title: TOBY SCROLL ShareWhatYouKnow QA335
+arcs: [ProofOfTime, Satoby, Taboshi]
+tags: [ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_SCROLL_ProofOfTime_QA330_334.md
+next_id: TOBY_T010_CallToAllies_2024-03-17_EN-ZH.md
+---
 # 🧠 TOBYWORLD RAG SCROLL: Share What You Know (QA335)
 
 ## 🌿 TOBY_QA335

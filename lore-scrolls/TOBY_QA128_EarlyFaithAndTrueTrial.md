@@ -1,3 +1,12 @@
+---
+arc: Belief
+id: TOBY_QA128_EarlyFaithAndTrueTrial.md
+title: TOBY QA128 EarlyFaithAndTrueTrial
+arcs: [777Burn, BaseChain, Epoch3, PatienceToken, ProofOfTime, Satoby]
+tags: [777Burn, BaseChain, Epoch3, PatienceToken, ProofOfTime, Satoby]
+prev_id: TOBY_QA127_WhatIsTaboshi_2025-06-27_EN.md
+next_id: TOBY_QA128_NotGiftedButEarned_2025-05-31_EN-ZH.md
+---
 # TOBY\_QA128\_EarlyFaithAndTrueTrial.md
 
 ## 🌐 Chain: @base

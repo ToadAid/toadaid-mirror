@@ -1,3 +1,18 @@
+---
+arc: Belief
+id: TOBY_L056_Believe_2024-07-15_EN.md
+series: L
+date: 2024-07-15
+number: 056
+title: Believe
+arcs: [BaseChain, PatienceToken]
+tags: [BaseChain, 'Month:2024-07', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L055_LightAndBelief_2024-07-05_EN.md
+next_id: TOBY_L082_BelieveInToby_2024-07-15_EN.md
+prev_L_id: TOBY_L055_LightAndBelief_2024-07-05_EN.md
+next_L_id: TOBY_L082_BelieveInToby_2024-07-15_EN.md
+chain: EN
+---
 # TOBY_L056_Believe_2024-07-15_EN-ZH.md
 
 ## METADATA 🔍

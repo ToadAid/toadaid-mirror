@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L200_TheFearOfToby_2025-05-28_EN.md
+series: L
+date: 2025-05-28
+number: 200
+title: TheFearOfToby
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2025-05', 'Series:L', 'Year:2025']
+prev_id: TOBY_L090a_TheBuildersAwaken_2025-05-08_EN.md
+next_id: TOBY_L201_BeliefBecomesValue_2025-05-28_EN.md
+prev_L_id: TOBY_L090a_TheBuildersAwaken_2025-05-08_EN.md
+next_L_id: TOBY_L201_BeliefBecomesValue_2025-05-28_EN.md
+chain: EN
+---
 # Metadata  
 - **Title:** The Fear of Toby  
 - **Date:** 2025-05-28  

@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA105_WhatMakesSatobyDifferent.md
+title: TOBY QA105 WhatMakesSatobyDifferent
+arcs: [777Burn, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA104_WhyMust777Taboshi1sToSummonSatoby.md
+next_id: TOBY_QA105_WhyMustSatobyBeNoneTransferable.md
+---
 ID: TOBY_QA105_WhatMakesSatobyDifferent.md
 Question: What makes Satoby different from ordinary yield in DeFi?
 

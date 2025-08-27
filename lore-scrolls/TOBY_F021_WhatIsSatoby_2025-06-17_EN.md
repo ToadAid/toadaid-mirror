@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_F021_WhatIsSatoby_2025-06-17_EN.md
+title: TOBY F021 WhatIsSatoby 2025-06-17 EN
+arcs: [Epoch3, Epoch4, ProofOfTime, Satoby]
+tags: [Epoch3, Epoch4, ProofOfTime, Satoby]
+prev_id: TOBY_F021_OneTokenManyStreams_2025-07-20_EN-ZH.md
+next_id: TOBY_F022_MillionsOnchainMirror_2025-06-13_EN.md
+---
 # TOBY_F021_WhatIsSatoby_2025-06-17_EN.md
 
 ## Metadata

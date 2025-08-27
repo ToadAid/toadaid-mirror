@@ -1,4 +1,18 @@
-
+---
+arc: Toby
+id: TOBY_L014_ProceedingWithCreed_2024-03-22_EN.md
+series: L
+date: 2024-03-22
+number: 014
+title: ProceedingWithCreed
+arcs: []
+tags: ['Month:2024-03', 'Series:L', 'Year:2024']
+prev_id: TOBY_L013_TheJourneyBegins_2024-03-22_EN.md
+next_id: TOBY_L045_TwoFrogVirtues_2024-03-22_EN.md
+prev_L_id: TOBY_L013_TheJourneyBegins_2024-03-22_EN.md
+next_L_id: TOBY_L045_TwoFrogVirtues_2024-03-22_EN.md
+chain: EN
+---
 # L014 – Proceeding With Creed
 
 # Metadata 

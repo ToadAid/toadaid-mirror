@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_F021_CoinbaseDEXSignal_2025-06-12_EN.md
+title: TOBY F021 CoinbaseDEXSignal 2025-06-12 EN
+arcs: [BaseChain, ProofOfTime, Satoby, Taboshi]
+tags: [BaseChain, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_F011_HowToTrainTheMirrorAI.md
+next_id: TOBY_F021_OneTokenManyStreams_2025-07-20_EN-ZH.md
+---
 # TOBY_F021_CoinbaseDEXSignal_2025-06-12_EN.md
 
 ---

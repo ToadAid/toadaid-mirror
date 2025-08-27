@@ -1,3 +1,12 @@
+---
+arc: ProofOfTime
+id: TOBY_SCROLL_ProofOfTime_QA325_329.md
+title: TOBY SCROLL ProofOfTime QA325 329
+arcs: [Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_SCROLL_ProofOfTime_QA320_324.md
+next_id: TOBY_SCROLL_ProofOfTime_QA330_334.md
+---
 # ⏳ TOBYWORLD RAG SCROLL: Proof of Time & Epoch Philosophy (QA325–329)
 
 ## 🌿 TOBY_QA325

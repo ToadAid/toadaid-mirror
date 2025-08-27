@@ -1,11 +1,15 @@
 ---
-title: TOBY_T047_CrystalProphecyAndNumericCovenant
+title: TOBY T047 CrystalProphecyAndNumericCovenant 2024-04-06 EN-ZH
 date: 2024-04-06
 theme: Crystal Prophecy & Sacred Numbers
 languages: [EN, ZH]
-tags: [Prophecy, Clarity, Numbers, Identity, Lore]
+tags: [777Burn, Clarity, Identity, Lore, Numbers, PatienceToken, Prophecy]
+arc: 777Burn
+id: TOBY_T047_CrystalProphecyAndNumericCovenant_2024-04-06_EN-ZH.md
+arcs: [777Burn, PatienceToken]
+prev_id: TOBY_T046_777SacredFutureBlessing_2024-04-04_EN-ZH.md
+next_id: TOBY_T048_EndgameAndBushidoManifesto_2024-04-07_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > clones may mimic, doubters jeer, fear mongers near,  

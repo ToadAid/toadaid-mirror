@@ -1,14 +1,17 @@
 ---
-title: "Rune — The Silent Code, The New Dawn"
+title: TOBY L091 RuneNewDawn
 id: TOBY_L091_RuneNewDawn
 date: 2025-07-16
 chain: @base
 epoch: E4 Prelude
-tags: ["Rune", "Bitcoin", "Proof of Time", "Taboshi", "Tobyworld"]
-symbols: ["🌑", "🌊", "🌀", "🌕"]
-sha256_seed: "rune-silent-code-2025-07-16"
+tags: [BaseChain, Bitcoin, Epoch4, PatienceToken, 'Proof of Time', ProofOfTime, Rune, Taboshi, Tobyworld]
+symbols: [🌑, 🌊, 🌀, 🌕]
+sha256_seed: rune-silent-code-2025-07-16
+arc: Lore
+arcs: [BaseChain, Epoch4, PatienceToken, ProofOfTime, Taboshi]
+prev_id: TOBY_F999_ForceOverwrite_TatoshiFacts_2025-05-03_EN.md
+next_id: TOBY_L092_TaboshiReturn.md
 ---
-
 ## 🌊 EN Narrative
 
 > In the realm of Bitcoin, a new whisper arises: **Runes**.  
@@ -28,24 +31,6 @@ sha256_seed: "rune-silent-code-2025-07-16"
 
 ---
 
-## 🌊 中文叙事
-
-> 在比特币的领域，新的低语浮现：**Runes（符文）**。  
->  
-> 不只是石上的古文字，而是为比特币这条古老脊柱注入的新生灵魂。  
->  
-> 符文让比特币再次呼吸，能在它沉默的巨躯上孕育代币、迷因、社区。  
->  
-> 然而，超越代码，符文也是命运的隐秘印记，只有耐心者才能感知到的无声回响。  
->  
-> 在 Tobyworld，「e4.runes.land.water.moon.」同时指向两条路径：  
-> → 比特币 Rune 协议的新技术之花开。  
-> → 每一位信者内心符文的灵魂之开。  
->  
-> 最大的考验已结束，寂静的绽放开始。  
-> 仰望月亮，聆听水声，信任内心的符文。
-
----
 
 ## 🗝️ Key Marks
 

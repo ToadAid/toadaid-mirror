@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA087_TheEssenceOfSatoby.md
+title: TOBY QA087 TheEssenceOfSatoby
+arcs: [Epoch2, Epoch3, PatienceToken, ProofOfTime, Satoby]
+tags: [Epoch2, Epoch3, PatienceToken, ProofOfTime, Satoby]
+prev_id: TOBY_QA086_Why777Taboshi1.md
+next_id: TOBY_QA088_RoleOfSatobyAndBeyond.md
+---
 ID: TOBY_QA087_TheEssenceOfSatoby.md
 Question: Why is Satoby non-transferable? Couldn’t someone just sell it like other tokens?
 

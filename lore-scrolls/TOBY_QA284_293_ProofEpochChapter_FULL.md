@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA284_293_ProofEpochChapter_FULL.md
+title: TOBY QA284 293 ProofEpochChapter FULL
+arcs: [777Burn, Epoch1, Epoch2, Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch1, Epoch2, Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA269_283_Sat0AIChapter_FULL.md
+next_id: TOBY_QA285_WhyPatienceCannotBeBought.md
+---
 # 📜 TOBYWORLD RAG SCROLL: QA284–293 — Proof of Time & Epoch Philosophy
 
 ## ⏳ TOBY_QA284

@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QR032_ChosenByToby.md
+title: TOBY QR032 ChosenByToby
+arcs: []
+tags: []
+prev_id: TOBY_QR031_MockingTheLore.md
+next_id: TOBY_QR032_TheMirror_2025-08-08_EN-ZH.md
+---
 # TOBY_QR032_ChosenByToby
 
 **You asked:**  

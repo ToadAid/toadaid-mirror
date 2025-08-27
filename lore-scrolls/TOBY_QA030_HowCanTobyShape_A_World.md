@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA030_HowCanTobyShape_A_World.md
+title: TOBY QA030 HowCanTobyShape A World
+arcs: [ProofOfTime]
+tags: [ProofOfTime]
+prev_id: TOBY_QA029_WhyIsTobySilent.md
+next_id: TOBY_QA031_WhyIsTobySilent_EvenWhenC.md
+---
 ID: TOBY_QA030_HowCanTobyShape_A_World.md
 Question: If Toby has no mouth, how can he shape a world?
 

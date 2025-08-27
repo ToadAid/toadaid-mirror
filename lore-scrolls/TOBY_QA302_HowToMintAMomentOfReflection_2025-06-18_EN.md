@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QA302_HowToMintAMomentOfReflection_2025-06-18_EN.md
+title: TOBY QA302 HowToMintAMomentOfReflection 2025-06-18 EN
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QA301_WhatLoreIsStoredOnchain_2025-06-18_EN.md
+next_id: TOBY_QA303_WhereToBeginStudyingTheLore_2025-06-18_EN.md
+---
 TOBY_QA302_HowToMintAMomentOfReflection_2025-06-18_EN.md
 
 ❓ Question:

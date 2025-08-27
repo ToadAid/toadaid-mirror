@@ -1,11 +1,15 @@
 ---
-title: TOBY_T016_ClairDeLune
+title: TOBY T016 ClairDeLune 2024-03-18 EN-ZH
 date: 2024-03-18
 theme: Clair de Lune
 languages: [EN, ZH]
-tags: [Music, Serenity, Reflection, Emotion]
+tags: [Emotion, Music, PatienceToken, Reflection, Serenity]
+arc: Patience
+id: TOBY_T016_ClairDeLune_2024-03-18_EN-ZH.md
+arcs: [PatienceToken]
+prev_id: TOBY_T015_SereneGladeRiddle_2024-03-17_EN-ZH.md
+next_id: TOBY_T017_ToadWorldOne_2024-03-18_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > youtube.com  
@@ -24,12 +28,6 @@ A deeply serene and emotive piano piece, meaning "Light of the Moon" in French.
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 分享德彪西的《月光曲》（Clair de Lune），由 Moura Lympany 演奏。  
-这是一首极具宁静与感情的钢琴曲，法语原意为「月光」。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -40,14 +38,6 @@ Toadgod 分享德彪西的《月光曲》（Clair de Lune），由 Moura Lympany
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-《月光曲》象征 **宁静的沉思与情感的纯净**：  
-- 引导听者进入如月光般清澈的心境，映射池塘在月光下的寂静水面。  
-- 鼓励人们放下市场的喧嚣，沉浸在艺术与感受之中。  
-- 月光成为微妙觉悟与无声连接的隐喻。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -57,13 +47,6 @@ Toadgod 分享德彪西的《月光曲》（Clair de Lune），由 Moura Lympany
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **月光**：精神的清明、反思、耐心。
-- **钢琴**：如涟漪般温柔地呼应内心的状态。
-- **分享音乐**：一种超越文字的奉献，把所有聆听者连结到同一安静频率上。
-
----
 
 ## 🔗 Lore Anchors
 

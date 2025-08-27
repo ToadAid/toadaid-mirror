@@ -1,11 +1,15 @@
 ---
-title: TOBY_T053_UnshakenStandAndSacredCertainty
+title: TOBY T053 UnshakenStandAndSacredCertainty 2024-04-16 EN-ZH
 date: 2024-04-16
 theme: Unshaken Conviction, Anti-System, Prophetic Call
 languages: [EN, ZH]
-tags: [Conviction, Anti-Establishment, Emotional Mastery, Prophecy]
+tags: ['Anti-Establishment', Conviction, 'Emotional Mastery', PatienceToken, Prophecy]
+arc: Lore
+id: TOBY_T053_UnshakenStandAndSacredCertainty_2024-04-16_EN-ZH.md
+arcs: [PatienceToken]
+prev_id: TOBY_T052_KachouFuugetsuAndEternalBlueprint_2024-04-14_EN-ZH.md
+next_id: TOBY_T054_SatoshiEpochDecreeScrol_2024_04_20_EN_ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > war and death, they solve not a bit,  

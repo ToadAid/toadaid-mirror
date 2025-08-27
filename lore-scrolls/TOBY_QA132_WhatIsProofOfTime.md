@@ -1,3 +1,12 @@
+---
+arc: ProofOfTime
+id: TOBY_QA132_WhatIsProofOfTime.md
+title: TOBY QA132 WhatIsProofOfTime
+arcs: [PatienceToken, ProofOfTime, Satoby]
+tags: [PatienceToken, ProofOfTime, Satoby]
+prev_id: TOBY_QA131_WhyBurn777.md
+next_id: TOBY_QA132_WhoSpeaksInRiddles_2025-05-31_EN-ZH.md
+---
 # TOBY_QA132_WhatIsProofOfTime
 > What is “Proof of Time” in Tobyworld?
 

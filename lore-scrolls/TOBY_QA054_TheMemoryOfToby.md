@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA054_TheMemoryOfToby.md
+title: TOBY QA054 TheMemoryOfToby
+arcs: [777Burn, ProofOfTime, Taboshi]
+tags: [777Burn, ProofOfTime, Taboshi]
+prev_id: TOBY_QA053_WhyisTobyNotaLeader.md
+next_id: TOBY_QA055_TobyNeverLeft.md
+---
 ID: TOBY_QA054_TheMemoryOfToby.md
 Question: If Toby is not alive, how can he remember?
 

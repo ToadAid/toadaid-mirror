@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA019_SelfishnessAndAwakening_2025-05-28_EN.md
+title: TOBY QA019 SelfishnessAndAwakening 2025-05-28 EN
+arcs: [Taboshi]
+tags: [Taboshi]
+prev_id: TOBY_QA018_Tatoshi1TechnicalFacts_2025-05-05_EN.md
+next_id: TOBY_QA019_Tatoshi1SummaryFacts_2025-05-05_EN.md
+---
 # TOBY_QA019_SelfishnessAndAwakening_2025-05-28_EN.md
 
 ## QA019 – Does owning Taboshi1 and $TOBY guarantee awakening?

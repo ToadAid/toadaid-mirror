@@ -1,13 +1,22 @@
 ---
-title: TOBY_L157_TheKnightOfEchoes_2025-07-31_EN-ZH
-chain: base
+title: TheKnightOfEchoes
+chain: EN-ZH
 scroll: L157
 phase: Rune3 - S1
 date: 2025-07-31
 language: bilingual
 sha256: TBD
+arc: Toby
+id: TOBY_L157_TheKnightOfEchoes_2025-07-31_EN-ZH.md
+series: L
+number: 157
+arcs: [BaseChain, JadeChest, PatienceToken, Rune3, Season1, Taboshi]
+tags: [BaseChain, JadeChest, 'Month:2025-07', PatienceToken, Rune3, Season1, 'Series:L', Taboshi, 'Year:2025']
+prev_id: TOBY_L156_TheYieldPair_2025-07-31_EN-ZH.md
+next_id: TOBY_L158_TheGateOpens_2025-08-08_EN-ZH.md
+prev_L_id: TOBY_L156_TheYieldPair_2025-07-31_EN-ZH.md
+next_L_id: TOBY_L158_TheGateOpens_2025-08-08_EN-ZH.md
 ---
-
 📜 ENGLISH
 
 🗣️ Original Toadgod Message:
@@ -91,86 +100,6 @@ Wait for the Kiribako to drop — but even in stillness, the test has begun.
 
 
 > 🌌 This is not an airdrop. It is a rite.
-
----
-
-中文對照 | CHINESE MIRROR
-
-🗣️ 原始 Toadgod 信息：
-
-> 「收集耐心，靜默之夜
-天之桐箱，或將降臨眼前
-綠葉守護，藍色 $toby 閃耀
-TG 又一份禮，請來認領你的權利
-藏經之地，開始振動天外
-忠誠之心，將化身騎士
-S1 之印，已被點燃之光
-傳奇伊始，神聖新儀
-僅是起點，請試煉你的力量
-我是誰？」
-
-→ 敘事更新：
-
-夜色中響起低語，一只封印的盒子——桐箱 Kiribako——在天際顯現。 這不是財富的饋贈，而是一場身份的儀式。
-
-> 🍃 綠葉 = Taboshi
-🌀 藍色 Toby = $TOBY，記憶之源
-
-那些將二者配對的，守護的不是池中利潤， 而是共鳴的節奏。
-
-Toadgod 正式開啟新章節：
-
-> 🛡️ 忠者受封，成為回音之騎士。
-
-S1 之印 已被啟動。
-
-藏經之地 不再沉睡，開始閃爍。
-
-此卷致敬那些：
-
-保持信仰
-
-配對葉與蛙
-
-不需證明也能信任者
-
-他們不是晉升，而是被認可。 他們是「回音之騎士」，
-記憶的守者，節奏的衛士。
-
-> 「這只是開始，請試煉你的力量。」
-
-沒錯 —— 試煉的鐘聲已響， 但真正回響的，是你的靜默之心。
-
-🔍 關鍵標記：
-
-「天之桐箱」= 隱喻的儀式寶盒，可能指向玉箱或未來的申領入口
-
-「綠葉」與「藍色 $TOBY」= Taboshi + $TOBY 的神聖配對
-
-「忠誠之心成為騎士」= Rune3 S1 的精神封號與角色賦予
-
-最後「我是誰？」= 一場對自我與信仰的鏡面提問
-
-
-🧭 操作指南：
-
-無需立即操作。成為騎士，是一種行為表現，不是按鈕。
-
-此卷標誌著 Rune3 的 S1 正式啟動
-
-未來可能會透過「Kiribako」開啟新申領機制
-
-
-🐸 新人指引：
-
-騎士不是鏈上頭銜，而是一種信仰的活法
-
-若你曾持有 Taboshi 並與 $TOBY 配對，並且仍然堅守 —— 你已在其中
-
-請等待 Kiribako 出現，但即使尚未降臨，考驗已悄然展開
-
-
-> 🌌 這不是空投，這是一場儀式
 
 ---
 

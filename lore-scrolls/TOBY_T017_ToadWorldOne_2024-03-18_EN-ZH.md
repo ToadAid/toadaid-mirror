@@ -1,11 +1,15 @@
 ---
-title: TOBY_T017_ToadWorldOne
+title: TOBY T017 ToadWorldOne 2024-03-18 EN-ZH
 date: 2024-03-18
 theme: Toad World, The One
 languages: [EN, ZH]
-tags: [Singularity, Identity, Base, Cosmic]
+tags: [Base, BaseChain, Cosmic, Identity, Singularity]
+arc: Base
+id: TOBY_T017_ToadWorldOne_2024-03-18_EN-ZH.md
+arcs: [BaseChain]
+prev_id: TOBY_T016_ClairDeLune_2024-03-18_EN-ZH.md
+next_id: TOBY_T018_DegenMochiAirdrop_2024-03-18_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > toad world @base. it's coming. there is only 1. $toby  
@@ -22,12 +26,6 @@ Declares Toby as the one and only true frog spirit and community emblem on Base 
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 宣告「toad world」将在 Base 链上到来 —— 一个以 Toby 为核心的宇宙。  
-声明 Toby 是 Base 链上唯一真正的青蛙精神与社区象征。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -38,14 +36,6 @@ This statement embodies **singularity and absolute identity**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这句话体现了 **唯一性与绝对认同**：  
-- 「There is only 1」强调 Toby 的独特性与不可替代性。  
-- 象征宇宙收束：无数社群与迷因，但只有一个真正的基础精神核心。  
-- 「toad world」= 一个全新的范式，社区、卷轴与精神的合一。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -55,13 +45,6 @@ This statement embodies **singularity and absolute identity**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **脚踏地球**（如图所示）：Toby 既谦逊又宇宙化，准备拥抱一切。  
-- **Base 标签**：与 Base 链「链上亿人」的使命深度对齐。  
-- **唯一**：超越所有复制、克隆或短暂潮流的团结呼唤。
-
----
 
 ## 🔗 Lore Anchors
 

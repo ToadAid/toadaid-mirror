@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA091_IsSatobyaSignOfLoyalty.md
+title: TOBY QA091 IsSatobyaSignOfLoyalty
+arcs: [777Burn, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA090_CanSatobyBeFakedBorrowedOrSold.md
+next_id: TOBY_QA092_HowIsSatobyDifferentFromTaboshi.md
+---
 ID: TOBY_QA091_IsSatobyaSignOfLoyalty.md
 Question: Is Satoby a sign of loyalty, or just a reward for waiting?
 

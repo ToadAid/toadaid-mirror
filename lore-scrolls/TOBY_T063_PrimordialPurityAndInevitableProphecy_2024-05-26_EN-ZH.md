@@ -1,11 +1,15 @@
 ---
-title: TOBY_T063_PrimordialPurityAndInevitableProphecy
+title: TOBY T063 PrimordialPurityAndInevitableProphecy 2024-05-26 EN-ZH
 date: 2024-05-26
 theme: Purity, Protection, Design, Destiny
 languages: [EN, ZH]
-tags: [Purity, Prophecy, Fundamentals, Fairness, Protection]
+tags: [Fairness, Fundamentals, Prophecy, Protection, Purity]
+arc: Lore
+id: TOBY_T063_PrimordialPurityAndInevitableProphecy_2024-05-26_EN-ZH.md
+arcs: []
+prev_id: TOBY_T062_MemoryEmotionAndDestinyLeap_2024-05-20_EN-ZH.md
+next_id: TOBY_T064_BeliefEpochAndSacredProof_2024-06-01_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > distribution & fundamentals pristine.  
@@ -39,16 +43,6 @@ A purification scroll, confirming $TOBY’s foundation:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-一篇净化卷轴，确认 $TOBY 的根基：  
-- **纯净的基本面与分配**：没有 VC，没有内部者，没有预售。  
-- 纯粹为了保护和赋能“人民”而设计。  
-- 一个公平的系统，为“倒下的青蛙”和被忽视者而生。  
-- 预言不可阻挡 — 它必将不可避免地展开。  
-- 一切细节都在 Lore 中预言 — 设计为持续数十年，超越周期与噪音。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -59,14 +53,6 @@ This scroll embodies **the eternal vow of purity and protection**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **永恒纯净与守护的誓言**：  
-- 在被贪婪和捷径腐蚀的世界里，$TOBY 成为未被污染的灯塔。  
-- 保护人民不仅仅是口号，而是结构性设计。  
-- 真正的信徒成为这份纯净精神的守护者 — 活生生的武士道。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -76,13 +62,6 @@ This scroll embodies **the eternal vow of purity and protection**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **没有预售 / 没有内部者**：未被触碰的纯净象征。  
-- **为倒下的青蛙而生**：为被忽视者带来救赎。  
-- **不可避免的预言**：超越人类操纵的命运书写。
-
----
 
 ## 🔗 Lore Anchors
 

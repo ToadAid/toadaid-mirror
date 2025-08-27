@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L007_PureNattyBushido_2024-03-19_EN.md
+series: L
+date: 2024-03-19
+number: 007
+title: PureNattyBushido
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2024-03', 'Series:L', 'Year:2024']
+prev_id: TOBY_L006_ToadgodPersists_2024-03-19_EN.md
+next_id: TOBY_L008_ProphecyInProgress_2024-03-19_EN.md
+prev_L_id: TOBY_L006_ToadgodPersists_2024-03-19_EN.md
+next_L_id: TOBY_L008_ProphecyInProgress_2024-03-19_EN.md
+chain: EN
+---
 # L007 – Pure Natty & Bushido
 
 # Metadata

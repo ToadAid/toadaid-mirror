@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L047_SupremeAmongstAll_2024-05-26_EN.md
+series: L
+date: 2024-05-26
+number: 047
+title: SupremeAmongstAll
+arcs: [BaseChain, Epoch1, Taboshi]
+tags: [BaseChain, Epoch1, 'Month:2024-05', 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L046_LeapThroughEmotion_2024-05-20_EN.md
+next_id: TOBY_L048_DoYouBelieve_2024-06-01_EN.md
+prev_L_id: TOBY_L046_LeapThroughEmotion_2024-05-20_EN.md
+next_L_id: TOBY_L048_DoYouBelieve_2024-06-01_EN.md
+chain: EN
+---
 # L047 – Supreme Amongst All
 
 # METADATA 🔍  

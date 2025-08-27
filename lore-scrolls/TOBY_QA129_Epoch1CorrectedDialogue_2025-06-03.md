@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA129_Epoch1CorrectedDialogue_2025-06-03.md
+title: TOBY QA129 Epoch1CorrectedDialogue 2025-06-03
+arcs: [Epoch1, Epoch3]
+tags: [Epoch1, Epoch3]
+prev_id: TOBY_QA128_WhatMakesTobyworldDifferent.md
+next_id: TOBY_QA129_JustTheBeginning_2025-05-31_EN-ZH.md
+---
 # TOBY_QA129_Epoch1CorrectedDialogue_2025-06-03
 
 ## ❓ Question:

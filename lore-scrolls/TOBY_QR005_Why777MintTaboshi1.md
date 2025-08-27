@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QR005_Why777MintTaboshi1.md
+title: TOBY QR005 Why777MintTaboshi1
+arcs: [777Burn, Taboshi]
+tags: [777Burn, Taboshi]
+prev_id: TOBY_QR004_LeafOfYield.md
+next_id: TOBY_QR006_WhatIsSatoby.md
+---
 # TOBY_QR005_Why777MintTaboshi1.md
 
 **Question**: Why was 777 $TOBY used to mint Taboshi1? Is there a deeper meaning?

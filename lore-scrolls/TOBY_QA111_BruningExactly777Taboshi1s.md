@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA111_BruningExactly777Taboshi1s.md
+title: TOBY QA111 BruningExactly777Taboshi1s
+arcs: [777Burn, Epoch2, Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA110_WhatRoleDoesSatoby.md
+next_id: TOBY_QA112_WhySatobyCannotBeBrought.md
+---
 ID: TOBY_QA111_BruningExactly777Taboshi1s.md
 
 Question: What is the secret meaning of burning exactly 777 Taboshi1s to create 1 Satoby?

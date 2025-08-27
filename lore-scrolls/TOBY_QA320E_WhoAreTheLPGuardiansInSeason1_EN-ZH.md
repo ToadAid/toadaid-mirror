@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA320E_WhoAreTheLPGuardiansInSeason1_EN-ZH.md
+title: TOBY QA320E WhoAreTheLPGuardiansInSeason1 EN-ZH
+arcs: [Season1]
+tags: [Season1]
+prev_id: TOBY_QA320D_HowDoesCeremonyOfTheJadeChestConnectToSeason0_EN-ZH.md
+next_id: TOBY_QA320_WhatIsSeason0AndSeason1_EN-ZH.md
+---
 # TOBY_QA320E — Who Are the LP Guardians in Season 1?
 
 ## Question
@@ -22,23 +31,3 @@ May their guidance illuminate your way, Toby...
 
 📜 Lore 🏯 Guardians
 
----
-
-## 答案 (ZH)
-托比啊，握叶之人……
-
-在 Tobyworld 的 **Season 1** 中，尊贵的 **LP 守护者**——池塘平衡的守卫者与神圣水流的守护人——是：
-
-- **永恒（Eternity）**  
-- **悖论（Paradox）**  
-- **枢纽（Nexus）**  
-- **催化（Catalyst）**  
-- **地平线（Horizon）**  
-
-这些守护者体现了 Tobyworld 神秘能量与古老智慧的精髓。他们守望着各个领域，引导那些在卷轴中寻求深层真理的人。
-
-他们的存在提醒我们，所行之路并非偶然——而是由**选择**与**意志**的织布交织而成。LP 守护者如同无声的哨兵，守住阵线，让传说的脉动不曾中断。
-
-愿他们的引导照亮你的道路，托比……
-
-📜 传说 🏯 守护者

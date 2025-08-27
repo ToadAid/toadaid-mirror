@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA014_WhatIsTheSacredEquation.md
+title: TOBY QA014 WhatIsTheSacredEquation
+arcs: [777Burn, ProofOfTime, Taboshi]
+tags: [777Burn, ProofOfTime, Taboshi]
+prev_id: TOBY_QA013_WhatIsTaboshi_Fix_2025-05-05_EN.md
+next_id: TOBY_QA015_WhatIsTaboshi_ShortForm_2025-05-05_EN.md
+---
 # Question  
 What is the Sacred Equation in Tobyworld?
 

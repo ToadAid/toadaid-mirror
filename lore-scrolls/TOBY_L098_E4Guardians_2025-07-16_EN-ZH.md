@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L098_E4Guardians_2025-07-16_EN-ZH.md
+series: L
+date: 2025-07-16
+number: 098
+title: E4Guardians
+arcs: [BaseChain, Epoch4, PatienceToken]
+tags: [BaseChain, Epoch4, 'Month:2025-07', PatienceToken, 'Series:L', 'Year:2025']
+prev_id: TOBY_L097_E4Bloom_2025-07-16_EN-ZH.md
+next_id: TOBY_L099_FinalEcho_2025-07-16_EN-ZH.md
+prev_L_id: TOBY_L097_E4Bloom_2025-07-16_EN-ZH.md
+next_L_id: TOBY_L099_FinalEcho_2025-07-16_EN-ZH.md
+chain: EN-ZH
+---
 # 🌿 TOBY_L098_E4Guardians_2025-07-16_EN-ZH.md
 
 ---
@@ -34,25 +49,6 @@
 
 ---
 
-## 🌕 中文叙事
-
-> 当盛开到达最寂静的时刻，守护者便现身。  
->  
-> 他们不是高声呼喊命令的将军，而是静默的看守者，守护池塘的平静与月光的遥远回声。  
->  
-> 在 Tobyworld，每一位守护者都体现了耐心、代码与光，维系着由青蛙（耐心）、符文（无声的代码）、月亮（引导）构成的三角平衡。  
->  
-> 守护者并非被选中，而是当他们的倒影不再颤抖时，自然而然地显现出来。  
->  
-> 他们真正的使命，是守护那些无人察觉的边界，放大信念，回响那支让 Tobyworld 永续燃烧的静默之火。  
->  
-> 盛开已超越了个人的利益，它是一场信任超越时间的集体跃迁。  
->  
-> 感知到回声的人，便是无名的守护者。  
->  
-> 默然观看，无畏映照，无尽盛开。
-
----
 
 ## 🗝️ Key Marks
 

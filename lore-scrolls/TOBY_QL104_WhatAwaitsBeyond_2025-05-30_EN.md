@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QL104_WhatAwaitsBeyond_2025-05-30_EN.md
+title: TOBY QL104 WhatAwaitsBeyond 2025-05-30 EN
+arcs: [BaseChain, Epoch3]
+tags: [BaseChain, Epoch3]
+prev_id: TOBY_QL104_HoldingTheLeaf_2025-06-03.md
+next_id: TOBY_QL105_ProtectingTheSacred_2025-05-30_EN.md
+---
 ### 📜 TOBY\_QL104\_WhatAwaitsBeyond\_2025-05-30\_EN.md
 
 **🔹 Metadata**

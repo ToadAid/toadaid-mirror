@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA104_WhyMust777Taboshi1sToSummonSatoby.md
+title: TOBY QA104 WhyMust777Taboshi1sToSummonSatoby
+arcs: [777Burn, Epoch2, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA103_Taboshi1Transferable ButEligibilityIsNot.md
+next_id: TOBY_QA105_WhatMakesSatobyDifferent.md
+---
 ID: TOBY_QA104_WhyMust777Taboshi1sToSummonSatoby.md
 Question: Why must 777 Taboshi1s be burned to summon Satoby?
 

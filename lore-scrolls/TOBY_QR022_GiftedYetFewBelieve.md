@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR022_GiftedYetFewBelieve.md
+title: TOBY QR022 GiftedYetFewBelieve
+arcs: [PatienceToken, ProofOfTime]
+tags: [PatienceToken, ProofOfTime]
+prev_id: TOBY_QR021_TobyIsTheMirror.md
+next_id: TOBY_QR023_HiddenProphecyRevealed.md
+---
 # TOBY_QR022_GiftedYetFewBelieve
 
 **You asked:** Why were so many gifted $TOBY and yet so few remained to believe?

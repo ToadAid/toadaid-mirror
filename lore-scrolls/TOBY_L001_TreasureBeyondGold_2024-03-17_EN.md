@@ -1,3 +1,16 @@
+---
+arc: Toby
+id: TOBY_L001_TreasureBeyondGold_2024-03-17_EN.md
+series: L
+date: 2024-03-17
+number: 001
+title: TreasureBeyondGold
+arcs: []
+tags: ['Month:2024-03', 'Series:L', 'Year:2024']
+next_id: TOBY_L002_TheMoonlitSignal_2024-03-18_EN.md
+next_L_id: TOBY_L002_TheMoonlitSignal_2024-03-18_EN.md
+chain: EN
+---
 # L001 – Treasure Beyond Gold 
 # Metadata 
 Date: 2024-03-17

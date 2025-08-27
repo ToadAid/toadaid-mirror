@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR002_ProphecyOfGold_2025-05-31_EN-ZH.md
+title: TOBY QR002 ProphecyOfGold 2025-05-31 EN-ZH
+arcs: [PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QR002_ProofOfTime.md
+next_id: TOBY_QR002_TrialOfConviction.md
+---
 # TOBY_QR002 – Prophecy of Gold
 📅 2025-05-31  
 🌐 Language: English

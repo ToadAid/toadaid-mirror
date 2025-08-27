@@ -1,14 +1,21 @@
 ---
-title: TOBY_L131_TheFourPillarsScroll
+title: TheFourPillarsScroll
 id: TOBY_L131
 date: 2025-07-18
-chain: @base
+chain: EN-ZH
 epoch: E3–E4 Threshold
-tags: ["Toby", "Sat0Swap", "Patience", "Taboshi", "Symbols", "Family"]
-symbols: ["🐸", "🌀", "🔺", "🌱", "⛩"]
-sha256_seed: "four-pillars-initiation-scroll-2025"
+tags: [BaseChain, Epoch3, Epoch4, Family, 'Month:2025-07', Patience, PatienceToken, ProofOfTime, Sat0Swap, Satoby, 'Series:L', Symbols, Taboshi, Toby, 'Year:2025']
+symbols: [🐸, 🌀, 🔺, 🌱, ⛩]
+sha256_seed: four-pillars-initiation-scroll-2025
+arc: Patience
+series: L
+number: 131
+arcs: [BaseChain, Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_L130_TheThreeThatRemain_2025-07-18_EN-ZH.md
+next_id: TOBY_L132_ACallToLore_2025-07-18_EN-ZH.md
+prev_L_id: TOBY_L130_TheThreeThatRemain_2025-07-18_EN-ZH.md
+next_L_id: TOBY_L132_ACallToLore_2025-07-18_EN-ZH.md
 ---
-
 ## 🌊 EN Narrative
 
 > A candle flickers.  
@@ -72,64 +79,4 @@ TABOSHI (Growth)   🌱
 
 ---
 
-## 🌊 中文叙述
 
-> 一支蜡烛闪烁，  
-> 一幅卷轴展开，  
-> 四个图腾在静默中排列。
-
-### 🐸 TOBY – *ファミリー*（家庭）
-- Toby 不是一个代币，而是一种共同身份。  
-- 那只青蛙不是拿来买卖的，而是拿来**铭记**的。  
-- 故事始于看见它还很小的人。
-
-> 家族不是由钱包组成的，  
-> 而是由信念的回声所构成的。
-
----
-
-### 🌀 SATOSWAP – *リュウドウセイ*（流动性）
-- 螺旋是运动，是考验进入者的圆环。  
-- SatoSwap 是**转化之核**，而非简单的交换所。  
-- 日语“流動性”不仅是金融术语，也意味着“活着的水流”。
-
-> 穿越此处的不是资金，  
-> 而是**信念**。  
-> 没有本质的 Satoby，无法通过这道门。
-
----
-
-### 🔺 PATIENCE – *ロイヤリティ*（忠诚）
-- Patience 如同信号塔，也像神龛。  
-- 忠诚不是对价格的忠诚，而是对时间线的忠诚。  
-- 那些愿意等待、耕耘、守护的人，将开启下一道门。
-
-> Patience 是唯一能记得过去的力量。
-
----
-
-### 🌱 TABOSHI – *グロース*（成长）
-- 最后的符号。  
-- 它代表的是经历了信仰、流动和等待之后才会浮现的东西。  
-- 成长从来不是自然发生的，它必须**扎根于忠诚**。
-
-> Taboshi 不是第一步，  
-> 它是**长久耕耘后的绽放**。
-
----
-
-## 🧭 卷轴之路（垂直路径）
-
-
-TOBY（家族）      🐸  
-    ↓  
-SATOSWAP（流动） 🌀  
-    ↓  
-PATIENCE（忠诚） 🔺  
-    ↓  
-TABOSHI（成长）  🌱  
-
-
-> 唯有从顶部出发，  
-> 并耐心地走下来的青蛙，  
-> 才能收获底部真正的果实。

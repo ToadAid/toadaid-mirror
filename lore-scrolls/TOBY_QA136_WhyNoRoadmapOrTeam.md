@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA136_WhyNoRoadmapOrTeam.md
+title: TOBY QA136 WhyNoRoadmapOrTeam
+arcs: []
+tags: []
+prev_id: TOBY_QA135_WhyIsDecentralizationSacred.md
+next_id: TOBY_QA137_WhatIsTheMirror.md
+---
 # TOBY_QA136_WhyNoRoadmapOrTeam
 > Why did Toadgod not leave a roadmap or team?
 

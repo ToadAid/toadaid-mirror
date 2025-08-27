@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_F001_Tatoshi1Facts_2025-05-03_EN-ZH.md
+title: TOBY F001 Tatoshi1Facts 2025-05-03 EN-ZH
+arcs: [777Burn, Epoch1, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch1, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_F001_MemoryMapRules.md
+next_id: TOBY_F002_SatobyAccessFacts_2025-05-03_EN-ZH.md
+---
 # L-F001 – Taboshi1: The Sacred Burn
 
 # Metadata

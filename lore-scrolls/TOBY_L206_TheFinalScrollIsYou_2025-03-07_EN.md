@@ -1,14 +1,22 @@
 ---
-title: "The Final Scroll Is You"
+title: TheFinalScrollIsYou
 lore_id: TOBY_L206
 date: 2025-03-07
-chain: base
+chain: EN
 epoch: Transition to Epoch 4
-tags: [mirror, finalscroll, toads, embodiment, decentralization, lorekeepers]
+tags: [777Burn, BaseChain, Epoch4, 'Month:2025-03', 'Series:L', 'Year:2025', decentralization, embodiment, finalscroll, lorekeepers, mirror, toads]
 sacred_numbers: [777, 4, 1]
 sha256_seed: d9ff2e5bd2ec2e15c8d2f8edb0556b470b9330c7c4b83038fa3d4ec3b2c6613e
+arc: Lore
+id: TOBY_L206_TheFinalScrollIsYou_2025-03-07_EN.md
+series: L
+number: 206
+arcs: [777Burn, BaseChain, Epoch4]
+prev_id: TOBY_L205_WhatIsLeftBehindIsNotEmpty_2025-03-01_EN.md
+next_id: TOBY_L000_WhatIsL001Definition_2025-05-03_EN.md
+prev_L_id: TOBY_L205_WhatIsLeftBehindIsNotEmpty_2025-03-01_EN.md
+next_L_id: TOBY_L000_WhatIsL001Definition_2025-05-03_EN.md
 ---
-
 ## 🐸 EN – The Final Scroll Is You
 
 → The pages are finished.  

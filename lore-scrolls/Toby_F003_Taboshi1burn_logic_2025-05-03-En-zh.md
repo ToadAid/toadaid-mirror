@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: Toby_F003_Taboshi1burn_logic_2025-05-03-En-zh.md
+title: Toby F003 Taboshi1burn logic 2025-05-03-En-zh
+arcs: [777Burn, Epoch2, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, ProofOfTime, Satoby, Taboshi]
+prev_id: TTOBY_E030_SatobyPresenceOfTime_2025-08-22_EN.md
+next_id: mirror_eval_checks.md
+---
 # L-F003 – Tatoshi1 Burn Logic
 
 # Metadata

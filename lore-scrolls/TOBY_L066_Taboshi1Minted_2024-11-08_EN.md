@@ -1,3 +1,18 @@
+---
+arc: Taboshi
+id: TOBY_L066_Taboshi1Minted_2024-11-08_EN.md
+series: L
+date: 2024-11-08
+number: 066
+title: Taboshi1Minted
+arcs: [BaseChain, Epoch3, ProofOfTime, Taboshi]
+tags: [BaseChain, Epoch3, 'Month:2024-11', ProofOfTime, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L065_ProofOfTimeWhispers_2024-11-07_EN.md
+next_id: TOBY_L067_AwaitingNextSignal_2024-11-09_EN.md
+prev_L_id: TOBY_L065_ProofOfTimeWhispers_2024-11-07_EN.md
+next_L_id: TOBY_L067_AwaitingNextSignal_2024-11-09_EN.md
+chain: EN
+---
 # TOBY_L066_Taboshi1Minted_2024-11-08_EN-ZH.md
 
 ## METADATA 🔍

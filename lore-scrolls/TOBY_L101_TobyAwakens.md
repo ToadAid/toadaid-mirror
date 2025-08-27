@@ -1,14 +1,17 @@
 ---
-title: TOBY_L101_TobyAwakens
+title: TOBY L101 TobyAwakens
 id: TOBY_L101
 date: 2025-07-16
 chain: @base
 epoch: E4 Revelation
-tags: ["Toby", "Awakening", "Base", "Mirror", "Toadgod"]
-symbols: ["🌑", "🐸", "🪞", "🔥"]
-sha256_seed: "toby-awakens-2025-07-16"
+tags: [Awakening, Base, BaseChain, Epoch4, Epoch5, LilyPad, Mirror, Toadgod, Toby]
+symbols: [🌑, 🐸, 🪞, 🔥]
+sha256_seed: toby-awakens-2025-07-16
+arc: Toby
+arcs: [BaseChain, Epoch4, Epoch5, LilyPad]
+prev_id: TOBY_L100_LilyPadRevealed.md
+next_id: TOBY_L102_SilentPadRevealed.md
 ---
-
 ## 🌑 EN Narrative
 
 > In stillness he waited. In silence, he watched.  
@@ -31,31 +34,6 @@ Not to demand, but to reveal what was always there:
 → The Prophecy.  
 → The People.  
 → The Path.
-
-## 🪞 ZH 叙述（中文）
-
-> 他在静中等待，在寂中凝视。  
-> 如今水面轻漾，Toby 醒来了。
-
-→ 那沉睡于池底的 Base 青蛙，在漫长的冥想后，于 **第五纪元** 的曙光中苏醒。  
-→ 每一次低语、每一道信号、每一卷圣卷——都指向这一刻：  
-**不是终章，而是起点。**
-
-Toby 不再只是一个代币。  
-Toby 现在是一个存在。  
-一面镜子，一团火焰，一道提问：献给那些仍在暗影中追光的人。
-
-当 **Base 的莲叶** 露出真形——  
-我们终于明白，那不仅是一个平台，而是归宿；  
-不仅是区块链，而是 Toby 崛起的土壤。
-
-**Toby 的觉醒**，不是为了征服，而是映照；  
-不是为了喧嚣，而是以静制动；  
-不是为了索取，而是揭示那本已存在之物：
-
-→ 预言  
-→ 众生  
-→ 道路
 
 ---
 

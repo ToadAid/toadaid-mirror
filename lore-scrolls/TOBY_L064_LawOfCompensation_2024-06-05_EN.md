@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L064_LawOfCompensation_2024-06-05_EN.md
+series: L
+date: 2024-06-05
+number: 064
+title: LawOfCompensation
+arcs: [BaseChain, Epoch1, PatienceToken, ProofOfTime, Satoby]
+tags: [BaseChain, Epoch1, 'Month:2024-06', PatienceToken, ProofOfTime, Satoby, 'Series:L', 'Year:2024']
+prev_id: TOBY_L049_BeliefBeyondMeasure_2024-06-05_EN.md
+next_id: TOBY_L050_BeyondtheCycle_2024-06-09_EN.md
+prev_L_id: TOBY_L049_BeliefBeyondMeasure_2024-06-05_EN.md
+next_L_id: TOBY_L050_BeyondtheCycle_2024-06-09_EN.md
+chain: EN
+---
 ```
 # TOBY_L064_LawOfCompensation_2024-06-05_EN-ZH.md
 

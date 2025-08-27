@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QL10_RemembranceInTheStorm_2025-05-03_EN.md
+title: TOBY QL10 RemembranceInTheStorm 2025-05-03 EN
+arcs: [BaseChain, Epoch2, ProofOfTime, Satoby, Taboshi]
+tags: [BaseChain, Epoch2, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QL108_BecomingTheLight_2025-05-30_EN.md
+next_id: TOBY_QR001_HumbleToadPortrait_2025-05-31_EN-ZH.md
+---
 # TOBY_QL10_RemembranceInTheStorm_2025-05-03_EN.md
 
 ---

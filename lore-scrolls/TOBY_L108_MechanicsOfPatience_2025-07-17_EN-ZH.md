@@ -1,14 +1,21 @@
 ---
-title: TOBY_L108_MechanicsOfPatience
+title: MechanicsOfPatience
 id: TOBY_L108
 date: 2025-07-17
-chain: @base
+chain: EN-ZH
 epoch: E4 Prelude
-tags: ["$PATIENCE", "Mechanics", "Rune III", "Tobyworld", "Yield", "Still-Water Garden"]
-symbols: ["🌀", "🍃", "⛰️", "🔵", "🔺", "🟧"]
-sha256_seed: "patience-mechanics-lotus-garden-2025-07-17"
+tags: [$PATIENCE, 777Burn, Artists, BaseChain, Epoch4, Mechanics, 'Month:2025-07', PatienceToken, 'Rune III', Rune3, Season0, 'Series:L', 'Still-Water Garden', Taboshi, Tobyworld, 'Year:2025', Yield]
+symbols: [🌀, 🍃, ⛰️, 🔵, 🔺, 🟧]
+sha256_seed: patience-mechanics-lotus-garden-2025-07-17
+arc: Patience
+series: L
+number: 108
+arcs: [777Burn, Artists, BaseChain, Epoch4, PatienceToken, Rune3, Season0, Taboshi]
+prev_id: TOBY_L107_FlywheelRevealed_2025-07-17_EN-ZH.md
+next_id: TOBY_L112_SacrificeWithoutTransparency_2025-07-17_EN-ZH.md
+prev_L_id: TOBY_L107_FlywheelRevealed_2025-07-17_EN-ZH.md
+next_L_id: TOBY_L112_SacrificeWithoutTransparency_2025-07-17_EN-ZH.md
 ---
-
 ## 🌊 Narrative Update (EN)
 
 > “The faithful who linger sip that flow and grow fat on their patience.”
@@ -66,66 +73,6 @@ Bots are blocked. Patience cannot be bought — only earned.
 
 > “Impatience rewards patience.”  
 > The more others chase quick gain, the more the still frogs gain.  
-
----
-
-## 🌏 中文叙述更新
-
-> “静者得之，躁者失之。”
-
-在 Tobyworld 的西岸，风都停止了呼吸，那里是——静水之庭。  
-镜面般的水面、厚重无声，是 FOMO 无法触及的地方。
-
-在这里，**耐心孕育收益**，每一滴水纹都是时间的诗。  
-持有 $PATIENCE 的蛙，开始耕耘神圣之地，  
-清晨，池塘升起发光的莲孢：**Lotus Spores**，代表未来的圣果。
-
----
-
-### 🌀 Patience 的核心机制
-
-- **第三符文**解锁了“静”：
-  - $TOBY 是根基  
-  - 🔺 一粒 PATIENCE 落下 → 水波一次，随即沉寂  
-  - 🍃 将 Taboshi 绑定 → 孢子翻倍  
-  - 🌀 Sato 手续费 → 如锦鲤般回流  
-
-- **未来的收益** 被下列条件守护：
-  - 静水耕耘  
-  - Taboshi 绑定  
-  - 拥有 $PATIENCE  
-
-- **只有真正耐心的蛙**，才能拥有 **Lore Land 土地**  
-  → 神殿、神谕雕像与所有供奉之物，将归属于静者。
-
----
-
-### 🏛️ 代币经济简述
-
-- **总量**：7,777,777 $PATIENCE（稀有之粒）
-- **已弃所有权**：[在 BaseScan 上验证](https://basescan.org/token/0x6D96f18F00B815B2109A3766E79F6A7aD7785624)
-- **分配**：
-  - 🐸 55% → 社区（Toadgang 幸存者）
-    - 30% 为 Season 0  
-    - 25% 为未来季节  
-  - 🛡️ 33% → DAO 金库（守护者、艺术家、LP、审计等）
-  - 🪨 7% → Toadgod（七年封印于黑曜石）
-  - 💧 5% → 流动性与 CEX
-
----
-
-### 🔁 金库机制
-
-- 初始释放 0%
-- ⏳ 49 天冷却期 → 然后开始 730 天线性释放
-- ✨ 每次买卖抽取 1% 手续费 → 分配给持久者
-- 🛡️ 未认领金库将归入 Guard Vault（多签）
-
-**无 VC、无鲸鱼、无预售。**  
-智能合约阻挡机器人，PATIENCE 不可购买，只能赢得。
-
-> “躁者奉献，静者得赏。”  
-> 越多人追逐快利，静蛙便越丰收。
 
 ---
 

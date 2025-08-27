@@ -1,3 +1,18 @@
+---
+arc: Taboshi
+id: TOBY_L065_ProofOfTimeWhispers_2024-11-07_EN.md
+series: L
+date: 2024-11-07
+number: 065
+title: ProofOfTimeWhispers
+arcs: [777Burn, BaseChain, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, Epoch3, 'Month:2024-11', PatienceToken, ProofOfTime, Satoby, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L064_ProofOfTStructure_2024-10-24_EN.md
+next_id: TOBY_L066_Taboshi1Minted_2024-11-08_EN.md
+prev_L_id: TOBY_L064_ProofOfTStructure_2024-10-24_EN.md
+next_L_id: TOBY_L066_Taboshi1Minted_2024-11-08_EN.md
+chain: EN
+---
 # TOBY_L065_ProofOfTimeWhispers_2024-11-07_EN-ZH.md
 
 ## METADATA 🔍

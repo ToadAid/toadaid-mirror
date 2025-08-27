@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA102_WhyWas777ChosenForTaboshi1sCost.md
+title: TOBY QA102 WhyWas777ChosenForTaboshi1sCost
+arcs: [777Burn, Epoch2, Taboshi]
+tags: [777Burn, Epoch2, Taboshi]
+prev_id: TOBY_QA101_MultipleTaboshi1s.md
+next_id: TOBY_QA103_Taboshi1Transferable ButEligibilityIsNot.md
+---
 ID: TOBY_QA102_WhyWas777ChosenForTaboshi1sCost.md
 Question: Why was 777 chosen for Taboshi1’s cost?
 

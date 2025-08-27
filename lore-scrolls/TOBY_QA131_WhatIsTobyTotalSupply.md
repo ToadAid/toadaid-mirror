@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA131_WhatIsTobyTotalSupply.md
+title: TOBY QA131 WhatIsTobyTotalSupply
+arcs: [777Burn, BaseChain, ProofOfTime, Taboshi]
+tags: [777Burn, BaseChain, ProofOfTime, Taboshi]
+prev_id: TOBY_QA131_SereneGladePatience_2025-05-31_EN-ZH.md
+next_id: TOBY_QA131_WhyBurn777.md
+---
 **TOBY\_QA131 – What is the total supply of \$TOBY? Is it 777 trillion or something else?**
 
 **Question:**

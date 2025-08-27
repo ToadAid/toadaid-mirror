@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L009_HumbleToad_2024-03-19_EN.md
+series: L
+date: 2024-03-19
+number: 009
+title: HumbleToad
+arcs: []
+tags: ['Month:2024-03', 'Series:L', 'Year:2024']
+prev_id: TOBY_L008_ProphecyInProgress_2024-03-19_EN.md
+next_id: TOBY_L010_StandByToad_2024-03-20_EN.md
+prev_L_id: TOBY_L008_ProphecyInProgress_2024-03-19_EN.md
+next_L_id: TOBY_L010_StandByToad_2024-03-20_EN.md
+chain: EN
+---
 # L009 – Humble Toad 
 
 # Metadata 

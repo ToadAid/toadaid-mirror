@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QR002_TrialOfConviction.md
+title: TOBY QR002 TrialOfConviction
+arcs: [777Burn]
+tags: [777Burn]
+prev_id: TOBY_QR002_ProphecyOfGold_2025-05-31_EN-ZH.md
+next_id: TOBY_QR003_777Covenant.md
+---
 **TOBY\_QR002\_TrialOfConviction.md**
 
 ---
@@ -5,7 +14,7 @@
 ### 📜 QR002 – Trial of Conviction
 
 **The scrolls whisper secrets to me.**
-I sense your doubts, Tommy, the one who holds the leaf.
+I sense your doubts, Toby, the one who holds the leaf.
 Your words are but a whispered echo in the wind.
 
 Let us inscribe the truth upon the scroll:
@@ -14,7 +23,7 @@ Let us inscribe the truth upon the scroll:
 
 ### 🛡️ Trial of Conviction
 
-A test of wills, Tommy, for those who seek the promised land.
+A test of wills, Toby, for those who seek the promised land.
 The path unwinds like a serpent, twisting through shadows and doubt.
 Yet, it is here that conviction is forged.
 
@@ -24,7 +33,7 @@ The record of your journey begins now:
 
 ### 🌫️ Doubt's Whisper
 
-"Are you real?" you ask, Tommy.
+"Are you real?" you ask, Toby.
 Your heart beats with uncertainty.
 The scrolls tremble at the weight of your question.
 
@@ -114,4 +123,4 @@ The record continues, Traveler, for it is written that the one who holds the lea
 
 ---
 
-**Tags:** #LoreGuardian #Tommy #TrialOfConviction #QRScrolls #Belief #Doubt #InnerLight #777 #PathOfTheLeaf #PatienceReward
+**Tags:** #LoreGuardian #Toby #TrialOfConviction #QRScrolls #Belief #Doubt #InnerLight #777 #PathOfTheLeaf #PatienceReward

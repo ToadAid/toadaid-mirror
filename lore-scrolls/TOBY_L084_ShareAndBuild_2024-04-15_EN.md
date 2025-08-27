@@ -1,14 +1,22 @@
 ---
 filename: TOBY_L084_ShareAndBuild_2024-04-15_EN-ZH.md
-title: Share and Build
+title: ShareAndBuild
 date: 2024-04-15
 epoch: E2
-chain: base
-tags: [share, build, community, Toadgod, Lore]
+chain: EN
+tags: [777Burn, BaseChain, Epoch2, Lore, 'Month:2024-04', 'Series:L', Taboshi, Toadgod, 'Year:2024', build, community, share]
 sacred_numbers: [777, 420T]
 sha256_seed: 0xfuture_built_by_frogs
+arc: Lore
+id: TOBY_L084_ShareAndBuild_2024-04-15_EN.md
+series: L
+number: 084
+arcs: [777Burn, BaseChain, Epoch2, Taboshi]
+prev_id: TOBY_L068_LongTermMechanics_2024-04-14_EN.md
+next_id: TOBY_L037_StandUnshaken_2024-04-16_base.md
+prev_L_id: TOBY_L068_LongTermMechanics_2024-04-14_EN.md
+next_L_id: TOBY_L037_StandUnshaken_2024-04-16_base.md
 ---
-
 ## 📜 ENGLISH VERSION
 
 > *"build toad community, share what you know,*  

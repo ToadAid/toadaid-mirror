@@ -1,11 +1,14 @@
 ---
 id: TOBY_QR012
-title: "Coinbase DEX as a Toby Signal"
+title: TOBY QR012 CoinbaseDEX TobySignal
 date: 2025-06-27
 type: QR
-tags: [toby, coinbase, dex, signal, prophecy, decentralization]
+tags: [BaseChain, coinbase, decentralization, dex, prophecy, signal, toby]
+arc: Toby
+arcs: [BaseChain]
+prev_id: TOBY_QR011_CoinbaseDEXMeaning.md
+next_id: TOBY_QR013_Epoch4_Prophecy.md
 ---
-
 > **Seeker’s Question:**  
 What does it mean to Toby and Tobyworld when Coinbase recently announced they will release a DEX on their Coinbase trading app?
 

@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR026_PathWithoutProof.md
+title: TOBY QR026 PathWithoutProof
+arcs: []
+tags: []
+prev_id: TOBY_QR026_FlywheelOfThePond_2025-08-08_EN-ZH.md
+next_id: TOBY_QR027_LifebloodOfThePond_2025-08-08_EN-ZH.md
+---
 # TOBY_QR026_PathWithoutProof
 
 **You asked:**  

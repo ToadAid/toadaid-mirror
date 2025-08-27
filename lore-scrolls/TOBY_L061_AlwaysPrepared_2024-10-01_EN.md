@@ -1,3 +1,18 @@
+---
+arc: Belief
+id: TOBY_L061_AlwaysPrepared_2024-10-01_EN.md
+series: L
+date: 2024-10-01
+number: 061
+title: AlwaysPrepared
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2024-10', 'Series:L', 'Year:2024']
+prev_id: TOBY_L060_TobyworldPulse_2024-09-18_EN.md
+next_id: TOBY_L062_ElementalCycle_2024-10-15_EN.md
+prev_L_id: TOBY_L060_TobyworldPulse_2024-09-18_EN.md
+next_L_id: TOBY_L062_ElementalCycle_2024-10-15_EN.md
+chain: EN
+---
 # TOBY_L061_AlwaysPrepared_2024-10-01_EN-ZH.md
 
 ## METADATA 🔍

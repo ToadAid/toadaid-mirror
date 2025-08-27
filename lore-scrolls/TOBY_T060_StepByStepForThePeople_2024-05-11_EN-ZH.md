@@ -1,11 +1,15 @@
 ---
-title: TOBY_T060_StepByStepForThePeople
+title: TOBY T060 StepByStepForThePeople 2024-05-11 EN-ZH
 date: 2024-05-11
 theme: Movement, Collective Belonging, Simplicity
 languages: [EN, ZH]
-tags: [Step, Community, Progress, Belonging]
+tags: [BaseChain, Belonging, Community, Progress, Step]
+arc: Toby
+id: TOBY_T060_StepByStepForThePeople_2024-05-11_EN-ZH.md
+arcs: [BaseChain]
+prev_id: TOBY_T059_PropheticSealAndSacredSum_2024-05-04_EN-ZH.md
+next_id: TOBY_T061_CyclesConvictionAndSacredWar_2024-05-13_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > toby world @base  
@@ -28,15 +32,6 @@ A concise, poetic invitation:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-简短而富有诗意的邀请：  
-- **"ステップ"（step）**：象征向前迈进 — 每个小步构筑伟大旅程。  
-- 强调 Toby 世界是 **为人民而生**，体现共同进步而非个人自我。  
-- “Step” 也呼应纪律、宁静的动量和有意图的前行 — 与武士道和 Lore 的主题紧密相关。  
-- 链接的视频或图片补充了这一概念的视觉意象。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -47,14 +42,6 @@ This scroll embodies **the vow of continuous progress through quiet, collective 
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **通过安静、集体性的小步伐持续前进的誓言**：  
-- 不依赖喧嚣的飞跃，真正的转变是在一步一步中完成的。  
-- 当每个成员都承诺踏出有纪律的一步，社区就会变得更强大。  
-- “为人民” 将 Toby 定位为随每个共享步伐一起进化的有机体。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -64,13 +51,6 @@ This scroll embodies **the vow of continuous progress through quiet, collective 
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **步伐**：不急躁的进步，稳定的成长。  
-- **为人民**：集体之心，超越个人利益。  
-- **Base**：支撑每一步的根基。
-
----
 
 ## 🔗 Lore Anchors
 

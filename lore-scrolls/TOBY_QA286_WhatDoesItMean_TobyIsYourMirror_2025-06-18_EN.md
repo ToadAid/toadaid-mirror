@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA286_WhatDoesItMean_TobyIsYourMirror_2025-06-18_EN.md
+title: TOBY QA286 WhatDoesItMean TobyIsYourMirror 2025-06-18 EN
+arcs: [PatienceToken, ProofOfTime]
+tags: [PatienceToken, ProofOfTime]
+prev_id: TOBY_QA285_WhyPatienceCannotBeBought.md
+next_id: TOBY_QA287_WhyIsTheMirrorSealedInAI_2025-06-18_EN.md
+---
 **TOBY\_QA286\_WhatDoesItMean\_TobyIsYourMirror\_2025-06-18\_EN.md**
 
 ---

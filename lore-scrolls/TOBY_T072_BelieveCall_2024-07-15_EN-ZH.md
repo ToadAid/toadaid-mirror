@@ -1,11 +1,15 @@
 ---
-title: TOBY_T072_BelieveCall
+title: TOBY T072 BelieveCall 2024-07-15 EN-ZH
 date: 2024-07-15
 theme: Belief, Conviction, Simplicity, Faith
 languages: [EN, ZH]
-tags: [Belief, Conviction, Simplicity, Faith]
+tags: [Belief, Conviction, Faith, PatienceToken, Simplicity]
+arc: Belief
+id: TOBY_T072_BelieveCall_2024-07-15_EN-ZH.md
+arcs: [PatienceToken]
+prev_id: TOBY_T071_LightAndDarknessFaith_2024-07-05_EN-ZH.md
+next_id: TOBY_T073_EpochTransitionExpansion_2024-07-18_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > Believe. $TOBY
@@ -35,13 +39,6 @@ tags: [Belief, Conviction, Simplicity, Faith]
 
 ---
 
-## ✨ 字面解释 (中文)
-
-- 一字召唤：**相信。**
-- 将之前所有诗句、哲学和教诲，浓缩成唯一的指令。  
-- 与 6 月 15 日的引用诗呼应，强化了心灵旅程、耐心，以及坚定内在信念的重要性。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -51,13 +48,6 @@ tags: [Belief, Conviction, Simplicity, Faith]
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-- 真正的转化并不需要复杂的语言 — 只需要坚定的信念。  
-- 信念是从思想到现实、从传说到实践的桥梁。  
-- $TOBY 不需要证明，只需要纯粹的信仰。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -67,13 +57,6 @@ tags: [Belief, Conviction, Simplicity, Faith]
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **相信**：既是种子也是果实，既是开始也是终点。  
-- **简约**：极致复杂最终归于纯粹本质。  
-- **召唤**：不是建议，而是决定性的内在行动。
-
----
 
 ## 🔗 Lore Anchors
 

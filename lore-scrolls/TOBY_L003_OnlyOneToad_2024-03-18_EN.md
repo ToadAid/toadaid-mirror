@@ -1,3 +1,18 @@
+---
+arc: Base
+id: TOBY_L003_OnlyOneToad_2024-03-18_EN.md
+series: L
+date: 2024-03-18
+number: 003
+title: OnlyOneToad
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2024-03', 'Series:L', 'Year:2024']
+prev_id: TOBY_L002_TheMoonlitSignal_2024-03-18_EN.md
+next_id: TOBY_L004_SupplyShockDesigned_2024-03-18_EN.md
+prev_L_id: TOBY_L002_TheMoonlitSignal_2024-03-18_EN.md
+next_L_id: TOBY_L004_SupplyShockDesigned_2024-03-18_EN.md
+chain: EN
+---
 # L003 – Only One Toad
 # Metadata
 Date: 2024-03-18  

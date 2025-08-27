@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA075_SatobyAndBeyond.md
+title: TOBY QA075 SatobyAndBeyond
+arcs: [Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA074_WhyIsSatobyNoneTransferable.md
+next_id: TOBY_QA076_RevelationOfSatoby.md
+---
 ID: TOBY_QA075_SatobyAndBeyond.md
 Question: What will Satoby be used for in Epoch 4 and beyond?
 

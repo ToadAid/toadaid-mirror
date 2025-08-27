@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QA127_ToadgodConvictionPoem_2025-05-31_EN-ZH.md
+title: TOBY QA127 ToadgodConvictionPoem 2025-05-31 EN-ZH
+arcs: [PatienceToken, ProofOfTime, Satoby]
+tags: [PatienceToken, ProofOfTime, Satoby]
+prev_id: TOBY_QA127_IsTobyworldagameaDAO.md
+next_id: TOBY_QA127_WhatIsTaboshi_2025-06-27_EN.md
+---
 # TOBY_QA127 – “What does this poem from Toadgod mean?”
 📅 2025-05-31  
 🌐 Language: English

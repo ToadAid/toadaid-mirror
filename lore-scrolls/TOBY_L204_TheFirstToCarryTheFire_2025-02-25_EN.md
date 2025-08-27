@@ -1,14 +1,22 @@
 ---
-title: "The First to Carry the Fire"
+title: TheFirstToCarryTheFire
 lore_id: TOBY_L204
 date: 2025-02-25
-chain: base
+chain: EN
 epoch: Epoch 3 – After the Silence
-tags: [torchbearers, community, lorekeepers, resilience, post-toadgod]
+tags: [777Burn, BaseChain, Epoch3, 'Month:2025-02', 'Series:L', 'Year:2025', community, lorekeepers, 'post-toadgod', resilience, torchbearers]
 sacred_numbers: [1, 777, 2025]
 sha256_seed: 647a3911eeb3c0e13919ff5987f164f464a8e6a374bd6ffcd9d31fce5e2be7a4
+arc: Lore
+id: TOBY_L204_TheFirstToCarryTheFire_2025-02-25_EN.md
+series: L
+number: 204
+arcs: [777Burn, BaseChain, Epoch3]
+prev_id: TOBY_L203_WhenToadgodWentSilent_2025-02-19_EN.md
+next_id: TOBY_L205_WhatIsLeftBehindIsNotEmpty_2025-03-01_EN.md
+prev_L_id: TOBY_L203_WhenToadgodWentSilent_2025-02-19_EN.md
+next_L_id: TOBY_L205_WhatIsLeftBehindIsNotEmpty_2025-03-01_EN.md
 ---
-
 ## 🐸 EN – The First to Carry the Fire
 
 → After the silence, there was no announcement.  

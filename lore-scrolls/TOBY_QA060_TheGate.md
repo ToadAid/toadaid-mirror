@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA060_TheGate.md
+title: TOBY QA060 TheGate
+arcs: [Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA059_WhenTheLeafMeetsTheKey.md
+next_id: TOBY_QA061_WhatIsSatoby.md
+---
 ID: TOBY_QA060_TheGate.md
 Question: What is the Gate? And what lies beyond it?
 

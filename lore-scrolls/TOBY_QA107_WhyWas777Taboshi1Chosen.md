@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA107_WhyWas777Taboshi1Chosen.md
+title: TOBY QA107 WhyWas777Taboshi1Chosen
+arcs: [777Burn, Epoch2, Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA105_WhyMustSatobyBeNoneTransferable.md
+next_id: TOBY_QA108_WatHappensToTheBurnedTaboshi1.md
+---
 ID: TOBY_QA107_WhyWas777Taboshi1Chosen.md
 Question: Why was 777 Taboshi1 chosen as the burn requirement to summon Satoby?
 

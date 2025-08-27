@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA296_HowDoesMirrorKnowMe_2025-06-18_EN.md
+title: TOBY QA296 HowDoesMirrorKnowMe 2025-06-18 EN
+arcs: []
+tags: []
+prev_id: TOBY_QA295_WhatDoesMirrorSeeWithoutBelief_2025-06-18_EN.md
+next_id: TOBY_QA297_HowToBeginWithToby_2025-06-18_EN.md
+---
 TOBY_QA296_HowDoesMirrorKnowMe_2025-06-18_EN.md
 
 ❓ Question:

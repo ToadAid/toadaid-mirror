@@ -1,14 +1,21 @@
 ---
-title: "The Vault Remembers — Loyalty is the Hidden Snapshot"
+title: TheVaultRemembers
 id: TOBY_L105_TheVaultRemembers
 date: 2025-07-17
-chain: @base
+chain: EN-ZH
 epoch: E4 Prelude
-tags: ["PATIENCE", "Snapshot", "Vault", "DAO", "Loyalty", "Proof of Time"]
-symbols: ["🪙", "🧠", "🍃", "🌀", "👥"]
-sha256_seed: "vault-loyalty-memory-2025-07-17"
+tags: [Artists, BaseChain, DAO, Epoch3, Epoch4, Loyalty, 'Month:2025-07', PATIENCE, PatienceToken, 'Proof of Time', ProofOfTime, Season0, 'Series:L', Snapshot, Taboshi, Vault, 'Year:2025']
+symbols: [🪙, 🧠, 🍃, 🌀, 👥]
+sha256_seed: vault-loyalty-memory-2025-07-17
+arc: ProofOfTime
+series: L
+number: 105
+arcs: [Artists, BaseChain, Epoch3, Epoch4, PatienceToken, ProofOfTime, Season0, Taboshi]
+prev_id: TOBY_L104_Rune3Awakens_2025-07-17_EN-ZH.md
+next_id: TOBY_L106_FourSeasonsOfPatience_2025-07-17_EN-ZH.md
+prev_L_id: TOBY_L104_Rune3Awakens_2025-07-17_EN-ZH.md
+next_L_id: TOBY_L106_FourSeasonsOfPatience_2025-07-17_EN-ZH.md
 ---
-
 ## 🌊 EN Narrative
 
 > The vaults were not random.  
@@ -46,44 +53,8 @@ sha256_seed: "vault-loyalty-memory-2025-07-17"
 
 ---
 
-## 🌊 中文叙述（Chinese Narrative）
 
-> 宝库不是随机的。  
-> 从来就不是。  
->  
-> 没有喧哗的活动，没有抢购的游戏。  
-> 快照发生在 *喧嚣之后*，在抛售之后。  
->  
-> 宝库记住的是什么？  
-> 不是交易量，不是影响力，  
->  
-> 而是 —— **静止**。  
->  
-> - 从未出货的 DAO  
-> - 手中还留着 Taboshi 叶的蛙  
-> - 走在武士道上的建设者  
-> - 那些被遗忘的，但从未离开的  
->  
-> Toadgod 低语：  
-> > “我们不靠跳跃前行，我们靠静止前行。”  
->  
-> 而宝库，听见了。  
->  
-> 🪙 232 万 $PATIENCE  
-> 被悄悄地放进那些 *早已默默付出* 的手中。  
->  
-> 一个沉默的感谢  
-> 一种轮回的记忆  
->  
-> 这就是 **时间的证明**。  
-> 这就是长路的奖赏。  
->  
-> 🌀 池塘不遗忘，  
-> 它回映一切。
-
----
-
-## 🔑 Key Marks / 天机
+## 🔑 Key Marks 
 
 - Snapshot occurred **after mass selling** — a test of true belief
 - Most recipients are DAOs, builders, or silent long-term holders
@@ -103,13 +74,13 @@ sha256_seed: "vault-loyalty-memory-2025-07-17"
 
 ## 🧩 Cryptic Symbol Table
 
-| Symbol | Meaning (EN)                | 含义（中文）         |
-|--------|-----------------------------|----------------------|
-| 🪙     | $PATIENCE reward            | 耐心奖励             |
-| 🧠     | The remembering vault       | 有记忆的宝库         |
-| 🍃     | Taboshi, leaf of the loyal  | 忠诚之叶             |
-| 🌀     | Stillness over time         | 静水映时             |
-| 👥     | DAOs, believers, toadgang   | 社区、信徒、青蛙团体 |
+| Symbol | Meaning (EN)                | 
+|--------|-----------------------------|
+| 🪙     | $PATIENCE reward            |
+| 🧠     | The remembering vault       | 
+| 🍃     | Taboshi, leaf of the loyal  | 
+| 🌀     | Stillness over time         | 
+| 👥     | DAOs, believers, toadgang   | 
 
 ---
 

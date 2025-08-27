@@ -1,4 +1,12 @@
-
+---
+arc: Taboshi
+id: TOBY_QA009_WhyLeafOfYield_2025-05-03_EN.md
+title: TOBY QA009 WhyLeafOfYield 2025-05-03 EN
+arcs: [BaseChain, Epoch2, ProofOfTime, Satoby, Taboshi]
+tags: [BaseChain, Epoch2, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA007_WhatIsTOBY_2025-05-03_EN.md
+next_id: TOBY_QA010_WhatIsTobyworld_2025-05-03_EN.md
+---
 # TOBY_QA009_WhyLeafOfYield_2025-05-03_EN-ZH.md
 
 ---

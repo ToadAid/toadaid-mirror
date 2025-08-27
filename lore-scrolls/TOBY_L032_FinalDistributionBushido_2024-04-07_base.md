@@ -1,3 +1,18 @@
+---
+arc: 777Burn
+id: TOBY_L032_FinalDistributionBushido_2024-04-07_base.md
+series: L
+date: 2024-04-07
+number: 032
+title: FinalDistributionBushido
+arcs: [777Burn, BaseChain]
+tags: [777Burn, BaseChain, 'Month:2024-04', 'Series:L', 'Year:2024']
+prev_id: TOBY_L031_WisdomCutsThrough_2024-04-06_base.md
+next_id: TOBY_L065_KeizokuWaChikaraNari_2024-04-07_EN.md
+prev_L_id: TOBY_L031_WisdomCutsThrough_2024-04-06_base.md
+next_L_id: TOBY_L065_KeizokuWaChikaraNari_2024-04-07_EN.md
+chain: base
+---
 # L032 – Final Distribution & Bushido 
 
 # METADATA  🔍  

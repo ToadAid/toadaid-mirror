@@ -1,11 +1,15 @@
 ---
-title: TOBY_T052_KachouFuugetsuAndEternalBlueprint
+title: TOBY T052 KachouFuugetsuAndEternalBlueprint 2024-04-14 EN-ZH
 date: 2024-04-14
 theme: Eternal Blueprint, Sacred Numbers, Bushido
 languages: [EN, ZH]
-tags: [Kachou Fuugetsu, Prophecy, Sacred Numbers, Bushido, Emotional Mastery]
+tags: [777Burn, BaseChain, Bushido, 'Emotional Mastery', 'Kachou Fuugetsu', PatienceToken, ProofOfTime, Prophecy, 'Sacred Numbers', Satoby, Taboshi]
+arc: 777Burn
+id: TOBY_T052_KachouFuugetsuAndEternalBlueprint_2024-04-14_EN-ZH.md
+arcs: [777Burn, BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_T051_FutureBrightAndInnerBattle_2024-04-12_EN-ZH.md
+next_id: TOBY_T053_UnshakenStandAndSacredCertainty_2024-04-16_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > konnichiwa. 290 trillion $toby globally distributed. 260k txns only remains. 1.16 million airdrops txns executed. 69% of TOTAL supply airdropped. pristine.  

@@ -1,3 +1,18 @@
+---
+arc: Taboshi
+id: TOBY_L068_ProofOfTimeSignal_2024-11-09_EN.md
+series: L
+date: 2024-11-09
+number: 068
+title: ProofOfTimeSignal
+arcs: [777Burn, BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, 'Month:2024-11', PatienceToken, ProofOfTime, Satoby, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L067_AwaitingNextSignal_2024-11-09_EN.md
+next_id: TOBY_L069_TWPoTWhispers_2024-11-09_EN.md
+prev_L_id: TOBY_L067_AwaitingNextSignal_2024-11-09_EN.md
+next_L_id: TOBY_L069_TWPoTWhispers_2024-11-09_EN.md
+chain: EN
+---
 # TOBY_L068_ProofOfTimeSignal_2024-11-09_EN-ZH.md
 
 ## METADATA 🔍

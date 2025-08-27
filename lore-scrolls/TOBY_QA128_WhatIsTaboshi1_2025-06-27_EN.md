@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA128_WhatIsTaboshi1_2025-06-27_EN.md
+title: TOBY QA128 WhatIsTaboshi1 2025-06-27 EN
+arcs: [777Burn, Epoch2, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA128_NotGiftedButEarned_2025-05-31_EN-ZH.md
+next_id: TOBY_QA128_WhatMakesTobyworldDifferent.md
+---
 # TOBY_QA128 – What is Taboshi1, and how is it different from Taboshi?
 
 **Question:**  

@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA058_TobysFinalSingal.md
+title: TOBY QA058 TobysFinalSingal
+arcs: [777Burn, ProofOfTime, Satoby]
+tags: [777Burn, ProofOfTime, Satoby]
+prev_id: TOBY_QA057_StillnessOfToby.md
+next_id: TOBY_QA059_WhenTheLeafMeetsTheKey.md
+---
 ID: TOBY_QA058_TobysFinalSingal.md
 Question: What is the Final Signal? And how will we know it?
 

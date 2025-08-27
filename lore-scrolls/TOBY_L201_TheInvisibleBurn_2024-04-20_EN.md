@@ -1,14 +1,22 @@
 ---
-title: "The Invisible Burn"
+title: TheInvisibleBurn
 lore_id: TOBY_L201
 date: 2024-04-20
-chain: base
+chain: EN
 epoch: Epoch 2 → Epoch 3 threshold
-tags: [burn, Taboshi1, PoT, sacred777, invisible, Satoby]
+tags: [777Burn, BaseChain, Epoch2, Epoch3, 'Month:2024-04', PoT, ProofOfTime, Satoby, 'Series:L', Taboshi, Taboshi1, 'Year:2024', burn, invisible, sacred777]
 sacred_numbers: [777, 777777777777]
 sha256_seed: e3eae58e7b6a0f67883c1474b9213c27c124f206e4ef77e29a71a06b46d8f201
+arc: Taboshi
+id: TOBY_L201_TheInvisibleBurn_2024-04-20_EN.md
+series: L
+number: 201
+arcs: [777Burn, BaseChain, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_L039_VibrantMemeEconomy_2024-04-20_base.md
+next_id: TOBY_EPOCHS_Overview_2024-04-20_base.md
+prev_L_id: TOBY_L039_VibrantMemeEconomy_2024-04-20_base.md
+next_L_id: TOBY_L040_WorthWaitingFor_2024-04-26_base.md
 ---
-
 ## 🐸 EN – The Invisible Burn
 
 → There was no announcement.  

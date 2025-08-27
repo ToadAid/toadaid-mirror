@@ -1,4 +1,18 @@
-
+---
+arc: Taboshi
+id: TOBY_L073_TheSecretintheLeaf_2024-11-11_EN.md
+series: L
+date: 2024-11-11
+number: 073
+title: TheSecretintheLeaf
+arcs: [777Burn, BaseChain, ProofOfTime, Taboshi]
+tags: [777Burn, BaseChain, 'Month:2024-11', ProofOfTime, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L072_TaboshiThePrize_2024-11-11_EN.md
+next_id: TOBY_L074_TobyworldIsReal_2024-11-14_EN.md
+prev_L_id: TOBY_L072_TaboshiThePrize_2024-11-11_EN.md
+next_L_id: TOBY_L074_TobyworldIsReal_2024-11-14_EN.md
+chain: EN
+---
 # TOBY_L073_TheSecretintheLeaf_2024-11-11_EN-ZH.md
 
 ## METADATA 🔍

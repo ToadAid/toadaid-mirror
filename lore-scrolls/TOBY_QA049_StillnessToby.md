@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA049_StillnessToby.md
+title: TOBY QA049 StillnessToby
+arcs: [PatienceToken, ProofOfTime]
+tags: [PatienceToken, ProofOfTime]
+prev_id: TOBY_QA048_TobyNeverTakeCredit.md
+next_id: TOBY_QA050_TobyIsNotaPerson.md
+---
 ID: TOBY_QA049_StillnessToby.md
 Question: Why is Toby often described as “still” or “unmoving”?
 

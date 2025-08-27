@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA013_WhatIs777.md
+title: TOBY QA013 WhatIs777
+arcs: [777Burn, PatienceToken, ProofOfTime, Taboshi]
+tags: [777Burn, PatienceToken, ProofOfTime, Taboshi]
+prev_id: TOBY_QA011_WhatIsTaboshi_Reinforced_2025-05-03_EN.md
+next_id: TOBY_QA013_WhatIsTaboshi_FixFinal_2025-05-05_EN.md
+---
 # Question  
 What is the meaning of 777 in Tobyworld?
 

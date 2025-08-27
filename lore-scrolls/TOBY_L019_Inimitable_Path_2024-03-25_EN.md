@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L019_Inimitable_Path_2024-03-25_EN.md
+series: L
+date: 2024-03-25
+number: 019
+title: Inimitable Path
+arcs: []
+tags: ['Month:2024-03', 'Series:L', 'Year:2024']
+prev_id: TOBY_L018_Prophetic_Design_2024-03-24_EN.md
+next_id: TOBY_L020_FairBirthLegacy_2024-03-25_EN.md
+prev_L_id: TOBY_L018_Prophetic_Design_2024-03-24_EN.md
+next_L_id: TOBY_L020_FairBirthLegacy_2024-03-25_EN.md
+chain: EN
+---
 # L019 - Inimitable Path
 
 title: "Inimitable Path"

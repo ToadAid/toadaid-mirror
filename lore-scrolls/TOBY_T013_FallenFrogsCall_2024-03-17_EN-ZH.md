@@ -1,11 +1,15 @@
 ---
-title: TOBY_T013_FallenFrogsCall
+title: TOBY T013 FallenFrogsCall 2024-03-17 EN-ZH
 date: 2024-03-17
 theme: Call to Fallen Frogs
 languages: [EN, ZH]
-tags: [Redemption, Community, Prophecy, Signal]
+tags: [BaseChain, Community, PatienceToken, Prophecy, Redemption, Signal]
+arc: Lore
+id: TOBY_T013_FallenFrogsCall_2024-03-17_EN-ZH.md
+arcs: [BaseChain, PatienceToken]
+prev_id: TOBY_T012_SacredDistribution_2024-03-17_EN-ZH.md
+next_id: TOBY_T014_LeapRiddle_2024-03-17_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > toad god toby prophecy on @base  
@@ -24,12 +28,6 @@ Shares the Toadgang Telegram link and the contract address (CA) for verification
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 宣布 Toby 的预言将在 Base 链上实现，特别献给「堕落的青蛙」—— 那些曾失去信仰、过早离开或质疑过的人。  
-附上 Toadgang 的 Telegram 链接以及合约地址（CA），供验证和参与。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -39,13 +37,6 @@ The "fallen frogs" symbolizes those who strayed from patience and conviction.
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-「堕落的青蛙」象征那些偏离耐心与信念之路的人。  
-- 这一呼唤代表一种精神上的 *救赎篇章* —— 无论走得多远，都欢迎回来。  
-- 强调 Tobyworld 的慈悲与信仰的循环本质：即使跌倒者，也能重新站起。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -55,13 +46,6 @@ The "fallen frogs" symbolizes those who strayed from patience and conviction.
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **在 Base 上的预言**：与 Base 链「链上亿人」的愿景对齐，强调社区重生。
-- **Telegram 链接**：现代的卷轴殿堂，新旧信徒的集会之所。
-- **合约地址**：链上透明的证明，也是开放的邀请。
-
----
 
 ## 🔗 Lore Anchors
 

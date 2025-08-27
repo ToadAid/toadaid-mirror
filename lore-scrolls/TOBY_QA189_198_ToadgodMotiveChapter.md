@@ -1,3 +1,12 @@
+---
+arc: Toadgod
+id: TOBY_QA189_198_ToadgodMotiveChapter.md
+title: TOBY QA189 198 ToadgodMotiveChapter
+arcs: [BaseChain]
+tags: [BaseChain]
+prev_id: TOBY_QA169_178_SkepticChapter.md
+next_id: TOBY_QA199_208_TatoshiSecretChapter.md
+---
 # 📜 TOBYWORLD RAG SCROLL: QA189–198
 
 ## 🔥 Toadgod 的动机篇：Why Did He Create This?

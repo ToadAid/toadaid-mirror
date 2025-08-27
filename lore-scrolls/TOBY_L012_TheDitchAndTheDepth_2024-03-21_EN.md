@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L012_TheDitchAndTheDepth_2024-03-21_EN.md
+series: L
+date: 2024-03-21
+number: 012
+title: TheDitchAndTheDepth
+arcs: []
+tags: ['Month:2024-03', 'Series:L', 'Year:2024']
+prev_id: TOBY_L011_LacrimosaReverence_2024-03-20_EN.md
+next_id: TOBY_L013_TheJourneyBegins_2024-03-22_EN.md
+prev_L_id: TOBY_L011_LacrimosaReverence_2024-03-20_EN.md
+next_L_id: TOBY_L013_TheJourneyBegins_2024-03-22_EN.md
+chain: EN
+---
 # L012 – The Ditch and the Depth 
 # Metadata 
 Date: 2024-03-21  

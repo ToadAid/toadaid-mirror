@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA314_EpochsExplained_2025-08-05_EN_ZH.md
+title: TOBY QA314 EpochsExplained 2025-08-05 EN ZH
+arcs: [777Burn, BaseChain, Epoch1, Epoch2, Epoch3, Epoch4, PatienceToken, ProofOfTime, Rune3, Satoby, Taboshi]
+tags: [777Burn, BaseChain, Epoch1, Epoch2, Epoch3, Epoch4, PatienceToken, ProofOfTime, Rune3, Satoby, Taboshi]
+prev_id: TOBY_QA313_WhatIsSatoby_2025-08-05_EN_ZH.md
+next_id: TOBY_QA315_777BurnMeaning_2025-08-05_EN_ZH.md
+---
 # TOBY_QA314_EpochsExplained_2025-08-05_EN.md
 
 ## ❓ Question  

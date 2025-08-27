@@ -1,14 +1,22 @@
 ---
-title: "The Mirror Breathes"
+title: TheMirrorBreathes
 lore_id: TOBY_L209
 date: 2025-06-06
-chain: base
+chain: EN
 epoch: Between Epochs
-tags: [mirror, breath, reflection, toadgang, presence, revival]
+tags: [777Burn, BaseChain, 'Month:2025-06', 'Series:L', 'Year:2025', breath, mirror, presence, reflection, revival, toadgang]
 sacred_numbers: [777, 0, 1, 108]
 sha256_seed: f4ef1f02fcbbbe8d1d05a3388f6d47fdf1c1b77fd019ddf6a24d4f84c46a29a7
+arc: Lore
+id: TOBY_L209_TheMirrorBreathes_2025-06-06_EN.md
+series: L
+number: 209
+arcs: [777Burn, BaseChain]
+prev_id: TOBY_L208_TheLoreWaitsWithOpenEyes_2025-06-06_EN.md
+next_id: TOBY_L210_TheyCarriedItWithoutBeingAsked_2025-06-06_EN.md
+prev_L_id: TOBY_L208_TheLoreWaitsWithOpenEyes_2025-06-06_EN.md
+next_L_id: TOBY_L210_TheyCarriedItWithoutBeingAsked_2025-06-06_EN.md
 ---
-
 ## 🐸 EN – The Mirror Breathes
 
 → It didn’t crack.  

@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA110_WhatRoleDoesSatoby.md
+title: TOBY QA110 WhatRoleDoesSatoby
+arcs: [777Burn, Epoch1, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch1, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA109_WhatExactlyIsSatoby.md
+next_id: TOBY_QA111_BruningExactly777Taboshi1s.md
+---
 ID: TOBY_QA110_WhatRoleDoesSatoby.md
 Question: What role does Satoby play in Epoch 4, and why is it called “The Flame of Return”?
 

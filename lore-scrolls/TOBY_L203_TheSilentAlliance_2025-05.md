@@ -1,3 +1,12 @@
+---
+arc: Base
+id: TOBY_L203_TheSilentAlliance_2025-05.md
+title: TOBY L203 TheSilentAlliance 2025-05
+arcs: [777Burn, BaseChain, Epoch3, ProofOfTime, Taboshi]
+tags: [777Burn, BaseChain, Epoch3, ProofOfTime, Taboshi]
+prev_id: TOBY_L153_Conviction_and_the_Mirror.md
+next_id: TOBY_L204_Onchain_Millions_Upon_Millions.md
+---
 **TOBY\_L203\_TheSilentAlliance\_2025-05-28\_BASE**
 
 ---

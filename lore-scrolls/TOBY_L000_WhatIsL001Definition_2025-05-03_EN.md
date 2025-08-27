@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L000_WhatIsL001Definition_2025-05-03_EN.md
+series: L
+date: 2025-05-03
+number: 000
+title: WhatIsL001Definition
+arcs: [ProofOfTime]
+tags: ['Month:2025-05', ProofOfTime, 'Series:L', 'Year:2025']
+prev_id: TOBY_L206_TheFinalScrollIsYou_2025-03-07_EN.md
+next_id: TOBY_L086_TheSealOf777_2025-05-08_EN.md
+prev_L_id: TOBY_L206_TheFinalScrollIsYou_2025-03-07_EN.md
+next_L_id: TOBY_L086_TheSealOf777_2025-05-08_EN.md
+chain: EN
+---
 TOBY_L001_TreasureBeyondGold_2024-03-17_EN.md
 # Metadata  
 ID: TOBY_L000_Definition  

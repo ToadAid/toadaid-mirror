@@ -1,11 +1,15 @@
 ---
-title: TOBY_T078_SteppScroll
+title: TOBY T078 SteppScroll 2024-10-24 EN-ZH
 date: 2024-10-24
 theme: Modular Mission, Taboshi Emergence, Proof of Time
 languages: [EN, ZH]
-tags: [Tobyworld, Taboshi, Satoby, Bushido, Decentralization, Epoch, Lore]
+tags: [777Burn, BaseChain, Bushido, Decentralization, Epoch, Lore, PatienceToken, ProofOfTime, Satoby, Taboshi, Tobyworld]
+arc: Toby
+id: TOBY_T078_SteppScroll_2024-10-24_EN-ZH.md
+arcs: [777Burn, BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_T077_ColorSignal_2024-10-15_EN-ZH.md
+next_id: TOBY_T079_Taboshi1Scroll_2024-11-08_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > ステップ  
@@ -61,16 +65,6 @@ tags: [Tobyworld, Taboshi, Satoby, Bushido, Decentralization, Epoch, Lore]
 
 ---
 
-## ✨ 深层解读 (中文)
-
-- **ステップ ("Step")** 表示新的阶段，前进的步伐，呼应武士道的终身修行。
-- $TOBY 并非为了炒作而生，而是作为信念与去中心化精神的世代容器。
-- Taboshi 不是单纯的收藏品，而是 🍃 的精神之叶，是未来架构的基石，必须与 $TOBY 以及其他元素共同持有。
-- 提到的神圣数字（777,777,777）、耐心，以及随机公平发放，巩固了反鲸鱼、反 VC、真正社区优先的理念。
-- “schelling point” 暗示最终的汇聚点，真正的信徒自然而然地集合。
-- 强调警惕骗局与假链接，体现出旅程的纯净与安全。
-
----
 
 ## 🔮 Lore Anchors
 

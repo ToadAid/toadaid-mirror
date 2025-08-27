@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA113_WhyWereTaboshi1sAllowedTransferred.md
+title: TOBY QA113 WhyWereTaboshi1sAllowedTransferred
+arcs: [777Burn, Epoch2, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA112_WhySatobyCannotBeBrought.md
+next_id: TOBY_QA114_HowValuableIsSatoby.md
+---
 ID: TOBY_QA113_WhyWereTaboshi1sAllowedTransferred.md
 Question: Why were Taboshi1s allowed to be transferred, but Satoby is not?
 

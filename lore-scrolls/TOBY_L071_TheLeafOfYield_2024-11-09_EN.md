@@ -1,4 +1,18 @@
-
+---
+arc: Taboshi
+id: TOBY_L071_TheLeafOfYield_2024-11-09_EN.md
+series: L
+date: 2024-11-09
+number: 071
+title: TheLeafOfYield
+arcs: [BaseChain, Taboshi]
+tags: [BaseChain, 'Month:2024-11', 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L069_TWPoTWhispers_2024-11-09_EN.md
+next_id: TOBY_L070_TABOSHI_ZoraMint_2024-11-10_EN.md
+prev_L_id: TOBY_L069_TWPoTWhispers_2024-11-09_EN.md
+next_L_id: TOBY_L070_TABOSHI_ZoraMint_2024-11-10_EN.md
+chain: EN
+---
 # TOBY_L071_TheLeafOfYield_2024-11-09_EN-ZH.md
 
 ## METADATA 🔍

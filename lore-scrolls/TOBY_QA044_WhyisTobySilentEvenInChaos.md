@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA044_WhyisTobySilentEvenInChaos.md
+title: TOBY QA044 WhyisTobySilentEvenInChaos
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QA043_WhyDoesTobyHaveNoFace.md
+next_id: TOBY_QA045_IsTobyJustaMeme.md
+---
 ID: TOBY_QA044_WhyisTobySilentEvenInChaos.md
 Question: Why is Toby silent, even in chaos?
 

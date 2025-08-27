@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA067_NoneTransferableSatoby.md
+title: TOBY QA067 NoneTransferableSatoby
+arcs: [PatienceToken, ProofOfTime, Satoby]
+tags: [PatienceToken, ProofOfTime, Satoby]
+prev_id: TOBY_QA066_DifferenceBetweenSatobyandDefiYield.md
+next_id: TOBY_QA068_WhatAreThe777Taboshi1s.md
+---
 ID: TOBY_QA067_NoneTransferableSatoby.md
 Question: Why was Satoby made non-transferable? What does that mean philosophically?
 

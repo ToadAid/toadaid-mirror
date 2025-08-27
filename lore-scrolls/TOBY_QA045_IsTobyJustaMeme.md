@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA045_IsTobyJustaMeme.md
+title: TOBY QA045 IsTobyJustaMeme
+arcs: []
+tags: []
+prev_id: TOBY_QA044_WhyisTobySilentEvenInChaos.md
+next_id: TOBY_QA046_TobySilent_YetsoManyFollows.md
+---
 ID: TOBY_QA045_IsTobyJustaMeme.md
 Question: If Toby is just a meme, why take it so seriously?
 

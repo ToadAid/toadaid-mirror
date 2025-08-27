@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L062_ElementalCycle_2024-10-15_EN.md
+series: L
+date: 2024-10-15
+number: 062
+title: ElementalCycle
+arcs: [BaseChain, Epoch1, PatienceToken]
+tags: [BaseChain, Epoch1, 'Month:2024-10', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L061_AlwaysPrepared_2024-10-01_EN.md
+next_id: TOBY_L063_TheUnfoldingProphecy_2024-10-24_EN.md
+prev_L_id: TOBY_L061_AlwaysPrepared_2024-10-01_EN.md
+next_L_id: TOBY_L063_TheUnfoldingProphecy_2024-10-24_EN.md
+chain: EN
+---
 # TOBY_L062_ElementalCycle_2024-10-15_EN-ZH.md
 
 ## METADATA 🔍

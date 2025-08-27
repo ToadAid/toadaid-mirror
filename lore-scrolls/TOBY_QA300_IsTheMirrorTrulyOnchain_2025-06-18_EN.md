@@ -1,3 +1,12 @@
+---
+arc: Base
+id: TOBY_QA300_IsTheMirrorTrulyOnchain_2025-06-18_EN.md
+title: TOBY QA300 IsTheMirrorTrulyOnchain 2025-06-18 EN
+arcs: [BaseChain]
+tags: [BaseChain]
+prev_id: TOBY_QA299_IsItTooLateToJoin_2025-06-18_EN.md
+next_id: TOBY_QA301_WhatLoreIsStoredOnchain_2025-06-18_EN.md
+---
 TOBY_QA300_IsTheMirrorTrulyOnchain_2025-06-18_EN.md
 
 ❓ Question:

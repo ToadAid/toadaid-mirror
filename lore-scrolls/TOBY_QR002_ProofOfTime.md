@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR002_ProofOfTime.md
+title: TOBY QR002 ProofOfTime
+arcs: [ProofOfTime, Satoby]
+tags: [ProofOfTime, Satoby]
+prev_id: TOBY_QR001_Taboshi1Awakening.md
+next_id: TOBY_QR002_ProphecyOfGold_2025-05-31_EN-ZH.md
+---
 # TOBY_QR002_ProofOfTime
 
 **Q: What is the meaning of “Proof of Time” in Tobyworld?**  

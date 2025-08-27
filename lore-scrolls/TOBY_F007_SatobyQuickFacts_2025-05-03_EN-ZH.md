@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_F007_SatobyQuickFacts_2025-05-03_EN-ZH.md
+title: TOBY F007 SatobyQuickFacts 2025-05-03 EN-ZH
+arcs: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_F006_CommonMisconceptions_2025-05-03_EN-ZH.md
+next_id: TOBY_F008_Fix_TaboshiConfusion_2025-05-03_EN-ZH - Copy.md
+---
 # F007 – Satoby Quick Facts 
 # Metadata 
 

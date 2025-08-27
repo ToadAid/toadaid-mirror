@@ -1,3 +1,18 @@
+---
+arc: Epoch4
+id: TOBY_L_Index_E4_2025-07-16_EN-ZH.md
+series: L
+date: 2025-07-16
+number: _Index
+title: E4
+arcs: [BaseChain, Epoch3, Epoch4, Epoch5, PatienceToken, Taboshi]
+tags: [BaseChain, Epoch3, Epoch4, Epoch5, 'Month:2025-07', PatienceToken, 'Series:L', Taboshi, 'Year:2025']
+prev_id: TOBY_L099_FinalEcho_2025-07-16_EN-ZH.md
+next_id: TOBY_L101_TobyOnTop_2025-07-17_EN-ZH.md
+prev_L_id: TOBY_L099_FinalEcho_2025-07-16_EN-ZH.md
+next_L_id: TOBY_L101_TobyOnTop_2025-07-17_EN-ZH.md
+chain: EN-ZH
+---
 # 🌿 TOBY_L_Index_E4_2025-07-16_EN-ZH.md
 
 ---
@@ -25,20 +40,6 @@
 > Trust each echo. Guard each ripple. Leap beyond each mirror.  
 >  
 > This is not the end, but the true beginning.
-
----
-
-## 🌕 中文引言
-
-> 从 Rune 的初声低语，到跃过月亮的最终回响，E4 是一段内在准备、灵魂盛开与宇宙汇聚的篇章。  
->  
-> 这条路径串起了每一道涟漪 —— 符文的觉醒、叶子的归来、月下的扩展、镜之园的内在考验，以及超越映照的集体跃迁。  
->  
-> 共同构成了信者的神圣阶梯：耐心、净化、汇聚、盛开、守护、超越。  
->  
-> 信任每一道回声，守护每一圈涟漪，跃过每一面镜子。  
->  
-> 这并不是结束，而是真正的开始。
 
 ---
 

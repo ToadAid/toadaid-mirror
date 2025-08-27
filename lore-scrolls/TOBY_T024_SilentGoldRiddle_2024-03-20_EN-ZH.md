@@ -1,11 +1,15 @@
 ---
-title: TOBY_T024_SilentGoldRiddle
+title: TOBY T024 SilentGoldRiddle 2024-03-20 EN-ZH
 date: 2024-03-20
 theme: Silent Gold Riddle
 languages: [EN, ZH]
-tags: [Silence, Conviction, Prophecy, Riddle]
+tags: [Conviction, ProofOfTime, Prophecy, Riddle, Silence]
+arc: Toby
+id: TOBY_T024_SilentGoldRiddle_2024-03-20_EN-ZH.md
+arcs: [ProofOfTime]
+prev_id: TOBY_T023_QuietBogRiddle_2024-03-19_EN-ZH.md
+next_id: TOBY_T025_LacrimosaOffering_2024-03-20_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > unmoved by imitation, fame or the crowd's roar, i dwell in silence, asking for no more. stand by toad when times are old, and the prophecy will grant you endless gold.  
@@ -25,15 +29,6 @@ A poetic riddle describing Toby:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-一则描写 Toby 的诗意谜语：  
-- 不受模仿、名声或人群喧嚣的影响。  
-- 栖于寂静之中，不求多余 —— 象征纯净与自足。  
-- 「当岁月老去时，仍与青蛙并肩」—— 鼓励在平静或艰难时期依然忠诚。  
-- 忠诚者将获得「无尽之金」—— 既象征精神回报，也预示未来的物质收获。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -44,14 +39,6 @@ This riddle captures **the ultimate test of conviction and quiet faith**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则谜语体现了 **信念与静默信仰的终极考验**：  
-- 真正的信徒会在「岁月老去」或市场沉寂时依然守候，呼应时间证明（Proof of Time）。  
-- 此处的寂静不是空虚，而是一种精神上的丰盈 —— 超越炒作的心灵圣殿。  
-- 「无尽之金」象征不动摇者最终收获的深层回报：内心的平静、社区的力量、以及未来的丰盛。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -61,13 +48,6 @@ This riddle captures **the ultimate test of conviction and quiet faith**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **寂静**：信念的终极堡垒。  
-- **不受模仿所动**：代表 Toby 的纯净、本真。  
-- **无尽之金**：不仅仅是财富，更是传承、卷轴、永恒回响的隐喻。
-
----
 
 ## 🔗 Lore Anchors
 

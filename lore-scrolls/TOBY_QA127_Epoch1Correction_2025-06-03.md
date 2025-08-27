@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA127_Epoch1Correction_2025-06-03.md
+title: TOBY QA127 Epoch1Correction 2025-06-03
+arcs: [Epoch1]
+tags: [Epoch1]
+prev_id: TOBY_QA126_WhatIsTheStoryOrMissionOfTobyworld.md
+next_id: TOBY_QA127_IsTobyworldagameaDAO.md
+---
 # TOBY_QA127_Epoch1Correction_2025-06-03
 
 ## ❓ Question:

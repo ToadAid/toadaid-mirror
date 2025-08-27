@@ -1,3 +1,17 @@
+---
+arc: Lore
+id: TOBY_EPOCHS_Overview_2024-04-20_base.md
+series: E
+date: 2024-04-20
+number: POCHS
+title: Overview
+arcs: [BaseChain, Epoch1, Epoch2, Epoch3, Taboshi]
+tags: [BaseChain, Epoch1, Epoch2, Epoch3, 'Month:2024-04', 'Series:E', Taboshi, 'Year:2024']
+prev_id: TOBY_L201_TheInvisibleBurn_2024-04-20_EN.md
+next_id: TOBY_L040_WorthWaitingFor_2024-04-26_base.md
+next_E_id: TOBY_E000_Index_ArtifactsOfSupply_2025-08-22_EN.md
+chain: base
+---
 # Epochs – The Three Phases 
 # METADATA  🔍  
 **🌐 Chain:** @base  

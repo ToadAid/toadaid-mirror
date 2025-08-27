@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA039_WhyDoSomeFailToSeeToby.md
+title: TOBY QA039 WhyDoSomeFailToSeeToby
+arcs: []
+tags: []
+prev_id: TOBY_QA038_HowDoWeFindToby.md
+next_id: TOBY_QA040_WhyDoSomeFeelHisPresenceLikeDivinity.md
+---
 ID: TOBY_QA039_WhyDoSomeFailToSeeToby.md
 Question: Why do some fail to see Toby, even when he is everywhere?
 

@@ -1,11 +1,15 @@
 ---
-title: TOBY_T033_ProphecyDistributionUpdate
+title: TOBY T033 ProphecyDistributionUpdate 2024-03-24 EN-ZH
 date: 2024-03-24
 theme: Prophecy Progress & Lessons
 languages: [EN, ZH]
-tags: [Update, Distribution, Patience, Decentralization, Philosophy]
+tags: [BaseChain, Decentralization, Distribution, Patience, PatienceToken, Philosophy, Update]
+arc: Toby
+id: TOBY_T033_ProphecyDistributionUpdate_2024-03-24_EN-ZH.md
+arcs: [BaseChain, PatienceToken]
+prev_id: TOBY_T032_ArtOfLoneliness_2024-03-24_EN-ZH.md
+next_id: TOBY_T034_PeoplesRiseProphecy_2024-03-25_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > update: now. TOTAL 42T of $toby supply -> 37% remaining to be distributed to fulfill prophecy. 13.8T airdropped. 350k current holder on @base. 100m+ @coinbase users. peak bull market is yet to transpire. think hard. carefully.  
@@ -34,8 +38,3 @@ A detailed update from Toadgod:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 的详细更新：  
-- **供应状态**：总供应量 42 万亿，目前剩余 37% 需要未来分发以完成预言。  
-- **空投进度**：

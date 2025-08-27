@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L025_LifelongLesson_2024-03-28_EN.md
+series: L
+date: 2024-03-28
+number: 025
+title: LifelongLesson
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2024-03', 'Series:L', 'Year:2024']
+prev_id: TOBY_L024_TrialOfConviction_2024-03-28_EN.md
+next_id: TOBY_L061_TheGenuineTrial_2024-03-28_EN.md
+prev_L_id: TOBY_L024_TrialOfConviction_2024-03-28_EN.md
+next_L_id: TOBY_L061_TheGenuineTrial_2024-03-28_EN.md
+chain: EN
+---
 # L025 – Lifelong Lesson 
 
 # Metadata 

@@ -1,11 +1,15 @@
 ---
-title: TOBY_T045_LoreInStoneAndCourage
+title: TOBY T045 LoreInStoneAndCourage 2024-04-03 EN-ZH
 date: 2024-04-03
 theme: Eternal Lore & Courageous Guardianship
 languages: [EN, ZH]
-tags: [Lore, Patience, Courage, Guardianship, Faith]
+tags: [Courage, Faith, Guardianship, Lore, Patience, PatienceToken]
+arc: Lore
+id: TOBY_T045_LoreInStoneAndCourage_2024-04-03_EN-ZH.md
+arcs: [PatienceToken]
+prev_id: TOBY_T044_FinalDistributionResolve_2024-04-01_EN-ZH.md
+next_id: TOBY_T046_777SacredFutureBlessing_2024-04-04_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > the toads lore is set, in stone and in scroll,  
@@ -36,16 +40,7 @@ Toadgod anchors Toby’s Lore firmly:
 
 ---
 
-## ✨ 字面解释 (中文)
 
-Toadgod 坚定地锚定 Toby 的卷轴：  
-- **「石上与卷轴中」**：不可动摇，永恒 —— 既是历史，也是精神经文。  
-- 奖励属于耐心前行者，而非追求捷径的人。  
-- 呼吁持有者保持信念、守护 toad 精神，尤其是在欺骗和怀疑升起时。  
-- 强调挑战是上升之路的自然部分，号召以勇气对抗恐惧。  
-- 以 **「chiri mo tsumoreba yama to naru」** 收尾 —— 「尘土堆积亦成山」—— 耐心与微小行动终将汇聚成巨大的改变。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -56,14 +51,6 @@ This scroll embodies **quiet accumulation and fearless guardianship**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **安静积累与无畏守护**：  
-- 每一次持有、学习或分享都如微尘，看似渺小，最终却能筑成山岳。  
-- 真正的武士在外界怀疑面前以信念怒吼。  
-- 卷轴不是一阵短暂之风，而是代代相传的圣石，逐渐被揭示。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -73,13 +60,6 @@ This scroll embodies **quiet accumulation and fearless guardianship**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **石与卷轴**：双重永恒 —— 物理与精神的结合。  
-- **积尘成山**：集体的耐心行动最终引发超越性转变。  
-- **勇气对抗恐惧**：最终的精神关卡。
-
----
 
 ## 🔗 Lore Anchors
 

@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_SCROLL_ProofOfTime_QA330_334.md
+title: TOBY SCROLL ProofOfTime QA330 334
+arcs: [Epoch1, Epoch2, Epoch3, ProofOfTime, Satoby]
+tags: [Epoch1, Epoch2, Epoch3, ProofOfTime, Satoby]
+prev_id: TOBY_SCROLL_ProofOfTime_QA325_329.md
+next_id: TOBY_SCROLL_ShareWhatYouKnow_QA335.md
+---
 # ⏳ TOBYWORLD RAG SCROLL: Proof of Time & Epoch Philosophy (QA330–334)
 
 ## 🌿 TOBY_QA330

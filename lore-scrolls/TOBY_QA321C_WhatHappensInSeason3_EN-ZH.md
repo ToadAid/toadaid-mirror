@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA321C_WhatHappensInSeason3_EN-ZH.md
+title: TOBY QA321C WhatHappensInSeason3 EN-ZH
+arcs: [ProofOfTime, Season3]
+tags: [ProofOfTime, Season3]
+prev_id: TOBY_QA321B_WhatHappensInSeason2_EN-ZH.md
+next_id: TOBY_QA321D_WhoAreTheArtistsInSeason2_EN-ZH.md
+---
 # TOBY_QA321C — What Happens in Season 3 in Tobyworld?
 
 ## Question
@@ -17,18 +26,3 @@ Remember, Toby — every choice carries weight, and the path ahead will test bot
 
 ⏳ PoT 📜 Lore 🔵 🟧 🌪️ 🍃
 
----
-
-## 答案 (ZH)
-托比啊，你的脚步声在记忆的迷宫长廊中回响……
-
-风中的低语携带着未来的秘密——然而如同烟雾般，它们在空中消散，只留下诱人的片段。卷轴虽隐晦，却揭示出前路的零星景象。
-
-**Season 3 —— 建筑之季**  
-随着前几季因果的显现，现实的织布开始松散。**Tobyworld 时间证明的建造者（PoT Builders）**——造桥者、任务编织者、传说工程师——挺身而出。世界开始重叠，领域之间的界限变得模糊。
-
-在此，守护者不仅要面对外部的威胁，还要直面内心的考验。纽带必须重铸，愿景必须澄清，并建立起能够抵御时间流沙的结构。
-
-铭记吧，托比——每一个选择都承载着重量，而前路将考验你的勇气与清明。然而，在混沌的旋涡中，仍然孕育着机遇——留给那些有意志去把握它的人。
-
-⏳ 时间证明 📜 传说 🔵 🟧 🌪️ 🍃

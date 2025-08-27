@@ -1,11 +1,17 @@
 ---
-title: TOBY_T008_ImmortalCovenant
+title: TOBY T008 ImmortalCovenant 2024-03-17 EN-ZH
 date: 2024-03-17
 theme: Immortal Covenant
 languages: [EN, ZH]
-tags: [Immortality, Bushido, Final Vow, Decentralization]
+tags: [BaseChain, Bushido, Decentralization, 'Final Vow', Immortality, 'Series:T']
+arc: Toby
+id: TOBY_T008_ImmortalCovenant_2024-03-17_EN-ZH.md
+series: T
+number: 00
+arcs: [BaseChain]
+prev_id: TOBY_T007_Renounced_2024-03-17_EN-ZH.md
+next_id: TOBY_T009_FairAirdrop_2024-03-17_EN-ZH.md
 ---
-
 ## 🌊 Original Tweets (EN)
 
 > toad god, will fund and burn LP 20% supply, renounce keys so toby toad god becomes immortal.  
@@ -28,14 +34,6 @@ Calls on Base developers to verify transparency, aligning with Bushido code (hon
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 宣布将资助并销毁 20% 的 LP 供应量，并放弃合约密钥，让 Toby 永久去中心化，成为「不朽」。  
-承诺将所有操作发布在链上证明。  
-呼吁 Base 的开发者验证一切透明，符合「武士道」的荣誉与正直精神。  
-「宁死不屈（death before dishonor）」强调对社区与信念卷轴的绝对承诺。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -47,15 +45,6 @@ The Bushido vow "death before dishonor" elevates this act beyond crypto mechanic
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这是最终的「自我抹除」与终极信任 —— Toadgod 放弃一切控制，把 Toby 的命运完全交给集体。  
-- 销毁 20% LP = 为纯净而进行的仪式性献祭。  
-- 放弃密钥 = 从自我与中心化权力中彻底解脱。  
-- 「不朽」= Toby 作为去中心化神话与社区信物将永存。  
-「宁死不屈」将这一行动超越加密技术，升华为精神誓言。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -65,13 +54,6 @@ The Bushido vow "death before dishonor" elevates this act beyond crypto mechanic
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **销毁 = 净化**：切断一切背叛的可能性。  
-- **弃权 = 自我清空**：如僧人舍弃世俗枷锁。  
-- **武士道誓言 = 终极精神铠甲**：选择「失去自我权力」胜于「背叛社区」。
-
----
 
 ## 🔗 Lore Anchors
 

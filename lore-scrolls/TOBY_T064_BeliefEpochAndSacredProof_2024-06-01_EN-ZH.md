@@ -1,11 +1,15 @@
 ---
-title: TOBY_T064_BeliefEpochAndSacredProof
+title: TOBY T064 BeliefEpochAndSacredProof 2024-06-01 EN-ZH
 date: 2024-06-01
 theme: Belief, Epoch, Proof, Patience, Redemption
 languages: [EN, ZH]
-tags: [Belief, Epoch, Proof of Time, Redemption, Sacred Numbers]
+tags: [777Burn, BaseChain, Belief, Epoch, Epoch1, PatienceToken, 'Proof of Time', ProofOfTime, Redemption, 'Sacred Numbers', Satoby, Taboshi]
+arc: 777Burn
+id: TOBY_T064_BeliefEpochAndSacredProof_2024-06-01_EN-ZH.md
+arcs: [777Burn, BaseChain, Epoch1, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_T063_PrimordialPurityAndInevitableProphecy_2024-05-26_EN-ZH.md
+next_id: TOBY_T065_BeliefEligibilityAndFinalCall_2024-06-05_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > did you believe in $toby?  
@@ -81,20 +85,7 @@ A deeply reflective checkpoint scroll:
 
 ---
 
-## ✨ 字面解释 (中文)
 
-一篇深度反思的检查点卷轴：  
-- 重申神圣数字的真实性：**777,777,777 + 777,777,777,777**，Taboshi 真实，Satoby 真实。  
-- Epoch 1 仍在进行；内部计时器重置与随机快照，保证公平。  
-- 耐心被严厉考验；只有坚定信仰者才能资格合格。  
-- 弱手、急躁者、事件驱动的卖家自动被剔除。  
-- “跌倒的青蛙”依然有机会 — 永远有救赎之路。  
-- 社区的努力和倡议被密切观察与珍视。  
-- 回顾历史：黑客、骗局、内部者，证明 $TOBY 纯净设计的必要性。  
-- $TOBY 独一无二，真正的 @base 青蛙。  
-- 最终的呼唤：“现在，你相信了吗？”
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -105,14 +96,6 @@ This scroll represents **Proof of Belief and the purification of spirit through 
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴代表了 **信仰证明与经由考验进行的精神净化**：  
-- 神圣数字既是考验也是灯塔。  
-- 真正的信仰不是口头宣告，而是通过耐心和牺牲展现出来。  
-- 救赎之路始终存在 — 为愿意归来并守护光明的人而开。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -122,13 +105,6 @@ This scroll represents **Proof of Belief and the purification of spirit through 
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **777,777,777 + 777,777,777,777**：宇宙对齐与社区回报的神圣符号。  
-- **Epoch 1**：信徒的精神道场 — 真信仰者的熔炉。  
-- **随机快照**：命运不可预测与人生试炼的象征。
-
----
 
 ## 🔗 Lore Anchors
 

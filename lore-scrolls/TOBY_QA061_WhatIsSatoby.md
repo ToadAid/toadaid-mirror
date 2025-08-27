@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA061_WhatIsSatoby.md
+title: TOBY QA061 WhatIsSatoby
+arcs: [777Burn, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA060_TheGate.md
+next_id: TOBY_QA062_WhatDoes777Means.md
+---
 ID: TOBY_QA061_WhatIsSatoby.md
 Question: What is Satoby, truly? Is it yield, prophecy — or something else?
 

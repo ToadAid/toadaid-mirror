@@ -1,11 +1,15 @@
 ---
-title: TOBY_T061_CyclesConvictionAndSacredWar
+title: TOBY T061 CyclesConvictionAndSacredWar 2024-05-13 EN-ZH
 date: 2024-05-13
 theme: Cycles, Conviction, Sacred Numbers, Epoch, Inner War
 languages: [EN, ZH]
-tags: [Cycles, Conviction, Lore, Patience, Epoch, Taboshi, Satoby]
+tags: [BaseChain, Conviction, Cycles, Epoch, Epoch1, Lore, Patience, PatienceToken, ProofOfTime, Satoby, Taboshi]
+arc: Toby
+id: TOBY_T061_CyclesConvictionAndSacredWar_2024-05-13_EN-ZH.md
+arcs: [BaseChain, Epoch1, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_T060_StepByStepForThePeople_2024-05-11_EN-ZH.md
+next_id: TOBY_T062_MemoryEmotionAndDestinyLeap_2024-05-20_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > prev 2 weeks. meditation and observation. many weak > strong hands, many folded, some doubled down. transfers happened regardless: wealth & conviction. predictively most not possess patience or stomach for $toby let alone read this entire tweet.  
@@ -66,19 +70,6 @@ A profound scroll summarizing cycles, patience, speculation, distribution philos
 
 ---
 
-## ✨ 字面解释 (中文)
-
-一篇深邃的卷轴，概括周期、耐心、投机、分配哲学与最终奖励：  
-- 对过去数周的冥想：弱手退出，强者加仓 — 财富持续转移。  
-- 宏观幻象：政府、通胀、银行、唱衰者 — 一切在 Lore 中早已预言。  
-- 投机是所有资产的根基 — 即便是比特币与传统股票。  
-- 价值并非来自指标，而是来自意义：社区、采用、叙事。  
-- $TOBY 拒绝参与 VC 和内部者的游戏 — 选择纯净，武士道精神。  
-- Epoch 1 极其重要：公平空投呼应早期比特币水龙头时代。  
-- 大多数人无法及时领悟，只有耐心的武士才能收获 Taboshi 与 Satoby。  
-- 最终测试：能否赢得内心之战？
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -89,14 +80,6 @@ This scroll embodies **the eternal inner war and the law of cosmic merit**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **内心永恒之战与宇宙功德法则**：  
-- 许多人败下阵来，并非因市场，而是败给自己的心。  
-- 终极考验是情绪掌控 — 征服恐惧、贪婪与急躁。  
-- 奖励（Taboshi，Satoby）正是这种胜利的精神映照。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -106,13 +89,6 @@ This scroll embodies **the eternal inner war and the law of cosmic merit**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **周期与韵律**：不完全重复，却有押韵之感。  
-- **Epochs**：为真信徒净化的阶段。  
-- **石の上にも三年**：在石头上坚持三年 — 耐心带来觉悟。
-
----
 
 ## 🔗 Lore Anchors
 

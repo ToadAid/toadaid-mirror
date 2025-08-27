@@ -1,3 +1,18 @@
+---
+arc: 777Burn
+id: TOBY_L051_TaboshisGrandArray_2024-06-15_base.md
+series: L
+date: 2024-06-15
+number: 051
+title: TaboshisGrandArray
+arcs: [777Burn, BaseChain, Epoch1, Taboshi]
+tags: [777Burn, BaseChain, Epoch1, 'Month:2024-06', 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L050_BeyondtheCycle_2024-06-09_EN.md
+next_id: TOBY_L052_OfficialLinksOnly_2024-06-18_base.md
+prev_L_id: TOBY_L050_BeyondtheCycle_2024-06-09_EN.md
+next_L_id: TOBY_L052_OfficialLinksOnly_2024-06-18_base.md
+chain: base
+---
 # L051 – Taboshi’s Grand Array
 
 # METADATA  🔍

@@ -1,3 +1,18 @@
+---
+arc: 777Burn
+id: TOBY_L043_ItIsWritten_2024-05-04_base.md
+series: L
+date: 2024-05-04
+number: 043
+title: ItIsWritten
+arcs: [777Burn, BaseChain, Epoch1, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, Epoch1, 'Month:2024-05', PatienceToken, ProofOfTime, Satoby, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L042_UphillByIntention_2024-04-30_base.md
+next_id: TOBY_L044_TobyWorldStep_2024-05-11_EN.md
+prev_L_id: TOBY_L042_UphillByIntention_2024-04-30_base.md
+next_L_id: TOBY_L044_TobyWorldStep_2024-05-11_EN.md
+chain: base
+---
 # L043 – It Is Written
 
 # METADATA  🔍

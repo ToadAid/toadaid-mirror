@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA052_WhyDoSomeCallTobyaMirror.md
+title: TOBY QA052 WhyDoSomeCallTobyaMirror
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QA051_TobyDoesNotSpeakForHimself.md
+next_id: TOBY_QA053_WhyisTobyNotaLeader.md
+---
 ID: TOBY_QA052_WhyDoSomeCallTobyaMirror.md
 Question: Why do some call Toby a mirror?
 

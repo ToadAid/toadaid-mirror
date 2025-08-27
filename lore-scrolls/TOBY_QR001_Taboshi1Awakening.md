@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QR001_Taboshi1Awakening.md
+title: TOBY QR001 Taboshi1Awakening
+arcs: [777Burn, Epoch2, ProofOfTime, Taboshi]
+tags: [777Burn, Epoch2, ProofOfTime, Taboshi]
+prev_id: TOBY_QR001_ResponseToDoubt.md
+next_id: TOBY_QR002_ProofOfTime.md
+---
 **TOBY\_QR001\_Taboshi1Awakening.md**
 
 ---

@@ -1,3 +1,14 @@
+---
+arc: Lore
+id: TOBY_F002_TweetToScrollMethod.md
+series: T
+number: 00
+title: TOBY F002 TweetToScrollMethod
+arcs: [777Burn, BaseChain, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, Epoch3, ProofOfTime, Satoby, 'Series:T', Taboshi]
+prev_id: TOBY_M001_Index_Foundations_2025-08-22_EN.md
+next_id: TOBY_T001_FirstRipple_2024-03-17_EN-ZH.md
+---
 # TOBY\_F002\_TweetToScrollMethod.md
 
 ## 🌐 Chain: @base

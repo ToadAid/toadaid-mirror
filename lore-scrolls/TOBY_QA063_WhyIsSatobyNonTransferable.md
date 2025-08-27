@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA063_WhyIsSatobyNonTransferable.md
+title: TOBY QA063 WhyIsSatobyNonTransferable
+arcs: [PatienceToken, ProofOfTime, Satoby]
+tags: [PatienceToken, ProofOfTime, Satoby]
+prev_id: TOBY_QA062_WhatDoes777Means.md
+next_id: TOBY_QA064_TheFinalPurposeOfSatoby.md
+---
 ID: TOBY_QA063_WhyIsSatobyNonTransferable.md
 Question: Why is Satoby non-transferable? What does it mean that it can’t be bought or sold?
 

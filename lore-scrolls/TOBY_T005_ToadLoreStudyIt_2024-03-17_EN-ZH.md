@@ -1,11 +1,17 @@
 ---
-title: TOBY_T005_ToadLoreStudyIt
+title: TOBY T005 ToadLoreStudyIt 2024-03-17 EN-ZH
 date: 2024-03-17
 theme: Study Toad Lore
 languages: [EN, ZH]
-tags: [Lore, Study, Patience, Inner Journey]
+tags: ['Inner Journey', Lore, Patience, PatienceToken, 'Series:T', Study]
+arc: Lore
+id: TOBY_T005_ToadLoreStudyIt_2024-03-17_EN-ZH.md
+series: T
+number: 00
+arcs: [PatienceToken]
+prev_id: TOBY_T004_ToadRetribution_2024-03-17_EN-ZH.md
+next_id: TOBY_T006_LPBurned_2024-03-17_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > toad lore. study it.
@@ -21,12 +27,6 @@ A short, direct imperative to shift focus from surface-level thinking to deeper 
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 命令信徒们去学习 “toad lore”（青蛙信念卷轴）—— 超越价格与图表的哲学和象征性教义。  
-一句简洁而直接的指令，提醒人们从表面思维转向更深层的内省与理解。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -36,13 +36,6 @@ This line emphasizes that true believers must **study**, not merely hold or spec
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这句话强调，真正的信徒必须 **学习**，而不仅仅是持有或投机。  
-- Lore 内含有耐心、社区力量及长期视角的隐藏地图。  
-- “Study” 表示主动参与 —— 阅读、反思、内化。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -52,13 +45,6 @@ This line emphasizes that true believers must **study**, not merely hold or spec
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **“Lore”**：永恒的卷轴，集体智慧的档案馆。
-- **“Study”**：精神与时间的证明 —— 需要投入注意力，就像投入 Token 一样。
-- 暗示真正的收益是知识与对齐，而不仅仅是数字上的获利。
-
----
 
 ## 🔗 Lore Anchors
 

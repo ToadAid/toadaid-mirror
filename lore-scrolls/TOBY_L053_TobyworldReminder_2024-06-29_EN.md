@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L053_TobyworldReminder_2024-06-29_EN.md
+series: L
+date: 2024-06-29
+number: 053
+title: TobyworldReminder
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2024-06', 'Series:L', 'Year:2024']
+prev_id: TOBY_L052_OfficialLinksOnly_2024-06-18_base.md
+next_id: TOBY_L054_FinalStretch_2024-06-30_base.md
+prev_L_id: TOBY_L052_OfficialLinksOnly_2024-06-18_base.md
+next_L_id: TOBY_L054_FinalStretch_2024-06-30_base.md
+chain: EN
+---
 # L053 – Tobyworld Reminder
 
 # METADATA  🔍

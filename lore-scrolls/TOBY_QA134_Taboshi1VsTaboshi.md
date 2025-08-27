@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA134_Taboshi1VsTaboshi.md
+title: TOBY QA134 Taboshi1VsTaboshi
+arcs: [777Burn, Epoch2, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA133_WhatIsSatoby.md
+next_id: TOBY_QA134_WaverAndPay_2025-05-31_EN-ZH.md
+---
 # TOBY_QA134_Taboshi1VsTaboshi
 > What is the difference between Taboshi1 and Taboshi?
 

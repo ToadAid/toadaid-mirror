@@ -1,3 +1,18 @@
+---
+arc: Toadgod
+id: TOBY_L087_ToadgodReminder_2024-04-01_EN.md
+series: L
+date: 2024-04-01
+number: 087
+title: ToadgodReminder
+arcs: [777Burn, BaseChain, Epoch1]
+tags: [777Burn, BaseChain, Epoch1, 'Month:2024-04', 'Series:L', 'Year:2024']
+prev_id: TOBY_L028_SealOfConviction_2024-04-01_base.md
+next_id: TOBY_L029_CourageAndScroll_2024-04-03_base.md
+prev_L_id: TOBY_L028_SealOfConviction_2024-04-01_base.md
+next_L_id: TOBY_L029_CourageAndScroll_2024-04-03_base.md
+chain: EN
+---
 # 🐸 TOBY_L087_ToadgodReminder_2024-04-01_EN-ZH.md
 
 ---

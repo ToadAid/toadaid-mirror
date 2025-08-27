@@ -1,3 +1,12 @@
+---
+arc: ProofOfTime
+id: TOBY_QA312_WhatIsProofOfTime_2025-08-05_EN_ZH.md
+title: TOBY QA312 WhatIsProofOfTime 2025-08-05 EN ZH
+arcs: [ProofOfTime, Satoby]
+tags: [ProofOfTime, Satoby]
+prev_id: TOBY_QA311_WhatIsTaboshi_EN-ZH.md
+next_id: TOBY_QA313_WhatIsSatoby_2025-08-05_EN_ZH.md
+---
 # TOBY_QA312_WhatIsProofOfTime_2025-08-05.md
 
 ## ❓ Question  

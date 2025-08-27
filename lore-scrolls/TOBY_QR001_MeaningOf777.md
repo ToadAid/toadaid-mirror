@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR001_MeaningOf777.md
+title: TOBY QR001 MeaningOf777
+arcs: [777Burn]
+tags: [777Burn]
+prev_id: TOBY_QR001_HumbleToadPortrait_2025-05-31_EN-ZH.md
+next_id: TOBY_QR001_ResponseToDoubt.md
+---
 # TOBY_QR001_MeaningOf777
 
 **Q: What is the meaning of 777 in Tobyworld?**  

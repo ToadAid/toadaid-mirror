@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA006_WhoIsToby.md
+title: TOBY QA006 WhoIsToby
+arcs: [ProofOfTime]
+tags: [ProofOfTime]
+prev_id: TOBY_QA005_WhoCannotEarnSatoby_2025-05-03_EN.md
+next_id: TOBY_QA006_WhoIsToby_2025-05-03_EN.md
+---
 # Metadata  
 ID: TOBY_QA006  
 Title: Who Is Toby?  

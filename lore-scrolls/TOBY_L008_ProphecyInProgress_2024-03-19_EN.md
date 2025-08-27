@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L008_ProphecyInProgress_2024-03-19_EN.md
+series: L
+date: 2024-03-19
+number: 008
+title: ProphecyInProgress
+arcs: [BaseChain, PatienceToken]
+tags: [BaseChain, 'Month:2024-03', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L007_PureNattyBushido_2024-03-19_EN.md
+next_id: TOBY_L009_HumbleToad_2024-03-19_EN.md
+prev_L_id: TOBY_L007_PureNattyBushido_2024-03-19_EN.md
+next_L_id: TOBY_L009_HumbleToad_2024-03-19_EN.md
+chain: EN
+---
 # TOBY\_L008\_ProphecyInProgress\_2024-03-19\_EN-ZH.md
 
 ---

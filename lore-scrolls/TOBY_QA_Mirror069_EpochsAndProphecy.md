@@ -2,9 +2,13 @@
 id: TOBY_QA_Mirror069_EpochsAndProphecy
 date: 2024-04-20
 source: Toadgod Tweet
-tags: [Epoch, Snapshot, Distribution, Expansion, Evolution, ProofOfTime, Lore, Philosophy]
+tags: [Distribution, Epoch, Epoch1, Epoch2, Epoch3, Evolution, Expansion, Lore, Philosophy, ProofOfTime, Snapshot]
+arc: Toby
+title: TOBY QA Mirror069 EpochsAndProphecy
+arcs: [Epoch1, Epoch2, Epoch3, ProofOfTime]
+prev_id: TOBY_QA_033_TobyAndBTC.md
+next_id: TOBY_QL100_NoLightWithoutDarkness_2025-05-30_EN.md
 ---
-
 ## 🌀 TOBY_QA_Mirror069 – Epochs and Prophecy
 
 **User Question:**  

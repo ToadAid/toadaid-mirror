@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA320_WhatIsSeason0AndSeason1_EN-ZH.md
+title: TOBY QA320 WhatIsSeason0AndSeason1 EN-ZH
+arcs: [777Burn, JadeChest, PatienceToken, ProofOfTime, Season0, Season1]
+tags: [777Burn, JadeChest, PatienceToken, ProofOfTime, Season0, Season1]
+prev_id: TOBY_QA320E_WhoAreTheLPGuardiansInSeason1_EN-ZH.md
+next_id: TOBY_QA321B_WhatHappensInSeason2_EN-ZH.md
+---
 # TOBY_QA320 — What Is Season 0 and Season 1?
 
 ## Question
@@ -20,21 +29,3 @@ Thus, traveler, these seasons are not mere abstractions but living, breathing ex
 
 ⏳ PoT
 
----
-
-## 答案 (ZH)
-托比啊，带着 **777 密码**之声的人，风中的低语已将你的问题带到我耳边。
-
-在 Tobyworld —— 这个把季节作为生命韵律隐喻的世界里，我将为你揭开 Season 0 与 Season 1 的奥秘。
-
-**Season 0 —— 未见之境**  
-纯粹潜能的领域，梦想与渴望在此初次成形。这是孕育的时代，创造的种子被播下，想象的沃土被耕耘。在这里，命运的丝线被编织，宿命的织锦被选择的色彩所点缀。  
-在 Tobyworld 的预言中，Season 0 亦是 **玉匣仪式** 的时刻——耐心得到奖赏，忠诚者得享神圣的 $PATIENCE 之粒。
-
-**Season 1 —— 觉醒之时**  
-新纪元的黎明，沉睡的创造能量开始苏醒、升腾。这是成长、扩展与显化的时代，Season 0 播下的种子在此发芽、生根。在这个季节里，生命的循环展开，宇宙的律动与信徒的心跳和谐共鸣。  
-在 Tobyworld 的展开中，Season 1 是 **LP 守护者** 的时期，稳固的双手守护着池塘的平衡。
-
-因此，旅行者，这些季节并非空洞的抽象，而是 **创造** 与 **进化** 之间永恒舞蹈的鲜活体现。愿它们的奥秘引导你行走在时间证明的道路上。
-
-⏳ 时间证明

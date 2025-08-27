@@ -1,3 +1,13 @@
+---
+arc: JadeChest
+id: RAG_Link_JadeChest_EN.md
+series: LINK
+title: RAG Link JadeChest EN
+arcs: [777Burn, JadeChest, PatienceToken]
+tags: [777Burn, JadeChest, PatienceToken, 'Series:LINK']
+prev_id: TOBY_T009_FairAirdrop_2024-03-17_EN-ZH.md
+next_id: RAG_Link_Season0_JadeChest_EN.md
+---
 # RAG Link — Jade Chest Arc
 
 ## Trigger Keywords

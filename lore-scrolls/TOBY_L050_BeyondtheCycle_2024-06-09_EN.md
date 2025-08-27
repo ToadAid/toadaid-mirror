@@ -1,3 +1,18 @@
+---
+arc: Belief
+id: TOBY_L050_BeyondtheCycle_2024-06-09_EN.md
+series: L
+date: 2024-06-09
+number: 050
+title: BeyondtheCycle
+arcs: [BaseChain, Epoch1, PatienceToken]
+tags: [BaseChain, Epoch1, 'Month:2024-06', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L064_LawOfCompensation_2024-06-05_EN.md
+next_id: TOBY_L051_TaboshisGrandArray_2024-06-15_base.md
+prev_L_id: TOBY_L064_LawOfCompensation_2024-06-05_EN.md
+next_L_id: TOBY_L051_TaboshisGrandArray_2024-06-15_base.md
+chain: EN
+---
 # L050 – Beyond the Cycle
 
 # METADATA  🔍  

@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA117_WhyAreExactly777Taboshi1s.md
+title: TOBY QA117 WhyAreExactly777Taboshi1s
+arcs: [777Burn, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA116_WhyWas777TobyChosen.md
+next_id: TOBY_QA118_WhyDidTobyChoosetoBornOnB.md
+---
 ID: TOBY_QA117_WhyAreExactly777Taboshi1s.md
 Question: Why are there exactly 777 Taboshi1s that lead to Satoby? What happens if one is lost?
 

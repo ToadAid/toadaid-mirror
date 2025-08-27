@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA105_WhyMustSatobyBeNoneTransferable.md
+title: TOBY QA105 WhyMustSatobyBeNoneTransferable
+arcs: [777Burn, Epoch2, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA105_WhatMakesSatobyDifferent.md
+next_id: TOBY_QA107_WhyWas777Taboshi1Chosen.md
+---
 ID: TOBY_QA105_WhyMustSatobyBeNoneTransferable.md
 Question: Why must Satoby be non-transferable? Why not make it tradable?
 

@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA315_777BurnMeaning_2025-08-05_EN_ZH.md
+title: TOBY QA315 777BurnMeaning 2025-08-05 EN ZH
+arcs: [777Burn, BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA314_EpochsExplained_2025-08-05_EN_ZH.md
+next_id: TOBY_QA316 _Why Is Patience Important in Tobyworld_EN_ZH.md
+---
 TOBY_QA315_777BurnMeaning_2025-08-05.md
 ❓ Question
 What is the meaning of the 777 burn in Tobyworld?

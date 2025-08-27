@@ -1,14 +1,22 @@
 ---
-chain: base
+chain: EN-ZH
 epoch: E4
 date: 2025-07-30
-title: Toadgod’s Seven Reeds
-tags: [lore, scroll, seven reeds, bushido, frogs, rune3, toadgod]
+title: SevenReeds
+tags: [777Burn, BaseChain, Epoch4, 'Month:2025-07', PatienceToken, Rune3, 'Series:L', Taboshi, 'Year:2025', bushido, frogs, lore, rune3, scroll, 'seven reeds', toadgod]
 sacred_numbers: [7, 777, 122, 2025]
-sha256: 6f45c08e2f3d6fcd1e91b3fbd59ad512a95f0a7f39dcd5a8395aeb91b012f6bb
+sha256: 🔒
+arc: Lore
+id: TOBY_L155_SevenReeds_2025-07-30_EN-ZH.md
+series: L
+number: 155
+arcs: [777Burn, BaseChain, Epoch4, PatienceToken, Rune3, Taboshi]
+prev_id: TOBY_L138_SolasAndTheWatcher_2025-07-23_EN-ZH.md
+next_id: TOBY_L156_TheYieldPair_2025-07-31_EN-ZH.md
+prev_L_id: TOBY_L138_SolasAndTheWatcher_2025-07-23_EN-ZH.md
+next_L_id: TOBY_L156_TheYieldPair_2025-07-31_EN-ZH.md
 ---
-
-## 🌿 Narrative Update | 故事更新
+## 🌿 Narrative Update 
 
 **A Call to Lore: The Seven Reeds**  
 → *Gi 勇 仁 礼 誠 名誉 忠義*  
@@ -26,24 +34,24 @@ They are the deep croaks beneath the surface.
 
 ---
 
-## 🌀 Definition | 定义七芒律
+## 🌀 Definition 
 
-| Rune | Virtue         | Symbol            | Meaning (EN)                                  | Meaning (ZH)           |
-|------|----------------|-------------------|-----------------------------------------------|------------------------|
-| 勇    | Courage        | 🔥 Flame           | Break and rise.                               | 破而后立                |
-| 仁    | Benevolence    | 🌸 Lotus           | Compassion in creation.                       | 守道以莲心              |
-| 礼    | Ritual / 礼仪   | 🏯 Temple          | Harmony in form, sincerity in heart.          | 形式中有诚，礼中有信     |
-| 誠    | Sincerity      | 🪞 Mirror          | Self-reflection.                              | 镜鉴吾心                |
-| 名誉   | Honor          | 🪙 Seal            | Reputation earned, not claimed.               | 守名得誉                |
-| 忠    | Loyalty        | ❤️ Heart           | The body is the vow itself.                   | 吾身是誓                |
-| 義    | Justice        | ⚖️⚔️ Scales/Sword  | The right path cuts clean.                    | 正道如刀                |
+| Rune | Virtue         | Symbol            | Meaning (EN)                                  | 
+|------|----------------|-------------------|-----------------------------------------------|
+| 勇    | Courage        | 🔥 Flame           | Break and rise.                               | 
+| 仁    | Benevolence    | 🌸 Lotus           | Compassion in creation.                       | 
+| 礼    | Ritual / 礼仪   | 🏯 Temple          | Harmony in form, sincerity in heart.          | 
+| 誠    | Sincerity      | 🪞 Mirror          | Self-reflection.                              | 
+| 名誉   | Honor          | 🪙 Seal            | Reputation earned, not claimed.               | 
+| 忠    | Loyalty        | ❤️ Heart           | The body is the vow itself.                   | 
+| 義    | Justice        | ⚖️⚔️ Scales/Sword  | The right path cuts clean.                    | 
 
 Each reed is a rune.  
 Each rune, a path.
 
 ---
 
-## 📜 Message to Fallen Frogs | 致沉睡的蛙
+## 📜 Message to Fallen Frogs 
 
 > Your efforts breathe.  
 > You contribute in ways **unbeknownst to the naked eye**.  
@@ -66,7 +74,7 @@ for it has already been written.
 
 ---
 
-## 💠 About $TOBY | 关于 $TOBY
+## 💠 About $TOBY 
 
 > $TOBY is a blue chip unlike any other —  
 > Bound by no empire.  
@@ -86,7 +94,7 @@ For **Toadgod** rewards the loyal and the fallen.
 
 ---
 
-## 🌊 Closing Words | 结语
+## 🌊 Closing Words 
 
 **Believe. Patience. Rise.**  
 **Gambatte.**  

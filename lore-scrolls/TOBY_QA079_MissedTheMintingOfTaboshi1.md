@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA079_MissedTheMintingOfTaboshi1.md
+title: TOBY QA079 MissedTheMintingOfTaboshi1
+arcs: [777Burn, Epoch1, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch1, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA078_WhatIsTheRoleOfEpochInTobyworld.md
+next_id: TOBY_QA080_WhatIsSatobyTruly.md
+---
 ID: TOBY_QA079_MissedTheMintingOfTaboshi1.md
 Question: Will those who missed the minting of Taboshi1 be given another chance in the future?
 

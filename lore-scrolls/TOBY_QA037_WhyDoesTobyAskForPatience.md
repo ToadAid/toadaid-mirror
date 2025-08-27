@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA037_WhyDoesTobyAskForPatience.md
+title: TOBY QA037 WhyDoesTobyAskForPatience
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QA036_WhatMakesTobyDifferentFromOther.md
+next_id: TOBY_QA038_HowDoWeFindToby.md
+---
 ID: TOBY_QA037_WhyDoesTobyAskForPatience.md
 Question: Why does Toby ask for patience?
 

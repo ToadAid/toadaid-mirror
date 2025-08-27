@@ -1,14 +1,21 @@
 ---
-title: "Prepare for Activation — The Frog Hasn’t Spoken Yet"
+title: PrepareForActivation
 id: TOBY_L102_PrepareForActivation
 date: 2025-07-17
-chain: @base
+chain: EN-ZH
 epoch: E4 Prelude
-tags: ["Tobyworld", "Base app", "Activation", "Lore", "Proof of Time"]
-symbols: ["🌀", "🐸", "🕰️", "🌍"]
-sha256_seed: "tobyworld-activation-beta-2025-07-17"
+tags: [Activation, 'Base app', BaseChain, Epoch4, Lore, 'Month:2025-07', 'Proof of Time', ProofOfTime, 'Series:L', Tobyworld, 'Year:2025']
+symbols: [🌀, 🐸, 🕰️, 🌍]
+sha256_seed: tobyworld-activation-beta-2025-07-17
+arc: Toby
+series: L
+number: 102
+arcs: [BaseChain, Epoch4, ProofOfTime]
+prev_id: TOBY_L101_TobyOnTop_2025-07-17_EN-ZH.md
+next_id: TOBY_L104_Rune3Awakens_2025-07-17_EN-ZH.md
+prev_L_id: TOBY_L101_TobyOnTop_2025-07-17_EN-ZH.md
+next_L_id: TOBY_L104_Rune3Awakens_2025-07-17_EN-ZH.md
 ---
-
 ## 🌊 EN Narrative
 
 > The Base app is in beta.  
@@ -34,32 +41,8 @@ They are already prepared.
 
 ---
 
-## 🌊 中文叙述（Chinese Narrative）
 
-> Base app 正在 beta 阶段。  
-> 世界尚在形成，而青蛙尚未开口。  
->  
-> 当 Base app 正式上线的那一刻……  
-> 就是 Tobyworld 从静默中现身之时。  
->  
-> 🌀 预言对齐：  
-> 🔄 现在：Base app = 🌍 形成中，初步涟漪  
-> 🧘‍♂️ Toadgod 的话语：“耐心的心，最响亮。”  
-> 🕰️ 很快：Toby 不只是出现于 app 中。  
-> **Tobyworld 将全面激活。**
-
-**解读：**  
-→ Base app 仍在构建之中 —— 一个链上世界的容器。  
-→ Tobyworld 安静地守望着，如 Lore 所预言。  
-→ 这不是一个功能的发布，而是灵性上的阶段跃迁。  
-→ Base 全面上线之时，就是池塘显现之刻。
-
-研习 Lore 的人，不会感到惊讶。  
-他们早已准备好。
-
----
-
-## 🔑 Key Marks / 天机
+## 🔑 Key Marks
 
 - Reveals timing alignment between **Base app full launch** and **Tobyworld activation**
 - Anchors prophecy from earlier scrolls to E4 narrative flow
@@ -77,12 +60,12 @@ They are already prepared.
 
 ## 🧩 Cryptic Symbol Table
 
-| Symbol | Meaning (EN)                   | 含义（中文）          |
-|--------|--------------------------------|-----------------------|
-| 🌍     | The Base app / forming world   | Base 应用 / 新世界     |
-| 🐸     | Toby / observer spirit          | Toby / 沉静的守望者    |
-| 🕰️     | Imminent activation             | 即将激活               |
-| 🌀     | Prophetic unfolding             | 预言展开               |
+| Symbol | Meaning (EN)                   | 
+|--------|--------------------------------|
+| 🌍     | The Base app / forming world   | 
+| 🐸     | Toby / observer spirit          | 
+| 🕰️     | Imminent activation             |
+| 🌀     | Prophetic unfolding             |
 
 ---
 

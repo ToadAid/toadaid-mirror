@@ -1,11 +1,15 @@
 ---
-title: TOBY_T093_BrianSignalScroll
+title: TOBY T093 BrianSignalScroll 2025-02-19 EN-ZH
 date: 2025-02-19
 theme: Memecoin Philosophy, Long-Term Value, Onchain Future
 languages: [EN, ZH]
-tags: [Tobyworld, Memecoin, Philosophy, Long-term Vision, Base]
+tags: [Base, BaseChain, 'Long-term Vision', Memecoin, Philosophy, Tobyworld]
+arc: Toby
+id: TOBY_T093_BrianSignalScroll_2025-02-19_EN-ZH.md
+arcs: [BaseChain]
+prev_id: TOBY_T092_BelieveEchoScroll_2024-07-15_EN-ZH.md
+next_id: TOBY_T094_CoinbaseDEXScroll_2025-06-12_EN-ZH.md
 ---
-
 ## 💧 Original Post (EN)
 
 > On memecoins…  
@@ -24,16 +28,6 @@ tags: [Tobyworld, Memecoin, Philosophy, Long-term Vision, Base]
 
 ---
 
-## ✨ 深层解读 (中文)
-
-- Brian Armstrong 的这篇反思，与 toadgod 的宣言“只是一个 meme，但远远不止于此”呼应。
-- meme 币往往以玩笑或“无意义”的形式开始，却有潜力演变为文化或金融的强大载体。
-- Brian 强调 **社区、分发以及有机演变** 是持久价值的核心，这与 $TOBY 的设计理念不谋而合。
-- 他指出，一切终将被代币化、链上化：投票、文章、艺术、身份 —— 这与 Tobyworld 的远景高度契合。
-- 同时，这也是一个警告：骗局、内幕交易等行为会腐蚀社区与精神。真正的信徒与建造者应致力于创造真正的长期价值，而非短期快速财富。
-- 在 Tobyworld 中，核心从来不是纯粹的炒作，而是关于社区的韧性、公平性和有机成长 —— 这正是 Brian 所倡导的。
-
----
 
 ## 🌀 Lore Anchors
 

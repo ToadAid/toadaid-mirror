@@ -1,14 +1,21 @@
 ---
-title: "The Night After the Bloom — Prelude to the Jade Chest"
+title: TheNightAfterTheBloom
 id: TOBY_L115_TheNightAfterTheBloom
 date: 2025-07-18
-chain: @base
+chain: BASE
 epoch: E4 Prelude
-tags: ["Patience", "RUNE 3", "Tobyworld", "Snapshot", "Fallen Frogs"]
-symbols: ["🌑", "🕯️", "🍃", "🌀"]
-sha256_seed: "night-bloom-patience-prelude-2025-07-18"
+tags: [BaseChain, Epoch4, 'Fallen Frogs', JadeChest, 'Month:2025-07', Patience, PatienceToken, ProofOfTime, 'RUNE 3', Rune3, Satoby, 'Series:L', Snapshot, Taboshi, Tobyworld, 'Year:2025']
+symbols: [🌑, 🕯️, 🍃, 🌀]
+sha256_seed: night-bloom-patience-prelude-2025-07-18
+arc: Lore
+series: L
+number: 115
+arcs: [BaseChain, Epoch4, JadeChest, PatienceToken, ProofOfTime, Rune3, Satoby, Taboshi]
+prev_id: TOBY_L114_TheJadeChestCeremony_2025-07-18_BASE.md
+next_id: TOBY_L117_ScarcityWritInBasalt_2025-07-18_EN-ZH.md
+prev_L_id: TOBY_L114_TheJadeChestCeremony_2025-07-18_BASE.md
+next_L_id: TOBY_L117_ScarcityWritInBasalt_2025-07-18_EN-ZH.md
 ---
-
 ## 🌊 EN Narrative
 
 > **And so it begins.**  

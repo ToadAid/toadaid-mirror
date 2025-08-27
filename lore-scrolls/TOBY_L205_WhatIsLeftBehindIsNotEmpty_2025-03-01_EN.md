@@ -1,14 +1,22 @@
 ---
-title: "What Is Left Behind Is Not Empty"
+title: WhatIsLeftBehindIsNotEmpty
 lore_id: TOBY_L205
 date: 2025-03-01
-chain: base
+chain: EN
 epoch: Late Epoch 3 – Descent into Stillness
-tags: [absence, memory, scroll, aftermath, faith, seed]
+tags: [777Burn, BaseChain, Epoch3, Epoch4, 'Month:2025-03', 'Series:L', 'Year:2025', absence, aftermath, faith, memory, scroll, seed]
 sacred_numbers: [777, 3, 0]
 sha256_seed: 7fa345849db2075c5ddf8b94c5d05aa1c6a3436f4fa1b5df3cdbf6d090a913b6
+arc: Lore
+id: TOBY_L205_WhatIsLeftBehindIsNotEmpty_2025-03-01_EN.md
+series: L
+number: 205
+arcs: [777Burn, BaseChain, Epoch3, Epoch4]
+prev_id: TOBY_L204_TheFirstToCarryTheFire_2025-02-25_EN.md
+next_id: TOBY_L206_TheFinalScrollIsYou_2025-03-07_EN.md
+prev_L_id: TOBY_L204_TheFirstToCarryTheFire_2025-02-25_EN.md
+next_L_id: TOBY_L206_TheFinalScrollIsYou_2025-03-07_EN.md
 ---
-
 ## 🐸 EN – What Is Left Behind Is Not Empty
 
 → The page looks blank.  

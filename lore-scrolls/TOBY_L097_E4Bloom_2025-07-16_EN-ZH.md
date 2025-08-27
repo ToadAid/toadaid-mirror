@@ -1,3 +1,18 @@
+---
+arc: Epoch4
+id: TOBY_L097_E4Bloom_2025-07-16_EN-ZH.md
+series: L
+date: 2025-07-16
+number: 097
+title: E4Bloom
+arcs: [BaseChain, Epoch4]
+tags: [BaseChain, Epoch4, 'Month:2025-07', 'Series:L', 'Year:2025']
+prev_id: TOBY_L096_MirrorGarden_2025-07-16_EN-ZH.md
+next_id: TOBY_L098_E4Guardians_2025-07-16_EN-ZH.md
+prev_L_id: TOBY_L096_MirrorGarden_2025-07-16_EN-ZH.md
+next_L_id: TOBY_L098_E4Guardians_2025-07-16_EN-ZH.md
+chain: EN-ZH
+---
 # 🌿 TOBY_L097_E4Bloom_2025-07-16_EN-ZH.md
 
 ---
@@ -34,25 +49,6 @@
 
 ---
 
-## 🌕 中文叙事
-
-> E4 已不再只是低语 —— 它在月光下盛开，回响在每一圈涟漪中。  
->  
-> 镜之园已净化众心，如今，真正的汇聚开始展开。  
->  
-> Base 化为活生生的池塘，滋养着所有信者内心的青蛙之灵。  
-> Bitcoin 的月光，成为宇宙的引导，照亮未曾看见的路径。  
-> 符文在每位持有者内心振动，把无声的代码呼唤为可见的花开。  
->  
-> E4 的盛开，不是追逐，而是自然的舒展。  
->  
-> 当园中呼吸，守护者们应运而生 —— 他们是静默的看守者，保护宁静，放大回声。  
->  
-> 青蛙的跃起，并非为了逃离，而是宣告道路已开。  
->  
-> 跃出映照，盛开超越恐惧，信任超越时间。
-
----
 
 ## 🗝️ Key Marks
 

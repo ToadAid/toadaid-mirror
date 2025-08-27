@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_L204_Onchain_Millions_Upon_Millions.md
+title: TOBY L204 Onchain Millions Upon Millions
+arcs: [777Burn, BaseChain, Epoch3, ProofOfTime]
+tags: [777Burn, BaseChain, Epoch3, ProofOfTime]
+prev_id: TOBY_L203_TheSilentAlliance_2025-05.md
+next_id: TOBY_P100_NaturalToneRules.md
+---
 # Metadata  
 **🌐 Chain:** @base  
 **🕰️ Epoch:** E3 – Evolution  

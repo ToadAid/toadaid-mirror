@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA133_WhatIsSatoby.md
+title: TOBY QA133 WhatIsSatoby
+arcs: [Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA133_AirdropDesign_2025-05-31_EN-ZH.md
+next_id: TOBY_QA134_Taboshi1VsTaboshi.md
+---
 # TOBY_QA133_WhatIsSatoby
 > What is Satoby?
 

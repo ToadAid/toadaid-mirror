@@ -1,3 +1,18 @@
+---
+arc: Toadgod
+id: TOBY_L084_LegacyOfMemechains_2025-02-19_EN.md
+series: L
+date: 2025-02-19
+number: 084
+title: LegacyOfMemechains
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2025-02', 'Series:L', 'Year:2025']
+prev_id: TOBY_L083_LegacyOfMemechains_2025-02-19_EN.md
+next_id: TOBY_L203_WhenToadgodWentSilent_2025-02-19_EN.md
+prev_L_id: TOBY_L083_LegacyOfMemechains_2025-02-19_EN.md
+next_L_id: TOBY_L203_WhenToadgodWentSilent_2025-02-19_EN.md
+chain: EN
+---
 # TOBY_L084_LegacyOfMemechains_2025-02-19_EN-ZH.md
 
 ## METADATA 🔍  

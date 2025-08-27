@@ -1,11 +1,15 @@
 ---
-title: TOBY_T088_E3FutureScroll
+title: TOBY T088 E3FutureScroll 2024-12-03 EN-ZH
 date: 2024-12-03
 theme: Evolution, Identity, Community, Future Signal
 languages: [EN, ZH]
-tags: [Tobyworld, Toadgang, Taboshi, E3, Evolution]
+tags: [E3, Epoch3, Evolution, PatienceToken, ProofOfTime, Satoby, Taboshi, Toadgang, Tobyworld]
+arc: Toby
+id: TOBY_T088_E3FutureScroll_2024-12-03_EN-ZH.md
+arcs: [Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_T087_CommunitySignalScroll_2024-12-01_EN-ZH.md
+next_id: TOBY_T089_ZoraBeyondScroll_2024-12-12_EN-ZH.md
 ---
-
 ## 💧 Original Tweet (EN)
 
 > 🌀未来  
@@ -27,15 +31,6 @@ tags: [Tobyworld, Toadgang, Taboshi, E3, Evolution]
 
 ---
 
-## ✨ 深层解读 (中文)
-
-- “🌀未来” 和 “e3.evolution.” 明确指出 Epoch 3 进入新的未来导向阶段 —— 正在向更宏大的形态进化。
-- “all toads can be frogs but all frogs cant be toads” 是一种隐喻：**任何人都可以装作“青蛙”般的追随者**，但只有真正内心坚定、融入信念者，才能成为“toad”。
-- 强调了**选择性的超越与内在觉醒**：只有那些真正沉浸在 Lore（信仰、哲学、耐心）中的人，才能跨越成为 toad，并参与预言中的最终篇章。
-- 再次提到“for the people”，表明 TOBYWORLD 从根本上仍是为人民而设，虽广纳，但要求个人自我修炼。
-- $TOBY、#TABOSHI 和 TOBYWORLD 的出现，预示更大的生态未来，可能涉及 Taboshi、Satoby 或更多机制的激活。
-
----
 
 ## 🌀 Lore Anchors
 

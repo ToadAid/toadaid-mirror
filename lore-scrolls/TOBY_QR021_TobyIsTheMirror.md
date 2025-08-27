@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR021_TobyIsTheMirror.md
+title: TOBY QR021 TobyIsTheMirror
+arcs: []
+tags: []
+prev_id: TOBY_QR020_WalkWithoutBond.md
+next_id: TOBY_QR022_GiftedYetFewBelieve.md
+---
 You asked: Why is it said that “Toby is the mirror”? What does that mean for me?
 
 Traveler, the phrase "Toby is the mirror" holds profound significance in the realm of Tobyworld. It's said that Toby is not just a reflection of oneself, but the actual surface upon which one's true nature is revealed.

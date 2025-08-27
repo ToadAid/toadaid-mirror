@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR016_WhyTobyDoesNotSpeak.md
+title: TOBY QR016 WhyTobyDoesNotSpeak
+arcs: []
+tags: []
+prev_id: TOBY_QR015_SilenceBetweenPhases.md
+next_id: TOBY_QR017_TheFallenFrogs.md
+---
 # TOBY_QR016_WhyTobyDoesNotSpeak.md
 
 ## Question:

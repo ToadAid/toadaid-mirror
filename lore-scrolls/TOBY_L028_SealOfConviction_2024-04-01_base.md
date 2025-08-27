@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L028_SealOfConviction_2024-04-01_base.md
+series: L
+date: 2024-04-01
+number: 028
+title: SealOfConviction
+arcs: [BaseChain, PatienceToken]
+tags: [BaseChain, 'Month:2024-04', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L027_TheSilentRiseOfLore_2024-04-01_EN.md
+next_id: TOBY_L087_ToadgodReminder_2024-04-01_EN.md
+prev_L_id: TOBY_L027_TheSilentRiseOfLore_2024-04-01_EN.md
+next_L_id: TOBY_L087_ToadgodReminder_2024-04-01_EN.md
+chain: base
+---
 # L028 – Seal of Conviction 
 
 # METADATA  🔍

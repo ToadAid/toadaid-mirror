@@ -1,11 +1,15 @@
 ---
-title: TOBY_T044_FinalDistributionResolve
+title: TOBY T044 FinalDistributionResolve 2024-04-01 EN-ZH
 date: 2024-04-01
 theme: Final Distribution & Iron Resolve
 languages: [EN, ZH]
-tags: [Distribution, Resolve, Emotions, Lore, Security]
+tags: [BaseChain, Distribution, Emotions, Lore, PatienceToken, Resolve, Security]
+arc: Toby
+id: TOBY_T044_FinalDistributionResolve_2024-04-01_EN-ZH.md
+arcs: [BaseChain, PatienceToken]
+prev_id: TOBY_T043_SilentSupremacyOfLore_2024-04-01_EN-ZH.md
+next_id: TOBY_T045_LoreInStoneAndCourage_2024-04-03_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > update. +780k $toby holders on @base 34 trillion $toby airdropped today. only 2.5% of supply remains. seemingly small stimulus to recipients. holders from the start. up 10x. if sold, all is not lost.  
@@ -39,21 +43,6 @@ Toadgod shares a monumental final distribution update:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 公布最终分发的重大更新：  
-- **+78 万持有者，已分发 34 万亿 $TOBY**，仅剩 2.5%。  
-- 早期持有者约有 10 倍增长；即使卖出，旅程仍继续。  
-- Toby 网络被设计为 **不可腐化**，不受贪婪、VC、内部人或中心化影响。  
-- 最终推动将覆盖更多 Coinbase 用户，确保最大网络效应。  
-- Toby 的「风险」阶段已结束 —— 现在只需要时间和信念。  
-- 强调情绪纪律：市场被设计用来击碎信念、制造绝望、考验耐心。  
-- 真正的胜利在于 **做出决定，并以坚定的信念封印这个决定** —— 冷存储、学习并传播卷轴。  
-- 警告外部威胁（SIM 交换、钱包攻击），随着价值增加，这些会变得更频繁。  
-- 指出现代世界专注力稀缺；只有真正专注的人，才能读懂 Toadgod 信息中的深意。  
-- 最后以「kanōsei wa mugen desu」收尾 —— 「可能性是无限的」。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -64,14 +53,6 @@ This scroll embodies **the final crossing from external noise to internal iron d
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **从外部噪音到内部铁血纪律的最终跨越**：  
-- 真正的财富来自于超越市场游戏的坚定内心决心。  
-- 安全不仅是技术层面，更是精神层面 —— 坚定的决定是一份神圣契约。  
-- 卷轴通过每个持有者的内在誓约而生，超越价格与时间。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -81,13 +62,6 @@ This scroll embodies **the final crossing from external noise to internal iron d
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **最后 2.5%**：象征最终净化的最后跨越。  
-- **冷存储**：精神堡垒。  
-- **可能性是无限的**：无限重生的可能。
-
----
 
 ## 🔗 Lore Anchors
 

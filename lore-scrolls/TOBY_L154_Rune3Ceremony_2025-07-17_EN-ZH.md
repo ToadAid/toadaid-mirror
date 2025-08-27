@@ -1,14 +1,22 @@
 ---
-chain: base
+chain: EN-ZH
 epoch: E4
 date: 2025-07-17
-title: Rune3 – Ceremony of Patience
-tags: [Rune3, PATIENCE, Taboshi1, Airdrop, Ceremony, Toadgang, Sablier, Epoch4]
+title: Rune3Ceremony
+tags: [777Burn, Airdrop, BaseChain, Ceremony, Epoch4, JadeChest, 'Month:2025-07', PATIENCE, PatienceToken, ProofOfTime, Rune3, Sablier, Season1, 'Series:L', Taboshi, Taboshi1, Toadgang, 'Year:2025']
 sacred_numbers: [777, 7777777, 2.32M, 3, 730, 1254]
 sha256: 🔒
+arc: Lore
+id: TOBY_L154_Rune3Ceremony_2025-07-17_EN-ZH.md
+series: L
+number: 154
+arcs: [777Burn, BaseChain, Epoch4, JadeChest, PatienceToken, ProofOfTime, Rune3, Season1, Taboshi]
+prev_id: TOBY_L113_StillWaterGarden_2025-07-17_EN-ZH.md
+next_id: TOBY_RUNE3_PatienceCodex_2025-07-17_EN.md
+prev_L_id: TOBY_L113_StillWaterGarden_2025-07-17_EN-ZH.md
+next_L_id: TOBY_L111_TheFinalRune_2025-07-18_EN-ZH.md
 ---
-
-## 🌿 Narrative Update | 故事更新
+## 🌿 Narrative Update 
 
 a call to lore: **twpot**
 
@@ -86,7 +94,7 @@ every burn,
 every breath of $PATIENCE —  
 was seen.*
 
-## 🌀 Key Marks & Oracles | 关键标记与天机
+## 🌀 Key Marks & Oracles 
 
 - 🔺 **2.32M $PATIENCE** (1,254 grains) allocated to 1,800 loyal frogs.
 - 🕰️ **3-day claim** (July 17–July 20, 2025) → **7-week cliff** → **730-day linear drip**
@@ -95,7 +103,7 @@ was seen.*
 - 🍃 *Holding Taboshi1 = Proof of Time, not speculation.*
 - 🧪 Some frogs who sold low earlier may still be eligible — the chain remembers.
 
-## ⚙️ Operational Notes | 运作指引
+## ⚙️ Operational Notes 
 
 - 📍 Snapshot: Held Taboshi1 during critical silence period before Rune3.
 - 🗓️ Claim window: July 17–20, 2025 (3 days only)
@@ -106,7 +114,7 @@ was seen.*
 - ⛩️ Unclaimed grains → transferred to **Guard Vault**.
 - 📦 Future frogs may unlock these via sacred actions, not shortcuts.
 
-## 🌱 Guidance for Newcomers | 给新青蛙的指引
+## 🌱 Guidance for Newcomers 
 
 > What is Rune3?
 
@@ -130,18 +138,18 @@ To join later seasons:
 - Ignore noise, stay present  
 - Wait with honor  
 
-## 🔐 Symbol Key | 加密符号表
+## 🔐 Symbol Key
 
-| Symbol | Meaning (EN)           | 含义（中文）          |
-|--------|------------------------|------------------------|
-| 🌀     | Proof of Time / Time    | 时间 / 时间的验证       |
-| 🍃     | Taboshi / Yield         | Taboshi / 产出之叶       |
-| 🔺     | Grain of Patience       | 忍耐之粒               |
-| 📜     | Lore / Scroll           | 卷轴 / 传承             |
-| 🛡️     | Guard / Protection      | 守护 / 守卫之库          |
-| 🕰️     | Epoch / Duration        | 时期 / 时钟             |
-| ⛩️     | Sacred Mechanism        | 神圣机制               |
-| 🧪     | Chain Tracking          | 链上追踪               |
+| Symbol | Meaning (EN)           | 
+|--------|------------------------|
+| 🌀     | Proof of Time / Time    | 
+| 🍃     | Taboshi / Yield         | 
+| 🔺     | Grain of Patience       | 
+| 📜     | Lore / Scroll           | 
+| 🛡️     | Guard / Protection      | 
+| 🕰️     | Epoch / Duration        | 
+| ⛩️     | Sacred Mechanism        | 
+| 🧪     | Chain Tracking          | 
 
 ## 🔗 Lore Anchors
 

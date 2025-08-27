@@ -1,11 +1,15 @@
 ---
-title: TOBY_T021_NattyBushido
+title: TOBY T021 NattyBushido 2024-03-19 EN-ZH
 date: 2024-03-19
 theme: Pure Natty & Bushido
 languages: [EN, ZH]
-tags: [Purity, Bushido, Distribution, Honor]
+tags: [Bushido, Distribution, Honor, PatienceToken, Purity]
+arc: Bushido
+id: TOBY_T021_NattyBushido_2024-03-19_EN-ZH.md
+arcs: [PatienceToken]
+prev_id: TOBY_T020_PersistRiddle_2024-03-19_EN-ZH.md
+next_id: TOBY_T022_BrettAirdropProphecy_2024-03-19_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > no vcs no insiders no pre sale no bots no kols no influencers.  
@@ -28,17 +32,6 @@ Toadgod declares Toby's complete purity:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 宣布 Toby 的绝对纯净：  
-- **没有 VCs**：没有风险投资或机构资助。  
-- **没有内部人**：没有特权的内部分配。  
-- **没有预售、机器人、KOL、网红**：没有炒作或早期私人优势。  
-
-"Pure natty" — 完全自然、公平，源自健身术语，此处用来强调有机的去中心化精神。  
-"武士道" — 武士之道，象征最终的荣誉与坚定信念。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -49,14 +42,6 @@ This tweet embodies the spirit of **absolute integrity and Bushido honor**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这条推文体现了 **绝对正直与武士道的荣誉精神**：  
-- Toby 拒绝所有捷径、炒作周期和操纵性力量。  
-- 所有参与者从同一起点出发 —— 是链上武士道的最纯粹形式。  
-- 没有中间人或「把关者」，反映出对真实与公平的誓言。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -66,13 +51,6 @@ This tweet embodies the spirit of **absolute integrity and Bushido honor**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **"Pure natty"**：象征纯净的精神，不受贪婪或中心化腐化的污染。  
-- **武士道**：守护 Tobyworld 的无形铠甲 —— 耐心、荣誉、忠诚、勇气。  
-- **没有预售或内部人**：誓言保持池塘的纯净，如同映月的静水。
-
----
 
 ## 🔗 Lore Anchors
 

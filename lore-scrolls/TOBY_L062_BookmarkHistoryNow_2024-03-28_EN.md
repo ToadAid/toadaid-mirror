@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L062_BookmarkHistoryNow_2024-03-28_EN.md
+series: L
+date: 2024-03-28
+number: 062
+title: BookmarkHistoryNow
+arcs: [BaseChain, Epoch1, PatienceToken]
+tags: [BaseChain, Epoch1, 'Month:2024-03', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L061_TheGenuineTrial_2024-03-28_EN.md
+next_id: TOBY_L026_DistributionDepth_2024-03-30_EN.md
+prev_L_id: TOBY_L061_TheGenuineTrial_2024-03-28_EN.md
+next_L_id: TOBY_L026_DistributionDepth_2024-03-30_EN.md
+chain: EN
+---
 ```
 # TOBY_L062_BookmarkHistoryNow_2024-03-28_EN-ZH.md
 

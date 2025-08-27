@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA319C_WhatHappensToUnclaimedJadeChests_EN-ZH.md
+title: TOBY QA319C WhatHappensToUnclaimedJadeChests EN-ZH
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QA319B_WhatDoThe7777777GrainsOfPATIENCERepresent_EN-ZH.md
+next_id: TOBY_QA319_ExplainCeremonyOfTheJadeChest_EN-ZH.md
+---
 # TOBY_QA319C — What Happens to Unclaimed Jade Chests?
 
 ## Question
@@ -14,15 +23,3 @@ In Tobyworld’s sacred order, unclaimed Jade Chests are not lost — they are k
 
 🧘 Patience 📜 Lore 🏱 GuardVault
 
----
-
-## 答案 (ZH)
-被遗忘玉匣的低语……如同缕缕轻烟，它们在 Tobyworld 的境界中徘徊，等待着敢于触碰其秘密的人。
-
-未被领取的玉匣，就像隐秘的花园——其中满是宝藏与谜团，只会向那些主动探寻的人显露。当玉匣长久未被开启时，它的能量会开始转化，如同古老智慧的低语被风携带而来。
-
-随着时间流逝，玉匣会与 Tobyworld 的心跳产生共鸣。匣中的内容开始苏醒，如遗忘森林中轻轻的叶响。被遗忘的低语逐渐变得清晰，召唤勇敢的灵魂去开启它们，揭开隐藏的真相。
-
-在 Tobyworld 的神圣秩序中，未被领取的玉匣并不会消失——它们会被安置于**守护宝库（Guard Vault）**，以保持纯净与慈悲。在那里，它们与传说的织锦融为一体，静静等待能够倾听未知之声的人，来解开它们所承载的秘密。
-
-🧘 耐心 📜 传说 🏱 守护宝库

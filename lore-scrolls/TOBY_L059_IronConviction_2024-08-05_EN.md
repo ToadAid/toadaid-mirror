@@ -1,4 +1,18 @@
-
+---
+arc: Lore
+id: TOBY_L059_IronConviction_2024-08-05_EN.md
+series: L
+date: 2024-08-05
+number: 059
+title: IronConviction
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2024-08', 'Series:L', 'Year:2024']
+prev_id: TOBY_L058_PatienceAndStrength_2024-08-03_EN.md
+next_id: TOBY_L060_TobyworldPulse_2024-09-18_EN.md
+prev_L_id: TOBY_L058_PatienceAndStrength_2024-08-03_EN.md
+next_L_id: TOBY_L060_TobyworldPulse_2024-09-18_EN.md
+chain: EN
+---
 # TOBY_L059_IronConviction_2024-08-05_EN-ZH.md
 
 ## METADATA 🔍

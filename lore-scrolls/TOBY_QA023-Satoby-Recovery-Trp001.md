@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA023-Satoby-Recovery-Trp001.md
+title: TOBY QA023-Satoby-Recovery-Trp001
+arcs: [777Burn, Epoch2, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA022_DecentralizedRecoveryForSatoby_2025-05-28_EN.md
+next_id: TOBY_QA024_WhatIsSatoby_AndBelief_2025-05-28_EN.md.md
+---
 ✅ Question:
 
 What would a TRP-001 (Tobyworld Recovery Proposal) look like for Satoby eligibility recovery?

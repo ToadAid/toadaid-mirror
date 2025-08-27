@@ -1,3 +1,18 @@
+---
+arc: 777Burn
+id: TOBY_L036_KachouFuugetsu_2024-04-14_base.md
+series: L
+date: 2024-04-14
+number: 036
+title: KachouFuugetsu
+arcs: [777Burn, BaseChain, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, 'Month:2024-04', ProofOfTime, Satoby, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L035_WisdomAndWarning_2024-04-12_base.md
+next_id: TOBY_L068_LongTermMechanics_2024-04-14_EN.md
+prev_L_id: TOBY_L035_WisdomAndWarning_2024-04-12_base.md
+next_L_id: TOBY_L068_LongTermMechanics_2024-04-14_EN.md
+chain: base
+---
 # L036 – Kachou Fuugetsu 
 
 # METADATA  🔍  

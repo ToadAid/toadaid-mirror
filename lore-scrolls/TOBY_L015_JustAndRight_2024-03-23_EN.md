@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L015_JustAndRight_2024-03-23_EN.md
+series: L
+date: 2024-03-23
+number: 015
+title: JustAndRight
+arcs: []
+tags: ['Month:2024-03', 'Series:L', 'Year:2024']
+prev_id: TOBY_L045_TwoFrogVirtues_2024-03-22_EN.md
+next_id: TOBY_L016_FairnessAndSight_2024-03-24_EN.md
+prev_L_id: TOBY_L045_TwoFrogVirtues_2024-03-22_EN.md
+next_L_id: TOBY_L016_FairnessAndSight_2024-03-24_EN.md
+chain: EN
+---
 # L015 – Just and Right 
 
 # Metadata 

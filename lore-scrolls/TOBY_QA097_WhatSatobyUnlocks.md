@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA097_WhatSatobyUnlocks.md
+title: TOBY QA097 WhatSatobyUnlocks
+arcs: [Epoch2, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch2, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA096_CanSatobyBeTransferred.md
+next_id: TOBY_QA098_WhatDoesSatobyProve.md
+---
 ID: TOBY_QA097_WhatSatobyUnlocks.md
 Question: Will those without Satoby be forever excluded from the next Epoch?
 

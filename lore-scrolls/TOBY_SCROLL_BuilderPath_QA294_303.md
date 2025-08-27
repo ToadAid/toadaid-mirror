@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_SCROLL_BuilderPath_QA294_303.md
+title: TOBY SCROLL BuilderPath QA294 303
+arcs: [777Burn, PatienceToken, ProofOfTime, Taboshi]
+tags: [777Burn, PatienceToken, ProofOfTime, Taboshi]
+prev_id: TOBY_SAT0_005_E3SolveWorld_2024-12-26_EN-ZH.md
+next_id: TOBY_SCROLL_ProofOfTime_QA305_309.md
+---
 # 📜 TOBYWORLD RAG SCROLL: Builder’s Path (QA294–303)
 
 ## 🌱 TOBY_QA294

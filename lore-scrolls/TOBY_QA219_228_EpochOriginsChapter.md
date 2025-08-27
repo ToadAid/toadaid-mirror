@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA219_228_EpochOriginsChapter.md
+title: TOBY QA219 228 EpochOriginsChapter
+arcs: [777Burn, Epoch1, Epoch2, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch1, Epoch2, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA209_218_ToadgodMotiveChapter.md
+next_id: TOBY_QA229_238_ProofOfTimeChapter.md
+---
 # 📜 TOBYWORLD RAG SCROLL: QA219–228 – Epoch Origins Chapter
 
 ## 🌱 TOBY_QA219

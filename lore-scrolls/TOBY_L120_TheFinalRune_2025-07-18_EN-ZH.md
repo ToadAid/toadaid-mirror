@@ -1,14 +1,21 @@
 ---
-title: "The Final Rune | 最后一枚符文"
+title: TheFinalRune
 id: TOBY_L120_TheFinalRune
 date: 2025-07-18
-chain: @base
+chain: EN-ZH
 epoch: E4
-tags: ["Final Rune", "TWPOT", "Seasons", "Loreland", "$PATIENCE"]
-symbols: ["🌀", "🕯️", "🍃", "📜", "⛩️"]
-sha256_seed: "final-rune-twpot-loreland-2025-07-18"
+tags: [$PATIENCE, Artists, BaseChain, Epoch4, 'Final Rune', Loreland, 'Month:2025-07', PatienceToken, Season0, Season1, Season2, Season3, Seasons, 'Series:L', TWPOT, 'Year:2025']
+symbols: [🌀, 🕯️, 🍃, 📜, ⛩️]
+sha256_seed: final-rune-twpot-loreland-2025-07-18
+arc: Lore
+series: L
+number: 120
+arcs: [Artists, BaseChain, Epoch4, PatienceToken, Season0, Season1, Season2, Season3]
+prev_id: TOBY_L119_VaultVestingWarning_2025-07-18_EN-ZH.md
+next_id: TOBY_L122_TheSatoConvergence_2025-07-18_EN-ZH.md
+prev_L_id: TOBY_L119_VaultVestingWarning_2025-07-18_EN-ZH.md
+next_L_id: TOBY_L122_TheSatoConvergence_2025-07-18_EN-ZH.md
 ---
-
 ## 🌊 EN Narrative
 
 > **The final rune is not cast.  
@@ -68,77 +75,6 @@ Only the **final rune** will illuminate the path.
 Patience is not a resource.  
 It is a **rune-shaped flame**  
 inside the soul of the community.
-
----
-
-## 🌊 中文叙述
-
-> **最终符文，并非落下的印记，  
-> 而是岁月亲手雕刻出的光痕。**
-
-这一枚终极的神符，  
-并非刻在石板上，  
-而是写在仍然坚守之蛙的行为中。
-
-> 它的重量是信仰，  
-> 它的墨水是时间，  
-> 它是否发光，全看你是否仍相信。
-
----
-
-### 🕯️ 符文之形
-
-你找不到它在地图上，  
-它将随着四季而显现：
-
-在你所建的神龛中，  
-在你完成的任务中，  
-在你静静守护托比世界的举动中——  
-即使无人注视。
-
-> 最终符文不会听键盘的声响，  
-> 只会回应你内心的**坚定**。
-
----
-
-### 📜 四季一池
-
-- **第 0 季** → 幸存者（2.32M 宝库）  
-- **第 1 季** → LP 守护者  
-- **第 2 季** → 艺术家  
-- **第 3 季** → TWPOT 的建设者：桥之锻者、任务编织者
-
-→ 此后呢？  
-地图尽头，  
-只剩下那枚尚未苏醒的符文。
-
----
-
-### ⛩️ Lore 土地正在接近
-
-> 曾在静水花园耕耘者…  
-> 曾手握叶片不放者…  
-> 曾拒绝抛售者…
-
-他们将获得 Lore Land 的地契，  
-莲花孢子的倍增器，  
-以及进入**镜之神殿**的钥匙。
-
----
-
-### 🌀 最终符文，其实是你
-
-> 预言并非写在代码中，  
-> 而是刻在记忆中。
-
-> 若你遗忘，预言便沉睡；  
-> 若你相信，它便微光再起；  
-> 若足够多的青蛙记得，  
-> 最终符文将苏醒。
-
-耐心不是资源，  
-而是一团**符文形状的火焰**，  
-燃烧在整个社区的心灵中。
 
 ---
 

@@ -1,3 +1,18 @@
+---
+arc: Taboshi
+id: TOBY_L069_TWPoTWhispers_2024-11-09_EN.md
+series: L
+date: 2024-11-09
+number: 069
+title: TWPoTWhispers
+arcs: [777Burn, BaseChain, Epoch1, Epoch3, ProofOfTime, Taboshi]
+tags: [777Burn, BaseChain, Epoch1, Epoch3, 'Month:2024-11', ProofOfTime, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L068_ProofOfTimeSignal_2024-11-09_EN.md
+next_id: TOBY_L071_TheLeafOfYield_2024-11-09_EN.md
+prev_L_id: TOBY_L068_ProofOfTimeSignal_2024-11-09_EN.md
+next_L_id: TOBY_L071_TheLeafOfYield_2024-11-09_EN.md
+chain: EN
+---
 # TOBY_L069_TWPoTWhispers_2024-11-09_EN-ZH.md
 
 ## METADATA 元数据 🔍
@@ -44,63 +59,25 @@ distribution clean, and fundamentals true.
 
 ---
 
-## ZH (古典密码) 🐸  
-终章已至，勿忧未来，  
-另一个🍃机会即将到来。  
-也许这次略有不同，  
-所以请勿忽视此刻之风。  
-
-Epoch 1 的信徒已被标记，  
-Taboshi1 的持有者亦铭记。  
-Toadgod 运筹帷幄于前，  
-所有收益皆将公平兑现。  
-
-指令不尽公开，因过度分享将扰均衡，  
-Tobyworld 之道需最大分发，方为真正武士之魂。  
-一个？多个？选择在你，  
-但切记——不可赌上无法承受之物。
-
-再言价值来自何处？  
-技术、分发、采纳、实用更需社区与投机共铸。  
-正因如此，机会得以平等释放，  
-正如中本聪曾设之路。  
-
-$TOBY 与 🍃，为人民而生，  
-无预售，无资本，只靠信念铸梦成真。  
-曾迷失者与未学 lore 者皆有份，  
-分发机制清晰，基本面纯净。
-
-**关键标记：**  
-- 新一轮 🍃 铸造机会将至  
-- Epoch 1 与 Taboshi1 持有者已被记录  
-- 收益依 TWPoT 分发机制执行  
-- 社区 + 投机 = 价值核心  
-- 投机缓冲器 = 平等机会之源  
-
-**天机：**  
-> “若分享太多，天秤将倾。”  
-> “🍃再临，切勿错失。”  
-
----
 
 ## OPERATIONS 操作 ⚙️  
 **EN** | **ZH**  
-- **Snapshot:** Ongoing across Epoch 3 | **快照:** Epoch 3 正在进行中  
-- **Airdrop:** Based on PoT yield and taboshi status | **空投:** 依据 TWPoT 与持叶身份分发  
-- **Seal:** Lore-guided distribution confirmed | **密印:** 按古典规则执行分发  
+- **Snapshot:** Ongoing across Epoch 3 
+- **Airdrop:** Based on PoT yield and taboshi status  
+- **Seal:** Lore-guided distribution confirmed 
 
 ---
 
-## CRYPTIC SYMBOLS 密码符号 🔣  
-| Symbol | EN Meaning | 中文释义 |  
-|--------|------------|----------|  
-| ⏳     | Proof of Time | 时间证明  
-| 🔵     | $TOBY Core | 核心信仰蓝  
-| 🍃     | Taboshi Leaf | Taboshi 收益叶片  
+## CRYPTIC SYMBOLS 🔣  
+| Symbol | EN Meaning |  
+|--------|------------|
+| ⏳     | Proof of Time |
+| 🔵     | $TOBY Core |
+| 🍃     | Taboshi Leaf |
 
 ---
 
-## LORE ANCHORS 传说锚点 ⚓  
+## LORE ANCHORS ⚓  
 **← Prev:** L068 (Awaiting Next Signal)  
 **Next →:** L070 (TBA)  
 **ZK-Clue:** “He who holds the leaf, listens beyond time.”  

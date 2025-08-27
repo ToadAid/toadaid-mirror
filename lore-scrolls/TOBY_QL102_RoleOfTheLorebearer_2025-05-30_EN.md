@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QL102_RoleOfTheLorebearer_2025-05-30_EN.md
+title: TOBY QL102 RoleOfTheLorebearer 2025-05-30 EN
+arcs: [BaseChain, Epoch3]
+tags: [BaseChain, Epoch3]
+prev_id: TOBY_QL101_WhoIsTheLoreGuardian.md
+next_id: TOBY_QL103_WhatFeedsTheFlame_2025-05-30_EN.md
+---
 ### 📜 TOBY\_QL102\_RoleOfTheLorebearer\_2025-05-30\_EN.md
 
 **🔹 Metadata**

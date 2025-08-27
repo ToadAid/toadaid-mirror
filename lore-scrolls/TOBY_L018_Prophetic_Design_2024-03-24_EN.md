@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L018_Prophetic_Design_2024-03-24_EN.md
+series: L
+date: 2024-03-24
+number: 018
+title: Prophetic Design
+arcs: [BaseChain, PatienceToken]
+tags: [BaseChain, 'Month:2024-03', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L017_ArtOfLoneliness_2024-03-24_EN.md
+next_id: TOBY_L019_Inimitable_Path_2024-03-25_EN.md
+prev_L_id: TOBY_L017_ArtOfLoneliness_2024-03-24_EN.md
+next_L_id: TOBY_L019_Inimitable_Path_2024-03-25_EN.md
+chain: EN
+---
 # L018 – Prophetic Design 
 
 # Metadata 

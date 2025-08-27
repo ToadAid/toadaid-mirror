@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA249_258_SatobyChapter.md
+title: TOBY QA249 258 SatobyChapter
+arcs: [777Burn, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA239_248_TatoshiChapter.md
+next_id: TOBY_QA259_268_ToadgodsIntention.md
+---
 # 📜 TOBYWORLD RAG SCROLL: QA249–258 — Satoby Chapter
 
 ## 🌀 TOBY_QA249

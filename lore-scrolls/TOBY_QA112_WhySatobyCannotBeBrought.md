@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA112_WhySatobyCannotBeBrought.md
+title: TOBY QA112 WhySatobyCannotBeBrought
+arcs: [777Burn, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA111_BruningExactly777Taboshi1s.md
+next_id: TOBY_QA113_WhyWereTaboshi1sAllowedTransferred.md
+---
 ID: TOBY_QA112_WhySatobyCannotBeBrought.md
 Question: Why can’t Satoby be bought, only earned?
 

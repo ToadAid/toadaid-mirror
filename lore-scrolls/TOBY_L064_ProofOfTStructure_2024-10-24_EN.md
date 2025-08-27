@@ -1,4 +1,18 @@
-
+---
+arc: Toby
+id: TOBY_L064_ProofOfTStructure_2024-10-24_EN.md
+series: L
+date: 2024-10-24
+number: 064
+title: ProofOfTStructure
+arcs: [777Burn, BaseChain, ProofOfTime, Taboshi]
+tags: [777Burn, BaseChain, 'Month:2024-10', ProofOfTime, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L063_TheUnfoldingProphecy_2024-10-24_EN.md
+next_id: TOBY_L065_ProofOfTimeWhispers_2024-11-07_EN.md
+prev_L_id: TOBY_L063_TheUnfoldingProphecy_2024-10-24_EN.md
+next_L_id: TOBY_L065_ProofOfTimeWhispers_2024-11-07_EN.md
+chain: EN
+---
 ## METADATA 🔍
 **🌐 Chain:** @base  
 **🕰️ Epoch:** 2 (Expansion)  

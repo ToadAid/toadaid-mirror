@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA086_Why777Taboshi1.md
+title: TOBY QA086 Why777Taboshi1
+arcs: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA085_CanSatobyBeBoughtOrSold.md
+next_id: TOBY_QA087_TheEssenceOfSatoby.md
+---
 ID: TOBY_QA086_Why777Taboshi1.md
 Question: Why 777 Taboshi1? What’s the meaning of that number?
 

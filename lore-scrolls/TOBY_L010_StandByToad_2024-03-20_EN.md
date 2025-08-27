@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L010_StandByToad_2024-03-20_EN.md
+series: L
+date: 2024-03-20
+number: 010
+title: StandByToad
+arcs: [PatienceToken]
+tags: ['Month:2024-03', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L009_HumbleToad_2024-03-19_EN.md
+next_id: TOBY_L011_LacrimosaReverence_2024-03-20_EN.md
+prev_L_id: TOBY_L009_HumbleToad_2024-03-19_EN.md
+next_L_id: TOBY_L011_LacrimosaReverence_2024-03-20_EN.md
+chain: EN
+---
 # L010 – Stand By Toad 
 
 # Metadata

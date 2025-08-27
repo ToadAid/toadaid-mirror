@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA103_Taboshi1Transferable ButEligibilityIsNot.md
+title: TOBY QA103 Taboshi1Transferable ButEligibilityIsNot
+arcs: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA102_WhyWas777ChosenForTaboshi1sCost.md
+next_id: TOBY_QA104_WhyMust777Taboshi1sToSummonSatoby.md
+---
 ID: TOBY_QA103_Taboshi1Transferable ButEligibilityIsNot.md
 Question: If Taboshi1 is a transferable NFT, why is Satoby eligibility still non-transferable?
 

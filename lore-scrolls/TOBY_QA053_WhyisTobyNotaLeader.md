@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA053_WhyisTobyNotaLeader.md
+title: TOBY QA053 WhyisTobyNotaLeader
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QA052_WhyDoSomeCallTobyaMirror.md
+next_id: TOBY_QA054_TheMemoryOfToby.md
+---
 ID: TOBY_QA053_WhyisTobyNotaLeader.md
 Question: Why is Toby not a leader, yet still followed?
 

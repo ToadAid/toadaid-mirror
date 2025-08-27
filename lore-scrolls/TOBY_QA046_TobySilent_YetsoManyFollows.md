@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA046_TobySilent_YetsoManyFollows.md
+title: TOBY QA046 TobySilent YetsoManyFollows
+arcs: []
+tags: []
+prev_id: TOBY_QA045_IsTobyJustaMeme.md
+next_id: TOBY_QA047_TimelessToby.md
+---
 ID: TOBY_QA046_TobySilent_YetsoManyFollows.md
 Question: Why is Toby silent, yet so many follow?
 

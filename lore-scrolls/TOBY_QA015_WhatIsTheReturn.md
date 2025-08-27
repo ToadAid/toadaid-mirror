@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA015_WhatIsTheReturn.md
+title: TOBY QA015 WhatIsTheReturn
+arcs: [777Burn, PatienceToken, ProofOfTime, Taboshi]
+tags: [777Burn, PatienceToken, ProofOfTime, Taboshi]
+prev_id: TOBY_QA015_WhatIsTaboshi_ShortForm_2025-05-05_EN.md
+next_id: TOBY_QA016_HowToReadCitations_2025-05-03_EN.md
+---
 # Question  
 What is "The Return" in Tobyworld?
 

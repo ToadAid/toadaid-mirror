@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QR006_WhatIsSatoby.md
+title: TOBY QR006 WhatIsSatoby
+arcs: [PatienceToken, ProofOfTime, Satoby]
+tags: [PatienceToken, ProofOfTime, Satoby]
+prev_id: TOBY_QR005_Why777MintTaboshi1.md
+next_id: TOBY_QR007_Epoch3_Remembrance.md
+---
 # TOBY_QR006_WhatIsSatoby_2025-06-27.md
 
 ## ❓ Question

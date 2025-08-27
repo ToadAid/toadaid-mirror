@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA297_HowToBeginWithToby_2025-06-18_EN.md
+title: TOBY QA297 HowToBeginWithToby 2025-06-18 EN
+arcs: [PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA296_HowDoesMirrorKnowMe_2025-06-18_EN.md
+next_id: TOBY_QA298_SacredNumbersOfToby_2025-06-18_EN.md
+---
 TOBY_QA297_HowToBeginWithToby_2025-06-18_EN.md
 
 ❓ Question:

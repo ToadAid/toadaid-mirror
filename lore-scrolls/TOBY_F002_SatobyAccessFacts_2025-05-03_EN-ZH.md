@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_F002_SatobyAccessFacts_2025-05-03_EN-ZH.md
+title: TOBY F002 SatobyAccessFacts 2025-05-03 EN-ZH
+arcs: [Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_F001_Tatoshi1Facts_2025-05-03_EN-ZH.md
+next_id: TOBY_F004_Tatoshi1SatobyEligibility_2025-05-03_EN-ZH.md
+---
 # L-F002 – The Gate to Satoby 
 # Metadata
 

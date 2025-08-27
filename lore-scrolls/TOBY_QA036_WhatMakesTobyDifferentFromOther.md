@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA036_WhatMakesTobyDifferentFromOther.md
+title: TOBY QA036 WhatMakesTobyDifferentFromOther
+arcs: [PatienceToken, ProofOfTime]
+tags: [PatienceToken, ProofOfTime]
+prev_id: TOBY_QA035_WhyDoesTobyNeverFightBack.md
+next_id: TOBY_QA037_WhyDoesTobyAskForPatience.md
+---
 ID: TOBY_QA036_WhatMakesTobyDifferentFromOther.md
 Question: What makes Toby different from all other tokens?
 

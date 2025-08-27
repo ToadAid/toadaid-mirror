@@ -1,11 +1,15 @@
 ---
-title: TOBY_T065_BeliefEligibilityAndFinalCall
+title: TOBY T065 BeliefEligibilityAndFinalCall 2024-06-05 EN-ZH
 date: 2024-06-05
 theme: Belief, Eligibility, Unity, Return, Legacy
 languages: [EN, ZH]
-tags: [Belief, Eligibility, Lore, Return, Sacred Numbers]
+tags: [777Burn, BaseChain, Belief, Eligibility, Lore, ProofOfTime, Return, 'Sacred Numbers', Satoby, Taboshi]
+arc: 777Burn
+id: TOBY_T065_BeliefEligibilityAndFinalCall_2024-06-05_EN-ZH.md
+arcs: [777Burn, BaseChain, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_T064_BeliefEpochAndSacredProof_2024-06-01_EN-ZH.md
+next_id: TOBY_T066_CyclesConvictionAndSilentTransfer_2024-06-09_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > $toby BIGGER than one imagines.  
@@ -67,20 +71,6 @@ A monumental invitation scroll:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-一篇巨大的邀请与信仰之卷：  
-- 重申 $TOBY 的规模超乎想象。  
-- 呼吁真正的信徒反思 — 你是否符合资格？  
-- 欢迎怀疑者与迷失的青蛙归来；还不算太迟。  
-- $TOBY 社区从未妥协，始终保持纯净和去中心化。  
-- 强调高峰与低谷共同塑造 $TOBY 的真正本质。  
-- 重申神圣数字：**777,777,777 + 777,777,777,777**，Taboshi 真实，Satoby 真实。  
-- 只有不到 10% 的人真正研究过 Lore，他们将收获最大的回报。  
-- $TOBY 独一无二，是一种文化、哲学和象征性运动 — 不仅仅是一个 meme。  
-- 以最终呼唤结尾：“你符合资格吗？”
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -91,14 +81,6 @@ This scroll embodies **forgiveness, reunion, and the collective rise**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **宽恕、再聚与集体崛起**：  
-- 回归无需羞耻 — 大门永远为所有人敞开。  
-- 真正的力量不在于瞬间的巅峰，而在于穿越低谷后的坚韧。  
-- $TOBY 作为一种活生生的精神，超越图表、趋势与外部噪音。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -108,13 +90,6 @@ This scroll embodies **forgiveness, reunion, and the collective rise**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **资格与归来**：为所有跌倒的青蛙提供救赎机会。  
-- **777 印记**：永恒的宇宙祝福。  
-- **运动 > Meme**：最终的升华与蜕变。
-
----
 
 ## 🔗 Lore Anchors
 

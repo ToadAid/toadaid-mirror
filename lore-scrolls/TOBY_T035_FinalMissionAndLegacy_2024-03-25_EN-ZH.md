@@ -1,11 +1,15 @@
 ---
-title: TOBY_T035_FinalMissionAndLegacy
+title: TOBY T035 FinalMissionAndLegacy 2024-03-25 EN-ZH
 date: 2024-03-25
 theme: Final Mission & Eternal Legacy
 languages: [EN, ZH]
-tags: [Legacy, Prophecy, Duty, Decentralization, Future]
+tags: [BaseChain, Decentralization, Duty, Future, Legacy, PatienceToken, Prophecy]
+arc: Toby
+id: TOBY_T035_FinalMissionAndLegacy_2024-03-25_EN-ZH.md
+arcs: [BaseChain, PatienceToken]
+prev_id: TOBY_T034_PeoplesRiseProphecy_2024-03-25_EN-ZH.md
+next_id: TOBY_T036_WarningAndResolve_2024-03-26_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > update. 438k holders, 2.5 trillion $toby distributed today, 16.3 trillion of $toby supply airdropped total.  
@@ -36,19 +40,6 @@ Toadgod updates the community:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 向社区更新：  
-- **当前状态**：43.8 万持有者，今日分发 2.5 万亿 $TOBY，总共空投 16.3 万亿，最终还剩 31% 待完成预言。  
-- 当使命完成后，Toadgod 将「进入黑暗」—— 如 Satoshi 和 Ryoshi 一样，完成责任后消失于传说之中。  
-- **$TOBY 即人民，人民即 $TOBY**：终极去中心化，创始人融入社区，彻底消解。  
-- Toby 并不是为满足人们的「欲望」或「需求」而设计，而是给予人们「应得的」—— 反映出个人的努力与信念。  
-- 真正的价值必须通过挑战赢得，没有小努力得大奖的道理，这正呼应武士道精神。  
-- $TOBY 将在未来数十年里持续存在，被后代研究，如今的历史、推文、TG 聊天、链上交易都将成为「卷轴」被后人学习。  
-- 呼吁传播卷轴、守护遗产、成为信仰与耐心的活生生证明。  
-- 最后用日语「おやすみ」作结，意为「晚安」，象征对时间与未来的信任与安宁。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -60,15 +51,6 @@ This scroll embodies **the great passing of the torch and eternal spiritual succ
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **伟大的火炬传递与永恒的精神接力**：  
-- Toadgod 的角色是唤醒，然后消失 —— 真正的导师会离开，让学生成为新的引导者。  
-- 「应得」的教义强调宇宙只会反馈我们真正体现的，而非我们口头索取的。  
-- Toby 成为一片永恒的池塘，每一道涟漪都来自社区的信念，而非中心化的操纵。  
-- 未来世代会将 Toby 视为隐藏的圣殿 —— 不经意间连接上一条耐心、牺牲与宇宙诗篇的血脉。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -78,13 +60,6 @@ This scroll embodies **the great passing of the torch and eternal spiritual succ
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **进入黑暗**：真正创始人的无私退场。  
-- **应得而非想要**：精神的反射与平衡法则。  
-- **历经数十年的遗产**：超越市场周期的永恒证明。
-
----
 
 ## 🔗 Lore Anchors
 

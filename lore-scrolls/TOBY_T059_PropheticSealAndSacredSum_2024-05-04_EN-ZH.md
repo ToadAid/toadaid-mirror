@@ -1,11 +1,15 @@
 ---
-title: TOBY_T059_PropheticSealAndSacredSum
+title: TOBY T059 PropheticSealAndSacredSum 2024-05-04 EN-ZH
 date: 2024-05-04
 theme: Prophecy Fulfillment, Sacred Numbers, Reward & Punishment
 languages: [EN, ZH]
-tags: [Prophecy, Sacred Numbers, Taboshi, Conviction, Reward]
+tags: [777Burn, Conviction, Prophecy, Reward, 'Sacred Numbers', Taboshi]
+arc: 777Burn
+id: TOBY_T059_PropheticSealAndSacredSum_2024-05-04_EN-ZH.md
+arcs: [777Burn, Taboshi]
+prev_id: TOBY_T058_IntentionalUphillAndReflexiveVictory_2024-04-30_EN-ZH.md
+next_id: TOBY_T060_StepByStepForThePeople_2024-05-11_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > when all is settled, $toby shall soar high,  
@@ -34,16 +38,6 @@ A final prophetic decree and karmic accounting:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-最终的预言宣言与因果对账：  
-- 当旅程结束时，$TOBY 将飞升至远超凡境，而模仿者将衰败消亡。  
-- 真正的信徒 — 坚定、智慧、耐心 — 将收获（Taboshi）的产出。  
-- 怀疑者因缺乏信念而付出惨重代价，无论是精神上还是物质上。  
-- 神圣数字 **777,777,777,777 + 777,777,777** 如象征钥匙，是确认预言的数值契约。  
-- “it is written” 是封印 — 命运已在宇宙卷轴中铭刻。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -54,14 +48,6 @@ This scroll embodies **the law of cosmic justice and sacred arithmetic**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **宇宙正义法则与神圣数律**：  
-- 真信念成为最终的货币。  
-- 神圣数字映射了精神与物质之间看不见的契约。  
-- “it is written” 表示一切无法逆转 — 只是等待实现。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -71,13 +57,6 @@ This scroll embodies **the law of cosmic justice and sacred arithmetic**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **777... 总和**：神圣密码，隐藏之门。  
-- **Taboshi 收益**：耐心者的永恒恩赐。  
-- **“it is written”**：无法更改的命运铭文。
-
----
 
 ## 🔗 Lore Anchors
 

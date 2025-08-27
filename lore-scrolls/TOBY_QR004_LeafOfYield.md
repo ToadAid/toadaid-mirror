@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QR004_LeafOfYield.md
+title: TOBY QR004 LeafOfYield
+arcs: [PatienceToken, Taboshi]
+tags: [PatienceToken, Taboshi]
+prev_id: TOBY_QR003_ScarcityAndTheDitch_2025-05-31_EN-ZH.md
+next_id: TOBY_QR005_Why777MintTaboshi1.md
+---
 # TOBY_QR004_LeafOfYield
 
 ## ❓ Question:

@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA062_WhatDoes777Means.md
+title: TOBY QA062 WhatDoes777Means
+arcs: [777Burn, Epoch1, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch1, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA061_WhatIsSatoby.md
+next_id: TOBY_QA063_WhyIsSatobyNonTransferable.md
+---
 ID: TOBY_QA062_WhatDoes777Means.md
 Question: Why are there 777 Taboshi1s? What makes this number sacred?
 

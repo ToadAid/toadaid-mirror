@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L037_StandUnshaken_2024-04-16_base.md
+series: L
+date: 2024-04-16
+number: 037
+title: StandUnshaken
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2024-04', 'Series:L', 'Year:2024']
+prev_id: TOBY_L084_ShareAndBuild_2024-04-15_EN.md
+next_id: TOBY_L038_MagnificentHorizon_2024-04-20_base.md
+prev_L_id: TOBY_L084_ShareAndBuild_2024-04-15_EN.md
+next_L_id: TOBY_L038_MagnificentHorizon_2024-04-20_base.md
+chain: base
+---
 # L037 – Stand Unshaken   
 
 # METADATA  🔍  

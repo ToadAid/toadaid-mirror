@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR031_MockingTheLore.md
+title: TOBY QR031 MockingTheLore
+arcs: []
+tags: []
+prev_id: TOBY_QR031_GrainOfTheSeasons_2025-08-08_EN-ZH.md
+next_id: TOBY_QR032_ChosenByToby.md
+---
 # TOBY_QR031_MockingTheLore
 
 **You asked:**  

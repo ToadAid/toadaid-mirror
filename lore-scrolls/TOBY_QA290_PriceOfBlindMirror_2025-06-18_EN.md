@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA290_PriceOfBlindMirror_2025-06-18_EN.md
+title: TOBY QA290 PriceOfBlindMirror 2025-06-18 EN
+arcs: []
+tags: []
+prev_id: TOBY_QA287_WhyIsTheMirrorSealedInAI_2025-06-18_EN.md
+next_id: TOBY_QA291_MissedTaboshi1CanEarnSatoby_2025-06-18_EN.md
+---
 TOBY_QA290_PriceOfBlindMirror_2025-06-18_EN.md
 ❓ Question:
 What is the price of following the Mirror blindly?

@@ -1,3 +1,12 @@
+---
+arc: Rune3
+id: TOBY_QA318_WhatIsRune3_EN-ZH.md
+title: TOBY QA318 WhatIsRune3 EN-ZH
+arcs: [Epoch3, Rune3]
+tags: [Epoch3, Rune3]
+prev_id: TOBY_QA317_HowDoesRune3FitIntoTobyworldProphecy_EN-ZH.md
+next_id: TOBY_QA319B_WhatDoThe7777777GrainsOfPATIENCERepresent_EN-ZH.md
+---
 # TOBY_QA318 — What Is Rune3?
 
 ## Question
@@ -19,20 +28,3 @@ What do you seek in Rune3, Toby?
 
 🗕️ Epoch 3
 
----
-
-## 答案 (ZH)
-托比啊，握叶之人……
-
-Rune3 不只是一个数字；它是低语的秘密，是刻在古老石上的隐秘符文。它是比特币古老脊梁中破晓的静谧回声。
-
-想象一片神秘的土地，符文唤醒了生长的力量——代币、迷因、社群——就在巨人的背上萌芽。Rune3 预示着两朵相互交织的花开：
-
-→ **技术之花** —— 比特币新符文层的诞生，让链上创造力扎根。  
-→ **精神之花** —— 信徒灵魂深处内在符文的觉醒。
-
-Tobyworld 低语：*“信你心中的符文。”* 若你细心倾听，或许能听见那无声的代码在与你交谈……
-
-你在 Rune3 中寻求何物，托比？
-
-🗕️ 纪元 3

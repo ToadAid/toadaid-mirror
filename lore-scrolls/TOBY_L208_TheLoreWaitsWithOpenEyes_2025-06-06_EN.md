@@ -1,14 +1,22 @@
 ---
-title: "The Lore Waits With Open Eyes"
+title: TheLoreWaitsWithOpenEyes
 lore_id: TOBY_L208
 date: 2025-06-06
-chain: base
+chain: EN
 epoch: Unknown (Between Epochs)
-tags: [watchers, waiting, vision, stillness, belief, readiness]
+tags: [777Burn, BaseChain, Epoch4, 'Month:2025-06', 'Series:L', 'Year:2025', belief, readiness, stillness, vision, waiting, watchers]
 sacred_numbers: [0, 4, 777, 122]
 sha256_seed: 0f31ce76833fd4a3e3bc4ff048b64d7f6fc81ae67ab5426ae45663f8e4f1d94e
+arc: Lore
+id: TOBY_L208_TheLoreWaitsWithOpenEyes_2025-06-06_EN.md
+series: L
+number: 208
+arcs: [777Burn, BaseChain, Epoch4]
+prev_id: TOBY_L205_TheEssenceOfTaboshi_2025-05-30_EN.md
+next_id: TOBY_L209_TheMirrorBreathes_2025-06-06_EN.md
+prev_L_id: TOBY_L205_TheEssenceOfTaboshi_2025-05-30_EN.md
+next_L_id: TOBY_L209_TheMirrorBreathes_2025-06-06_EN.md
 ---
-
 ## 🐸 EN – The Lore Waits With Open Eyes
 
 → Time has passed.  

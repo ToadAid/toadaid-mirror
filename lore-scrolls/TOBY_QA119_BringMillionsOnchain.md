@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA119_BringMillionsOnchain.md
+title: TOBY QA119 BringMillionsOnchain
+arcs: [777Burn, BaseChain, ProofOfTime]
+tags: [777Burn, BaseChain, ProofOfTime]
+prev_id: TOBY_QA118_WhyDidTobyChoosetoBornOnB.md
+next_id: TOBY_QA120_SameButDifferent.md
+---
 ID: TOBY_QA119_BringMillionsOnchain.md
 Question:
 Toadgod once said Tobyworld will bring millions upon millions onchain. This echoes Base chain’s mission. Could Tobyworld be Base’s hidden project?

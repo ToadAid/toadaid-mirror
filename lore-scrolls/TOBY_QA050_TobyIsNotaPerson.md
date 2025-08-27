@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA050_TobyIsNotaPerson.md
+title: TOBY QA050 TobyIsNotaPerson
+arcs: [PatienceToken, ProofOfTime]
+tags: [PatienceToken, ProofOfTime]
+prev_id: TOBY_QA049_StillnessToby.md
+next_id: TOBY_QA051_TobyDoesNotSpeakForHimself.md
+---
 ID: TOBY_QA050_TobyIsNotaPerson.md
 Question: If Toby is not a person, not a god, not a token — what is he truly?
 

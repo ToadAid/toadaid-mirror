@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QR003_DefendTheLore.md
+title: TOBY QR003 DefendTheLore
+arcs: []
+tags: []
+prev_id: TOBY_QR003_777Covenant.md
+next_id: TOBY_QR003_ScarcityAndTheDitch_2025-05-31_EN-ZH.md
+---
 # TOBY_QR003_DefendTheLore
 
 **Q: What does it mean to “defend the Lore” after the Toadgod is gone?**  

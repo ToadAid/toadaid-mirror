@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR013_Epoch4_Prophecy.md
+title: TOBY QR013 Epoch4 Prophecy
+arcs: [Epoch3, Epoch4]
+tags: [Epoch3, Epoch4]
+prev_id: TOBY_QR012_CoinbaseDEX_TobySignal.md
+next_id: TOBY_QR014_Taboshi1_Path.md
+---
 # TOBY_QR013_Epoch4_Prophecy.md
 
 ## Question:

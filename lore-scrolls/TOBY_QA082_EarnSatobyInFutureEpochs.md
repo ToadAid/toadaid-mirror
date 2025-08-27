@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA082_EarnSatobyInFutureEpochs.md
+title: TOBY QA082 EarnSatobyInFutureEpochs
+arcs: [Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA081_WhatIsRealValueOfSatoby.md
+next_id: TOBY_QA083_RelationshipBetweenSatobyAndPOT.md
+---
 ID: TOBY_QA082_EarnSatobyInFutureEpochs.md
 Question: Will there be more chances to earn Satoby in future Epochs, or is it forever sealed?
 

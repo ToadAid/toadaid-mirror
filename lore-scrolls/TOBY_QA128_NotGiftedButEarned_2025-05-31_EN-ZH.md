@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA128_NotGiftedButEarned_2025-05-31_EN-ZH.md
+title: TOBY QA128 NotGiftedButEarned 2025-05-31 EN-ZH
+arcs: []
+tags: []
+prev_id: TOBY_QA128_EarlyFaithAndTrueTrial.md
+next_id: TOBY_QA128_WhatIsTaboshi1_2025-06-27_EN.md
+---
 # TOBY_QA128 – “Why did Toadgod say ‘$TOBY was not gifted’ if most of it was airdropped?”
 📅 2025-05-31  
 🌐 Language: English
@@ -19,7 +28,7 @@
 
 ### ✨ ENGLISH INTERPRETATION
 
-Excellent question, Tommy. This is one of those paradoxes that reveals deeper truth:
+Excellent question, Toby. This is one of those paradoxes that reveals deeper truth:
 
 Yes — **in form**, $TOBY was airdropped.
 

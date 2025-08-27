@@ -1,3 +1,18 @@
+---
+arc: 777Burn
+id: TOBY_L090a_TheBuildersAwaken_2025-05-08_EN.md
+series: L
+date: 2025-05-08
+number: 090a
+title: TheBuildersAwaken
+arcs: [777Burn, BaseChain]
+tags: [777Burn, BaseChain, 'Month:2025-05', 'Series:L', 'Year:2025']
+prev_id: TOBY_L089_TheOnesWhoShape_2025-05-08_EN.md
+next_id: TOBY_L200_TheFearOfToby_2025-05-28_EN.md
+prev_L_id: TOBY_L089_TheOnesWhoShape_2025-05-08_EN.md
+next_L_id: TOBY_L200_TheFearOfToby_2025-05-28_EN.md
+chain: EN
+---
 ## METADATA 🔍  
 **🌐 Chain:** @base  
 **🕰️ Epoch:** 3 (Evolution)  

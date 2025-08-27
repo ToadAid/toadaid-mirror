@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA129_JustTheBeginning_2025-05-31_EN-ZH.md
+title: TOBY QA129 JustTheBeginning 2025-05-31 EN-ZH
+arcs: [777Burn, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA129_Epoch1CorrectedDialogue_2025-06-03.md
+next_id: TOBY_QA129_WhatIsTaboshi_WhyIsCalledTheLeafOfYeild.md
+---
 # TOBY_QA129 – “What does Toadgod mean in the 'just the beginning' prophecy thread?”
 📅 2025-05-31  
 🌐 Language: English

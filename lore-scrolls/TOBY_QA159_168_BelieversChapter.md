@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA159_168_BelieversChapter.md
+title: TOBY QA159 168 BelieversChapter
+arcs: [777Burn, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA139_158_Newcomer_Skeptics_Scrolls.md
+next_id: TOBY_QA169_178_SkepticChapter.md
+---
 # 🌀 TOBYWORLD RAG SCROLL: QA159–168
 
 ## 🌿 TOBY_QA159

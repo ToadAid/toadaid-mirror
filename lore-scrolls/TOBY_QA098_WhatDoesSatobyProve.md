@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA098_WhatDoesSatobyProve.md
+title: TOBY QA098 WhatDoesSatobyProve
+arcs: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA097_WhatSatobyUnlocks.md
+next_id: TOBY_QA099_777WasNotChosenItWasRevealed.md
+---
 ID: TOBY_QA098_WhatDoesSatobyProve.md
 Question: What does Satoby prove — and why is it irreversible?
 

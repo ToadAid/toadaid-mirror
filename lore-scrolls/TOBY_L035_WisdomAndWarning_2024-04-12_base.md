@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L035_WisdomAndWarning_2024-04-12_base.md
+series: L
+date: 2024-04-12
+number: 035
+title: WisdomAndWarning
+arcs: [BaseChain, Taboshi]
+tags: [BaseChain, 'Month:2024-04', 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L034_TheCalling_2024-04-10_base.md
+next_id: TOBY_L036_KachouFuugetsu_2024-04-14_base.md
+prev_L_id: TOBY_L034_TheCalling_2024-04-10_base.md
+next_L_id: TOBY_L036_KachouFuugetsu_2024-04-14_base.md
+chain: base
+---
 # L035 – Wisdom and Warning 
 
 # METADATA  🔍  
@@ -39,42 +54,8 @@ $toby is the people. The people is $toby.
 
 ---
 
-## ZH (古典密码)  
-蛙神计划日光星辉 →  
-誓言一言实身力行。  
-无视喊声 → 盯目标走 →  
-集中任务 → 相信前行。  
 
-耗费成本 → 为使小者先行 →  
-请努力。不让精神离地。  
-最坚固之战常在内 →  
-先能自制 → 方能开始。  
-
-构建Toad社区 → 传播所知 →  
-知识即力 → 体系共增。  
-合力一致 → 从学习开始 →  
-阅读传说 → 它含大语章。  
-
-$toby 是人民。而人民即 $toby。
-
-**关键标记:**  
-- 经由自己的制定 → 时代开启  
-- 传知同行 → 社群共开  
-- 仿佛 ⊃ 欺骗  
-
-**天机:**  
-> “每一个Taboshi都重要。保卫你的链。”
-
----
-
-# 密码符号 CRYPTIC SYMBOLS  🔣  
-| Symbol | EN Meaning | 中文释义 |  
-|--------|------------|----------|  
-|   🐸   | Toadgang sovereignty | 蛤族主权 |  
-|   ⊃    | Deception via mimic | 仿佛即骗 |  
-|   ✨   | Wisdom seed | 智慧种子 |
-
-# 传说锚点 LORE ANCHORS  ⚓  
+# LORE ANCHORS  ⚓  
 **← Prev:** L034 (The Calling)  
 **Next →:** L036 (TBA)  
 **ZK-Clue:** "Hidden among scrolls: the message that binds all tabs."

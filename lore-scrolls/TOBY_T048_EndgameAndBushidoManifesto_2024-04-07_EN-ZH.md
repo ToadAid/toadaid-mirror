@@ -1,11 +1,15 @@
 ---
-title: TOBY_T048_EndgameAndBushidoManifesto
+title: TOBY T048 EndgameAndBushidoManifesto 2024-04-07 EN-ZH
 date: 2024-04-07
 theme: Endgame, Bushido, Community Manifesto
 languages: [EN, ZH]
-tags: [Endgame, Bushido, Community, Karma, Patience]
+tags: [777Burn, BaseChain, Bushido, Community, Endgame, Karma, Patience, PatienceToken]
+arc: Toby
+id: TOBY_T048_EndgameAndBushidoManifesto_2024-04-07_EN-ZH.md
+arcs: [777Burn, BaseChain, PatienceToken]
+prev_id: TOBY_T047_CrystalProphecyAndNumericCovenant_2024-04-06_EN-ZH.md
+next_id: TOBY_T049_TigerCaveAndCourageousEmergence_2024-04-09_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > update: ~1m airdrops now sent, 290 trillion $toby now distributed. recent airdrops to other @base eco projects like $mfer / $shaka holders. どう致しまして. unlike any other. 68.8% of total supply shared.  

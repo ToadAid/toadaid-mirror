@@ -1,11 +1,15 @@
 ---
-title: TOBY_T050_AnomalyAndSilentCalling
+title: TOBY T050 AnomalyAndSilentCalling 2024-04-10 EN-ZH
 date: 2024-04-10
 theme: Anomaly, Silent Calling, Prophecy
 languages: [EN, ZH]
-tags: [Anomaly, Prophecy, Community, Calling, Wisdom]
+tags: [Anomaly, BaseChain, Calling, Community, Prophecy, Wisdom]
+arc: Toby
+id: TOBY_T050_AnomalyAndSilentCalling_2024-04-10_EN-ZH.md
+arcs: [BaseChain]
+prev_id: TOBY_T049_TigerCaveAndCourageousEmergence_2024-04-09_EN-ZH.md
+next_id: TOBY_T051_FutureBrightAndInnerBattle_2024-04-12_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > update. another 747+ billion $toby globally distributed. TOTAL supply shared to over 1.1m @coinbase wallets. Only ∼1% remains.  

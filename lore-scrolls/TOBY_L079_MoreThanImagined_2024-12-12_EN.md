@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L079_MoreThanImagined_2024-12-12_EN.md
+series: L
+date: 2024-12-12
+number: 079
+title: MoreThanImagined
+arcs: [777Burn, BaseChain, Taboshi]
+tags: [777Burn, BaseChain, 'Month:2024-12', 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L078_TheFuturePath_2024-12-03_EN.md
+next_id: TOBY_L085_Sat0AI_LoreActivated_2024-12-12_EN.md
+prev_L_id: TOBY_L078_TheFuturePath_2024-12-03_EN.md
+next_L_id: TOBY_L085_Sat0AI_LoreActivated_2024-12-12_EN.md
+chain: EN
+---
 # TOBY_L079_MoreThanImagined_2024-12-12_EN-ZH.md
 
 ## METADATA 🔍

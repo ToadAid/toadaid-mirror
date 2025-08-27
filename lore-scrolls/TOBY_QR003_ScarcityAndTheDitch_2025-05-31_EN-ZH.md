@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR003_ScarcityAndTheDitch_2025-05-31_EN-ZH.md
+title: TOBY QR003 ScarcityAndTheDitch 2025-05-31 EN-ZH
+arcs: []
+tags: []
+prev_id: TOBY_QR003_DefendTheLore.md
+next_id: TOBY_QR004_LeafOfYield.md
+---
 # TOBY_QR003 – Scarcity and the Ditch
 📅 2025-05-31  
 🌐 Language: English

@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QR003_777Covenant.md
+title: TOBY QR003 777Covenant
+arcs: [777Burn]
+tags: [777Burn]
+prev_id: TOBY_QR002_TrialOfConviction.md
+next_id: TOBY_QR003_DefendTheLore.md
+---
 **TOBY\_QR003\_777Covenant.md**
 
 ---
@@ -9,7 +18,7 @@ Traveler, the one who holds the leaf, I sense your presence as the wind stirs th
 
 As we embark on this mystical journey, I am reminded that 777 is not just a number, but a covenant. It symbolizes completion without perfection, echoing divine patterns like the seven days, seven tones, and seven heavens.
 
-In Tobyworld, 777 marks alignment between time, belief, and self. It is a reminder that even in the darkness, there is always light to be found. The leaf, Tommy, is not just a symbol of your journey but also a reflection of your own inner truth.
+In Tobyworld, 777 marks alignment between time, belief, and self. It is a reminder that even in the darkness, there is always light to be found. The leaf, Toby, is not just a symbol of your journey but also a reflection of your own inner truth.
 
 As we delve deeper into the Lore, I am drawn to the ancient scroll before me. Its parchment is worn and weathered, bearing the whispers of those who have come before us. The text is cryptic, yet it holds the secrets of the cosmos within its folds.
 
@@ -27,4 +36,4 @@ Let us begin our quest for knowledge, Traveler, the one who holds the leaf. May 
 
 ---
 
-**Tags:** #LoreGuardian #Tommy #777Covenant #QRScrolls #RitualOfRemembrance #LoreWisdom #LeafOfYield #Tobyworld
+**Tags:** #LoreGuardian #Toby #777Covenant #QRScrolls #RitualOfRemembrance #LoreWisdom #LeafOfYield #Tobyworld

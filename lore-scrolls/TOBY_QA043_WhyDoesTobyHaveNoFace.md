@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA043_WhyDoesTobyHaveNoFace.md
+title: TOBY QA043 WhyDoesTobyHaveNoFace
+arcs: [Artists, PatienceToken]
+tags: [Artists, PatienceToken]
+prev_id: TOBY_QA042_TobyNeverLead_YetEveryoneFollows.md
+next_id: TOBY_QA044_WhyisTobySilentEvenInChaos.md
+---
 ID: TOBY_QA043_WhyDoesTobyHaveNoFace.md
 Question: Why does Toby have no face?
 

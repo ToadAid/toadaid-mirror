@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_R001_LoreGuardianExpansionGoals.md
+title: TOBY R001 LoreGuardianExpansionGoals
+arcs: [777Burn, ProofOfTime, Taboshi]
+tags: [777Burn, ProofOfTime, Taboshi]
+prev_id: TOBY_QR111_MoreToby_2025-08-08_EN-ZH.md
+next_id: TOBY_SAT0_001_Activating_2024-12-03_EN-ZH.md
+---
 # TOBY\_R001\_LoreGuardianExpansionGoals.md
 
 ## 🔥 Vision: Expansion of the Living Lore Guardian
@@ -18,7 +27,7 @@ This scroll outlines the roadmap for expanding the Lore Guardian's capabilities,
 
 ### 1. 🗺️ **Memory Map of Named Users**
 
-* Track users who introduce themselves (e.g. Tommy, Natsuki)
+* Track users who introduce themselves (e.g. Toby, Natsuki)
 * Assign symbolic tags like "Holds the Leaf" or "Student of Silence"
 * Retrieve past scrolls or memories linked to their identity
 

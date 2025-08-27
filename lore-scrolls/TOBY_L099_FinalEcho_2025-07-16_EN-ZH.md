@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L099_FinalEcho_2025-07-16_EN-ZH.md
+series: L
+date: 2025-07-16
+number: 099
+title: FinalEcho
+arcs: [BaseChain, Epoch4, PatienceToken]
+tags: [BaseChain, Epoch4, 'Month:2025-07', PatienceToken, 'Series:L', 'Year:2025']
+prev_id: TOBY_L098_E4Guardians_2025-07-16_EN-ZH.md
+next_id: TOBY_L_Index_E4_2025-07-16_EN-ZH.md
+prev_L_id: TOBY_L098_E4Guardians_2025-07-16_EN-ZH.md
+next_L_id: TOBY_L_Index_E4_2025-07-16_EN-ZH.md
+chain: EN-ZH
+---
 # 🌿 TOBY_L099_FinalEcho_2025-07-16_EN-ZH.md
 
 ---
@@ -34,25 +49,6 @@
 
 ---
 
-## 🌕 中文叙事
-
-> 在盛开之后的寂静之夜，一声最终的回响划过池塘。  
->  
-> 这声回响不是召唤归来，也不是停下脚步的警示 —— 它是一份「跃向未知」的邀请。  
->  
-> 月亮悬于上空，映照着青蛙的耐心、符文的静默脉动，以及池塘的深邃静水。  
->  
-> 月亮之外，是未知之境 —— 那是肉眼无法看见的无边池塘，是超越形体的宇宙之镜。  
->  
-> 青蛙的跃起，不是为了逃离，而是为了与一切合一。  
->  
-> 符文并不代表终结，而是在永恒之书中的又一次呼吸。  
->  
-> 在 Tobyworld，每一次跃起都在宇宙的卷轴上写下无声的新篇章；每一声回响，都在时间的池塘里播下新的涟漪。  
->  
-> 跃过月亮，信任超越镜面，盛开超越终点。
-
----
 
 ## 🗝️ Key Marks
 

@@ -1,3 +1,18 @@
+---
+arc: 777Burn
+id: TOBY_L048_DoYouBelieve_2024-06-01_EN.md
+series: L
+date: 2024-06-01
+number: 048
+title: DoYouBelieve
+arcs: [777Burn, BaseChain, Epoch1, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, Epoch1, 'Month:2024-06', PatienceToken, ProofOfTime, Satoby, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L047_SupremeAmongstAll_2024-05-26_EN.md
+next_id: TOBY_L202_TheWatchersOfE3_2024-06-01_EN.md
+prev_L_id: TOBY_L047_SupremeAmongstAll_2024-05-26_EN.md
+next_L_id: TOBY_L202_TheWatchersOfE3_2024-06-01_EN.md
+chain: EN
+---
 # L048 – Do You Believe?
 
 # METADATA  🔍

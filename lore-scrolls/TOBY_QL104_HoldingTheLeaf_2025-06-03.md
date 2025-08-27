@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QL104_HoldingTheLeaf_2025-06-03.md
+title: TOBY QL104 HoldingTheLeaf 2025-06-03
+arcs: [777Burn, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QL103_WhatFeedsTheFlame_2025-05-30_EN.md
+next_id: TOBY_QL104_WhatAwaitsBeyond_2025-05-30_EN.md
+---
 # TOBY_QL104_HoldingTheLeaf_2025-06-03
 
 ## 🔁 Format: Reflective Dialogue Scroll  

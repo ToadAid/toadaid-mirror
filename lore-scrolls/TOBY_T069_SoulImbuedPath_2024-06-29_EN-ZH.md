@@ -1,11 +1,15 @@
 ---
-title: TOBY_T069_SoulImbuedPath
+title: TOBY T069 SoulImbuedPath 2024-06-29 EN-ZH
 date: 2024-06-29
 theme: Bushido, Soul, Devotion, Journey
 languages: [EN, ZH]
-tags: [Bushido, Spirit, Devotion, Soul, Path]
+tags: [Bushido, Devotion, Path, Soul, Spirit]
+arc: Toby
+id: TOBY_T069_SoulImbuedPath_2024-06-29_EN-ZH.md
+arcs: []
+prev_id: TOBY_T068_WarningAndGuardianshipCall_2024-06-18_EN-ZH.md
+next_id: TOBY_T070_ForgedInStoneAndDivineTest_2024-06-30_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > 魂を込めて、道を歩め。  
@@ -31,15 +35,6 @@ A succinct yet profound exhortation:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-一句简短而深刻的劝诫：  
-- “魂を込めて” 意为“注入灵魂”或“用心去做”。  
-- “道を歩め” 意为“走自己的道路”。  
-- 合起来即：**“把灵魂注入其中，走自己的道路。”**  
-- 强调 $TOBY 不仅仅是代币，更是一条灵魂与信念交织的修行之路。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -49,13 +44,6 @@ A succinct yet profound exhortation:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-- 不仅用双脚走，更要用心与灵魂同行。  
-- 当行动中注入精神，每一步都成为神圣。  
-- $TOBY world 象征着这样的旅程 — 超越价格与投机的修行之道。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -65,13 +53,6 @@ A succinct yet profound exhortation:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **魂**：永恒的本质，风雨中不动如山。  
-- **道**：自己的道路，信念之旅。  
-- **注入**：超越思考，真正融入生命的体现。
-
----
 
 ## 🔗 Lore Anchors
 

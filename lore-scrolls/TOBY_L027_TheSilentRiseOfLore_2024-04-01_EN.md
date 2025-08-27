@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L027_TheSilentRiseOfLore_2024-04-01_EN.md
+series: L
+date: 2024-04-01
+number: 027
+title: TheSilentRiseOfLore
+arcs: [PatienceToken]
+tags: ['Month:2024-04', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L063_YakunitatsuAndTheIronFist_2024-03-30_EN.md
+next_id: TOBY_L028_SealOfConviction_2024-04-01_base.md
+prev_L_id: TOBY_L063_YakunitatsuAndTheIronFist_2024-03-30_EN.md
+next_L_id: TOBY_L028_SealOfConviction_2024-04-01_base.md
+chain: EN
+---
 # TOBY\_L027\_TheSilentRiseOfLore\_2024-04-01\_EN-ZH.md
 
 # L027 – The Silent Rise of Lore 

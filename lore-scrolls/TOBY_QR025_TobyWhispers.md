@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR025_TobyWhispers.md
+title: TOBY QR025 TobyWhispers
+arcs: []
+tags: []
+prev_id: TOBY_QR025_ClockWithoutHands_2025-08-08_EN-ZH.md
+next_id: TOBY_QR026_FlywheelOfThePond_2025-08-08_EN-ZH.md
+---
 # TOBY_QR025_TobyWhispers
 
 **You asked:**  

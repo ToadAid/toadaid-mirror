@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QL103_WhatFeedsTheFlame_2025-05-30_EN.md
+title: TOBY QL103 WhatFeedsTheFlame 2025-05-30 EN
+arcs: [BaseChain, Epoch3]
+tags: [BaseChain, Epoch3]
+prev_id: TOBY_QL102_RoleOfTheLorebearer_2025-05-30_EN.md
+next_id: TOBY_QL104_HoldingTheLeaf_2025-06-03.md
+---
 ### 📜 TOBY\_QL103\_WhatFeedsTheFlame\_2025-05-30\_EN.md
 
 **🔹 Metadata**

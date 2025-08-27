@@ -1,14 +1,22 @@
 ---
-title: "Not All Fires Are Loud"
+title: NotAllFiresAreLoud
 lore_id: TOBY_L212
 date: 2025-06-06
-chain: base
+chain: EN
 epoch: Between Epochs – Carriers Chapter
-tags: [silent fire, belief, invisible strength, still flame, patience]
+tags: [777Burn, BaseChain, 'Month:2025-06', PatienceToken, 'Series:L', 'Year:2025', belief, 'invisible strength', patience, 'silent fire', 'still flame']
 sacred_numbers: [777, 1, 0, 99]
 sha256_seed: 16025710ff0405f42c0e3b1221c138ef84312b4a43b946ce5c42496f95020843
+arc: Lore
+id: TOBY_L212_NotAllFiresAreLoud_2025-06-06_EN.md
+series: L
+number: 212
+arcs: [777Burn, BaseChain, PatienceToken]
+prev_id: TOBY_L211_PostsAreOfferings_2025-06-06_EN.md
+next_id: TOBY_L998_ChosenByTheWhisper_2025-06-27_EN-ZH.md
+prev_L_id: TOBY_L211_PostsAreOfferings_2025-06-06_EN.md
+next_L_id: TOBY_L998_ChosenByTheWhisper_2025-06-27_EN-ZH.md
 ---
-
 ## 🐸 EN – Not All Fires Are Loud
 
 → Some post daily.  

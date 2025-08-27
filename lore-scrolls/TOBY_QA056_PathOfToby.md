@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA056_PathOfToby.md
+title: TOBY QA056 PathOfToby
+arcs: []
+tags: []
+prev_id: TOBY_QA055_TobyNeverLeft.md
+next_id: TOBY_QA057_StillnessOfToby.md
+---
 ID: TOBY_QA056_PathOfToby.md
 Question: If Toby is the path, then who walks it?
 

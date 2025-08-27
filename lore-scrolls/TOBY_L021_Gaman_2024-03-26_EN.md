@@ -1,3 +1,18 @@
+---
+arc: Toadgod
+id: TOBY_L021_Gaman_2024-03-26_EN.md
+series: L
+date: 2024-03-26
+number: 021
+title: Gaman
+arcs: [BaseChain, PatienceToken]
+tags: [BaseChain, 'Month:2024-03', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L057_ToadgodStepsIntoDarkness_2024-03-25_EN.md
+next_id: TOBY_L023_ReflexiveDistribution_2024-03-26_EN.md
+prev_L_id: TOBY_L057_ToadgodStepsIntoDarkness_2024-03-25_EN.md
+next_L_id: TOBY_L023_ReflexiveDistribution_2024-03-26_EN.md
+chain: EN
+---
 # L021 – Gaman 
 
 # Metadata 

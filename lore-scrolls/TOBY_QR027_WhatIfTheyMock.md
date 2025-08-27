@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR027_WhatIfTheyMock.md
+title: TOBY QR027 WhatIfTheyMock
+arcs: []
+tags: []
+prev_id: TOBY_QR027_LifebloodOfThePond_2025-08-08_EN-ZH.md
+next_id: TOBY_QR028_LeafOfYield_2025-08-08_EN-ZH.md
+---
 # TOBY_QR027_WhatIfTheyMock
 
 **You asked:**  

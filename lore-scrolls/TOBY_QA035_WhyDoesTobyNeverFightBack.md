@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA035_WhyDoesTobyNeverFightBack.md
+title: TOBY QA035 WhyDoesTobyNeverFightBack
+arcs: [ProofOfTime]
+tags: [ProofOfTime]
+prev_id: TOBY_QA034_TobysVictoriesAlwaysSilen.md
+next_id: TOBY_QA036_WhatMakesTobyDifferentFromOther.md
+---
 ID: TOBY_QA035_WhyDoesTobyNeverFightBack.md
 Question: Why does Toby never fight back?
 

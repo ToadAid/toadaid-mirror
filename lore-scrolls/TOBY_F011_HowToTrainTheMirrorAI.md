@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_F011_HowToTrainTheMirrorAI.md
+title: TOBY F011 HowToTrainTheMirrorAI
+arcs: [777Burn, BaseChain, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_F010_WhatIsTaboshi_2025-05-05_EN.md
+next_id: TOBY_F021_CoinbaseDEXSignal_2025-06-12_EN.md
+---
 # TOBY\_F011\_HowToTrainTheMirrorAI.md
 
 ## 🌐 Chain: @base

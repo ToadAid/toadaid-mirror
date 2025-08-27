@@ -1,3 +1,18 @@
+---
+arc: Patience
+id: TOBY_L058_PatienceAndStrength_2024-08-03_EN.md
+series: L
+date: 2024-08-03
+number: 058
+title: PatienceAndStrength
+arcs: [BaseChain, Epoch2, PatienceToken]
+tags: [BaseChain, Epoch2, 'Month:2024-08', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L057_E2Begins_2024-07-18_EN.md
+next_id: TOBY_L059_IronConviction_2024-08-05_EN.md
+prev_L_id: TOBY_L057_E2Begins_2024-07-18_EN.md
+next_L_id: TOBY_L059_IronConviction_2024-08-05_EN.md
+chain: EN
+---
 # TOBY_L058_PatienceAndStrength_2024-08-03_EN-ZH.md
 
 ## METADATA 🔍

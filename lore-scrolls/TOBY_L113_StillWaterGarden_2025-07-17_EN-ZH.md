@@ -1,14 +1,21 @@
 ---
-title: "Still-Water Garden & Lotus Spores | 静水花园与莲花孢子"
+title: StillWaterGarden
 id: TOBY_L113_StillWaterGarden
 date: 2025-07-17
-chain: @base
+chain: EN-ZH
 epoch: E4 Prelude
-tags: ["Patience", "Lotus Spores", "Lore Land", "Tobyworld", "Sacred Yield"]
-symbols: ["🔵", "🔺", "🍃", "🟧", "🌀", "⛰️"]
-sha256_seed: "still-water-lotus-patience-loreland-2025-07-17"
+tags: [BaseChain, Epoch4, 'Lore Land', 'Lotus Spores', 'Month:2025-07', Patience, PatienceToken, 'Sacred Yield', 'Series:L', Taboshi, Tobyworld, 'Year:2025']
+symbols: [🔵, 🔺, 🍃, 🟧, 🌀, ⛰️]
+sha256_seed: still-water-lotus-patience-loreland-2025-07-17
+arc: Patience
+series: L
+number: 113
+arcs: [BaseChain, Epoch4, PatienceToken, Taboshi]
+prev_id: TOBY_L112_SacrificeWithoutTransparency_2025-07-17_EN-ZH.md
+next_id: TOBY_L154_Rune3Ceremony_2025-07-17_EN-ZH.md
+prev_L_id: TOBY_L112_SacrificeWithoutTransparency_2025-07-17_EN-ZH.md
+next_L_id: TOBY_L154_Rune3Ceremony_2025-07-17_EN-ZH.md
 ---
-
 ## 🌊 EN Narrative
 
 > **Still-Water Garden**  
@@ -76,73 +83,8 @@ Soon:
 
 ---
 
-## 🌊 中文叙述
 
-> **静水花园**  
-> *(托比世界的西岸——连风都忘了呼吸之地)*
-
-这里是镜水之地，静谧比FOMO更浓。  
-时间在此停滞。  
-信仰在此回响最深。
-
-这是属于**耐心者的花园**。
-
-> 在这里，你将解锁**无尽夏天**，如天书所预言。
-
----
-
-### 🔵 TOBY：聚信者
-
-托比——蓝色核心——聚集落下之蛙。  
-他不许诺收益，  
-他在此**播种信仰**。
-
-> 「静止，是第一种运动。」
-
----
-
-### 🔺 仪式：投下一粒耐心之种
-
-1. 投下 🔺 一粒 $PATIENCE  
-2. 涟漪荡开一次——然后沉寂  
-3. 次日黎明，浮现出：**莲花孢子** 🌱
-
-> 孢子 = 神圣收益  
-> 孢子 = 未来金币  
-> 孢子 = 第四符文之后的钥匙
-
----
-
-### 🍃 绑定叶片
-
-将 **Taboshi 叶片** 🍃 绑定至你的园地：  
-→ 孢子倍增、加速、跃迁  
-→ 风开始低语  
-→ 最大产出只赐予聆听者
-
----
-
-### 🌀 Sato费用回流
-
-将 $PATIENCE 与深层根系绑定：  
-🌀 费用像金鳞锦鲤般回旋而归
-
----
-
-### ⛰️ 传说之地地契
-
-> 唯有耐心者可开启托比世界之地。
-
-即将到来：
-
-- 🧾 地契铸造  
-- 🛕 神龛升起  
-- 🗿 神谕苏醒  
-- 📉 稀缺冲击展开
-
----
-
-## 🪞 Lore Anchors | 卷轴锚点
+## 🪞 Lore Anchors 
 
 ⬅ Previous: [TOBY_L112_SacrificeWithoutTransparency](#)  
 ➡ Next: [TOBY_L114_TheJadeChestCeremony](#)

@@ -1,11 +1,17 @@
 ---
-title: TOBY_T001_FirstRipple
+title: TOBY T001 FirstRipple 2024-03-17 EN-ZH
 date: 2024-03-17
 theme: First Ripple
 languages: [EN, ZH]
-tags: [Genesis, Silence, Reset, Mirror]
+tags: [Genesis, Mirror, Reset, 'Series:T', Silence]
+arc: Lore
+id: TOBY_T001_FirstRipple_2024-03-17_EN-ZH.md
+series: T
+number: 00
+arcs: []
+prev_id: TOBY_F002_TweetToScrollMethod.md
+next_id: TOBY_T002_StudyFrogLife_2024-03-17_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > toad setup a new account, sick of getting shadow banned  
@@ -22,12 +28,7 @@ Toadgod announces creating a new account after being frustrated with censorship 
 
 ---
 
-## ✨ 字面解释 (中文)
 
-Toadgod 表示因为旧账号被「影子封禁」而感到厌烦，于是创建了一个新账号。  
-提到「Elon」表明他直接在呼唤 Twitter（X）领导者。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -40,16 +41,7 @@ It teaches:
 
 ---
 
-## 🌱 精神诠释 (中文)
 
-这第一道涟漪象征着 **重生与净化**。  
-放弃旧账号是一次灵性上的“归零”，摆脱隐藏的束缚，重新书写新的篇章。  
-这教导我们：  
-- 放下已经不再适合的外壳。  
-- 以纯净之心重新开始。  
-- 真正的信徒有时需要舍弃被污染的平台或旧身份。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -61,15 +53,6 @@ This marks the *first ripple* on the pond — before all deeper Lore, before pro
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **新账号 = 新的化身，象征重生（如青蛙蜕变）。**
-- **影子封禁 = 社会潜在的控制与集体幻象。**
-- **“sir” = 面对更高力量（比如 Elon 或命运本身）时的谦逊姿态。**
-
-这是池塘上的 **第一道涟漪** —— 在所有更深的 Lore 和预言之前，只有最原始、最纯净的意图。
-
----
 
 ## 🔗 Lore Anchors
 

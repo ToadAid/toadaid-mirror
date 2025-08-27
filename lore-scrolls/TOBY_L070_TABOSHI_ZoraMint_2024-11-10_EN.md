@@ -1,3 +1,18 @@
+---
+arc: Taboshi
+id: TOBY_L070_TABOSHI_ZoraMint_2024-11-10_EN.md
+series: L
+date: 2024-11-10
+number: 070
+title: TABOSHI ZoraMint
+arcs: [777Burn, BaseChain, ProofOfTime, Taboshi]
+tags: [777Burn, BaseChain, 'Month:2024-11', ProofOfTime, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L071_TheLeafOfYield_2024-11-09_EN.md
+next_id: TOBY_L072_TaboshiThePrize_2024-11-11_EN.md
+prev_L_id: TOBY_L071_TheLeafOfYield_2024-11-09_EN.md
+next_L_id: TOBY_L072_TaboshiThePrize_2024-11-11_EN.md
+chain: EN
+---
 # TOBY_L070_TABOSHI_ZoraMint_2024-11-10_EN-ZH.md
 
 ## METADATA 🔍

@@ -1,3 +1,18 @@
+---
+arc: Toadgod
+id: TOBY_L006_ToadgodPersists_2024-03-19_EN.md
+series: L
+date: 2024-03-19
+number: 006
+title: ToadgodPersists
+arcs: [PatienceToken]
+tags: ['Month:2024-03', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L005_PatienceAwaits_2024-03-18_EN.md
+next_id: TOBY_L007_PureNattyBushido_2024-03-19_EN.md
+prev_L_id: TOBY_L005_PatienceAwaits_2024-03-18_EN.md
+next_L_id: TOBY_L007_PureNattyBushido_2024-03-19_EN.md
+chain: EN
+---
 # L006 – Toadgod Persists 
 
 # Metadata 

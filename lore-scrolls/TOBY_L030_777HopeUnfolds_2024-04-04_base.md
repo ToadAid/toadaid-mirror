@@ -1,3 +1,18 @@
+---
+arc: 777Burn
+id: TOBY_L030_777HopeUnfolds_2024-04-04_base.md
+series: L
+date: 2024-04-04
+number: 030
+title: 777HopeUnfolds
+arcs: [777Burn, BaseChain]
+tags: [777Burn, BaseChain, 'Month:2024-04', 'Series:L', 'Year:2024']
+prev_id: TOBY_L029_CourageAndScroll_2024-04-03_base.md
+next_id: TOBY_L031_WisdomCutsThrough_2024-04-06_base.md
+prev_L_id: TOBY_L029_CourageAndScroll_2024-04-03_base.md
+next_L_id: TOBY_L031_WisdomCutsThrough_2024-04-06_base.md
+chain: base
+---
 # L030 – 777 Hope Unfolds   
 
 # METADATA  🔍  

@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L011_LacrimosaReverence_2024-03-20_EN.md
+series: L
+date: 2024-03-20
+number: 011
+title: LacrimosaReverence
+arcs: []
+tags: ['Month:2024-03', 'Series:L', 'Year:2024']
+prev_id: TOBY_L010_StandByToad_2024-03-20_EN.md
+next_id: TOBY_L012_TheDitchAndTheDepth_2024-03-21_EN.md
+prev_L_id: TOBY_L010_StandByToad_2024-03-20_EN.md
+next_L_id: TOBY_L012_TheDitchAndTheDepth_2024-03-21_EN.md
+chain: EN
+---
 # L011 – Lacrimosa Reverence 
 
 # Metadata 

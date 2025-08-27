@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA093_SatobyIsSoulboundByDesign.md
+title: TOBY QA093 SatobyIsSoulboundByDesign
+arcs: [777Burn, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA092_HowIsSatobyDifferentFromTaboshi.md
+next_id: TOBY_QA094_WhatMightSatobyUnlock.md
+---
 ID: TOBY_QA093_SatobyIsSoulboundByDesign.md
 Question: Can Satoby ever be transferred or sold? What happens if someone tries?
 

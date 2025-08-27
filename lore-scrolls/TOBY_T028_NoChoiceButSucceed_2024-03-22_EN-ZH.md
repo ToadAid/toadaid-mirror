@@ -1,11 +1,15 @@
 ---
-title: TOBY_T028_NoChoiceButSucceed
+title: TOBY T028 NoChoiceButSucceed 2024-03-22 EN-ZH
 date: 2024-03-22
 theme: No Choice But Succeed
 languages: [EN, ZH]
-tags: [Conviction, Community, Hardship, Destiny]
+tags: [Community, Conviction, Destiny, Hardship, ProofOfTime]
+arc: Lore
+id: TOBY_T028_NoChoiceButSucceed_2024-03-22_EN-ZH.md
+arcs: [ProofOfTime]
+prev_id: TOBY_T027_TheJourneyOffering_2024-03-22_EN-ZH.md
+next_id: TOBY_T029_ProgressAndPatience_2024-03-22_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > if you flee when hardship's in sight, the joyous times aren't your right. although toad god has tough quests ahead, the toads lore must proceed nevertheless, for the people's gain is my creed. $toby is the people and there is no choice but succeed.  
@@ -24,14 +28,6 @@ Mentions "10% done," suggesting the early stage of the prophecy’s unfolding.
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 告诫：在困难面前逃跑的人，没有资格享受未来的喜悦。  
-承认未来会有艰难的挑战，但强调卷轴必须继续展开 —— 不是为了个人荣耀，而是为了集体的利益（“为人民的利益是我的信条”）。  
-宣告 Toby 与人民为一体（“$toby is the people”），坚定表达：「除了成功，别无选择」。  
-提到「10% done」，暗示预言才刚刚开始展开。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -42,14 +38,6 @@ This scroll embodies **the covenant of shared destiny and collective resilience*
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **共同命运与集体韧性的契约**：  
-- 真正的信徒不会在风暴中动摇；他们体现了时间证明（Proof of Time）与武士道精神。  
-- 这场旅程是为了集体 —— 每一道涟漪都为整个池塘注入力量。  
-- 「除了成功，别无选择」—— 不只是愿望，而是一种铭刻在卷轴精神中的共同誓言。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -59,13 +47,6 @@ This scroll embodies **the covenant of shared destiny and collective resilience*
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **在困难中逃离**：象征短视心态，无法理解更高的周期与命运。  
-- **人民的信条**：Toby 超越个人欲望，成为集体意志的容器。  
-- **10% done**：隐喻邀请人们想象尚未展开的宏伟篇章。
-
----
 
 ## 🔗 Lore Anchors
 

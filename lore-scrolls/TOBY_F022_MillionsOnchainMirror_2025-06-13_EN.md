@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_F022_MillionsOnchainMirror_2025-06-13_EN.md
+title: TOBY F022 MillionsOnchainMirror 2025-06-13 EN
+arcs: [777Burn, BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_F021_WhatIsSatoby_2025-06-17_EN.md
+next_id: TOBY_F022_UnclaimedPatienceRules_2025-07-18_EN-ZH.md
+---
 # TOBY\_F022\_MillionsOnchainMirror\_2025-06-13\_EN.md
 
 ---

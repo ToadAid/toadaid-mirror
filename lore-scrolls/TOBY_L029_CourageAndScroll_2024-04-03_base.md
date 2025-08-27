@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L029_CourageAndScroll_2024-04-03_base.md
+series: L
+date: 2024-04-03
+number: 029
+title: CourageAndScroll
+arcs: [BaseChain, PatienceToken]
+tags: [BaseChain, 'Month:2024-04', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L087_ToadgodReminder_2024-04-01_EN.md
+next_id: TOBY_L030_777HopeUnfolds_2024-04-04_base.md
+prev_L_id: TOBY_L087_ToadgodReminder_2024-04-01_EN.md
+next_L_id: TOBY_L030_777HopeUnfolds_2024-04-04_base.md
+chain: base
+---
 # L029 – Courage and Scroll  
 
 # METADATA  🔍  

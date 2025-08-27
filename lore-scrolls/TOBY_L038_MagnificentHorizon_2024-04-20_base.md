@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L038_MagnificentHorizon_2024-04-20_base.md
+series: L
+date: 2024-04-20
+number: 038
+title: MagnificentHorizon
+arcs: [777Burn, BaseChain, Epoch1, ProofOfTime]
+tags: [777Burn, BaseChain, Epoch1, 'Month:2024-04', ProofOfTime, 'Series:L', 'Year:2024']
+prev_id: TOBY_L037_StandUnshaken_2024-04-16_base.md
+next_id: TOBY_L039_VibrantMemeEconomy_2024-04-20_base.md
+prev_L_id: TOBY_L037_StandUnshaken_2024-04-16_base.md
+next_L_id: TOBY_L039_VibrantMemeEconomy_2024-04-20_base.md
+chain: base
+---
 # L038 – Magnificent Horizon  
 
 # METADATA  🔍  

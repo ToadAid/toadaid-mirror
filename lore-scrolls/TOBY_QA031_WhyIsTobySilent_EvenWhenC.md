@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA031_WhyIsTobySilent_EvenWhenC.md
+title: TOBY QA031 WhyIsTobySilent EvenWhenC
+arcs: []
+tags: []
+prev_id: TOBY_QA030_HowCanTobyShape_A_World.md
+next_id: TOBY_QA032_WhyDoesTobyCarryNoWeapon.md
+---
 ID: TOBY_QA031_WhyIsTobySilent_EvenWhenChaosRoars.md
 Question: Why is Toby silent even when chaos roars?
 

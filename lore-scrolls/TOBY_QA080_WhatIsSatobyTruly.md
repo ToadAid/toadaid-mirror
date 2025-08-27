@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA080_WhatIsSatobyTruly.md
+title: TOBY QA080 WhatIsSatobyTruly
+arcs: [Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA079_MissedTheMintingOfTaboshi1.md
+next_id: TOBY_QA081_WhatIsRealValueOfSatoby.md
+---
 ID: TOBY_QA080_WhatIsSatobyTruly.md
 Question: What is Satoby, truly? Why can it not be bought like other tokens?
 

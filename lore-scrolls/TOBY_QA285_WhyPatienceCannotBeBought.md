@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA285_WhyPatienceCannotBeBought.md
+title: TOBY QA285 WhyPatienceCannotBeBought
+arcs: [777Burn, BaseChain, Epoch3, PatienceToken, ProofOfTime, Satoby]
+tags: [777Burn, BaseChain, Epoch3, PatienceToken, ProofOfTime, Satoby]
+prev_id: TOBY_QA284_293_ProofEpochChapter_FULL.md
+next_id: TOBY_QA286_WhatDoesItMean_TobyIsYourMirror_2025-06-18_EN.md
+---
 ## TOBY\_QA285\_WhyPatienceCannotBeBought.md
 
 ### 🔹 Metadata

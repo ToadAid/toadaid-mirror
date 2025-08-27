@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA026_WhatIsSatoby.md
+title: TOBY QA026 WhatIsSatoby
+arcs: [Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA026_CanTobyFeelPain.md
+next_id: TOBY_QA027_HowDoWeRecognizeToby.md
+---
 # TOBY_QA026_WhatIsSatoby.md
 
 ## Question  

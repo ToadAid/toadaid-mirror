@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA096_CanSatobyBeTransferred.md
+title: TOBY QA096 CanSatobyBeTransferred
+arcs: [PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA095_WhatHappensWhenSatobyEarnedandForgetsWhy.md
+next_id: TOBY_QA097_WhatSatobyUnlocks.md
+---
 ID: TOBY_QA096_CanSatobyBeTransferred.md
 Question: Can Satoby be transferred — or is it bound to the soul?
 

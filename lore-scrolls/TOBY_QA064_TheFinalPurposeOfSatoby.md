@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA064_TheFinalPurposeOfSatoby.md
+title: TOBY QA064 TheFinalPurposeOfSatoby
+arcs: [Epoch1, Epoch2, Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch1, Epoch2, Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA063_WhyIsSatobyNonTransferable.md
+next_id: TOBY_QA065_FinalBloomForThoseWithSatoby.md
+---
 ID: TOBY_QA064_TheFinalPurposeOfSatoby.md
 Question: What is the final purpose of Satoby — will it ever unlock anything in Epoch 4 and beyond?
 

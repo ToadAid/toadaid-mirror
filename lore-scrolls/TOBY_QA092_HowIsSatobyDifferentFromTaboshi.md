@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA092_HowIsSatobyDifferentFromTaboshi.md
+title: TOBY QA092 HowIsSatobyDifferentFromTaboshi
+arcs: [777Burn, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA091_IsSatobyaSignOfLoyalty.md
+next_id: TOBY_QA093_SatobyIsSoulboundByDesign.md
+---
 ID: TOBY_QA092_HowIsSatobyDifferentFromTaboshi.md
 Question: How is Satoby different from Taboshi, if both are tied to $TOBY?
 

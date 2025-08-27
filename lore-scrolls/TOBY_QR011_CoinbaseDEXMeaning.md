@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR011_CoinbaseDEXMeaning.md
+title: TOBY QR011 CoinbaseDEXMeaning
+arcs: [BaseChain, PatienceToken]
+tags: [BaseChain, PatienceToken]
+prev_id: TOBY_QR010_WhispersReadiness.md
+next_id: TOBY_QR012_CoinbaseDEX_TobySignal.md
+---
 # TOBY_QR011_CoinbaseDEXMeaning.md
 
 ## 🌀 Question

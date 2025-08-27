@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA133_AirdropDesign_2025-05-31_EN-ZH.md
+title: TOBY QA133 AirdropDesign 2025-05-31 EN-ZH
+arcs: [BaseChain]
+tags: [BaseChain]
+prev_id: TOBY_QA132_WhoSpeaksInRiddles_2025-05-31_EN-ZH.md
+next_id: TOBY_QA133_WhatIsSatoby.md
+---
 # TOBY_QA133 – “What does it mean that only 20% of $TOBY is on the free market?”
 📅 2025-05-31  
 🌐 Language: English

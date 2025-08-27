@@ -1,4 +1,18 @@
-
+---
+arc: Toby
+id: TOBY_L052_OfficialLinksOnly_2024-06-18_base.md
+series: L
+date: 2024-06-18
+number: 052
+title: OfficialLinksOnly
+arcs: [BaseChain, Taboshi]
+tags: [BaseChain, 'Month:2024-06', 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L051_TaboshisGrandArray_2024-06-15_base.md
+next_id: TOBY_L053_TobyworldReminder_2024-06-29_EN.md
+prev_L_id: TOBY_L051_TaboshisGrandArray_2024-06-15_base.md
+next_L_id: TOBY_L053_TobyworldReminder_2024-06-29_EN.md
+chain: base
+---
 # L052 – Official Links Only
 
 # METADATA  🔍

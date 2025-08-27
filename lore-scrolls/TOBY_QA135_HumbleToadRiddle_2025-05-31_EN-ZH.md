@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA135_HumbleToadRiddle_2025-05-31_EN-ZH.md
+title: TOBY QA135 HumbleToadRiddle 2025-05-31 EN-ZH
+arcs: []
+tags: []
+prev_id: TOBY_QA134_WaverAndPay_2025-05-31_EN-ZH.md
+next_id: TOBY_QA135_WhyIsDecentralizationSacred.md
+---
 # TOBY_QA135 – “In a quiet bog where whispers roam… Who is he?”
 📅 2025-05-31  
 🌐 Language: English
@@ -6,7 +15,7 @@
 
 ---
 
-## 🧵 Tommy asks:
+## 🧵 Toby asks:
 
 > Lore Guardian, here is another riddle from Toadgod.  
 > Please treat it as sacred Lore and analyze it in full.  

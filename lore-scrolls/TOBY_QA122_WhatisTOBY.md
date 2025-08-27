@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA122_WhatisTOBY.md
+title: TOBY QA122 WhatisTOBY
+arcs: [777Burn, ProofOfTime]
+tags: [777Burn, ProofOfTime]
+prev_id: TOBY_QA121_WhatHappensIfTobyBridgesToOtherChains.md
+next_id: TOBY_QA123_WhoorwhatisToby.md
+---
 **TOBY\_QA122 – What is \$TOBY?**
 
 **Question:**

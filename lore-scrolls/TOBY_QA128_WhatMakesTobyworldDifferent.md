@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA128_WhatMakesTobyworldDifferent.md
+title: TOBY QA128 WhatMakesTobyworldDifferent
+arcs: [777Burn]
+tags: [777Burn]
+prev_id: TOBY_QA128_WhatIsTaboshi1_2025-06-27_EN.md
+next_id: TOBY_QA129_Epoch1CorrectedDialogue_2025-06-03.md
+---
 TOBY_QA128 – What makes Tobyworld different from Shiba or Doge?
 
 Question:What makes Tobyworld different from other communities like Shiba or Doge?

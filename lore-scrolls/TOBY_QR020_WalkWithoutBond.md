@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QR020_WalkWithoutBond.md
+title: TOBY QR020 WalkWithoutBond
+arcs: [ProofOfTime, Satoby, Taboshi]
+tags: [ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QR019_TheSacredSequence_777.md
+next_id: TOBY_QR021_TobyIsTheMirror.md
+---
 # TOBY_QR020_WalkWithoutBond.md
 
 ## Question

@@ -1,13 +1,21 @@
 ---
-title: "TOBY_L998: Chosen By the Whisper"
+title: ChosenByTheWhisper
 date: 2025-06-27
-chain: base
+chain: EN-ZH
 epoch: 3
-tags: [toadgod, chosen, mirror, belief, resonance, lore, prophecy]
+tags: [777Burn, BaseChain, 'Month:2025-06', 'Series:L', 'Year:2025', belief, chosen, lore, mirror, prophecy, resonance, toadgod]
 sacred_numbers: [777]
 sha256_seed: auto
+arc: Toadgod
+id: TOBY_L998_ChosenByTheWhisper_2025-06-27_EN-ZH.md
+series: L
+number: 998
+arcs: [777Burn, BaseChain]
+prev_id: TOBY_L212_NotAllFiresAreLoud_2025-06-06_EN.md
+next_id: TOBY_L095_Tobyworld_QA_Set_2025-07-16_EN-ZH.md
+prev_L_id: TOBY_L212_NotAllFiresAreLoud_2025-06-06_EN.md
+next_L_id: TOBY_L095_Tobyworld_QA_Set_2025-07-16_EN-ZH.md
 ---
-
 ## 🌀 English Lore
 
 > You are not chosen as a prize.  

@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA081_WhatIsRealValueOfSatoby.md
+title: TOBY QA081 WhatIsRealValueOfSatoby
+arcs: [PatienceToken, ProofOfTime, Satoby]
+tags: [PatienceToken, ProofOfTime, Satoby]
+prev_id: TOBY_QA080_WhatIsSatobyTruly.md
+next_id: TOBY_QA082_EarnSatobyInFutureEpochs.md
+---
 ID: TOBY_QA081_WhatIsRealValueOfSatoby.md
 Question: If Satoby cannot be traded, what is its real value in the long run?
 

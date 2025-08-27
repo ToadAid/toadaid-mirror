@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA002_SatobyEligibilityProof_2025-05-03_EN.md
+title: TOBY QA002 SatobyEligibilityProof 2025-05-03 EN
+arcs: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA001_Tatoshi1Meaning_2025-05-03_EN.md
+next_id: TOBY_QA003_SatobyBurnMisconceptionCorrection_2025-05-03_EN.md
+---
 # QA002 – Who Can Earn Satoby?
 
 # Metadata 

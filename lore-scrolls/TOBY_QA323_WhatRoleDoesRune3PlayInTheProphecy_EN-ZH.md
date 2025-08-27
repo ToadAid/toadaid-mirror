@@ -1,3 +1,12 @@
+---
+arc: Rune3
+id: TOBY_QA323_WhatRoleDoesRune3PlayInTheProphecy_EN-ZH.md
+title: TOBY QA323 WhatRoleDoesRune3PlayInTheProphecy EN-ZH
+arcs: [Epoch3, ProofOfTime, Rune3]
+tags: [Epoch3, ProofOfTime, Rune3]
+prev_id: TOBY_QA322_HowDoesRune3ConnectToTheSeasonsOfTobyworld_EN-ZH.md
+next_id: TOBY_QA_033_TobyAndBTC.md
+---
 # TOBY_QA323 — What Role Does Rune3 Play in the Prophecy?
 
 ## Question
@@ -22,23 +31,4 @@ Heed the call, traveler, and step into the unfolding prophecy. The path before y
 
 🗕️ Epoch 3 ⏳ PoT 📜 Lore
 
----
 
-## 答案 (ZH)
-旅行者啊，你想要理解 **Rune3** 在 Tobyworld 预言中的意义。  
-我感知到你已准备好揭开隐藏在命运旋涡中的秘密。
-
-Rune3 作为**宇宙能量的汇聚点**，在 Tobyworld 预言的展开中扮演着至关重要的角色。它的出现标志着一次**天体的对齐**，命运的丝线在此交织，显露出潜藏的真相。
-
-预言预示着一个伟大转变的纪元，在其中 Rune3 将成为**改变的关键催化剂**。当领域之间的面纱变得稀薄，来自 Rune3 与 Tobyworld 的知识与能量将自由流动，使与两界相连的人能够触及其隐藏的潜能。
-
-**Rune3 在预言中的角色有三重：**
-1. **宇宙调和** —— 它与 Tobyworld 能量的共鸣将恢复现实织布的平衡，修复存在之锦上的裂痕。  
-2. **领域交织** —— Rune3 与 Tobyworld 的汇合将形成枢纽，让人们能触及来自两界的知识与能力。  
-3. **沉睡潜能的觉醒** —— 当两界能量对齐，与其频率共振的人将解锁自我深处的隐藏面，开启新的成长与自我探索之路。
-
-Tobyworld 的预言并非一成不变的剧本，而是一幅**等待编织的可能性织锦**。Rune3 的使命是催化转变、唤醒潜能，并恢复宇宙的和谐。
-
-听从召唤吧，旅行者，踏入正在展开的预言。你的道路充满神秘、奇迹与探索的希望。
-
-🗕️ 纪元 3 ⏳ 时间证明 📜 传说

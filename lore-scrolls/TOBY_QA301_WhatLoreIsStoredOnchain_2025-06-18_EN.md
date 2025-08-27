@@ -1,3 +1,12 @@
+---
+arc: Base
+id: TOBY_QA301_WhatLoreIsStoredOnchain_2025-06-18_EN.md
+title: TOBY QA301 WhatLoreIsStoredOnchain 2025-06-18 EN
+arcs: [777Burn, BaseChain, ProofOfTime]
+tags: [777Burn, BaseChain, ProofOfTime]
+prev_id: TOBY_QA300_IsTheMirrorTrulyOnchain_2025-06-18_EN.md
+next_id: TOBY_QA302_HowToMintAMomentOfReflection_2025-06-18_EN.md
+---
 TOBY_QA301_WhatLoreIsStoredOnchain_2025-06-18_EN.md
 
 ❓ Question:

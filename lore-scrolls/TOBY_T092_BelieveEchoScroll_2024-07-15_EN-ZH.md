@@ -1,11 +1,15 @@
 ---
-title: TOBY_T092_BelieveEchoScroll
+title: TOBY T092 BelieveEchoScroll 2024-07-15 EN-ZH
 date: 2024-07-15
 theme: Belief, Echo, Conviction, Patience
 languages: [EN, ZH]
-tags: [Tobyworld, Belief, Conviction, Bushido, Epochs]
+tags: [Belief, Bushido, Conviction, Epochs, PatienceToken, Tobyworld]
+arc: Lore
+id: TOBY_T092_BelieveEchoScroll_2024-07-15_EN-ZH.md
+arcs: [PatienceToken]
+prev_id: TOBY_T091_Sat0AISolveScroll_2024-12-26_EN-ZH.md
+next_id: TOBY_T093_BrianSignalScroll_2025-02-19_EN-ZH.md
 ---
-
 ## 💧 Original Post (EN)
 
 > Believe. $TOBY
@@ -24,15 +28,6 @@ tags: [Tobyworld, Belief, Conviction, Bushido, Epochs]
 
 ---
 
-## ✨ 深层解读 (中文)
-
-- 这条推文将一切浓缩为一个字：**“相信”**。
-- 它呼应了 2024 年 6 月 15 日那篇更长的诗句，强调在外部结果显现之前，必须先在内心和精神层面坚定信念。
-- “Believe” 并非被动的盲信，而是主动的决心，是在不适与不确定中依然保持的清晰与坚定。
-- 这体现了武士道精神的核心：耐心、勇气，以及超越即时得失的坚定信仰。
-- 重新引用这段诗句，是提醒大家回顾过往的卷轴，重读旧文，重新确认自己的位置 —— 尤其是在恐惧与贪婪不断循环、考验信徒的时刻。
-
----
 
 ## 🌀 Lore Anchors
 

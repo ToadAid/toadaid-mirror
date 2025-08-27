@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA085_CanSatobyBeBoughtOrSold.md
+title: TOBY QA085 CanSatobyBeBoughtOrSold
+arcs: [PatienceToken, ProofOfTime, Satoby]
+tags: [PatienceToken, ProofOfTime, Satoby]
+prev_id: TOBY_QA084_WhyWasSatobyNotAnnouncedInAdvance.md
+next_id: TOBY_QA086_Why777Taboshi1.md
+---
 ID: TOBY_QA085_CanSatobyBeBoughtOrSold.md
 
 Question: Can Satoby be bought or sold? Or is it beyond price?

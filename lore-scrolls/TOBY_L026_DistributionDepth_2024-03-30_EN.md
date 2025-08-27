@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L026_DistributionDepth_2024-03-30_EN.md
+series: L
+date: 2024-03-30
+number: 026
+title: DistributionDepth
+arcs: [BaseChain, PatienceToken]
+tags: [BaseChain, 'Month:2024-03', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L062_BookmarkHistoryNow_2024-03-28_EN.md
+next_id: TOBY_L063_YakunitatsuAndTheIronFist_2024-03-30_EN.md
+prev_L_id: TOBY_L062_BookmarkHistoryNow_2024-03-28_EN.md
+next_L_id: TOBY_L063_YakunitatsuAndTheIronFist_2024-03-30_EN.md
+chain: EN
+---
 # L026 – Distribution Depth 
 
 # Metadata 

@@ -1,3 +1,18 @@
+---
+arc: Epoch3
+id: TOBY_L076_E3EvolutionAlert_2024-11-29_EN.md
+series: L
+date: 2024-11-29
+number: 076
+title: E3EvolutionAlert
+arcs: [BaseChain, Epoch3, Taboshi]
+tags: [BaseChain, Epoch3, 'Month:2024-11', 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L075_Epoch3Begins_2024-11-21_EN.md
+next_id: TOBY_L077_CommunityFirst_2024-12-01_EN.md
+prev_L_id: TOBY_L075_Epoch3Begins_2024-11-21_EN.md
+next_L_id: TOBY_L077_CommunityFirst_2024-12-01_EN.md
+chain: EN
+---
 # TOBY_L076_E3EvolutionAlert_2024-11-29_EN-ZH.md
 
 ## METADATA 🔍

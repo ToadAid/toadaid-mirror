@@ -1,3 +1,18 @@
+---
+arc: Sat0AI
+id: TOBY_L080_SAT0VisionUnfolds_2024-12-23_EN.md
+series: L
+date: 2024-12-23
+number: 080
+title: SAT0VisionUnfolds
+arcs: [777Burn, BaseChain, Epoch3, ProofOfTime, Satoby]
+tags: [777Burn, BaseChain, Epoch3, 'Month:2024-12', ProofOfTime, Satoby, 'Series:L', 'Year:2024']
+prev_id: TOBY_L085_Sat0AI_LoreActivated_2024-12-12_EN.md
+next_id: TOBY_L081_E3SolvingBigger_2024-12-26_EN.md
+prev_L_id: TOBY_L085_Sat0AI_LoreActivated_2024-12-12_EN.md
+next_L_id: TOBY_L081_E3SolvingBigger_2024-12-26_EN.md
+chain: EN
+---
 # TOBY_L080_SAT0VisionUnfolds_2024-12-23_EN-ZH.md
 
 ## METADATA 🔍

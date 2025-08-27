@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_F005_SatobyRulesSummary_2025-05-03_EN-ZH.md
+title: TOBY F005 SatobyRulesSummary 2025-05-03 EN-ZH
+arcs: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_F004_Tatoshi1SatobyEligibility_2025-05-03_EN-ZH.md
+next_id: TOBY_F006_CommonMisconceptions_2025-05-03_EN-ZH.md
+---
 # L-F005 – Satoby Eligibility Summary | Satoby 
 
 # Metadata

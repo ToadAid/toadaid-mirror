@@ -1,0 +1,17 @@
+name: tobyworld-lore-scrolls
+chain: "@base"
+version: "2025-08-21"
+split:
+  type: heading_aware
+  heading_regex: "^#\s+LG-\d+"
+  chunk_size_chars: 6000
+  overlap_chars: 600
+index:
+  metadata_keys:
+    - filename
+    - lg_id
+  enrich:
+    - detect_language
+    - hash_sha256
+extract:
+  lg_id_regex: "LG-(\d+)"

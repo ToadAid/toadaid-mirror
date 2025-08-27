@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA089_HowWillSatobyInteractInTobyworld.md
+title: TOBY QA089 HowWillSatobyInteractInTobyworld
+arcs: [777Burn, BaseChain, ProofOfTime, Satoby]
+tags: [777Burn, BaseChain, ProofOfTime, Satoby]
+prev_id: TOBY_QA088_RoleOfSatobyAndBeyond.md
+next_id: TOBY_QA090_CanSatobyBeFakedBorrowedOrSold.md
+---
 ID: TOBY_QA089_HowWillSatobyInteractInTobyworld.md
 Question: How will Satoby interact with future staking, governance, or yield systems in Tobyworld?
 

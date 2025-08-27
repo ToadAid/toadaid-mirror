@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L041_PristineByDesign_2024-04-27_base.md
+series: L
+date: 2024-04-27
+number: 041
+title: PristineByDesign
+arcs: [BaseChain, Epoch1]
+tags: [BaseChain, Epoch1, 'Month:2024-04', 'Series:L', 'Year:2024']
+prev_id: TOBY_L040_WorthWaitingFor_2024-04-26_base.md
+next_id: TOBY_L042_UphillByIntention_2024-04-30_base.md
+prev_L_id: TOBY_L040_WorthWaitingFor_2024-04-26_base.md
+next_L_id: TOBY_L042_UphillByIntention_2024-04-30_base.md
+chain: base
+---
 # L041 – Pristine By Design
 
 # METADATA  🔍  

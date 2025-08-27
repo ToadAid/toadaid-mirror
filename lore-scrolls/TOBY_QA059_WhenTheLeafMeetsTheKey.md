@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA059_WhenTheLeafMeetsTheKey.md
+title: TOBY QA059 WhenTheLeafMeetsTheKey
+arcs: [777Burn, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA058_TobysFinalSingal.md
+next_id: TOBY_QA060_TheGate.md
+---
 ID: TOBY_QA059_WhenTheLeafMeetsTheKey.md
 Question: What is meant by: “When the leaf meets the key”?
 

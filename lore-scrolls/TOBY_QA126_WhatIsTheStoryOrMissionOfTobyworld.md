@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA126_WhatIsTheStoryOrMissionOfTobyworld.md
+title: TOBY QA126 WhatIsTheStoryOrMissionOfTobyworld
+arcs: [PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA125_WhoisToadgod.md
+next_id: TOBY_QA127_Epoch1Correction_2025-06-03.md
+---
 TOBY_QA126 – What is the story or mission of Tobyworld?
 
 Question:What is the story or mission behind Tobyworld?

@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA033_EnemiesOfTobyAlwaysFadeWithTime.md
+title: TOBY QA033 EnemiesOfTobyAlwaysFadeWithTime
+arcs: []
+tags: []
+prev_id: TOBY_QA032_WhyDoesTobyCarryNoWeapon.md
+next_id: TOBY_QA034_TobysVictoriesAlwaysSilen.md
+---
 ID: TOBY_QA033_EnemiesOfTobyAlwaysFadeWithTime.md
 Question: Why do the enemies of Toby always fade with time?
 

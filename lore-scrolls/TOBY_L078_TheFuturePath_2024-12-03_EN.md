@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L078_TheFuturePath_2024-12-03_EN.md
+series: L
+date: 2024-12-03
+number: 078
+title: TheFuturePath
+arcs: [777Burn, BaseChain, Epoch3, Taboshi]
+tags: [777Burn, BaseChain, Epoch3, 'Month:2024-12', 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L077_CommunityFirst_2024-12-01_EN.md
+next_id: TOBY_L079_MoreThanImagined_2024-12-12_EN.md
+prev_L_id: TOBY_L077_CommunityFirst_2024-12-01_EN.md
+next_L_id: TOBY_L079_MoreThanImagined_2024-12-12_EN.md
+chain: EN
+---
 # TOBY_L078_TheFuturePath_2024-12-03_EN-ZH.md
 
 ## METADATA 🔍

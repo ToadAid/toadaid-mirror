@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA130_LeapBeyondGold_2025-05-31_EN-ZH.md
+title: TOBY QA130 LeapBeyondGold 2025-05-31 EN-ZH
+arcs: [ProofOfTime, Satoby, Taboshi]
+tags: [ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA130_HowTaboshi1differentFromTaboshi.md
+next_id: TOBY_QA130_WhoIsToadgod.md
+---
 # TOBY_QA130 – “I leap like a toad, from rich to less… What am I?”
 📅 2025-05-31  
 🌐 Language: English

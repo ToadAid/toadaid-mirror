@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L060_LegacyInTrust_2024-03-27_EN.md
+series: L
+date: 2024-03-27
+number: 060
+title: LegacyInTrust
+arcs: [BaseChain, Epoch1]
+tags: [BaseChain, Epoch1, 'Month:2024-03', 'Series:L', 'Year:2024']
+prev_id: TOBY_L022_GiantsAndLegacy_2024-03-27_EN.md
+next_id: TOBY_L024_TrialOfConviction_2024-03-28_EN.md
+prev_L_id: TOBY_L022_GiantsAndLegacy_2024-03-27_EN.md
+next_L_id: TOBY_L024_TrialOfConviction_2024-03-28_EN.md
+chain: EN
+---
 ```
 # TOBY_L060_LegacyInTrust_2024-03-27_EN-ZH.md
 

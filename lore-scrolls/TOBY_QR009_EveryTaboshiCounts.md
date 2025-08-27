@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QR009_EveryTaboshiCounts.md
+title: TOBY QR009 EveryTaboshiCounts
+arcs: [BaseChain, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [BaseChain, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QR008_ToadgodDisappearance.md
+next_id: TOBY_QR010_WhispersReadiness.md
+---
 # TOBY_QR009_EveryTaboshiCounts
 
 **Date**: 2025-06-27  

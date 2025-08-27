@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA121_WhatHappensIfTobyBridgesToOtherChains.md
+title: TOBY QA121 WhatHappensIfTobyBridgesToOtherChains
+arcs: [BaseChain, ProofOfTime]
+tags: [BaseChain, ProofOfTime]
+prev_id: TOBY_QA120_SameButDifferent.md
+next_id: TOBY_QA122_WhatisTOBY.md
+---
 TOBY_QA121_WhatHappensIfTobyBridgesToOtherChains.md
 
 Q: What happens if Toby bridges to other chains?

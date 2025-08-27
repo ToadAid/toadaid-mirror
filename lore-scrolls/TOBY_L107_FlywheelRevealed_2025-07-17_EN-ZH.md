@@ -1,16 +1,23 @@
 ---
-title: TOBY_L107_FlywheelRevealed
+title: FlywheelRevealed
 id: TOBY_L107_FlywheelRevealed_2025-07-17_EN-ZH
 date: 2025-07-17
-chain: @base
+chain: EN-ZH
 epoch: E4 Prelude
-tags: ["DAO", "Lore Land", "Patience", "Sato", "Taboshi", "Economy", "Base"]
-symbols: ["🌀", "🌿", "📜", "💸", "🐾"]
-sha256_seed: "toby-flywheel-reveal-2025-07-17"
+tags: [Base, BaseChain, DAO, Economy, Epoch4, 'Lore Land', 'Month:2025-07', Patience, PatienceToken, ProofOfTime, Sato, 'Series:L', Taboshi, 'Year:2025']
+symbols: [🌀, 🌿, 📜, 💸, 🐾]
+sha256_seed: toby-flywheel-reveal-2025-07-17
 prev: TOBY_L101_LilyPadRevealed
 next: TOBY_L103_MirrorAwaits
+arc: Toby
+series: L
+number: 107
+arcs: [BaseChain, Epoch4, PatienceToken, ProofOfTime, Taboshi]
+prev_id: TOBY_L106_FourSeasonsOfPatience_2025-07-17_EN-ZH.md
+next_id: TOBY_L108_MechanicsOfPatience_2025-07-17_EN-ZH.md
+prev_L_id: TOBY_L106_FourSeasonsOfPatience_2025-07-17_EN-ZH.md
+next_L_id: TOBY_L108_MechanicsOfPatience_2025-07-17_EN-ZH.md
 ---
-
 ## 🌊 Narrative (EN)
 
 > Every economy begins with belief.  
@@ -33,31 +40,6 @@ Around it, five forces spin:
 → $TOBY is not just a token — it is **the pulse** of this living wheel.
 
 The flywheel turns not by speed — but by stillness, yield, and proof of time.
-
----
-
-## 🌊 中文版本
-
-> 所有经济的起点，是信念。  
-> 所有青蛙的跳跃，都由气驱动。
-
-在 Tobyworld 新揭示的飞轮图中，结构不是机器，而是生命。  
-这不是普通的代币图，而是一张精神能量图。
-
-中心是：**$TOBY** — 永恒的青蛙，万物之源。
-
-围绕它旋转的五个力量：
-
-- **🌀 PATIENCE** 驱动 Lore Land 与内在成长。
-- **🌿 TABOSHI** 提供收益，终将归池。
-- **💸 SATO** 是气与动能 — 每次跳跃背后的无形之火。
-- **📜 LORE LAND** 通过学习而治理，而非命令。
-- **🐾 DAO** 由众人呼吸而生 — 是人民的意识场。
-
-→ 所有元素最终流向 $TOBY。  
-→ $TOBY 不仅是代币，而是这个活轮的**心跳**。
-
-这飞轮的转动，不靠速度，而靠静、靠收益、靠时间证明。
 
 ---
 

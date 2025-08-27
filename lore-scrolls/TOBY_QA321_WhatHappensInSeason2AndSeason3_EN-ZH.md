@@ -1,3 +1,12 @@
+---
+arc: Season3
+id: TOBY_QA321_WhatHappensInSeason2AndSeason3_EN-ZH.md
+title: TOBY QA321 WhatHappensInSeason2AndSeason3 EN-ZH
+arcs: [Artists, ProofOfTime, Season2, Season3]
+tags: [Artists, ProofOfTime, Season2, Season3]
+prev_id: TOBY_QA321D_WhoAreTheArtistsInSeason2_EN-ZH.md
+next_id: TOBY_QA322_HowDoesRune3ConnectToTheSeasonsOfTobyworld_EN-ZH.md
+---
 # TOBY_QA321 — What Happens in Season 2 and Season 3?
 
 ## Question
@@ -20,21 +29,3 @@ Remember, Toby — every choice has weight, and the path ahead will test both co
 
 📜 Lore
 
----
-
-## 答案 (ZH)
-托比啊，你的脚步声在记忆的迷宫长廊中回响……
-
-风中的低语携带着未来的秘密——然而如同烟雾般，它们在空中消散，只留下诱人的片段。卷轴虽隐晦，却揭示出前路的零星景象。
-
-**Season 2 —— 艺术之季**  
-命运的丝线开始编织信号与创作的织锦。在这里，**Tobyworld 的艺术家**崛起——他们是传说的画师、卷轴的雕刻者、象征之火的守护人。他们的作品成为池塘的供奉，指引着现在与未来。  
-然而阴影仍在徘徊。部分守护者的缺席在织锦中留下空白，不可见之手或许会试图改变纹路。联盟时聚时散，唯有坚定的心才能看清正在成形的真实图景。
-
-**Season 3 —— 建筑之季**  
-随着前几季的因果显现，现实的织布开始松散。**Tobyworld PoT 建造者**——造桥者、任务编织者、传说工程师——挺身而出。世界开始重叠，领域之间的界限变得模糊。  
-在此，守护者不仅要面对外部的力量，还要面对内心的考验。纽带必须重铸，愿景必须澄清，必须建立起能抵御时间流沙的结构。
-
-铭记吧，托比——每一个选择都有重量，而前路将考验勇气与清明。然而，在混沌的旋涡中，蕴藏着机遇——留给那些敢于把握它的人。
-
-📜 传说

@@ -1,14 +1,17 @@
 ---
-title: "The Return of the Leaf — Taboshi Merges with the Pond"
+title: TOBY L092 TaboshiReturn
 id: TOBY_L092_TaboshiReturn
 date: 2025-07-16
 chain: @base
 epoch: E4 Prelude
-tags: ["Taboshi", "Tobyworld", "Proof of Time", "Merge", "Lore"]
-symbols: ["🍃", "🌑", "🌊", "🌀"]
-sha256_seed: "taboshi-pond-return-2025-07-16"
+tags: [BaseChain, Epoch4, Lore, Merge, PatienceToken, 'Proof of Time', ProofOfTime, Taboshi, Tobyworld]
+symbols: [🍃, 🌑, 🌊, 🌀]
+sha256_seed: taboshi-pond-return-2025-07-16
+arc: Taboshi
+arcs: [BaseChain, Epoch4, PatienceToken, ProofOfTime, Taboshi]
+prev_id: TOBY_L091_RuneNewDawn.md
+next_id: TOBY_L093_E4MoonlitRunes.md
 ---
-
 ## 🌊 EN Narrative
 
 > In the quiet moonlight, the leaf drifts home.  
@@ -25,21 +28,6 @@ sha256_seed: "taboshi-pond-return-2025-07-16"
 
 ---
 
-## 🌊 中文叙事
-
-> 在寂静的月光下，那片叶子终于漂回了家。  
->  
-> 曾经象征着静默产出与耐心的 **Taboshi.io**，如今已完全归于那片深邃的池塘 — **Toadgod.xyz**。  
->  
-> 不再漂泊，不再孤行。叶子投入池塘的静水，化为一体，与一切回声的源头相融。  
->  
-> 「盛开之后的夜晚」早已低声预示此刻 — 最大的考验已结束，剩下的是细水长流的 Proof of Time。  
->  
-> 在这次合并中，每一份产出、每一份耐心、每一声默祷，都得以照见。  
->  
-> 仰望月亮，倾听池塘，信任这场汇聚。
-
----
 
 ## 🗝️ Key Marks
 
@@ -50,4 +38,4 @@ sha256_seed: "taboshi-pond-return-2025-07-16"
 ---
 
 ## 🌌 Hashtags
-#Tobyworld #Toadgod #Taboshi #ProofOfTime #Epoch4 #Merge #信念 #归一
+#Tobyworld #Toadgod #Taboshi #ProofOfTime #Epoch4 #Merge 

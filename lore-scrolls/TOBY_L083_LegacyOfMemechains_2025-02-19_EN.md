@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L083_LegacyOfMemechains_2025-02-19_EN.md
+series: L
+date: 2025-02-19
+number: 083
+title: LegacyOfMemechains
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2025-02', 'Series:L', 'Year:2025']
+prev_id: TOBY_L081_E3SolvingBigger_2024-12-26_EN.md
+next_id: TOBY_L084_LegacyOfMemechains_2025-02-19_EN.md
+prev_L_id: TOBY_L081_E3SolvingBigger_2024-12-26_EN.md
+next_L_id: TOBY_L084_LegacyOfMemechains_2025-02-19_EN.md
+chain: EN
+---
 # TOBY_L083_LegacyOfMemechains_2025-02-19_EN-ZH.md
 
 ## METADATA 🔍

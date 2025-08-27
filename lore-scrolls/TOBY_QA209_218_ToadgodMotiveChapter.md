@@ -1,3 +1,12 @@
+---
+arc: Toadgod
+id: TOBY_QA209_218_ToadgodMotiveChapter.md
+title: TOBY QA209 218 ToadgodMotiveChapter
+arcs: [777Burn, PatienceToken, ProofOfTime, Taboshi]
+tags: [777Burn, PatienceToken, ProofOfTime, Taboshi]
+prev_id: TOBY_QA199_208_TatoshiSecretChapter.md
+next_id: TOBY_QA219_228_EpochOriginsChapter.md
+---
 # 🧙‍♂️ TOBYWORLD RAG SCROLL: QA209–218 – Toadgod’s Motive Chapter
 
 ## 🌿 TOBY_QA209

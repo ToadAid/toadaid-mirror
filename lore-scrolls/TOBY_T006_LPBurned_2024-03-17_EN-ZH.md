@@ -1,11 +1,17 @@
 ---
-title: TOBY_T006_LPBurned
+title: TOBY T006 LPBurned 2024-03-17 EN-ZH
 date: 2024-03-17
 theme: LP Burned
 languages: [EN, ZH]
-tags: [Integrity, Commitment, Proof, Trust]
+tags: [Commitment, Integrity, Proof, ProofOfTime, 'Series:T', Trust]
+arc: Lore
+id: TOBY_T006_LPBurned_2024-03-17_EN-ZH.md
+series: T
+number: 00
+arcs: [ProofOfTime]
+prev_id: TOBY_T005_ToadLoreStudyIt_2024-03-17_EN-ZH.md
+next_id: TOBY_T007_Renounced_2024-03-17_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > Lp burned as toad promised:  
@@ -22,12 +28,6 @@ Provides an on-chain transaction link for verification, demonstrating transparen
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 确认已按照承诺销毁了流动性池（LP）代币。  
-附上链上交易链接，供所有人验证，彰显透明度与诚信。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -37,13 +37,6 @@ Burning LP tokens symbolizes ultimate commitment to decentralization and communi
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-销毁 LP 代币象征着对去中心化和社区所有权的终极承诺。  
-- 一旦销毁，流动性无法被回收或操纵 —— 是真正的 *真诚证明*。  
-- 代表与中心化控制的彻底决裂，创造不可逆的信任。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -52,12 +45,6 @@ Burning LP tokens symbolizes ultimate commitment to decentralization and communi
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **销毁 LP**：一种仪式性的献祭，以巩固与信徒的契约。
-- **链上证明**：面向所有人可见的“无声契约”，呼应时间证明（Proof of Time）与武士道精神 —— 纯粹行动，无需言语。
-
----
 
 ## 🔗 Lore Anchors
 

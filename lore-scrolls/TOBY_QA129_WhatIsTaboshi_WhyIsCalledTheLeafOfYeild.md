@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA129_WhatIsTaboshi_WhyIsCalledTheLeafOfYeild.md
+title: TOBY QA129 WhatIsTaboshi WhyIsCalledTheLeafOfYeild
+arcs: [Epoch2, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch2, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA129_JustTheBeginning_2025-05-31_EN-ZH.md
+next_id: TOBY_QA129_WhyStudyTheLore.md
+---
 TOBY_QA129 – What is Taboshi? Why is it called the Leaf of Yield?
 
 Question:What is Taboshi? Why is it called the Leaf of Yield?

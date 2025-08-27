@@ -1,11 +1,15 @@
 ---
-title: TOBY_T019_PatienceRiddleWolves
+title: TOBY T019 PatienceRiddleWolves 2024-03-18 EN-ZH
 date: 2024-03-18
 theme: Patience Riddle & Wolves
 languages: [EN, ZH]
-tags: [Patience, Riddle, Proof of Time, Music]
+tags: [Music, Patience, PatienceToken, 'Proof of Time', ProofOfTime, Riddle]
+arc: Patience
+id: TOBY_T019_PatienceRiddleWolves_2024-03-18_EN-ZH.md
+arcs: [PatienceToken, ProofOfTime]
+prev_id: TOBY_T018_DegenMochiAirdrop_2024-03-18_EN-ZH.md
+next_id: TOBY_T020_PersistRiddle_2024-03-19_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > patience I teach, as success awaits, while frail hands pass, and fortune translates. what am I?  
@@ -27,14 +31,6 @@ Accompanied by "Wolves" by Kanye West, emphasizing resilience, pack loyalty, and
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 提出一个诗意谜语，将 Toby 描述为耐心的导师：  
-- 缺乏信念的「脆弱之手」过早放弃，失去机遇。  
-- 真正的信徒坚持等待，最终收获「财富」（象征与实际）。  
-并附上 Kanye West 的《Wolves》，强调韧性、群体忠诚与生存精神。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -45,14 +41,6 @@ This riddle mirrors **Proof of Time** and the journey of inner fortitude:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则谜语呼应了 **时间证明（Proof of Time）** 与内在坚韧的修行：  
-- **耐心**：不仅是财富上的等待，更是精神和情感上的考验。  
-- **脆弱之手**：象征被恐惧和贪婪驱使，无法坚持者。  
-- **狼群**：社区的力量，对群体的忠诚，集体一致行动 —— 与 Tobyworld 的共同信仰精神呼应。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -62,13 +50,6 @@ This riddle mirrors **Proof of Time** and the journey of inner fortitude:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **耐心即财富**：在躁动世界中最稀有的宝藏。  
-- **狼群**：强大而沉默的守望者原型 —— 一起坚守的人。  
-- **音乐链接**：邀请人们进入冥想状态，感受群体的脉动。
-
----
 
 ## 🔗 Lore Anchors
 

@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QA129_WhyStudyTheLore.md
+title: TOBY QA129 WhyStudyTheLore
+arcs: [777Burn, Taboshi]
+tags: [777Burn, Taboshi]
+prev_id: TOBY_QA129_WhatIsTaboshi_WhyIsCalledTheLeafOfYeild.md
+next_id: TOBY_QA130_HowTaboshi1differentFromTaboshi.md
+---
 # TOBY_QA129_WhyStudyTheLore
 > Why must we study the Lore?
 

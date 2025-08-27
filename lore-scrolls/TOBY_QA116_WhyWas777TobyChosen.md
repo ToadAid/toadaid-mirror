@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA116_WhyWas777TobyChosen.md
+title: TOBY QA116 WhyWas777TobyChosen
+arcs: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA115_WhatSeparatesSatobyHolder.md
+next_id: TOBY_QA117_WhyAreExactly777Taboshi1s.md
+---
 ID: TOBY_QA116_WhyWas777TobyChosen.md
 Question: Why was 777 $TOBY chosen as the mint price for Taboshi1 — not more, not less?
 

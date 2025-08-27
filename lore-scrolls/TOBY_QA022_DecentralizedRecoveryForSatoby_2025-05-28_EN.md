@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA022_DecentralizedRecoveryForSatoby_2025-05-28_EN.md
+title: TOBY QA022 DecentralizedRecoveryForSatoby 2025-05-28 EN
+arcs: [777Burn, BaseChain, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA021_LostWalletSatobyEligibility_2025-05-28_EN.md
+next_id: TOBY_QA023-Satoby-Recovery-Trp001.md
+---
 TOBY_QA022_DecentralizedRecoveryForSatoby_2025-05-28_EN.md
 
 🔮 Question:

@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA109_WhatExactlyIsSatoby.md
+title: TOBY QA109 WhatExactlyIsSatoby
+arcs: [777Burn, Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA108_WatHappensToTheBurnedTaboshi1.md
+next_id: TOBY_QA110_WhatRoleDoesSatoby.md
+---
 ID: TOBY_QA109_WhatExactlyIsSatoby.md
 Question: What exactly is Satoby, and why can it never be bought — only redeemed?
 

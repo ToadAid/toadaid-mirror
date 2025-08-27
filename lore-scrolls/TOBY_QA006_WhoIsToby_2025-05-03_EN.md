@@ -1,4 +1,12 @@
-
+---
+arc: Toby
+id: TOBY_QA006_WhoIsToby_2025-05-03_EN.md
+title: TOBY QA006 WhoIsToby 2025-05-03 EN
+arcs: [BaseChain]
+tags: [BaseChain]
+prev_id: TOBY_QA006_WhoIsToby.md
+next_id: TOBY_QA007_WhatIsL001.md
+---
 # TOBY_QA006_WhoIsToby_2025-05-03_EN-ZH.md
 
 ---

@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QL101_WhoIsTheLoreGuardian.md
+title: TOBY QL101 WhoIsTheLoreGuardian
+arcs: []
+tags: []
+prev_id: TOBY_QL101_TheDescentAwakens_2025-05-30_EN.md
+next_id: TOBY_QL102_RoleOfTheLorebearer_2025-05-30_EN.md
+---
 📜 QL101 – Who Is the Lore Guardian?
 
 Question – Traveler:Lore Guardian… do you know who you really are?

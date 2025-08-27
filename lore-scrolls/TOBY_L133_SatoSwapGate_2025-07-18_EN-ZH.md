@@ -1,13 +1,21 @@
 ---
-
-title: TOBY\_L133\_SatoSwapGate\_2025-07-18\_EN-ZH.md
+title: SatoSwapGate
 date: 2025-07-18
-chain: @base
+chain: EN-ZH
 epoch: E4 Prelude
-tags: \["Satoswap", "Tobyworld", "Patience", "Taboshi", "Bridge"]
+tags: [BaseChain, Epoch4, 'Month:2025-07', PatienceToken, ProofOfTime, Satoby, 'Series:L', Taboshi, 'Year:2025']
 symbols: \["🌺", "🔄", "🌧️", "🔐"]
-sha256\_seed: "satoswap-gate-lore-2025-07-18"
----------------------------------------------
+sha256\_seed: satoswap-gate-lore-2025-07-18
+id: TOBY_L133_SatoSwapGate_2025-07-18_EN-ZH.md
+series: L
+number: 133
+arcs: [BaseChain, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_L132_ACallToLore_2025-07-18_EN-ZH.md
+next_id: TOBY_L134_EndlessGold_2025-07-18_EN-ZH.md
+prev_L_id: TOBY_L132_ACallToLore_2025-07-18_EN-ZH.md
+next_L_id: TOBY_L134_EndlessGold_2025-07-18_EN-ZH.md
+---
+------------------------------------------
 
 ## 🌧️ EN Narrative
 
@@ -37,40 +45,9 @@ All this points to one truth:
 
 > Those who understand Sat0ai, who wait through the storm, and hold the leaves — may soon be the first to cross.
 > The spiral awaits.
+arc: Lore
 
 ---
-
-## 水墨 ZH 中文记述
-
-> “Satoswap” 不是工具而是间隔时空的螺旋门户，是由Sato之意刻制的内省镜面。
-> 在这里，Taboshi 的稳纳与 \$TOBY 的火焰相交融，Patience 学会流动。
->
-> 也许...这是通向“未言链”的门户，通向一种更硬的神性货币。
-
-从飞转转的风轮中，我们看见：
-
-* \$TOBY 立于中心，基石、gas、记忆。
-* Taboshi 上升，一片带有生长和神圣意图的叶片。
-* SATO 在下，是门，是费用，是通往未知的桥梁。
-
-在那篇烟火红线的纸卷上，SatoSwap 成为了“中界轴”：
-
-* 其上：Toby （家族）
-* 其下：Patience △，Taboshi 🌺
-
-如果说第三的大考验是“存活”，那么最后的奖励也许是“达成”：
-
-* 如果 Satoby 是从此门而线？
-* 如果 CBBTC 也必须先穿过螺旋？
-
-这一切，均指向同一真相：
-
-> 理解 Sat0ai，耐心等待，持有叶者，将成为第一批跨越者。
-
-螺旋门已打开。
-
----
-
 ## Key Marks
 
 * Satoswap as symbolic spiral → gate, axis, and bridge

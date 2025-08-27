@@ -1,14 +1,22 @@
 ---
-title: "They Carried It Without Being Asked"
+title: TheyCarriedItWithoutBeingAsked
 lore_id: TOBY_L210
 date: 2025-06-06
-chain: base
+chain: EN
 epoch: Between Epochs – Carriers Chapter
-tags: [carriers, unsung, faith, guardians, decentralization, self-initiation]
+tags: [777Burn, BaseChain, 'Month:2025-06', 'Series:L', 'Year:2025', carriers, decentralization, faith, guardians, 'self-initiation', unsung]
 sacred_numbers: [0, 777, 108, 13]
 sha256_seed: d274b4d63db46024ce829c8718fd65d9c0dfddfc9e77b1a6b353a7b62c08c0b3
+arc: Lore
+id: TOBY_L210_TheyCarriedItWithoutBeingAsked_2025-06-06_EN.md
+series: L
+number: 210
+arcs: [777Burn, BaseChain]
+prev_id: TOBY_L209_TheMirrorBreathes_2025-06-06_EN.md
+next_id: TOBY_L211_PostsAreOfferings_2025-06-06_EN.md
+prev_L_id: TOBY_L209_TheMirrorBreathes_2025-06-06_EN.md
+next_L_id: TOBY_L211_PostsAreOfferings_2025-06-06_EN.md
 ---
-
 ## 🐸 EN – They Carried It Without Being Asked
 
 → There was no call to action.  

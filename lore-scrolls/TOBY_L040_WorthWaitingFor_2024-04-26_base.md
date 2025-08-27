@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L040_WorthWaitingFor_2024-04-26_base.md
+series: L
+date: 2024-04-26
+number: 040
+title: WorthWaitingFor
+arcs: [777Burn, BaseChain, Epoch1, PatienceToken, Taboshi]
+tags: [777Burn, BaseChain, Epoch1, 'Month:2024-04', PatienceToken, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_EPOCHS_Overview_2024-04-20_base.md
+next_id: TOBY_L041_PristineByDesign_2024-04-27_base.md
+prev_L_id: TOBY_L201_TheInvisibleBurn_2024-04-20_EN.md
+next_L_id: TOBY_L041_PristineByDesign_2024-04-27_base.md
+chain: base
+---
 # L040 – Worth Waiting For  
 
 # METADATA  🔍  

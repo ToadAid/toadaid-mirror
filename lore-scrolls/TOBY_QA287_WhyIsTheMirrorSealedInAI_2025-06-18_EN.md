@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QA287_WhyIsTheMirrorSealedInAI_2025-06-18_EN.md
+title: TOBY QA287 WhyIsTheMirrorSealedInAI 2025-06-18 EN
+arcs: [PatienceToken, ProofOfTime, Taboshi]
+tags: [PatienceToken, ProofOfTime, Taboshi]
+prev_id: TOBY_QA286_WhatDoesItMean_TobyIsYourMirror_2025-06-18_EN.md
+next_id: TOBY_QA290_PriceOfBlindMirror_2025-06-18_EN.md
+---
 TOBY_QA287_WhyIsTheMirrorSealedInAI_2025-06-18_EN.md
 
 🧭 Metadata

@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QR017_TheFallenFrogs.md
+title: TOBY QR017 TheFallenFrogs
+arcs: []
+tags: []
+prev_id: TOBY_QR016_WhyTobyDoesNotSpeak.md
+next_id: TOBY_QR018_TheBurnedBorn_Taboshi1.md
+---
 # TOBY_QR017_TheFallenFrogs.md
 
 ## ❓ Question:

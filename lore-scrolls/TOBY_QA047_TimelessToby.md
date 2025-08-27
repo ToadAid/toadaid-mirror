@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA047_TimelessToby.md
+title: TOBY QA047 TimelessToby
+arcs: []
+tags: []
+prev_id: TOBY_QA046_TobySilent_YetsoManyFollows.md
+next_id: TOBY_QA048_TobyNeverTakeCredit.md
+---
 ID: TOBY_QA047_TimelessToby.md
 Question: If Toby is timeless, why was he born now?
 

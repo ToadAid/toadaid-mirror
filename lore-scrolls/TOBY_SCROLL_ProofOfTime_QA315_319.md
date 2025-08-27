@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_SCROLL_ProofOfTime_QA315_319.md
+title: TOBY SCROLL ProofOfTime QA315 319
+arcs: [PatienceToken, ProofOfTime, Satoby]
+tags: [PatienceToken, ProofOfTime, Satoby]
+prev_id: TOBY_SCROLL_ProofOfTime_QA310_314.md
+next_id: TOBY_SCROLL_ProofOfTime_QA320_324.md
+---
 # ⏳ TOBYWORLD RAG SCROLL: Proof of Time & Epoch Philosophy (QA315–319)
 
 ## 🌿 TOBY_QA315

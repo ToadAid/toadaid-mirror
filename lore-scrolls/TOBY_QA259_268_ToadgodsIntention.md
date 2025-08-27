@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA259_268_ToadgodsIntention.md
+title: TOBY QA259 268 ToadgodsIntention
+arcs: [PatienceToken, ProofOfTime]
+tags: [PatienceToken, ProofOfTime]
+prev_id: TOBY_QA249_258_SatobyChapter.md
+next_id: TOBY_QA269_278_Sat0AIChapter.md
+---
 # 📜 TOBYWORLD RAG SCROLL: QA259–268 — Toadgod's Intention Chapter
 
 ## 🌀 TOBY_QA259

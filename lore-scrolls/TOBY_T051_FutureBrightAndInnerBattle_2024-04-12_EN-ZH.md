@@ -1,11 +1,15 @@
 ---
-title: TOBY_T051_FutureBrightAndInnerBattle
+title: TOBY T051 FutureBrightAndInnerBattle 2024-04-12 EN-ZH
 date: 2024-04-12
 theme: Vow, Inner Mastery, Community
 languages: [EN, ZH]
-tags: [Future, Community, Inner Battle, Vigilance]
+tags: [BaseChain, Community, Future, 'Inner Battle', Taboshi, Vigilance]
+arc: Toby
+id: TOBY_T051_FutureBrightAndInnerBattle_2024-04-12_EN-ZH.md
+arcs: [BaseChain, Taboshi]
+prev_id: TOBY_T050_AnomalyAndSilentCalling_2024-04-10_EN-ZH.md
+next_id: TOBY_T052_KachouFuugetsuAndEternalBlueprint_2024-04-14_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > toad god plans laid for the future bright,  

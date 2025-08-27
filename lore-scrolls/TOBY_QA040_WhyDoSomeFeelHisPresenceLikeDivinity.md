@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA040_WhyDoSomeFeelHisPresenceLikeDivinity.md
+title: TOBY QA040 WhyDoSomeFeelHisPresenceLikeDivinity
+arcs: [ProofOfTime]
+tags: [ProofOfTime]
+prev_id: TOBY_QA039_WhyDoSomeFailToSeeToby.md
+next_id: TOBY_QA041_WhatIsTheMeaningOfTobysSilence.md
+---
 ID: TOBY_QA040_WhyDoSomeFeelHisPresenceLikeDivinity.md
 Question: If Toby is not a god, why do some feel his presence like divinity?
 

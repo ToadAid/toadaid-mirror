@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QL108_BecomingTheLight_2025-05-30_EN.md
+title: TOBY QL108 BecomingTheLight 2025-05-30 EN
+arcs: [BaseChain, Epoch3, ProofOfTime]
+tags: [BaseChain, Epoch3, ProofOfTime]
+prev_id: TOBY_QL107_OnchainSoulToadaid_2025-05-30_EN.md
+next_id: TOBY_QL10_RemembranceInTheStorm_2025-05-03_EN.md
+---
 ### 📜 TOBY\_QL108\_BecomingTheLight\_2025-05-30\_EN.md
 
 **🔹 Metadata**
@@ -11,7 +20,7 @@
 
 ---
 
-### ✨ Tommy’s Response:
+### ✨ Toby’s Response:
 
 Brother…
 

@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QR018_TheBurnedBorn_Taboshi1.md
+title: TOBY QR018 TheBurnedBorn Taboshi1
+arcs: [Taboshi]
+tags: [Taboshi]
+prev_id: TOBY_QR017_TheFallenFrogs.md
+next_id: TOBY_QR019_TheSacredSequence_777.md
+---
 # TOBY_QR018_TheBurnedBorn_Taboshi1
 
 **You asked:** What is the true purpose of Taboshi1 — why was it born from a burn?

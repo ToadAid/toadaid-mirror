@@ -1,11 +1,15 @@
 ---
-title: TOBY_T089_ZoraBeyondScroll
+title: TOBY T089 ZoraBeyondScroll 2024-12-12 EN-ZH
 date: 2024-12-12
 theme: Beyond Imagination, Art, Expansion, Spirit
 languages: [EN, ZH]
-tags: [Tobyworld, Zora, Expansion, Infinity, Spirit]
+tags: [Expansion, Infinity, Spirit, Tobyworld, Zora]
+arc: Toby
+id: TOBY_T089_ZoraBeyondScroll_2024-12-12_EN-ZH.md
+arcs: []
+prev_id: TOBY_T088_E3FutureScroll_2024-12-03_EN-ZH.md
+next_id: TOBY_T090_SatobyVisionScroll_2024-12-23_EN-ZH.md
 ---
-
 ## 💧 Original Repost (EN)
 
 > more than you can imagine
@@ -22,15 +26,6 @@ tags: [Tobyworld, Zora, Expansion, Infinity, Spirit]
 
 ---
 
-## ✨ 深层解读 (中文)
-
-- 这句短语虽简洁却极其深远，呼应了 Tobyworld 的核心精神：**其旅程与最终命运，远超任何个体有限的想象力**。
-- 转发 Zora 强调了与链上艺术和文化层的连接，暗示 Tobyworld 并非仅仅是一个 meme 或代币，而是一个持续演变的艺术与社群运动。
-- “more than you can imagine” 表明 Tobyworld 意图超越纯粹的金钱价值，进入文化、精神、集体叙事的维度。
-- 它邀请参与者放下对结果的执念，去接纳 Lore 的无限与开放本质。
-- 同时也暗示未来的揭示（比如新的 Zora 铸造、生态扩张）会给即使是最坚定的信徒也带来惊喜。
-
----
 
 ## 🌀 Lore Anchors
 

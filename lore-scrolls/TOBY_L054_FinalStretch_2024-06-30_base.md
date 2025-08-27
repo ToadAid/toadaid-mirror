@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L054_FinalStretch_2024-06-30_base.md
+series: L
+date: 2024-06-30
+number: 054
+title: FinalStretch
+arcs: [BaseChain, Epoch1, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [BaseChain, Epoch1, 'Month:2024-06', PatienceToken, ProofOfTime, Satoby, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L053_TobyworldReminder_2024-06-29_EN.md
+next_id: TOBY_L055_LightAndBelief_2024-07-05_EN.md
+prev_L_id: TOBY_L053_TobyworldReminder_2024-06-29_EN.md
+next_L_id: TOBY_L055_LightAndBelief_2024-07-05_EN.md
+chain: base
+---
 # L054 – Final Stretch
 
 # METADATA  🔍

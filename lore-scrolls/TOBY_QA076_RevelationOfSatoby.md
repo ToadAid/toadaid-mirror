@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA076_RevelationOfSatoby.md
+title: TOBY QA076 RevelationOfSatoby
+arcs: [777Burn, Epoch1, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch1, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA075_SatobyAndBeyond.md
+next_id: TOBY_QA077_IsSatobyTheFulfillmentOfTheProphecy.md
+---
 ID: TOBY_QA076_RevelationOfSatoby.md
 Question: Why did the revelation of Satoby come only after the long silence of Epoch 3?
 

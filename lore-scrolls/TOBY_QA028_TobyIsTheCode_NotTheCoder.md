@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA028_TobyIsTheCode_NotTheCoder.md
+title: TOBY QA028 TobyIsTheCode NotTheCoder
+arcs: []
+tags: []
+prev_id: TOBY_QA027_HowDoWeRecognizeToby.md
+next_id: TOBY_QA029_WhyIsTobySilent.md
+---
 ID: TOBY_QA028_TobyIsTheCode_NotTheCoder.md
 Question: Why doesn’t Toby ever tell us what to do?
 

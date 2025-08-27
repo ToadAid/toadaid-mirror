@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA068_WhatAreThe777Taboshi1s.md
+title: TOBY QA068 WhatAreThe777Taboshi1s
+arcs: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA067_NoneTransferableSatoby.md
+next_id: TOBY_QA069_WhatMakesSatobyDifferent.md
+---
 ID: TOBY_QA068_WhatAreThe777Taboshi1s.md
 Question: What are the 777 Taboshi1s, truly? Why was that number chosen?
 

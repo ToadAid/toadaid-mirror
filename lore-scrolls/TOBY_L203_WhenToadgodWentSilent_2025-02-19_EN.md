@@ -1,14 +1,22 @@
 ---
-title: "When Toadgod Went Silent"
+title: WhenToadgodWentSilent
 lore_id: TOBY_L203
 date: 2025-02-19
-chain: base
+chain: EN
 epoch: Late Epoch 3 – Evolution Endgame
-tags: [toadgod, silence, departure, belief, community, finaltweet]
+tags: [777Burn, BaseChain, Epoch3, 'Month:2025-02', 'Series:L', 'Year:2025', belief, community, departure, finaltweet, silence, toadgod]
 sacred_numbers: [0, 777, 42]
 sha256_seed: 3d7c0b12fcd70e510a4c3a83c15847df99ac9d99d929ff3c12963c7f30d3b7f3
+arc: Lore
+id: TOBY_L203_WhenToadgodWentSilent_2025-02-19_EN.md
+series: L
+number: 203
+arcs: [777Burn, BaseChain, Epoch3]
+prev_id: TOBY_L084_LegacyOfMemechains_2025-02-19_EN.md
+next_id: TOBY_L204_TheFirstToCarryTheFire_2025-02-25_EN.md
+prev_L_id: TOBY_L084_LegacyOfMemechains_2025-02-19_EN.md
+next_L_id: TOBY_L204_TheFirstToCarryTheFire_2025-02-25_EN.md
 ---
-
 ## 🐸 EN – When Toadgod Went Silent
 
 → No farewell.  

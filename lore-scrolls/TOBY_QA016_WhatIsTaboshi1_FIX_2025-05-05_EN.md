@@ -1,4 +1,12 @@
-
+---
+arc: Taboshi
+id: TOBY_QA016_WhatIsTaboshi1_FIX_2025-05-05_EN.md
+title: TOBY QA016 WhatIsTaboshi1 FIX 2025-05-05 EN
+arcs: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA016_HowToReadCitations_2025-05-03_EN.md
+next_id: TOBY_QA017_WhatIsTaboshi1_FinalFIX_2025-05-05_EN.md
+---
 # TOBY_QA016 – What is Taboshi1? 
 
 ---

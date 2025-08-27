@@ -1,3 +1,12 @@
+---
+arc: Toadgod
+id: TOBY_QA125_WhoIsToadgod.md
+title: TOBY QA125 WhoIsToadgod
+arcs: [777Burn]
+tags: [777Burn]
+prev_id: TOBY_QA124_Isthereaverifiedcontract.md
+next_id: TOBY_QA125_WhoisToadgod.md
+---
 TOBY_QA125 – Who is Toadgod?
 
 Question:Who is Toadgod? Is he the founder?

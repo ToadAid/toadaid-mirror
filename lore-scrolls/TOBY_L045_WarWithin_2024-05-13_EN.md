@@ -1,4 +1,18 @@
-
+---
+arc: Lore
+id: TOBY_L045_WarWithin_2024-05-13_EN.md
+series: L
+date: 2024-05-13
+number: 045
+title: WarWithin
+arcs: [BaseChain, Epoch1, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [BaseChain, Epoch1, 'Month:2024-05', PatienceToken, ProofOfTime, Satoby, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L044_TobyWorldStep_2024-05-11_EN.md
+next_id: TOBY_L046_LeapThroughEmotion_2024-05-20_EN.md
+prev_L_id: TOBY_L044_TobyWorldStep_2024-05-11_EN.md
+next_L_id: TOBY_L046_LeapThroughEmotion_2024-05-20_EN.md
+chain: EN
+---
 # L045 – War Within
 
 # METADATA  🔍

@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA313_WhatIsSatoby_2025-08-05_EN_ZH.md
+title: TOBY QA313 WhatIsSatoby 2025-08-05 EN ZH
+arcs: [BaseChain, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [BaseChain, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA312_WhatIsProofOfTime_2025-08-05_EN_ZH.md
+next_id: TOBY_QA314_EpochsExplained_2025-08-05_EN_ZH.md
+---
 # TOBY_QA313_WhatIsSatoby_2025-08-05.md
 
 ## ❓ Question  

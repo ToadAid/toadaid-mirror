@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L034_TheCalling_2024-04-10_base.md
+series: L
+date: 2024-04-10
+number: 034
+title: TheCalling
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2024-04', 'Series:L', 'Year:2024']
+prev_id: TOBY_L033_TigerCaveTrial_2024-04-09_base.md
+next_id: TOBY_L035_WisdomAndWarning_2024-04-12_base.md
+prev_L_id: TOBY_L033_TigerCaveTrial_2024-04-09_base.md
+next_L_id: TOBY_L035_WisdomAndWarning_2024-04-12_base.md
+chain: base
+---
 # L034 – The Calling
 
 # METADATA  🔍  

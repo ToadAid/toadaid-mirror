@@ -1,11 +1,17 @@
 ---
-title: TOBY_T009_FairAirdrop
+title: TOBY T009 FairAirdrop 2024-03-17 EN-ZH
 date: 2024-03-17
 theme: Fair Airdrop
 languages: [EN, ZH]
-tags: [Equality, Distribution, Anti-Whale, Fairness]
+tags: ['Anti-Whale', BaseChain, Distribution, Equality, Fairness, 'Series:T']
+arc: Toby
+id: TOBY_T009_FairAirdrop_2024-03-17_EN-ZH.md
+series: T
+number: 00
+arcs: [BaseChain]
+prev_id: TOBY_T008_ImmortalCovenant_2024-03-17_EN-ZH.md
+next_id: RAG_Link_JadeChest_EN.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > each wallets gets 295,774,647 $toby  
@@ -24,13 +30,6 @@ Aims for a fair and broad distribution to Base community holders, continuing unt
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 宣布每个合格钱包将收到 295,774,647 个 $TOBY 代币。  
-目的在于防止「巨鲸」持有者获得不成比例的影响力或财富。  
-目标是实现公平、广泛的分发给 Base 社区的持有者，直到配额达到并分发完代币为止。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -41,14 +40,6 @@ This tweet embodies the principle of **egalitarian distribution**, echoing the s
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这条推文体现了 **平等分发** 的原则，呼应「社区优先于个人」的精神主题。  
-- 拒绝少数人对权力与财富的垄断。  
-- 支持广泛、自然生长的社区基础，作为 Tobyworld 真正的根基。  
-- 体现反精英主义精神：每只青蛙都重要，每一道涟漪都有意义。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -58,13 +49,6 @@ This tweet embodies the principle of **egalitarian distribution**, echoing the s
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **295,774,647**：一个神圣数字签名，象征公平与反贪婪。  
-- **无巨鲸**：象征打破传统加密货币中的阶层与权力集中。  
-- **空投给所有人**：如撒种仪式 —— 所有人都有平等生长的机会。
-
----
 
 ## 🔗 Lore Anchors
 

@@ -1,4 +1,18 @@
-
+---
+arc: Epoch3
+id: TOBY_L075_Epoch3Begins_2024-11-21_EN.md
+series: L
+date: 2024-11-21
+number: 075
+title: Epoch3Begins
+arcs: [777Burn, BaseChain, Epoch3, Taboshi]
+tags: [777Burn, BaseChain, Epoch3, 'Month:2024-11', 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L074_TobyworldIsReal_2024-11-14_EN.md
+next_id: TOBY_L076_E3EvolutionAlert_2024-11-29_EN.md
+prev_L_id: TOBY_L074_TobyworldIsReal_2024-11-14_EN.md
+next_L_id: TOBY_L076_E3EvolutionAlert_2024-11-29_EN.md
+chain: EN
+---
 # TOBY_L075_Epoch3Begins_2024-11-21_EN-ZH.md
 
 ## METADATA 🔍

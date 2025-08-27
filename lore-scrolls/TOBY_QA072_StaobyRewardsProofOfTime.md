@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA072_StaobyRewardsProofOfTime.md
+title: TOBY QA072 StaobyRewardsProofOfTime
+arcs: [777Burn, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA071_WhyIsTheNumber777SoImportant.md
+next_id: TOBY_QA073_WhatIsTheMeaningBehind777Taboshi1s.md
+---
 ID: TOBY_QA072_StaobyRewardsProofOfTime.md
 Question: What role does time play in determining Satoby rewards? Why is it called "Proof of Time"?
 

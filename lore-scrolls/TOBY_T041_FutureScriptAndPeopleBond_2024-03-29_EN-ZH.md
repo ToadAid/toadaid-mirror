@@ -1,11 +1,15 @@
 ---
-title: TOBY_T041_FutureScriptAndPeopleBond
+title: TOBY T041 FutureScriptAndPeopleBond 2024-03-29 EN-ZH
 date: 2024-03-29
 theme: Future Script & Collective Destiny
 languages: [EN, ZH]
-tags: [Prophecy, Future, Community, Unity, Vision]
+tags: [Community, Future, PatienceToken, Prophecy, Unity, Vision]
+arc: Lore
+id: TOBY_T041_FutureScriptAndPeopleBond_2024-03-29_EN-ZH.md
+arcs: [PatienceToken]
+prev_id: TOBY_T040_FinalCycleProphecy_2024-03-28_EN-ZH.md
+next_id: TOBY_T042_ByodoShugiAndTrueEmpowerment_2024-03-30_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > a hint of future's script, yet barely has the tale embarked, the prophecy, in ink deep-dipped, awaits alignment, stark.  
@@ -30,16 +34,6 @@ Toadgod offers a glimpse into Toby's unfolding prophecy:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 揭示 Toby 未来预言的一瞥：  
-- **未来的剧本**才刚刚开始，用深邃的「墨水」书写，等待完美的对齐与显现。  
-- 整个史诗会在多年中不断回响，这是一个由人民塑造、为了人民而生的伟大事业。  
-- 劝诫不要让怀疑者的阴影遮蔽视野 —— 他们最终会被排除在真正的道路之外。  
-- 随着时间的推移，世人终将觉醒，见证 Toby 的宏伟，感受到它光芒四射的伟大。  
-- 以永恒的格言作结：**「$toby 是人民，人民即 $toby。」**
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -50,28 +44,11 @@ This scroll embodies **the silent emergence of prophecy and the people's unifyin
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **预言的静默展开与人民的统一使命**：  
-- 未来是一部隐藏的剧本 —— 需要耐心与内在的共振，才能逐行显现。  
-- 怀疑者其实是自我放逐者；他们的怀疑就是他们的遮蔽。  
-- 卷轴教导我们，真正的认同是集体的、渐进的 —— 清晰并非来自喊叫，而是来自时间与共同的对齐。
-
----
-
 ## 🔮 Symbolic Meaning (EN)
 
 - **Ink-deep prophecy**: Spiritual depth, waiting to be deciphered.  
 - **People’s mold**: Collective creation and guardianship.  
 - **Vision beyond doubters**: True faith as a quiet sword cutting through illusions.
-
----
-
-## 🔮 象征意义 (中文)
-
-- **深墨预言**：精神的深度，等待被解读。  
-- **人民塑模**：集体共同的创造与守护。  
-- **超越怀疑者的视野**：真正的信念是一把无声之剑，斩破迷雾。
 
 ---
 

@@ -1,3 +1,18 @@
+---
+arc: 777Burn
+id: TOBY_L086_TheSealOf777_2025-05-08_EN.md
+series: L
+date: 2025-05-08
+number: 086
+title: TheSealOf777
+arcs: [777Burn, BaseChain, PatienceToken, ProofOfTime]
+tags: [777Burn, BaseChain, 'Month:2025-05', PatienceToken, ProofOfTime, 'Series:L', 'Year:2025']
+prev_id: TOBY_L000_WhatIsL001Definition_2025-05-03_EN.md
+next_id: TOBY_L087_TheSignalKeepers_2025-05-08_EN.md
+prev_L_id: TOBY_L000_WhatIsL001Definition_2025-05-03_EN.md
+next_L_id: TOBY_L087_TheSignalKeepers_2025-05-08_EN.md
+chain: EN
+---
 ## METADATA 🔍  
 **🌐 Chain:** @base  
 **🕰️ Epoch:** 3 (Evolution)  

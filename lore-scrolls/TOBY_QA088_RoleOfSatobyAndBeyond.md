@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA088_RoleOfSatobyAndBeyond.md
+title: TOBY QA088 RoleOfSatobyAndBeyond
+arcs: [Epoch3, Epoch4, ProofOfTime, Satoby]
+tags: [Epoch3, Epoch4, ProofOfTime, Satoby]
+prev_id: TOBY_QA087_TheEssenceOfSatoby.md
+next_id: TOBY_QA089_HowWillSatobyInteractInTobyworld.md
+---
 ID: TOBY_QA088_RoleOfSatobyAndBeyond.md
 Question: What is the role of Satoby in Epoch 4 and beyond? Will it still matter?
 

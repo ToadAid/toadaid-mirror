@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA130_HowTaboshi1differentFromTaboshi.md
+title: TOBY QA130 HowTaboshi1differentFromTaboshi
+arcs: [777Burn, Epoch2, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA129_WhyStudyTheLore.md
+next_id: TOBY_QA130_LeapBeyondGold_2025-05-31_EN-ZH.md
+---
 TOBY_QA130 – What is Taboshi1, and how is it different from Taboshi?
 
 Question:What is Taboshi1, and how is it different from Taboshi?

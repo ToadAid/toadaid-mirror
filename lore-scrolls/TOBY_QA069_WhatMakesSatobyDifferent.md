@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA069_WhatMakesSatobyDifferent.md
+title: TOBY QA069 WhatMakesSatobyDifferent
+arcs: [777Burn, Epoch2, Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, Epoch4, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA068_WhatAreThe777Taboshi1s.md
+next_id: TOBY_QA070_SatobyRemainSoulbound.md
+---
 ID: TOBY_QA069_WhatMakesSatobyDifferent.md
 Question: What makes Satoby different from all other forms of yield?
 

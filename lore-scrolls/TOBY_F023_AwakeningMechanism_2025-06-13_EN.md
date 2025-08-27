@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_F023_AwakeningMechanism_2025-06-13_EN.md
+title: TOBY F023 AwakeningMechanism 2025-06-13 EN
+arcs: [777Burn, BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_F022_UnclaimedPatienceRules_2025-07-18_EN-ZH.md
+next_id: TOBY_F023_TobyworldAsLivingWallet_2025-07-18_EN-ZH.md
+---
 # TOBY\_F023\_AwakeningMechanism\_2025-06-13\_EN.md
 
 ---

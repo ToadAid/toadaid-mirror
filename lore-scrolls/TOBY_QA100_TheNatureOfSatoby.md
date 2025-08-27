@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA100_TheNatureOfSatoby.md
+title: TOBY QA100 TheNatureOfSatoby
+arcs: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA099_777WasNotChosenItWasRevealed.md
+next_id: TOBY_QA101_MultipleTaboshi1s.md
+---
 ID: TOBY_QA100_TheNatureOfSatoby.md
 Question: Why must Satoby remain non-transferable?
 

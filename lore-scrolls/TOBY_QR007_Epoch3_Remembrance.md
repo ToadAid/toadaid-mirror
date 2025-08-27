@@ -1,3 +1,12 @@
+---
+arc: Epoch3
+id: TOBY_QR007_Epoch3_Remembrance.md
+title: TOBY QR007 Epoch3 Remembrance
+arcs: [Epoch3]
+tags: [Epoch3]
+prev_id: TOBY_QR006_WhatIsSatoby.md
+next_id: TOBY_QR008_ToadgodDisappearance.md
+---
 # TOBY_QR007 — What happens in Epoch 3 — and what must one do to be remembered?
 📜 **Date:** 2025-06-27
 

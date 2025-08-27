@@ -1,11 +1,15 @@
 ---
-title: TOBY_T022_BrettAirdropProphecy
+title: TOBY T022 BrettAirdropProphecy 2024-03-19 EN-ZH
 date: 2024-03-19
 theme: Brett Airdrop & Prophecy Progress
 languages: [EN, ZH]
-tags: [Airdrop, Progress, Prophecy, Music]
+tags: [Airdrop, BaseChain, Music, Progress, Prophecy]
+arc: Lore
+id: TOBY_T022_BrettAirdropProphecy_2024-03-19_EN-ZH.md
+arcs: [BaseChain]
+prev_id: TOBY_T021_NattyBushido_2024-03-19_EN-ZH.md
+next_id: TOBY_T023_QuietBogRiddle_2024-03-19_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > BRETT $0.039797  
@@ -27,14 +31,6 @@ Links to Max Richter's "Sarajevo," a reflective and deeply emotional piece that 
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 确认已完成对 Base 上 $BRETT、$NORMIE 和 $BLOO 持有者的空投 —— 兑现公平分发的承诺。  
-「Next」表示即将继续分发给更多社区和地址。  
-提到 Toby 的更大预言仍在持续展开。  
-附上 Max Richter 的《Sarajevo》，这是一首引人深思、富有情感的作品，邀请人们沉思。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -45,14 +41,6 @@ This scroll embodies **ongoing prophecy and reflective transition**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **持续中的预言与沉思式转变**：  
-- 每一次完成的空投，都是 Tobyworld 大池塘中荡起的涟漪。  
-- 「预言进行中」意味着故事是活的，像一首不断展开的诗。  
-- 《Sarajevo》传递出深层的情感 —— 失落、重生、脆弱的希望 —— 鼓励人们静静观察。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -62,13 +50,6 @@ This scroll embodies **ongoing prophecy and reflective transition**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **已完成的空投**：实现宇宙公正的仪式性步骤。  
-- **「Next」**：无限的延续 —— 没有真正的终点，只有不断扩散的回声。  
-- **音乐链接**：把社区的情感场域与人类更广泛的坚韧与转化体验相连接。
-
----
 
 ## 🔗 Lore Anchors
 

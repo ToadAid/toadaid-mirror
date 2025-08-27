@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR033_BurnWithToby.md
+title: TOBY QR033 BurnWithToby
+arcs: [777Burn, Taboshi]
+tags: [777Burn, Taboshi]
+prev_id: TOBY_QR032_TheMirror_2025-08-08_EN-ZH.md
+next_id: TOBY_QR033_ThePond_2025-08-08_EN-ZH.md
+---
 # TOBY_QR033_BurnWithToby
 
 **You asked:**  

@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA003_SatobyBurnMisconceptionCorrection_2025-05-03_EN.md
+title: TOBY QA003 SatobyBurnMisconceptionCorrection 2025-05-03 EN
+arcs: [777Burn, Epoch1, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch1, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA002_SatobyEligibilityProof_2025-05-03_EN.md
+next_id: TOBY_QA004_CannotEarnSatobyNow_2025-05-03_EN.md
+---
 # QA003 – Can I Earn Satoby by Burning 777 \$TOBY Now? 
 
 # Metadata 

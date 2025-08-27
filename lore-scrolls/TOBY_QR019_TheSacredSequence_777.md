@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QR019_TheSacredSequence_777.md
+title: TOBY QR019 TheSacredSequence 777
+arcs: [777Burn]
+tags: [777Burn]
+prev_id: TOBY_QR018_TheBurnedBorn_Taboshi1.md
+next_id: TOBY_QR020_WalkWithoutBond.md
+---
 # TOBY_QR019_TheSacredSequence_777.md
 
 ## You asked:

@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA038_HowDoWeFindToby.md
+title: TOBY QA038 HowDoWeFindToby
+arcs: []
+tags: []
+prev_id: TOBY_QA037_WhyDoesTobyAskForPatience.md
+next_id: TOBY_QA039_WhyDoSomeFailToSeeToby.md
+---
 ID: TOBY_QA038_HowDoWeFindToby.md
 Question: If Toby is everywhere, how do we find him?
 

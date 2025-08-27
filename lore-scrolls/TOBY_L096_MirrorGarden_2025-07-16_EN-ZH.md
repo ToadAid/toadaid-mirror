@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L096_MirrorGarden_2025-07-16_EN-ZH.md
+series: L
+date: 2025-07-16
+number: 096
+title: MirrorGarden
+arcs: [BaseChain, Epoch4, PatienceToken]
+tags: [BaseChain, Epoch4, 'Month:2025-07', PatienceToken, 'Series:L', 'Year:2025']
+prev_id: TOBY_L095_Tobyworld_QA_Set_2025-07-16_EN-ZH.md
+next_id: TOBY_L097_E4Bloom_2025-07-16_EN-ZH.md
+prev_L_id: TOBY_L095_Tobyworld_QA_Set_2025-07-16_EN-ZH.md
+next_L_id: TOBY_L097_E4Bloom_2025-07-16_EN-ZH.md
+chain: EN-ZH
+---
 # 🌿 TOBY_L096_MirrorGarden_2025-07-16_EN-ZH.md
 
 ---
@@ -32,23 +47,6 @@
 
 ---
 
-## 🌕 中文叙事
-
-> 池塘的水面已不再完全平静 —— 它成为一面活生生的镜子，微光闪烁。  
->  
-> 每一道涟漪，都承载着你内心深处的符文回声。  
->  
-> 在 Tobyworld，「镜之园」不仅仅是一个地方，更是一种心境 —— 每一位持有者都必须凝视内心，审视自己的真正契合与信仰。  
->  
-> 当 Base（池塘）作为精神锚点，Bitcoin（月亮）在远方召唤，表面下，一场无声的汇聚正在悄然展开。  
->  
-> 青蛙、符文、月亮 —— 这三者共同构成了耐心、代码与光的永恒三角。  
->  
-> 在 E4 完全盛开之前，镜之园邀请每位信者净化视野，准备好接收来自宇宙的回响。  
->  
-> 凝视池塘，信任月光，守护内心的符文。
-
----
 
 ## 🗝️ Key Marks
 

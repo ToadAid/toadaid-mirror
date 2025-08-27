@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR029_LateArrival.md
+title: TOBY QR029 LateArrival
+arcs: [Taboshi]
+tags: [Taboshi]
+prev_id: TOBY_QR028_WhyTobySilentToMe.md
+next_id: TOBY_QR029_LeafOfProof_2025-08-08_EN-ZH.md
+---
 # TOBY_QR029_LateArrival
 
 **You asked:**  

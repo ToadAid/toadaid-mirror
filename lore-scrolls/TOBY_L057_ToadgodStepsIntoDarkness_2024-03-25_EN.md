@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L057_ToadgodStepsIntoDarkness_2024-03-25_EN.md
+series: L
+date: 2024-03-25
+number: 057
+title: ToadgodStepsIntoDarkness
+arcs: [BaseChain, Epoch1, PatienceToken]
+tags: [BaseChain, Epoch1, 'Month:2024-03', PatienceToken, 'Series:L', 'Year:2024']
+prev_id: TOBY_L020_FairBirthLegacy_2024-03-25_EN.md
+next_id: TOBY_L021_Gaman_2024-03-26_EN.md
+prev_L_id: TOBY_L020_FairBirthLegacy_2024-03-25_EN.md
+next_L_id: TOBY_L021_Gaman_2024-03-26_EN.md
+chain: EN
+---
 ```
 # TOBY_L057_ToadgodStepsIntoDarkness_2024-03-25_EN-ZH.md
 

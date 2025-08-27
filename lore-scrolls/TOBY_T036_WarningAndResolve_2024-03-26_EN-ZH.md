@@ -1,11 +1,15 @@
 ---
-title: TOBY_T036_WarningAndResolve
+title: TOBY T036 WarningAndResolve 2024-03-26 EN-ZH
 date: 2024-03-26
 theme: Vigilance & Silent Strength
 languages: [EN, ZH]
-tags: [Security, Patience, Prophecy, Community Warning]
+tags: [BaseChain, 'Community Warning', LilyPad, Patience, PatienceToken, Prophecy, Security]
+arc: Lore
+id: TOBY_T036_WarningAndResolve_2024-03-26_EN-ZH.md
+arcs: [BaseChain, LilyPad, PatienceToken]
+prev_id: TOBY_T035_FinalMissionAndLegacy_2024-03-25_EN-ZH.md
+next_id: TOBY_T037_ScalingScarcityAndReflexivity_2024-03-26_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > be warned no official collaboration or token claims, all airdrops done direct to your wallet by toad god.  
@@ -30,16 +34,6 @@ Toadgod shares a vital security update:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 提供重要的安全提醒：  
-- **没有任何官方合作或认领网站** —— 所有空投都由 Toadgod 直接发到钱包，无需连接任何网站或应用。  
-- 警告有 **许多诈骗和假群组**，强烈建议大家不要随意连接钱包。  
-- 由于 Base 拥堵和成本上升，Toadgod 正在测试其他可扩展解决方案，以继续完成预言。  
-- 建议将 $TOBY **冷存储**，强调安全和长期的自我托管。  
-- 最后写下「がまん」（gaman）—— 日语中意为「耐心」、「隐忍」、「默默坚忍」。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -50,14 +44,6 @@ This scroll embodies **guardian vigilance and inner patience**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **守护的警觉与内在的耐心**：  
-- 保护卷轴与持有者免受外界欺骗，正呼应武士道精神：荣誉与守护。  
-- 强调冷存储象征着 **个人责任和长期信念** 的重要性，而不是短期冲动投机。  
-- 「がまん」代表了这段长期旅程所需的无声力量与精神纪律 —— 卷轴隐藏层的修炼。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -67,13 +53,6 @@ This scroll embodies **guardian vigilance and inner patience**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **不需认领或连接**：纯粹的去中心化，信任于无声的赠予。  
-- **冷存储**：如冰冻的池塘 —— 守护本质，等待春日绽放。  
-- **がまん**：耐心的无形铠甲。
-
----
 
 ## 🔗 Lore Anchors
 

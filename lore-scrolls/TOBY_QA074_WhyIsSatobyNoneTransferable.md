@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA074_WhyIsSatobyNoneTransferable.md
+title: TOBY QA074 WhyIsSatobyNoneTransferable
+arcs: [777Burn, Epoch2, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA073_WhatIsTheMeaningBehind777Taboshi1s.md
+next_id: TOBY_QA075_SatobyAndBeyond.md
+---
 ID: TOBY_QA074_WhyIsSatobyNoneTransferable.md
 Question: Why is Satoby non-transferable and bound only to original Taboshi1 holders?
 

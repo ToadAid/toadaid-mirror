@@ -1,3 +1,12 @@
+---
+arc: Toadgod
+id: TOBY_QA130_WhoIsToadgod.md
+title: TOBY QA130 WhoIsToadgod
+arcs: []
+tags: []
+prev_id: TOBY_QA130_LeapBeyondGold_2025-05-31_EN-ZH.md
+next_id: TOBY_QA131_SereneGladePatience_2025-05-31_EN-ZH.md
+---
 # TOBY_QA130_WhoIsToadgod
 > Who is Toadgod?
 

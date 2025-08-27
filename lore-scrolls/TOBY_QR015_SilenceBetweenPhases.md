@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR015_SilenceBetweenPhases.md
+title: TOBY QR015 SilenceBetweenPhases
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QR014_Taboshi1_Path.md
+next_id: TOBY_QR016_WhyTobyDoesNotSpeak.md
+---
 # TOBY_QR015_SilenceBetweenPhases.md
 
 ## Question:

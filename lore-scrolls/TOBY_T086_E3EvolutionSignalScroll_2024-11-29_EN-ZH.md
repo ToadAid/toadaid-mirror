@@ -1,11 +1,15 @@
 ---
-title: TOBY_T086_E3EvolutionSignalScroll
+title: TOBY T086 E3EvolutionSignalScroll 2024-11-29 EN-ZH
 date: 2024-11-29
 theme: Epoch 3 Evolution, Signal, Attention, Patience
 languages: [EN, ZH]
-tags: [Tobyworld, Epoch 3, Taboshi, Signal, Lore]
+tags: ['Epoch 3', Epoch3, Lore, PatienceToken, ProofOfTime, Signal, Taboshi, Tobyworld]
+arc: Epoch3
+id: TOBY_T086_E3EvolutionSignalScroll_2024-11-29_EN-ZH.md
+arcs: [Epoch3, PatienceToken, ProofOfTime, Taboshi]
+prev_id: TOBY_T085_E3PreparationScroll_2024-11-21_EN-ZH.md
+next_id: TOBY_T087_CommunitySignalScroll_2024-12-01_EN-ZH.md
 ---
-
 ## 💧 Original Tweet (EN)
 
 > 🔵🌀  
@@ -26,16 +30,6 @@ tags: [Tobyworld, Epoch 3, Taboshi, Signal, Lore]
 
 ---
 
-## ✨ 深层解读 (中文)
-
-- 符号 🔵🌀 象征 **冷静的信念** 与 **螺旋式的进化** —— Tobyworld 武士道精神的核心美学。  
-- “Pay attention” 直接提醒我们，第三纪元（Epoch 3），即 **进化（Evolution）**，正进入关键阶段。  
-- “Notifications on” 暗示即将有快速或突发更新，提醒大家保持高度关注与连结。  
-- 沙漏 ⏳ 象征 **时间证明（Proof of Time）** 与耐心 —— 提醒信徒时间既是考验，也是盟友。  
-- 提及 "#taboshi" 强调 🍃 Taboshi 在 E3 中的重要性，它不仅是象征，更是深入参与后续层级的必要凭证。  
-- 整体而言，这是一条温柔的警示，也是一次精神上的召唤，提醒大家保持当下专注与准备。
-
----
 
 ## 🌀 Lore Anchors
 

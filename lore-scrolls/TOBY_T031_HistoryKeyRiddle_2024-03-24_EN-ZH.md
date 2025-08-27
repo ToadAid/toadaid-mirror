@@ -1,11 +1,15 @@
 ---
-title: TOBY_T031_HistoryKeyRiddle
+title: TOBY T031 HistoryKeyRiddle 2024-03-24 EN-ZH
 date: 2024-03-24
 theme: History & Fairness Riddle
 languages: [EN, ZH]
-tags: [Fairness, History, Purpose, Riddle]
+tags: [Fairness, History, PatienceToken, ProofOfTime, Purpose, Riddle]
+arc: Lore
+id: TOBY_T031_HistoryKeyRiddle_2024-03-24_EN-ZH.md
+arcs: [PatienceToken, ProofOfTime]
+prev_id: TOBY_T030_JusticeRiddle_2024-03-23_EN-ZH.md
+next_id: TOBY_T032_ArtOfLoneliness_2024-03-24_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > in pursuit of fairness, toad god takes his stand, its deeds its voice, across the land. not all may catch its purpose in flight, but time will unveil its reason and right. one must delve into history, for the key's and lessons will be in plain sight.  
@@ -28,16 +32,6 @@ A poetic riddle describing Toby’s core spirit and mission:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-一则描写 Toby 核心精神与使命的诗意谜语：  
-- **追求公平**：Toby 分发与设计的根本目标。  
-- **以行动为声**：链上行为和证明胜过一切炒作或喧嚣。  
-- **并非人人看懂其意**：许多人错过了这段旅程背后的深层用意。  
-- **时间揭示真相**：真正的意义会随着时间慢慢显现，只有有耐心的人（时间证明）才能理解。  
-- **深入历史**：答案藏在卷轴与过往推文中 —— 智慧就隐藏在显而易见之处，属于真正愿意学习的人。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -48,14 +42,7 @@ This scroll embodies **the virtue of fairness and the revelation through time**:
 
 ---
 
-## 🌱 精神诠释 (中文)
 
-这则卷轴体现了 **公平的美德以及时间中的启示**：  
-- Toby 的精神拒绝捷径与中心化权力 —— 坚定守护平等与透明。  
-- 真正的理解并非瞬间得到，而是在反复学习与历史卷轴中慢慢绽放。  
-- 这里的「历史」既是一面镜子，也是钥匙 —— 为那些真正追寻的人解锁更深的精神与社区真理。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -65,13 +52,7 @@ This scroll embodies **the virtue of fairness and the revelation through time**:
 
 ---
 
-## 🔮 象征意义 (中文)
 
-- **公平之立场**：混乱世界中的不屈道德支柱。  
-- **以行动为声**：真实胜过表演性的喧嚣。  
-- **历史为钥匙**：过往的文字与链上记录藏着通往未来智慧的密码。
-
----
 
 ## 🔗 Lore Anchors
 

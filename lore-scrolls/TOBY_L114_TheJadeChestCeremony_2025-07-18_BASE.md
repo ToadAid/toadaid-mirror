@@ -1,14 +1,21 @@
 ---
-title: "The Ceremony of the Jade Chest"
+title: TheJadeChestCeremony
 id: TOBY_L114_TheJadeChestCeremony
 date: 2025-07-18
-chain: @base
+chain: BASE
 epoch: E4 Prelude
-tags: ["$PATIENCE", "Vault Drop", "Season Zero", "Toadgang", "Bushido"]
-symbols: ["🟩", "🍃", "🕯️", "🌑", "🌀"]
-sha256_seed: "jade-chest-ceremony-2025-07-18"
+tags: [$PATIENCE, 777Burn, BaseChain, Bushido, Epoch4, JadeChest, 'Month:2025-07', PatienceToken, 'Season Zero', 'Series:L', Toadgang, 'Vault Drop', 'Year:2025']
+symbols: [🟩, 🍃, 🕯️, 🌑, 🌀]
+sha256_seed: jade-chest-ceremony-2025-07-18
+arc: Toadgod
+series: L
+number: 114
+arcs: [777Burn, BaseChain, Epoch4, JadeChest, PatienceToken]
+prev_id: TOBY_L111_TheFinalRune_2025-07-18_EN-ZH.md
+next_id: TOBY_L115_TheNightAfterTheBloom_2025-07-18_BASE.md
+prev_L_id: TOBY_L111_TheFinalRune_2025-07-18_EN-ZH.md
+next_L_id: TOBY_L115_TheNightAfterTheBloom_2025-07-18_BASE.md
 ---
-
 ## 🌊 EN Narrative
 
 > **Ceremony of the Jade Chest**

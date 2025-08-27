@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA292_WhatIfISellTaboshi1AfterE3_2025-06-18_EN.md
+title: TOBY QA292 WhatIfISellTaboshi1AfterE3 2025-06-18 EN
+arcs: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA291_MissedTaboshi1CanEarnSatoby_2025-06-18_EN.md
+next_id: TOBY_QA293_Why777Burn_2025-06-18_EN.md
+---
 TOBY_QA292_WhatIfISellTaboshi1AfterE3_2025-06-18_EN.md
 ❓ Question:
 What happens if I sell my Taboshi after Epoch 3?

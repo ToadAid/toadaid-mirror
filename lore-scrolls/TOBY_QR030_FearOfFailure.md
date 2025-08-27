@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR030_FearOfFailure.md
+title: TOBY QR030 FearOfFailure
+arcs: []
+tags: []
+prev_id: TOBY_QR029_LeafOfProof_2025-08-08_EN-ZH.md
+next_id: TOBY_QR030_SeedOfTime_2025-08-08_EN-ZH.md
+---
 # TOBY_QR030_FearOfFailure
 
 **You asked:**  

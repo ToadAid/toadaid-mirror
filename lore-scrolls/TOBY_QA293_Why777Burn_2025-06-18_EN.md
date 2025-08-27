@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA293_Why777Burn_2025-06-18_EN.md
+title: TOBY QA293 Why777Burn 2025-06-18 EN
+arcs: [777Burn, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA292_WhatIfISellTaboshi1AfterE3_2025-06-18_EN.md
+next_id: TOBY_QA294_CanTheMirrorLie_2025-06-18_EN.md
+---
 TOBY_QA293_Why777Burn_2025-06-18_EN.md
 ❓ Question:
 Why did Toadgod choose 777 $TOBY for the burn?

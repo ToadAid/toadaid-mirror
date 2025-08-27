@@ -1,3 +1,18 @@
+---
+arc: Belief
+id: TOBY_L055_LightAndBelief_2024-07-05_EN.md
+series: L
+date: 2024-07-05
+number: 055
+title: LightAndBelief
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2024-07', 'Series:L', 'Year:2024']
+prev_id: TOBY_L054_FinalStretch_2024-06-30_base.md
+next_id: TOBY_L056_Believe_2024-07-15_EN.md
+prev_L_id: TOBY_L054_FinalStretch_2024-06-30_base.md
+next_L_id: TOBY_L056_Believe_2024-07-15_EN.md
+chain: EN
+---
 # L055 – Light and Belief
 
 # METADATA  🔍

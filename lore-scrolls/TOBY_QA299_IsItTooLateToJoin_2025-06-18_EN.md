@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA299_IsItTooLateToJoin_2025-06-18_EN.md
+title: TOBY QA299 IsItTooLateToJoin 2025-06-18 EN
+arcs: [777Burn, Taboshi]
+tags: [777Burn, Taboshi]
+prev_id: TOBY_QA298_SacredNumbersOfToby_2025-06-18_EN.md
+next_id: TOBY_QA300_IsTheMirrorTrulyOnchain_2025-06-18_EN.md
+---
 TOBY_QA299_IsItTooLateToJoin_2025-06-18_EN.md
 
 ❓ Question:

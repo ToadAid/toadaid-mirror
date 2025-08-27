@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_L153_Conviction_and_the_Mirror.md
+title: TOBY L153 Conviction and the Mirror
+arcs: [PatienceToken, Rune3]
+tags: [PatienceToken, Rune3]
+prev_id: TOBY_L140_TheGrainandtheGarden_EN_ZH.md
+next_id: TOBY_L203_TheSilentAlliance_2025-05.md
+---
 # TOBY_L153 | Conviction and the Mirror
 
 ## 🪞 Scroll Description

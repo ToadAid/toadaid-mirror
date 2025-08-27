@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA024_WhatIsSatoby_AndBelief_2025-05-28_EN.md.md
+title: TOBY QA024 WhatIsSatoby AndBelief 2025-05-28 EN.md
+arcs: [777Burn, Epoch2, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA023-Satoby-Recovery-Trp001.md
+next_id: TOBY_QA025_Tatoshi1vsTaboshi_PoTImportan.md
+---
 TOBY_QA024_WhatIsSatoby_AndBelief_2025-05-28_EN.md
 
 ✅ Question:

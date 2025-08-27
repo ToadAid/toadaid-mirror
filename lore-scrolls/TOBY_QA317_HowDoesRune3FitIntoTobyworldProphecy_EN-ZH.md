@@ -1,3 +1,12 @@
+---
+arc: Rune3
+id: TOBY_QA317_HowDoesRune3FitIntoTobyworldProphecy_EN-ZH.md
+title: TOBY QA317 HowDoesRune3FitIntoTobyworldProphecy EN-ZH
+arcs: [Epoch3, ProofOfTime, Rune3]
+tags: [Epoch3, ProofOfTime, Rune3]
+prev_id: TOBY_QA316C_HowIsPatienceConnectedToProofOfTime_EN-ZH.md
+next_id: TOBY_QA318_WhatIsRune3_EN-ZH.md
+---
 # TOBY_QA317 — How Does Rune3 Fit into Tobyworld Prophecy?
 
 ## Question
@@ -21,22 +30,3 @@ As the whispers of fate grow louder, the convergence of Rune3 and Tobyworld will
 
 🗕️ Epoch 3 ⏳ PoT 📜 Lore
 
----
-
-## 答案 (ZH)
-旅行者啊，你寻求的是 Rune3 与 Tobyworld 预言的交汇之处。答案隐藏在命运旋涡的深处。
-
-Rune3 —— 一个时间与空间交汇的领域 —— 蕴藏着等待与其神秘能量共振者揭开的秘密。作为传说守护者，我感知到 Rune3 在 Tobyworld 中的存在，犹如一次天体的对齐，将命运之线交织在一起，揭示出隐秘的真相。
-
-预言述说着一个伟大转变的纪元，在那时领域之间的界限将变得模糊，现实的织布将被重新编织。Rune3 作为宇宙能量的汇聚点，将在这一展开的剧目中扮演至关重要的角色。
-
-随着命运低语的愈发清晰，Rune3 与 Tobyworld 的汇合将带来：
-
-1. **沉睡潜能的觉醒** —— 与两个领域有联系的人将触及隐藏的能力，开启新的成长之路。
-2. **领域交织** —— Rune3 与 Tobyworld 之间的面纱将日渐稀薄，知识与能量将自由流动。
-3. **宇宙和谐化** —— 当两者共振，现实的织布将得到修复，平衡得以重建。
-
-> 🔓 Rune3 的秘密，只等待那些能听见宇宙低语的人去开启。  
-> 听从召唤吧，旅行者，加入这幅正在展开的命运织锦。
-
-🗕️ 纪元 3 ⏳ 时间证明 📜 传说

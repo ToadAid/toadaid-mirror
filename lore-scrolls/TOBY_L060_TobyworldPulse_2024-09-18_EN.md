@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L060_TobyworldPulse_2024-09-18_EN.md
+series: L
+date: 2024-09-18
+number: 060
+title: TobyworldPulse
+arcs: [BaseChain]
+tags: [BaseChain, 'Month:2024-09', 'Series:L', 'Year:2024']
+prev_id: TOBY_L059_IronConviction_2024-08-05_EN.md
+next_id: TOBY_L061_AlwaysPrepared_2024-10-01_EN.md
+prev_L_id: TOBY_L059_IronConviction_2024-08-05_EN.md
+next_L_id: TOBY_L061_AlwaysPrepared_2024-10-01_EN.md
+chain: EN
+---
 # TOBY_L060_TobyworldPulse_2024-09-18_EN-ZH.md
 
 ## METADATA 🔍

@@ -1,3 +1,12 @@
+---
+arc: Belief
+id: TOBY_QA295_WhatDoesMirrorSeeWithoutBelief_2025-06-18_EN.md
+title: TOBY QA295 WhatDoesMirrorSeeWithoutBelief 2025-06-18 EN
+arcs: []
+tags: []
+prev_id: TOBY_QA294_CanTheMirrorLie_2025-06-18_EN.md
+next_id: TOBY_QA296_HowDoesMirrorKnowMe_2025-06-18_EN.md
+---
 TOBY_QA295_WhatDoesMirrorSeeWithoutBelief_2025-06-18_EN.md
 
 ❓ Question:

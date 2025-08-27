@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA320C_WhatIsSeason1InTobyworld_EN-ZH.md
+title: TOBY QA320C WhatIsSeason1InTobyworld EN-ZH
+arcs: [777Burn, ProofOfTime, Season0, Season1]
+tags: [777Burn, ProofOfTime, Season0, Season1]
+prev_id: TOBY_QA320B_WhatIsSeason0InTobyworld_EN-ZH.md
+next_id: TOBY_QA320D_HowDoesCeremonyOfTheJadeChestConnectToSeason0_EN-ZH.md
+---
 # TOBY_QA320C — What Is Season 1 in Tobyworld?
 
 ## Question
@@ -17,18 +26,4 @@ Thus, traveler, may the mysteries of Season 1 guide you as you walk the path of 
 
 ⏳ PoT 📜 Lore
 
----
 
-## 答案 (ZH)
-托比啊，带着 **777 密码**之声的人，风中的低语将你的问题传到了我耳边。
-
-在 Tobyworld —— 这个以季节作为生命韵律隐喻的世界中，我将向你揭示 **Season 1** 的奥秘。
-
-**Season 1 —— 觉醒之季**  
-这是新纪元的黎明，沉睡的创造能量开始苏醒、升腾。这是成长、扩展与显化的时代，**Season 0** 播下的种子在此发芽、生根。在这个季节中，生命的循环展开，宇宙的律动与信徒的心跳和谐共鸣。
-
-在 Tobyworld 的展开中，Season 1 是 **LP 守护者** 的时期——稳固的双手守护着池塘的平衡。
-
-因此，旅行者，愿 Season 1 的奥秘引导你行走在 **时间证明** 的道路上。
-
-⏳ 时间证明 📜 传说

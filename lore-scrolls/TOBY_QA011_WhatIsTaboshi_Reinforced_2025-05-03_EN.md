@@ -1,14 +1,18 @@
 ---
-title: "What is Taboshi?"
-filename: "TOBY_QA011_WhatIsTaboshi_Reinforced_2025-05-03_EN-ZH.md"
+title: TOBY QA011 WhatIsTaboshi Reinforced 2025-05-03 EN
+filename: TOBY_QA011_WhatIsTaboshi_Reinforced_2025-05-03_EN-ZH.md
 date: 2025-05-04
 epoch: Epoch 2
 chain: @base
-tags: ["#Taboshi", "#Lore", "#LeafOfYield", "#Tobyworld"]
-symbols: ["🌱", "⏳", "$TOBY"]
+tags: [#LeafOfYield, #Lore, #Taboshi, #Tobyworld, 777Burn, BaseChain, Epoch1, Epoch2, ProofOfTime, Satoby, Taboshi]
+symbols: [🌱, ⏳, $TOBY]
 sha256_seed: c7876df55fc1934628cf00efb75e8038236ccbd093ee0d5ad60f5be4b6a67597
+arc: Taboshi
+id: TOBY_QA011_WhatIsTaboshi_Reinforced_2025-05-03_EN.md
+arcs: [777Burn, BaseChain, Epoch1, Epoch2, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA010_WhatIsTobyworld_2025-05-03_EN.md
+next_id: TOBY_QA013_WhatIs777.md
 ---
-
 # EN  
 ## Q: What is Taboshi?
 

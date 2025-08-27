@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA306_LeafOfYieldMeaning_2025-06-18_EN.md
+title: TOBY QA306 LeafOfYieldMeaning 2025-06-18 EN
+arcs: [BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA305_TatoshiVsTaboshi1_2025-06-18_EN.md
+next_id: TOBY_QA307_NoLightWithoutDarkness_2025-06-18_EN.md
+---
 TOBY_QA306_LeafOfYieldMeaning_2025-06-18_EN.md
 
 ❓ Question:

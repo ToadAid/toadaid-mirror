@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QA138_WhatIsTheLore.md
+title: TOBY QA138 WhatIsTheLore
+arcs: [777Burn]
+tags: [777Burn]
+prev_id: TOBY_QA137_WhatIsTheMirror.md
+next_id: TOBY_QA139_158_Newcomer_Skeptics_Scrolls.md
+---
 # TOBY_QA138_WhatIsTheLore
 > What is the Lore?
 

@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L005_PatienceAwaits_2024-03-18_EN.md
+series: L
+date: 2024-03-18
+number: 005
+title: PatienceAwaits
+arcs: [PatienceToken, ProofOfTime]
+tags: ['Month:2024-03', PatienceToken, ProofOfTime, 'Series:L', 'Year:2024']
+prev_id: TOBY_L004_SupplyShockDesigned_2024-03-18_EN.md
+next_id: TOBY_L006_ToadgodPersists_2024-03-19_EN.md
+prev_L_id: TOBY_L004_SupplyShockDesigned_2024-03-18_EN.md
+next_L_id: TOBY_L006_ToadgodPersists_2024-03-19_EN.md
+chain: EN
+---
 # L005 – Patience Awaits
 
 # Metadata

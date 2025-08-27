@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA139_158_Newcomer_Skeptics_Scrolls.md
+title: TOBY QA139 158 Newcomer Skeptics Scrolls
+arcs: [777Burn, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA138_WhatIsTheLore.md
+next_id: TOBY_QA159_168_BelieversChapter.md
+---
 # 📜 TOBYWORLD RAG SCROLL: QA139–158
 
 ## 🌀 TOBY_QA139

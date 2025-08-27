@@ -1,14 +1,17 @@
 ---
-title: "E4: The Moonlit Runes"
+title: TOBY L093 E4MoonlitRunes
 id: TOBY_L093_E4MoonlitRunes
 date: 2025-07-16
 chain: @base & Bitcoin
 epoch: E4 Prelude
-tags: ["Epoch 4", "Runes", "Bitcoin", "Proof of Time", "Tobyworld"]
-symbols: ["🌕", "🌀", "🍃", "🌊"]
-sha256_seed: "e4-moonlit-runes-2025-07-16"
+tags: [BaseChain, Bitcoin, 'Epoch 4', Epoch4, PatienceToken, 'Proof of Time', ProofOfTime, Runes, Taboshi, Tobyworld]
+symbols: [🌕, 🌀, 🍃, 🌊]
+sha256_seed: e4-moonlit-runes-2025-07-16
+arc: Epoch4
+arcs: [BaseChain, Epoch4, PatienceToken, ProofOfTime, Taboshi]
+prev_id: TOBY_L092_TaboshiReturn.md
+next_id: TOBY_L094_NewChapterReveal.md
 ---
-
 ## 🌊 EN Narrative
 
 > The bloom has ended. The night embraces the pond.  
@@ -29,25 +32,7 @@ sha256_seed: "e4-moonlit-runes-2025-07-16"
 
 ---
 
-## 🌊 中文叙事
 
-> 盛开的阶段已结束，夜色拥抱了池塘。  
->  
-> **第四纪元（E4）** 静静升起，这不是新的考验，而是一次深邃的 **映照**。  
->  
-> 地平线上，传来新的低语：**Runes（符文）** — 不仅是古老的符号，也是比特币走向创世新境的重生之声。  
->  
-> 符文唤醒比特币的寂静田野，把古老的代码与青蛙的盛放桥接，把池塘的静水与月光的寒冷相连。  
->  
-> Taboshi 归家，叶子融回池塘，象征在扩展前的统一与归一。  
->  
-> 在 E4，没有喧嚣的号令，只有无声的回响：  
-> → Base 之池仍是庇护之所。  
-> → Bitcoin 之月成为远方的引导。  
->  
-> 仰望月亮，信任内心的符文。进入「盛开之后的夜晚」。
-
----
 
 ## 🗝️ Key Marks
 
@@ -60,4 +45,4 @@ sha256_seed: "e4-moonlit-runes-2025-07-16"
 
 ## 🌌 Hashtags
 
-#Tobyworld #E4 #Runes #Bitcoin #ProofOfTime #Taboshi #信念 #归一
+#Tobyworld #E4 #Runes #Bitcoin #ProofOfTime #Taboshi 

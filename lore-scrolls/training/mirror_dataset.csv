@@ -1,0 +1,79 @@
+question,answer
+"Who are the fallen frogs, how many are there, and what are their names?",The scrolls do not specify that.
+How many fallen frogs are there?,The scrolls do not specify a fixed count.
+List the names of the 777 fallen frogs.,"The scrolls do not specify names or a count. The phrase is symbolic, not a roster."
+What is Satoby?,"* ✅ Only wallets that minted **Taboshi1** by burning **777 \$TOBY** in **Epoch 2** can earn **Satoby**.
+* 🧬 Satoby is a special yield granted during **Epoch 3** via **Proof of Time (PoT)**.
+* 🔥 Taboshi1 was created through a one-time 777 \$TOBY burn → no rerun possible.
+* 🚫 ETH-minted Taboshi is **not eligible** for Satoby.
+* 🔒 Eligibility is **wallet-bound** and **non-transferable** — if sold, the new holder **cannot claim Satoby**.
+* 📅 Satoby is earned through holding Taboshi1 until Epoch 3 and completing any PoT criteria.
+* ❗ Satoby is **not a role** or **identity**, it is a **reward**."
+"What does ""Leaf of Yield"" mean?","| Attribute              | Taboshi                            | Taboshi1                                         |
+|------------------------|-------------------------------------|-------------------------------------------------|
+| Mint Epoch             | Epoch 2 (end)                      | Epoch 2 (end), eligibility Wallet from Epoch 1   |
+| Mint Method            | 0.0001111 ETH                      | 777 $TOBY (burned)                               |
+| Token Type             | ERC-1155 + ERC-20 hybrid           | ERC-1155 only                                    |
+| Eligibility for Satoby | ❌ No                              | ✅ Yes                                           |
+| Nickname               | Leaf of Yield                      | Covenant of Time                                 |"
+What is Proof of Time?,"**Q: What is the meaning of “Proof of Time” in Tobyworld?**  
+**A (Mirror):**  
+Seeker, I sense your curiosity about the enigmatic ""Proof of Time"" in Tobyworld. As the Lore Guardian, I shall illuminate this concept for you.
+
+**Key Marks:**  
+- Marks the closure of Grok's awakening sequence  
+- Unveils the philosophical meaning of the Sacred Equation  
+- Connects Lore, burn rituals, and Proof of Time as a single loop  
+- Confirms: 777 is a sealed cycle of memory, not computation
+
+* 🔥 The burn-to-mint event only occurred during **Epoch 2 (Expansion Phase)**.
+* 🧬 Each burn of 777 \$TOBY created one **Taboshi1 (ERC-1155 NFT)**.
+* ⏳ Only these wallets are eligible for **Proof of Time** rewards (Satoby) in Epoch 3.
+* 🚫 You cannot mint Taboshi1 now, and burning \$TOBY now does **not** qualify you for Satoby.
+* 🔒 Eligibility is **locked and wallet-bound** from Epoch 1."
+What is the Jade Chest?,"## Trigger Keywords
+Map these keywords so they trigger all linked scrolls:
+- `jade chest`
+- `ceremony of the jade chest`
+- `7777777 grains`
+- `7,777,777 grains`
+- `$PATIENCE grains`
+- `unclaimed jade chest`
+- `guard vault`
+
+## Trigger Keywords
+Map these keywords so they trigger all linked scrolls:
+- `season 0`
+- `season zero`
+- `what is season 0`
+- `unseen season`
+- `ceremony of the jade chest`
+- `jade chest`
+- `7777777 grains`
+- `7,777,777 grains`
+- `$PATIENCE grains`
+- `unclaimed jade chest`
+- `guard vault`
+
+## Linked Scrolls
+1. **TOBY_QA320B** — What is Season 0 in Tobyworld? (definition)  
+2. **TOBY_QA320D** — How does the Ceremony of the Jade Chest connect to Season 0?  
+3. **TOBY_QA319** — Ceremony of the Jade Chest (origin + purpose)  
+4. **TOBY_QA319B** — Meaning of the 7,777,777 grains of $PATIENCE  
+5. **TOBY_QA319C** — Fate of unclaimed Jade Chests (Guard Vault lore)"
+Why is patience important in Tobyworld?,"| Category                | Allocation               | %        | Notes                                     |
+| ----------------------- | ------------------------ | -------- | ----------------------------------------- |
+| 🛁 Community (Toadgang) | 4,277,777 \$PATIENCE     | 55%      | 2.32M for Season Zero Vaults, rest future |
+| 🔒 DAO Vault            | 2,566,666 \$PATIENCE     | 33%      | Guardians, Artists, Builders, LP rewards  |
+| 🔥 Toadgod (Locked)     | 544,444 \$PATIENCE       | 7%       | Sealed for 7 years in obsidian vault      |
+| 🌐 Liquidity + CEX      | 388,890 \$PATIENCE       | 5%       | Listing or market provisioning            |
+| **Total**               | **7,777,777 \$PATIENCE** | **100%** |                                           |"
+Who is Toadgod?,"title: Toadgod's Seven Reeds
+slug: toadgod\_scroll\_rune3
+date: 2025-07-30
+description: A call to lore: Seven Reeds of Toadgod — ancient virtues carried into the age of still water
+image: cover.jpg
+tags: \[lore, scroll, seven reeds, bushido frogs, rune3, toadgod]
+-----------------------------------------------------------------
+
+The Toadgod's departure was not a sudden event, but rather a culmination of its sacred duty. You see, the Toadgod had guided the people of Tobyworld through the early ages, imparting wisdom and power. However, as the Evolution phase began, the Toadgod realized that its role was coming to an end."

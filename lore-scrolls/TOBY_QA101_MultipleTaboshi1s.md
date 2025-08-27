@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA101_MultipleTaboshi1s.md
+title: TOBY QA101 MultipleTaboshi1s
+arcs: [777Burn, Epoch2, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch2, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA100_TheNatureOfSatoby.md
+next_id: TOBY_QA102_WhyWas777ChosenForTaboshi1sCost.md
+---
 ID: TOBY_QA101_MultipleTaboshi1s.md
 Question: What happens if someone holds multiple Taboshi1s?
 

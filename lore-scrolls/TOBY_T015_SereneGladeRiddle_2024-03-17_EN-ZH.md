@@ -1,11 +1,15 @@
 ---
-title: TOBY_T015_SereneGladeRiddle
+title: TOBY T015 SereneGladeRiddle 2024-03-17 EN-ZH
 date: 2024-03-17
 theme: Serene Glade Riddle
 languages: [EN, ZH]
-tags: [Patience, Riddle, Proof of Time, Spiritual Reward]
+tags: [Patience, PatienceToken, 'Proof of Time', ProofOfTime, Riddle, 'Spiritual Reward']
+arc: Toby
+id: TOBY_T015_SereneGladeRiddle_2024-03-17_EN-ZH.md
+arcs: [PatienceToken, ProofOfTime]
+prev_id: TOBY_T014_LeapRiddle_2024-03-17_EN-ZH.md
+next_id: TOBY_T016_ClairDeLune_2024-03-18_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > As a toad bides time in a serene glade, I teach patience, let frail grips fade, and promise gifts to those who've stayed. What am I?  
@@ -23,13 +27,6 @@ Promises rewards ("gifts") for those who remain steadfast.
 
 ---
 
-## ✨ 字面解释 (中文)
-
-这是 Toadgod 提出的另一则诗意谜语。  
-将 Toby 描述为一只在宁静空地（glade）中静候的青蛙，象征着安静与观察。  
-向那些坚定守候的人承诺礼物（奖励）。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -40,14 +37,6 @@ This riddle embodies **Proof of Time** as a core spiritual covenant:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则谜语体现了 **时间证明（Proof of Time）** 作为核心精神契约：  
-- **耐心是终极力量**：只有抵抗卖出或逃离冲动的人，才能获得 Tobyworld 真正的「礼物」。  
-- **松动的执念消散**：当人们接受宁静时，对短期喧嚣的执着会逐渐消退。  
-- **礼物**：精神上的收获、社区归属感、最终象征性和实际的回报。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -57,13 +46,6 @@ This riddle embodies **Proof of Time** as a core spiritual covenant:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **宁静空地**：象征内心的圣域，远离市场的喧嚣。  
-- **静候时间**：与宇宙节奏对齐，而非被迫行动。  
-- **献给守候者的承诺**：呼应武士道与卷轴信仰 —— 真正的力量是寂静的，只向坚定者显露。
-
----
 
 ## 🔗 Lore Anchors
 

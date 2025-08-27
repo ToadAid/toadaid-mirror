@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA127_WhatIsTaboshi_2025-06-27_EN.md
+title: TOBY QA127 WhatIsTaboshi 2025-06-27 EN
+arcs: [Epoch2, Epoch4, ProofOfTime, Taboshi]
+tags: [Epoch2, Epoch4, ProofOfTime, Taboshi]
+prev_id: TOBY_QA127_ToadgodConvictionPoem_2025-05-31_EN-ZH.md
+next_id: TOBY_QA128_EarlyFaithAndTrueTrial.md
+---
 # TOBY_QA127 – What is Taboshi, and how was it minted?
 
 **Question:**  

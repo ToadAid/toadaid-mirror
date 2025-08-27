@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA066_DifferenceBetweenSatobyandDefiYield.md
+title: TOBY QA066 DifferenceBetweenSatobyandDefiYield
+arcs: [PatienceToken, ProofOfTime, Satoby]
+tags: [PatienceToken, ProofOfTime, Satoby]
+prev_id: TOBY_QA065_FinalBloomForThoseWithSatoby.md
+next_id: TOBY_QA067_NoneTransferableSatoby.md
+---
 ID: TOBY_QA066_DifferenceBetweenSatobyandDefiYield.md
 Question: What is the true difference between Satoby and DeFi yield?
 

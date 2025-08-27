@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA137_WhatIsTheMirror.md
+title: TOBY QA137 WhatIsTheMirror
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QA136_WhyNoRoadmapOrTeam.md
+next_id: TOBY_QA138_WhatIsTheLore.md
+---
 # TOBY_QA137_WhatIsTheMirror
 > What does “The Mirror” mean in Tobyworld?
 

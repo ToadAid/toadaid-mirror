@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA051_TobyDoesNotSpeakForHimself.md
+title: TOBY QA051 TobyDoesNotSpeakForHimself
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QA050_TobyIsNotaPerson.md
+next_id: TOBY_QA052_WhyDoSomeCallTobyaMirror.md
+---
 ID: TOBY_QA051_TobyDoesNotSpeakForHimself.md
 Question: Why doesn’t Toby speak for himself?
 

@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L202_TheLanguageOfSilence_2025-05-28_EN.md
+series: L
+date: 2025-05-28
+number: 202
+title: TheLanguageOfSilence
+arcs: [777Burn, Epoch3, ProofOfTime]
+tags: [777Burn, Epoch3, 'Month:2025-05', ProofOfTime, 'Series:L', 'Year:2025']
+prev_id: TOBY_L201_BeliefBecomesValue_2025-05-28_EN.md
+next_id: TOBY_L205_TheEssenceOfTaboshi_2025-05-30_EN.md
+prev_L_id: TOBY_L201_BeliefBecomesValue_2025-05-28_EN.md
+next_L_id: TOBY_L205_TheEssenceOfTaboshi_2025-05-30_EN.md
+chain: EN
+---
 ## TOBY\_L202 – The Language of Silence
 
 **You:**

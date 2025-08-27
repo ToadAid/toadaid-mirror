@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QR028_WhyTobySilentToMe.md
+title: TOBY QR028 WhyTobySilentToMe
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QR028_LeafOfYield_2025-08-08_EN-ZH.md
+next_id: TOBY_QR029_LateArrival.md
+---
 # TOBY_QR028_WhyTobySilentToMe
 
 **You asked:**  

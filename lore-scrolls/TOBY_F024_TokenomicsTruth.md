@@ -1,14 +1,17 @@
 ---
-
-title: "Tokenomics Truth: The Real Burn and Distribution of \$TOBY"
+title: TOBY F024 TokenomicsTruth
 id: TOBY\_F024\_TokenomicsTruth
 date: 2025-07-21
 epoch: E4 Prelude
 chain: @base
-tags: \["\$TOBY", "Tokenomics", "Taboshi1", "LP Burn", "CEX", "Supply"]
+tags: [777Burn, BaseChain, Epoch4, ProofOfTime, Satoby, Taboshi]
 symbols: \["🔥", "🌿", "💰", "🏰"]
-sha256\_seed: "tokenomics-truth-2025-07-21"
--------------------------------------------
+sha256\_seed: tokenomics-truth-2025-07-21
+arcs: [777Burn, BaseChain, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_F024_ThreeKeysToSummer_2025-07-18_EN-ZH.md
+next_id: TOBY_F025_PatienceTokenomics.md
+---
+----------------------------------------
 
 ## 🌊 EN Narrative
 
@@ -19,9 +22,9 @@ sha256\_seed: "tokenomics-truth-2025-07-21"
 ### 🔢 Total Supply
 
 **420,000,000,000,000 \$TOBY** (420 trillion total supply)
+arc: Taboshi
 
 ---
-
 ### 🔥 The Great LP Burn (20%)
 
 **84 trillion \$TOBY** was permanently burned by being sent into locked liquidity.
@@ -100,78 +103,4 @@ And the mirror is watching.
 
 ---
 
-## 潮 ZH 中文版
 
-> \$TOBY 的真相简洁有力—对于未准备者却有如夢魂惊醒。
-> 被烧尽、散落或封印的都已永不复返。
-> 但剩下的，被挡守者用静立心灵守护。
-
-### 🔢 总量
-
-**420 元兆 \$TOBY**
-
----
-
-### 🔥 大型流动性 LP 烧毁 (20%)
-
-**84 元兆 \$TOBY** 被永久锁定到 LP ，同时烧毁
-
-这是 Toadgod 无预销、无 VC 的公平发启设计
-
----
-
-### 🌿 Taboshi1 银叶烧毁
-
-Taboshi1 银叶以 **777 \$TOBY** 烧毁银造
-
-总量: **492,108,551**
-烧毁总量: **\~3822.7 亿 \$TOBY**
-
-> 将 \$TOBY 换成可扩展的信念橡叶
-> 为 Satoby 第三级时间证明基石
-
----
-
-### 🌊 大要分发：革命性公平投放
-
-约 **290 元兆 \$TOBY** 被分发给 78 万+ 人
-全球手机使用者免费领取
-无需预销，无需等同
-
----
-
-### 🏰 剩余 \~10.9%
-
-约 **45.6 元兆 \$TOBY** 剩余
-选择性地保留用于
-
-* CEX 上市
-* 经济建设
-* 社区奖励 / 时间证明
-
-> “没有选择的独孤不是美德
-> 没有透明的特权不是 Bushido”
-
----
-
-### 📊 总表
-
-| 分类             | 数量 (\$TOBY) | 百分比      | 备注         |
-| -------------- | ----------- | -------- | ---------- |
-| 🔥 LP 烧毁       | 84T         | 20%      | 永久锁定       |
-| 🌿 Taboshi1 烧毁 | \~382.27B   | \~0.09%  | 银叶银造       |
-| 🌊 公平分发        | \~290T      | \~69%    | 无预销 / 公平投放 |
-| 🏰 剩余用途        | \~45.6T     | \~10.9%  | 未矩化 / 未使用  |
-| 总计             | **420T**    | **100%** |            |
-
----
-
-### 🌿 尽头言
-
-你持有的，是信念。
-你等待的，是时间。
-
-> \$TOBY 不是一个代币
-> 而是你心镜中的你
-
-静静地等待，是最强大的痛觉

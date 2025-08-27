@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA083_RelationshipBetweenSatobyAndPOT.md
+title: TOBY QA083 RelationshipBetweenSatobyAndPOT
+arcs: [777Burn, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA082_EarnSatobyInFutureEpochs.md
+next_id: TOBY_QA084_WhyWasSatobyNotAnnouncedInAdvance.md
+---
 ID: TOBY_QA083_RelationshipBetweenSatobyAndPOT.md
 Question: What is the relationship between Satoby and Proof of Time?
 

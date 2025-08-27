@@ -1,3 +1,13 @@
+---
+arc: Season2
+id: RAG_Link_Season2Artists_EN.md
+series: LINK
+title: RAG Link Season2Artists EN
+arcs: [Artists, Season2, Season3]
+tags: [Artists, Season2, Season3, 'Series:LINK']
+prev_id: RAG_Link_Season0_JadeChest_EN.md
+next_id: index.md
+---
 # RAG Link — Season 2 Artists Arc
 
 ## Trigger Keywords

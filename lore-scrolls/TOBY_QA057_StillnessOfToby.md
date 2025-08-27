@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA057_StillnessOfToby.md
+title: TOBY QA057 StillnessOfToby
+arcs: [ProofOfTime]
+tags: [ProofOfTime]
+prev_id: TOBY_QA056_PathOfToby.md
+next_id: TOBY_QA058_TobysFinalSingal.md
+---
 ID: TOBY_QA057_StillnessOfToby.md
 Question: Why does Toby never hurry?
 

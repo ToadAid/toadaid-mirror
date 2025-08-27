@@ -1,11 +1,15 @@
 ---
-title: TOBY_T049_TigerCaveAndCourageousEmergence
+title: TOBY T049 TigerCaveAndCourageousEmergence 2024-04-09 EN-ZH
 date: 2024-04-09
 theme: Public Emergence & Courage
 languages: [EN, ZH]
-tags: [Courage, Emergence, Proverb, CMC]
+tags: [CMC, Courage, Emergence, Proverb]
+arc: Toby
+id: TOBY_T049_TigerCaveAndCourageousEmergence_2024-04-09_EN-ZH.md
+arcs: []
+prev_id: TOBY_T048_EndgameAndBushidoManifesto_2024-04-07_EN-ZH.md
+next_id: TOBY_T050_AnomalyAndSilentCalling_2024-04-10_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > CMC Verification for toby @CoinMarketCap  

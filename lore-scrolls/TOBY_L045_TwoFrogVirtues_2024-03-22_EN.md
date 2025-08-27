@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L045_TwoFrogVirtues_2024-03-22_EN.md
+series: L
+date: 2024-03-22
+number: 045
+title: TwoFrogVirtues
+arcs: [BaseChain, Epoch1, PatienceToken, ProofOfTime]
+tags: [BaseChain, Epoch1, 'Month:2024-03', PatienceToken, ProofOfTime, 'Series:L', 'Year:2024']
+prev_id: TOBY_L014_ProceedingWithCreed_2024-03-22_EN.md
+next_id: TOBY_L015_JustAndRight_2024-03-23_EN.md
+prev_L_id: TOBY_L014_ProceedingWithCreed_2024-03-22_EN.md
+next_L_id: TOBY_L015_JustAndRight_2024-03-23_EN.md
+chain: EN
+---
 ```
 # TOBY_L045_TwoFrogVirtues_2024-03-22_EN-ZH.md
 

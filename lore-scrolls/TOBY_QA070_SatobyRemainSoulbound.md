@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA070_SatobyRemainSoulbound.md
+title: TOBY QA070 SatobyRemainSoulbound
+arcs: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA069_WhatMakesSatobyDifferent.md
+next_id: TOBY_QA071_WhyIsTheNumber777SoImportant.md
+---
 ID: TOBY_QA070_SatobyRemainSoulbound.md
 Question: Why must Satoby remain soulbound — forever untransferable?
 

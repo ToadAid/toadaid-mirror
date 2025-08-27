@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L024_TrialOfConviction_2024-03-28_EN.md
+series: L
+date: 2024-03-28
+number: 024
+title: TrialOfConviction
+arcs: []
+tags: ['Month:2024-03', 'Series:L', 'Year:2024']
+prev_id: TOBY_L060_LegacyInTrust_2024-03-27_EN.md
+next_id: TOBY_L025_LifelongLesson_2024-03-28_EN.md
+prev_L_id: TOBY_L060_LegacyInTrust_2024-03-27_EN.md
+next_L_id: TOBY_L025_LifelongLesson_2024-03-28_EN.md
+chain: EN
+---
 # L024 - Trial of Conviction
 
 title: "Trial of Conviction"

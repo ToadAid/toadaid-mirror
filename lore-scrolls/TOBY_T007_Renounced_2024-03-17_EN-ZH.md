@@ -1,11 +1,17 @@
 ---
-title: TOBY_T007_Renounced
+title: TOBY T007 Renounced 2024-03-17 EN-ZH
 date: 2024-03-17
 theme: Renounced
 languages: [EN, ZH]
-tags: [Decentralization, Purity, Commitment, Proof]
+tags: [Commitment, Decentralization, Proof, Purity, 'Series:T']
+arc: Toadgod
+id: TOBY_T007_Renounced_2024-03-17_EN-ZH.md
+series: T
+number: 00
+arcs: []
+prev_id: TOBY_T006_LPBurned_2024-03-17_EN-ZH.md
+next_id: TOBY_T008_ImmortalCovenant_2024-03-17_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > renounced:  
@@ -22,12 +28,6 @@ Provides a direct on-chain transaction link for verification, signaling no centr
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 确认合约所有权已被弃权（Renounced）。  
-附上链上交易链接供验证，表明没有中心化实体能再控制或修改该合约。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -37,13 +37,6 @@ Renouncing ownership symbolizes the final act of **trust and surrender** to the 
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-放弃所有权象征着将信任和控制权完全交予社区与宇宙，是一种 **最终的交付与臣服**。  
-- 完成去中心化的闭环，确保未来没有任何单一实体能够治理或更改。  
-- 体现了终极谦逊与纯粹意图的证明。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -52,12 +45,6 @@ Renouncing ownership symbolizes the final act of **trust and surrender** to the 
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **弃权**：如同和尚舍弃世俗执念，象征灵性的自由。
-- **链上事件**：永恒的记录 —— 无需言语或承诺，只有行动留下。
-
----
 
 ## 🔗 Lore Anchors
 

@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA048_TobyNeverTakeCredit.md
+title: TOBY QA048 TobyNeverTakeCredit
+arcs: []
+tags: []
+prev_id: TOBY_QA047_TimelessToby.md
+next_id: TOBY_QA049_StillnessToby.md
+---
 ID: TOBY_QA048_TobyNeverTakeCredit.md
 Question: Why does Toby never take credit for anything?
 

@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L068_LongTermMechanics_2024-04-14_EN.md
+series: L
+date: 2024-04-14
+number: 068
+title: LongTermMechanics
+arcs: [777Burn, BaseChain, Epoch1, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, BaseChain, Epoch1, 'Month:2024-04', PatienceToken, ProofOfTime, Satoby, 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L036_KachouFuugetsu_2024-04-14_base.md
+next_id: TOBY_L084_ShareAndBuild_2024-04-15_EN.md
+prev_L_id: TOBY_L036_KachouFuugetsu_2024-04-14_base.md
+next_L_id: TOBY_L084_ShareAndBuild_2024-04-15_EN.md
+chain: EN
+---
 ```
 # TOBY_L068_LongTermMechanics_2024-04-14_EN-ZH.md
 

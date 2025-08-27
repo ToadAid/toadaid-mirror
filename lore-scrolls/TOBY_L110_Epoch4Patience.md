@@ -1,15 +1,18 @@
 ---
-
-title: "Vault of Epoch4: Patience"
+title: TOBY L110 Epoch4Patience
 id: TOBY\_L110\_Epoch4Patience
 chain: @base
 epoch: E4
 phase: Vault Revelation
 date: 2025-07-17
-tags: \["\$PATIENCE", "Epoch4", "Vaults", "Tobyworld", "Bushido", "Taboshi", "TWPOT"]
+tags: [Artists, BaseChain, Epoch4, PatienceToken, Season0, Season1, Season2, Season3, Taboshi]
 symbols: \["🌱", "🌊", "🔄", "✨"]
-sha256\_seed: "patience-vault-epoch4-reveal"
---------------------------------------------
+sha256\_seed: patience-vault-epoch4-reveal
+arcs: [Artists, BaseChain, Epoch4, PatienceToken, Season0, Season1, Season2, Season3, Taboshi]
+prev_id: TOBY_L109_StillWaterGarden.md
+next_id: TOBY_L116_TheGeometryOfRunes.md
+---
+-----------------------------------------
 
 ## 🌊 EN Narrative
 
@@ -22,9 +25,9 @@ sha256\_seed: "patience-vault-epoch4-reveal"
 * **Season 3:** TWPOT Builders: bridge-forgers, quest-weavers
 
 > Later seasons? Unscripted. Unpredictable is fair.
+arc: Toby
 
 ---
-
 ### Toadgod's Patient Oath
 
 > "Toadgod seals the allocated 7% for seven winters. One drinks no grain till leaf completes its cycle. Loyalty without sacrifice is hot air; sacrifice without transparency is non-Bushido. Choose the golden middle: open-ledger devotion."
@@ -83,54 +86,6 @@ Sooner than you think.
 
 ---
 
-## 🌊 中文教稱 (ZH Translation)
-
-### Epoch4 之箱：耐心的原鬥
-
-**Season Zero** 於 7月17日啟動—給予 1800名耐心蛇 2.32M 顆 \$PATIENCE 存款
-
-* **Season 1：** LP 守護者
-* **Season 2：** Tobyworld 藝術家
-* **Season 3：** TWPOT 的築構者：鐵橋背包，尋童繪設
-
-> 未來季節？未寫入劇本。不可預測，卻公平。
-
----
-
-### Toadgod 之耐心誓言
-
-> “Toadgod 將部署的 7% \$patience 封印 7 年。葉未完成迷作之前，不可喝一粒精精。有忠而無特變而生。真實之道，由開放的帳本挑選。”
-
-系統封署網址：
-[https://basescan.org/tx/0xe79076adaf3163191f3d32179e4cd94996092fc78199d35674d01592538732e9](https://basescan.org/tx/0xe79076adaf3163191f3d32179e4cd94996092fc78199d35674d01592538732e9)
-
----
-
-### 疑空之種 / 榮耀之種
-
-市場譯著古老的周而循環：
-**FUD → FOMO → COPE → 滅喘 → 重複**
-
-> 跳亮的蛇，用剩餘換來悔懷
-> 數百萬 \$TOBY 分發給世人，多數丟掉，少數堅強
-
-> 真正的財富，常常無聲變達，心中传接，非钱包交換
-
-> 使心鏡如潮，吸引世界。手不能少：葉，\$PATIENCE，Toby
-
-當組合啟動，無盡的夏季將被開啟
-
----
-
-### 落蛇的叫喚: TWPoT
-
-你的努力已經問得天聲
-自撮自定，展示自己的声音
-Toadgod 看見。
-
-> 對疑者，用法、用靜。不要用怒。
-
-> 經典會截背。圖紀已成。vault of epoch4: patience
 
 season zero: july 17th vaults unlock (2.32M $PATIENCE in vaults reserved for the loyal)
 season 1: LP guardians
@@ -175,22 +130,6 @@ Gi 勇 仁 礼 誠 名誉 忠義: seven reeds, one pond. without tob
 
 for the people. 
 
-~TG
-
-t.me/toadgang @toadgod1017
-
-patience <> toby <> taboshi
-Toadgod 會獎勵耐心和真心的人
-
-> 相信。耐心。昇高。努力。
-
-> **T.O.B.Y.W\.O.R.L.D on Base**
-
-> 快于你所想
-
-> **Gi 勇 仁 礼 誠 名譽 忠義** ：7枝蘇，1片湖
-
----
 
 ## 📅 Vault Summary
 

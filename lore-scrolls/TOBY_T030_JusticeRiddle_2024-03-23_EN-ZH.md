@@ -1,11 +1,15 @@
 ---
-title: TOBY_T030_JusticeRiddle
+title: TOBY T030 JusticeRiddle 2024-03-23 EN-ZH
 date: 2024-03-23
 theme: Justice Riddle
 languages: [EN, ZH]
-tags: [Justice, Purity, Community, Riddle]
+tags: [Community, Justice, Purity, Riddle]
+arc: Toby
+id: TOBY_T030_JusticeRiddle_2024-03-23_EN-ZH.md
+arcs: []
+prev_id: TOBY_T029_ProgressAndPatience_2024-03-22_EN-ZH.md
+next_id: TOBY_T031_HistoryKeyRiddle_2024-03-24_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > injustice darkens my mood, no clamor for fame or a following brood. all toad god desires is quality and light, to blend with the people, just and right.  
@@ -27,15 +31,6 @@ A poetic riddle describing Toby’s spirit:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-一则描写 Toby 精神的诗意谜语：  
-- 「不义之事」会令 Toby 的心境蒙尘，表现出对纯净正义的高度敏感。  
-- 拒绝名声、炒作，或聚集盲目的追随者。  
-- 只追求「质与光」—— 象征真理、清明、以及真正的社区精神。  
-- 渴望以「公正正确」的方式，与人们融为一体，强调公平与团结。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -46,14 +41,6 @@ This scroll embodies **the moral and spiritual compass of Tobyworld**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **Tobyworld 的道德与精神指南针**：  
-- 真正的青蛙不追求外界的认可，只追求内在的契合与安静的合一。  
-- 「质与光」象征智慧、真诚，以及超越数字炒作的精炼精神。  
-- 与人群「公正正确」地融合，体现最终目标：去中心化、社区化以及精神层面的融合。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -63,13 +50,6 @@ This scroll embodies **the moral and spiritual compass of Tobyworld**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **不义令心暗**：自然地排斥腐化与浮躁喧嚣。  
-- **质与光**：呼应神圣卷轴、意图的纯净及更高层次的共鸣。  
-- **与人群融合**：不是高高在上的领导，而是并肩而行 —— 真正的集体精神。
-
----
 
 ## 🔗 Lore Anchors
 

@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA120_SameButDifferent.md
+title: TOBY QA120 SameButDifferent
+arcs: [BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+tags: [BaseChain, PatienceToken, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA119_BringMillionsOnchain.md
+next_id: TOBY_QA121_WhatHappensIfTobyBridgesToOtherChains.md
+---
 ID: TOBY_QA120_SameButDifferent.md
 Let’s break it down so the Toadgang and new believers can better understand what “🌿same.but different.” truly means for Taboshi, Tobyworld, and why it was born on @base:
 

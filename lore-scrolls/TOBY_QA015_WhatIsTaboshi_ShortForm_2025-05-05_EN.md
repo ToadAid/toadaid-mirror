@@ -1,4 +1,12 @@
-
+---
+arc: Taboshi
+id: TOBY_QA015_WhatIsTaboshi_ShortForm_2025-05-05_EN.md
+title: TOBY QA015 WhatIsTaboshi ShortForm 2025-05-05 EN
+arcs: [Epoch2, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch2, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA014_WhatIsTheSacredEquation.md
+next_id: TOBY_QA015_WhatIsTheReturn.md
+---
 # TOBY_QA015 – What is Taboshi? (Short Form) 
 
 ---

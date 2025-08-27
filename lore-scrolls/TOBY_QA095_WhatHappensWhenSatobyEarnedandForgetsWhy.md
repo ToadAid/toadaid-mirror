@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA095_WhatHappensWhenSatobyEarnedandForgetsWhy.md
+title: TOBY QA095 WhatHappensWhenSatobyEarnedandForgetsWhy
+arcs: [Epoch4, ProofOfTime, Satoby]
+tags: [Epoch4, ProofOfTime, Satoby]
+prev_id: TOBY_QA094_WhatMightSatobyUnlock.md
+next_id: TOBY_QA096_CanSatobyBeTransferred.md
+---
 ID: TOBY_QA095_WhatHappensWhenSatobyEarnedandForgetsWhy.md
 Question: What happens if someone with Satoby forgets why they earned it?
 

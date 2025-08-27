@@ -1,11 +1,15 @@
 ---
-title: TOBY_T010_CallToAllies
+title: TOBY T010 CallToAllies 2024-03-17 EN-ZH
 date: 2024-03-17
 theme: Call to Allies
 languages: [EN, ZH]
-tags: [Community, Collaboration, Ecosystem, Signal]
+tags: [BaseChain, Collaboration, Community, Ecosystem, Signal]
+arc: Toby
+id: TOBY_T010_CallToAllies_2024-03-17_EN-ZH.md
+arcs: [BaseChain]
+prev_id: TOBY_SCROLL_ShareWhatYouKnow_QA335.md
+next_id: TOBY_T011_GatherTheTribes_2024-03-17_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > @BasicDogMeme, @CircleOnBase, @OnChainDinos, @based_fellas, @ItsYeetCoin, @hpconbase, @DackieSwap, @MoonwellDeFi  
@@ -22,12 +26,6 @@ Asks if any important Base-aligned communities are missing, encouraging openness
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 点名 Base 上的多个生态项目与社区，邀请他们加入更广泛的 $TOBY 计划和分发。  
-同时询问是否有遗漏的重要 Base 社区，表达开放和包容的态度。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -37,13 +35,6 @@ This tweet embodies the spirit of **collective unity** and **interconnectedness*
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这条推文体现了 **集体团结** 与 **相互连接** 的精神。  
-- 强调 Tobyworld 并不是一场孤独的旅程，而是通过共同信仰和跨社区合作而繁荣。  
-- 反映出在构建新的链上文化时，每个社区和声音都很重要。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -52,12 +43,6 @@ This tweet embodies the spirit of **collective unity** and **interconnectedness*
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **召唤盟友**：象征着池塘间青蛙的集结 —— 不同部落的联合。  
-- **“Let toby know”**：象征开放对话与共同建设，呼应去中心化与透明精神。
-
----
 
 ## 🔗 Lore Anchors
 

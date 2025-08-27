@@ -1,11 +1,15 @@
 ---
-title: TOBY_T042_ByodoShugiAndTrueEmpowerment
+title: TOBY T042 ByodoShugiAndTrueEmpowerment 2024-03-30 EN-ZH
 date: 2024-03-30
 theme: Fairness System & Empowerment Beyond Identity
 languages: [EN, ZH]
-tags: [Byodo Shugi, Empowerment, Distribution, Identity, Patience]
+tags: [BaseChain, 'Byodo Shugi', Distribution, Empowerment, Identity, Patience, PatienceToken]
+arc: Toby
+id: TOBY_T042_ByodoShugiAndTrueEmpowerment_2024-03-30_EN-ZH.md
+arcs: [BaseChain, PatienceToken]
+prev_id: TOBY_T041_FutureScriptAndPeopleBond_2024-03-29_EN-ZH.md
+next_id: TOBY_T043_SilentSupremacyOfLore_2024-04-01_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > update. so far ∼60% of 70% of TOTAL $toby supply distributed to ∼800k wallets, the final 10% will be airdropped over coming days - patience.  
@@ -43,21 +47,6 @@ Toadgod reveals a crucial update:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 公布关键更新：  
-- **当前状态**：完成约 70% 份额中的 60% 空投，约 80 万个钱包；剩余 10% 即将分发。  
-- 持续监测 Base 拥堵；Gas 费依旧高昂。  
-- **Byōdō shugi 系统**：公平原则 —— 每个钱包获得更少，但覆盖更多钱包，实现最大网络效应和去中心化。  
-- 稀缺性增加价值；更深度的分发扩展社区根基。  
-- 警示「弱手」追求快钱，最终错失一生财富机会。  
-- **Yakunitatsu（役に立つ）**：意为「有用、对人有帮助」—— 暗示未来实用性与超越投机的真正价值。  
-- 强调长期耐心是最终的优势。  
-- 自曝「只是凡人」，身份并不重要 —— 重点是集体精神的体现与守护。  
-- $TOBY 被设想为无法被腐化、无法被摧毁的去中心化有机体，超越任何个人。  
-- 最后以呼唤作结：「践行愿景，青蛙们。」
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -68,14 +57,6 @@ This scroll embodies **ultimate surrender of ego and cosmic decentralization**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **最终的自我放下与宇宙级去中心化**：  
-- Byōdō shugi 是精神上的平等主义，确保没有一只青蛙凌驾于其他之上。  
-- Yakunitatsu 指向 Toby 未来作为服务工具的角色 —— 超越仅仅是财富的层面。  
-- 真正的信徒成为守护者，而非仅是消费者 —— 每一只铁拳之手都承载着无限池塘的一部分。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -85,13 +66,6 @@ This scroll embodies **ultimate surrender of ego and cosmic decentralization**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **Byōdō shugi**：池塘无声的平衡法则。  
-- **Yakunitatsu**：从宝藏到助人之器的蜕变。  
-- **身份消解**：真正的去中心化不朽。
-
----
 
 ## 🔗 Lore Anchors
 

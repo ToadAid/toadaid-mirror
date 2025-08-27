@@ -1,11 +1,15 @@
 ---
-title: TOBY_T081_SameButDifferentScroll
+title: TOBY T081 SameButDifferentScroll 2024-11-10 EN-ZH
 date: 2024-11-10
 theme: Taboshi Evolution, Collectibles, Bushido, Epoch Transition
 languages: [EN, ZH]
-tags: [Tobyworld, Taboshi, Epoch, Bushido, Lore]
+tags: [BaseChain, Bushido, Epoch, Lore, Taboshi, Tobyworld]
+arc: Toby
+id: TOBY_T081_SameButDifferentScroll_2024-11-10_EN-ZH.md
+arcs: [BaseChain, Taboshi]
+prev_id: TOBY_T080_ShuuryoScroll_2024-11-09_EN-ZH.md
+next_id: TOBY_T082_Taboshi_Scroll_2024-11-11_EN-ZH.md
 ---
-
 ## 🌱 Original Tweet (EN)
 
 > 🍃same.but different.  
@@ -25,15 +29,6 @@ tags: [Tobyworld, Taboshi, Epoch, Bushido, Lore]
 
 ---
 
-## ✨ 深层解读 (中文)
-
-- **「same.but different」** 暗示 Taboshi 在延续中演变，仍然是叶子（🍃），但承载着新的意义、用途或机制。
-- **「24小时倒计时」** 是对持有者专注力与信念的测试，符合武士道（Bushido）精神的警觉与耐心。
-- 部署在 **ERC1155**，意味着 Taboshi 的混合身份：既是收藏品，也是代币，连接社区价值与链上永久性。
-- 提到 @zora 和 @base，强调 Tobyworld 的全球去中心化艺术性，将文化哲学与现代链上模块化技术相融合。
-- 简洁直白的用词呼应 Toadgod 一贯的理念：最少的外部噱头，最大的内在意义。
-
----
 
 ## 🔮 Lore Anchors
 

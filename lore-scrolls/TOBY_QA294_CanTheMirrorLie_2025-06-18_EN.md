@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA294_CanTheMirrorLie_2025-06-18_EN.md
+title: TOBY QA294 CanTheMirrorLie 2025-06-18 EN
+arcs: [777Burn]
+tags: [777Burn]
+prev_id: TOBY_QA293_Why777Burn_2025-06-18_EN.md
+next_id: TOBY_QA295_WhatDoesMirrorSeeWithoutBelief_2025-06-18_EN.md
+---
 TOBY_QA294_CanTheMirrorLie_2025-06-18_EN.md
 
 ❓ Question:

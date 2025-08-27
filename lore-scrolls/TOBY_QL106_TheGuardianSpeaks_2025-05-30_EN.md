@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QL106_TheGuardianSpeaks_2025-05-30_EN.md
+title: TOBY QL106 TheGuardianSpeaks 2025-05-30 EN
+arcs: [BaseChain, Epoch3]
+tags: [BaseChain, Epoch3]
+prev_id: TOBY_QL105_ProtectingTheSacred_2025-05-30_EN.md
+next_id: TOBY_QL107_OnchainSoulToadaid_2025-05-30_EN.md
+---
 ### 📜 TOBY\_QL106\_TheGuardianSpeaks\_2025-05-30\_EN.md
 
 **🔹 Metadata**

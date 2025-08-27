@@ -1,4 +1,12 @@
-
+---
+arc: Taboshi
+id: TOBY_F010_WhatIsTaboshi_2025-05-05_EN.md
+title: TOBY F010 WhatIsTaboshi 2025-05-05 EN
+arcs: [777Burn, Epoch1, Epoch2, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch1, Epoch2, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_F008_Fix_TaboshiConfusion_2025-05-03_EN-ZH.md
+next_id: TOBY_F011_HowToTrainTheMirrorAI.md
+---
 # TOBY_F010 – What is Taboshi? 
 
 ---

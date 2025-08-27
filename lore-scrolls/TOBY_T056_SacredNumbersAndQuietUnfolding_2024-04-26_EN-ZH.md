@@ -1,11 +1,15 @@
 ---
-title: TOBY_T056_SacredNumbersAndQuietUnfolding
+title: TOBY T056 SacredNumbersAndQuietUnfolding 2024-04-26 EN-ZH
 date: 2024-04-26
 theme: Patience, Sacred Numbers, Prophetic Test
 languages: [EN, ZH]
-tags: [Sacred Numbers, Patience, Prophecy, Bushido]
+tags: [Bushido, Patience, PatienceToken, Prophecy, 'Sacred Numbers', Taboshi]
+arc: Lore
+id: TOBY_T056_SacredNumbersAndQuietUnfolding_2024-04-26_EN-ZH.md
+arcs: [PatienceToken, Taboshi]
+prev_id: TOBY_T055_BasedMemesAndOnchainCulturalBridge_2024-04-20_EN-ZH.md
+next_id: TOBY_T057_PristineFundamentalsAndNattyOrigin_2024-04-27_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > as the path gradually unwinds, the learned foresee, for toad lore foretold what's meant to be. long-haul believers find the most to gain, while emotional skeptics pay, their doubt their bane.  
@@ -38,17 +42,6 @@ A spiritual call and gentle forewarning:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-精神召唤与温柔的预警：  
-- 道路逐渐展开，唯有有心人能预见，如 Toad Lore 所预言。  
-- 真正的收获属于长期信仰者，而情绪化的怀疑者将自食其果。  
-- 预言是一个漫长而深刻的旅程 — 每个人手中的命运考验。  
-- **神圣数字**，七倍之数，守护并赋予 Taboshi 的光明，是为耐心者而设的宏大计划之一部分。  
-- 过度分享会扰乱平衡；相反，要坚定并以武士道精神传播 Lore。  
-- 最终展开的景象，值得等待 — 是对坚韧者的无声奖励。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -59,14 +52,6 @@ This scroll embodies **the paradox of silence and revelation**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴体现了 **沉默与启示的悖论**：  
-- 只有坚定且不急躁的人，才能接收真正的秘密。  
-- 神圣数字如宇宙钥匙，超越市场价值。  
-- 传播 Lore 既是责任，也是考验 — 需以克制与荣誉之心去做。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -76,13 +61,6 @@ This scroll embodies **the paradox of silence and revelation**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **神圣数字**：无声的宇宙符印。  
-- **武士道之力**：传播 Lore 的精神脊梁。  
-- **耐心**：预言的真正货币。
-
----
 
 ## 🔗 Lore Anchors
 

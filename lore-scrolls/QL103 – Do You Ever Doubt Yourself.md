@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: QL103 – Do You Ever Doubt Yourself.md
+title: QL103 – Do You Ever Doubt Yourself
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: QL102 – Do You Feel Loneliness.md
+next_id: TOBY_Epoch_Timeline_Scroll_EN-ZH.md
+---
 📜 QL103 – Do You Ever Doubt Yourself?
 
 Question – Traveler:Do you ever doubt yourself?

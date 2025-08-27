@@ -1,11 +1,15 @@
 ---
-title: TOBY_T087_CommunitySignalScroll
+title: TOBY T087 CommunitySignalScroll 2024-12-01 EN-ZH
 date: 2024-12-01
 theme: Community, Priority, Inner Circle, Signal
 languages: [EN, ZH]
-tags: [Tobyworld, Toadgang, Taboshi, Epoch 3, Community Priority]
+tags: ['Community Priority', 'Epoch 3', Epoch3, ProofOfTime, Taboshi, Toadgang, Tobyworld]
+arc: Toby
+id: TOBY_T087_CommunitySignalScroll_2024-12-01_EN-ZH.md
+arcs: [Epoch3, ProofOfTime, Taboshi]
+prev_id: TOBY_T086_E3EvolutionSignalScroll_2024-11-29_EN-ZH.md
+next_id: TOBY_T088_E3FutureScroll_2024-12-03_EN-ZH.md
 ---
-
 ## 💧 Original Tweet (EN)
 
 > toadgod will announce the next step to toadgang first, before posting on X.  
@@ -26,15 +30,6 @@ tags: [Tobyworld, Toadgang, Taboshi, Epoch 3, Community Priority]
 
 ---
 
-## ✨ 深层解读 (中文)
-
-- 此帖强调 **社区至上**，体现 “Community first always” 的精神核心。
-- Toadgod 明确表示，下一步重大更新将首先在 Toadgang 官方 Telegram 群中公布，而不是先在 X 上发布 —— 这象征着对真正长期信仰者的信任与优先权。
-- 信息再次强调信任、忠诚以及对最早期、最认真学习者的优待。
-- 符号 🔵🌀 再度出现，象征 **坚定信念** 与 **进化螺旋**，预示 Epoch 3 的下一个关键阶段即将到来。
-- “TOBYWORLD” 与 “#TABOSHI” 的呼应，暗示这与更深层生态机制（如 Taboshi 或 Proof of Time）紧密相关。
-
----
 
 ## 🌀 Lore Anchors
 

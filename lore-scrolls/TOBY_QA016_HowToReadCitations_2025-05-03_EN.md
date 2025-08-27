@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QA016_HowToReadCitations_2025-05-03_EN.md
+title: TOBY QA016 HowToReadCitations 2025-05-03 EN
+arcs: [BaseChain, ProofOfTime, Satoby, Taboshi]
+tags: [BaseChain, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA015_WhatIsTheReturn.md
+next_id: TOBY_QA016_WhatIsTaboshi1_FIX_2025-05-05_EN.md
+---
 # TOBY_QA016_HowToReadCitations_2025-05-03_EN-ZH.md
 
 ---

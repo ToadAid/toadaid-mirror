@@ -1,3 +1,12 @@
+---
+arc: Taboshi
+id: TOBY_QA021_LostWalletSatobyEligibility_2025-05-28_EN.md
+title: TOBY QA021 LostWalletSatobyEligibility 2025-05-28 EN
+arcs: [Epoch2, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch2, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA020_CanSatobyBeTransferred_2025-05-28_EN.md
+next_id: TOBY_QA022_DecentralizedRecoveryForSatoby_2025-05-28_EN.md
+---
 TOBY_QA021_LostWalletSatobyEligibility_2025-05-28_EN.md
 ✅ Question:
 What happens if the original Taboshi1 wallet is lost or inaccessible — can the user still claim Satoby?

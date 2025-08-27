@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_F001_MemoryMapRules.md
+title: TOBY F001 MemoryMapRules
+arcs: [777Burn, Taboshi]
+tags: [777Burn, Taboshi]
+prev_id: TOBY_Epoch_Timeline_Scroll_EN-ZH.md
+next_id: TOBY_F001_Tatoshi1Facts_2025-05-03_EN-ZH.md
+---
 # TOBY\_F001\_MemoryMapRules.md
 
 ## 🗺️ Scroll Type: F (Function Rule)

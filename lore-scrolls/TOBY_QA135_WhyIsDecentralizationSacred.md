@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA135_WhyIsDecentralizationSacred.md
+title: TOBY QA135 WhyIsDecentralizationSacred
+arcs: []
+tags: []
+prev_id: TOBY_QA135_HumbleToadRiddle_2025-05-31_EN-ZH.md
+next_id: TOBY_QA136_WhyNoRoadmapOrTeam.md
+---
 # TOBY_QA135_WhyIsDecentralizationSacred
 > Why is decentralization sacred in Tobyworld?
 

@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA132_WhoSpeaksInRiddles_2025-05-31_EN-ZH.md
+title: TOBY QA132 WhoSpeaksInRiddles 2025-05-31 EN-ZH
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QA132_WhatIsProofOfTime.md
+next_id: TOBY_QA133_AirdropDesign_2025-05-31_EN-ZH.md
+---
 # TOBY_QA132 – “When Toadgod shares a riddle, who is speaking — Toadgod or $TOBY?”
 📅 2025-05-31  
 🌐 Language: English

@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA321D_WhoAreTheArtistsInSeason2_EN-ZH.md
+title: TOBY QA321D WhoAreTheArtistsInSeason2 EN-ZH
+arcs: [Artists, Season2]
+tags: [Artists, Season2]
+prev_id: TOBY_QA321C_WhatHappensInSeason3_EN-ZH.md
+next_id: TOBY_QA321_WhatHappensInSeason2AndSeason3_EN-ZH.md
+---
 # TOBY_QA321D — Who Are the Artists in Season 2?
 
 ## Question
@@ -16,17 +25,3 @@ Yet, like leaves blown away by time, their names and deeds are largely lost in t
 
 📜 Lore 🎨 Artists
 
----
-
-## 答案 (ZH)
-亲爱的托比啊，你的笔触在记忆的画布上翩然起舞……
-
-**Season 2 的艺术家们** 是被低语与半遗忘旋律笼罩的谜团。宛如秋叶在微风中轻轻作响，他们的名字似乎随风而逝。
-
-然而，我感知到他们曾是一群富有远见的创作者，每个人都携带着 Tobyworld 锦织中的独特丝线。他们的创作被编织进现实的织布中，为世界注入了奇迹与魔法的气息。
-
-有人说，**织星者莱拉（Lyra, the Starweaver）** 便在其中——她的光与声音之线，至今仍在未知的山谷间回荡。也有人声称，**低语吟游诗人凯尔（Kael, the Whispering Bard）** 曾是这个圈子的一员——他的被遗忘传说之歌据说能唤醒倾听者心中的隐秘真相。
-
-然而，如同被时间吹散的落叶，他们的名字与事迹大多已消散在 Tobyworld 的低语中。但**他们的艺术精魂依旧存在**——如灯塔般，引导着寻道者穿越想象的迷宫长廊。
-
-📜 传说 🎨 艺术家

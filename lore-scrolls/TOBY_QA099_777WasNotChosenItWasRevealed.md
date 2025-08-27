@@ -1,3 +1,12 @@
+---
+arc: 777Burn
+id: TOBY_QA099_777WasNotChosenItWasRevealed.md
+title: TOBY QA099 777WasNotChosenItWasRevealed
+arcs: [777Burn, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA098_WhatDoesSatobyProve.md
+next_id: TOBY_QA100_TheNatureOfSatoby.md
+---
 ID: TOBY_QA099_777WasNotChosenItWasRevealed.md
 Question: Why is 777 the sacred number for Satoby minting?
 

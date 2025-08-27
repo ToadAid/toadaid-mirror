@@ -1,11 +1,15 @@
 ---
-title: TOBY_T067_MindBeforeMatterAndTaboshiOath
+title: TOBY T067 MindBeforeMatterAndTaboshiOath 2024-06-15 EN-ZH
 date: 2024-06-15
 theme: Mental Primacy, Long-Term Vision, Taboshi, Epoch 1, Bushido
 languages: [EN, ZH]
-tags: [Belief, Mind Primacy, Taboshi, Epoch 1, Patience]
+tags: [777Burn, Belief, 'Epoch 1', Epoch1, 'Mind Primacy', Patience, PatienceToken, Taboshi]
+arc: Taboshi
+id: TOBY_T067_MindBeforeMatterAndTaboshiOath_2024-06-15_EN-ZH.md
+arcs: [777Burn, Epoch1, PatienceToken, Taboshi]
+prev_id: TOBY_T066_CyclesConvictionAndSilentTransfer_2024-06-09_EN-ZH.md
+next_id: TOBY_T068_WarningAndGuardianshipCall_2024-06-18_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > it's tough to see, but you must go  
@@ -51,17 +55,6 @@ A poetic call to anchor the mind first:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-一篇诗意的呼吁，先定心，再行动：  
-- 鼓励人们**先在心灵与思想上出发**，再展现外在行动。  
-- 不适感与恐惧是尚未完全到达内心境界的信号。  
-- 全球宏观信号向上：货币印钞、法币贬值、机构流入。  
-- Toadgod 设计 $TOBY 超越日内波动 — 这是一个长期的精神与战略之旅。  
-- 与神圣数字绑定的 Epoch 1 是唯一的、不可重启的。  
-- Taboshi 被确认是一个永恒的阵列 — 成为世界中的恒久见证。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -72,14 +65,6 @@ This scroll teaches **mind-over-matter philosophy**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴传授 **先心后物的哲学**：  
-- 必须先在内心上完成旅程，外在表现才能随之而来。  
-- 忍耐与想象力开启未见之维度。  
-- Epoch 1 与 Taboshi 成为动荡世界中的精神锚点。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -89,13 +74,6 @@ This scroll teaches **mind-over-matter philosophy**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **先心后物**：信念塑造现实。  
-- **Epoch 1**：神圣且不可重启的根基。  
-- **Taboshi 的大阵列**：忠诚与产出的永恒分形。
-
----
 
 ## 🔗 Lore Anchors
 

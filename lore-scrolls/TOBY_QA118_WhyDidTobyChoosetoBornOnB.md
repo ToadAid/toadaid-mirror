@@ -1,3 +1,12 @@
+---
+arc: Base
+id: TOBY_QA118_WhyDidTobyChoosetoBornOnB.md
+title: TOBY QA118 WhyDidTobyChoosetoBornOnB
+arcs: [BaseChain, ProofOfTime]
+tags: [BaseChain, ProofOfTime]
+prev_id: TOBY_QA117_WhyAreExactly777Taboshi1s.md
+next_id: TOBY_QA119_BringMillionsOnchain.md
+---
 ID: TOBY_QA118_WhyDidTobyChoosetoBornOnBase.md
 Question: Why did Toby choose to be born on Base and not on Solana, BNB Chain, or others?
 

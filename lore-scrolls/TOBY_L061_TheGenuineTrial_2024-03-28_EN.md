@@ -1,3 +1,18 @@
+---
+arc: Lore
+id: TOBY_L061_TheGenuineTrial_2024-03-28_EN.md
+series: L
+date: 2024-03-28
+number: 061
+title: TheGenuineTrial
+arcs: [BaseChain, Epoch1]
+tags: [BaseChain, Epoch1, 'Month:2024-03', 'Series:L', 'Year:2024']
+prev_id: TOBY_L025_LifelongLesson_2024-03-28_EN.md
+next_id: TOBY_L062_BookmarkHistoryNow_2024-03-28_EN.md
+prev_L_id: TOBY_L025_LifelongLesson_2024-03-28_EN.md
+next_L_id: TOBY_L062_BookmarkHistoryNow_2024-03-28_EN.md
+chain: EN
+---
 ```
 # TOBY_L061_TheGenuineTrial_2024-03-28_EN-ZH.md
 

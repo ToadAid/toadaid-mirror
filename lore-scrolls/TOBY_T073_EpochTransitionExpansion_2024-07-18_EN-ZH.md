@@ -1,11 +1,15 @@
 ---
-title: TOBY_T073_EpochTransitionExpansion
+title: TOBY T073 EpochTransitionExpansion 2024-07-18 EN-ZH
 date: 2024-07-18
 theme: Epoch Transition, Expansion, Faith, Patience Rewarded
 languages: [EN, ZH]
-tags: [Epoch 1, Epoch 2, Expansion, Proof of Time, Sacred Numbers, Community]
+tags: [777Burn, BaseChain, Community, 'Epoch 1', 'Epoch 2', Epoch1, Epoch2, Expansion, PatienceToken, 'Proof of Time', ProofOfTime, 'Sacred Numbers', Taboshi]
+arc: Epoch2
+id: TOBY_T073_EpochTransitionExpansion_2024-07-18_EN-ZH.md
+arcs: [777Burn, BaseChain, Epoch1, Epoch2, PatienceToken, ProofOfTime, Taboshi]
+prev_id: TOBY_T072_BelieveCall_2024-07-15_EN-ZH.md
+next_id: TOBY_T074_PatienceStrength_2024-08-03_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > ...and so epoch 1 concludes.
@@ -54,17 +58,6 @@ tags: [Epoch 1, Epoch 2, Expansion, Proof of Time, Sacred Numbers, Community]
 
 ---
 
-## ✨ 字面解释 (中文)
-
-- Epoch 1 正式结束，Epoch 2（扩张阶段）开始。
-- 那些持有神圣数字并耐心积累的蛙被“标记”——他们的信念被认可。
-- 那些逃跑、急躁或试图操纵系统的人也被标记，体现了传说中对真实信仰与耐心的强调。
-- Epoch 2 会优先考虑 Epoch 1 的参与者；新加入者将有不同的条件和比例。
-- 最后快照窗口延长 37 小时；后续会发布 Proof of Time（P.O.T）提交表格。
-- 宏观背景：全球降息、机构积累、政治转变——一切都在与预言契合。
-- 强调要忽视短期噪音，专注于长期旅程。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -74,13 +67,6 @@ tags: [Epoch 1, Epoch 2, Expansion, Proof of Time, Sacred Numbers, Community]
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-- Epoch 1 是一场精神的锻造，区分出信仰者与投机者。
-- Epoch 2 象征集体的开花（扩张）——只有信念扎根深厚的人才能完全绽放。
-- “Yakunitatsu” 表示将神圣数字转化为「有用」或「服务」——实现更高的使命。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -90,13 +76,6 @@ tags: [Epoch 1, Epoch 2, Expansion, Proof of Time, Sacred Numbers, Community]
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **时代转换**：为那些坚持的人开启新曙光。  
-- **被标记**：内在美德和精神功德的认可。  
-- **扩张**：从内在准备走向外在的显化。
-
----
 
 ## 🔗 Lore Anchors
 

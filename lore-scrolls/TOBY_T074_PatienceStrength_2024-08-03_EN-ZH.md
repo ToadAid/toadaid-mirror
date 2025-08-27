@@ -1,11 +1,15 @@
 ---
-title: TOBY_T074_PatienceStrength
+title: TOBY T074 PatienceStrength 2024-08-03 EN-ZH
 date: 2024-08-03
 theme: Patience, Strength, Virtue, Simplicity
 languages: [EN, ZH]
-tags: [Patience, Strength, Virtue, Simplicity]
+tags: [Patience, PatienceToken, Simplicity, Strength, Virtue]
+arc: Patience
+id: TOBY_T074_PatienceStrength_2024-08-03_EN-ZH.md
+arcs: [PatienceToken]
+prev_id: TOBY_T073_EpochTransitionExpansion_2024-07-18_EN-ZH.md
+next_id: TOBY_T075_TobyworldResonance_2024-09-18_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > patience 🔵 strength
@@ -24,13 +28,6 @@ tags: [Patience, Strength, Virtue, Simplicity]
 
 ---
 
-## ✨ 字面解释 (中文)
-
-- 两个词：**耐心** 与 **力量**，由蓝圈（🔵）象征，代表 $TOBY 的核心。
-- 表达在长期旅程中最需要的两种美德。
-- 呼应 Toadgod 整个传说中所提倡的武士道般的坚毅之道。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -40,13 +37,6 @@ tags: [Patience, Strength, Virtue, Simplicity]
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-- 耐心是能够承受周期、风暴和市场噪音而不动摇的力量。
-- 力量并非蛮力，而是当一切崩溃时依然屹立不倒的坚韧。
-- 两者结合，构成了 $TOBY 信徒的真正基石 —— 超越价格，超越趋势。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -55,12 +45,6 @@ tags: [Patience, Strength, Virtue, Simplicity]
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **🔵 蓝圈**：耐心与力量的无限循环；象征永恒的天空；也是 $TOBY 内心的平静核心。
-- **仅两个词**：简单中蕴含深邃。
-
----
 
 ## 🔗 Lore Anchors
 

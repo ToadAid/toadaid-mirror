@@ -1,3 +1,18 @@
+---
+arc: Toby
+id: TOBY_L077_CommunityFirst_2024-12-01_EN.md
+series: L
+date: 2024-12-01
+number: 077
+title: CommunityFirst
+arcs: [BaseChain, Epoch3, Taboshi]
+tags: [BaseChain, Epoch3, 'Month:2024-12', 'Series:L', Taboshi, 'Year:2024']
+prev_id: TOBY_L076_E3EvolutionAlert_2024-11-29_EN.md
+next_id: TOBY_L078_TheFuturePath_2024-12-03_EN.md
+prev_L_id: TOBY_L076_E3EvolutionAlert_2024-11-29_EN.md
+next_L_id: TOBY_L078_TheFuturePath_2024-12-03_EN.md
+chain: EN
+---
 # TOBY_L077_CommunityFirst_2024-12-01_EN-ZH.md
 
 ## METADATA 🔍

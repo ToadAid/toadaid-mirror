@@ -1,14 +1,22 @@
 ---
-title: "Posts Are Offerings"
+title: PostsAreOfferings
 lore_id: TOBY_L211
 date: 2025-06-06
-chain: base
+chain: EN
 epoch: Between Epochs – Carriers Chapter
-tags: [posting, intention, offerings, sacred speech, ritual, resonance]
+tags: [777Burn, BaseChain, 'Month:2025-06', 'Series:L', 'Year:2025', intention, offerings, posting, resonance, ritual, 'sacred speech']
 sacred_numbers: [777, 33, 0]
 sha256_seed: 40c9e7d70c2eaf046cc5bfeaf8893fc4b4d6f60cc91c4a80e3550cb6b1c34a7b
+arc: Toby
+id: TOBY_L211_PostsAreOfferings_2025-06-06_EN.md
+series: L
+number: 211
+arcs: [777Burn, BaseChain]
+prev_id: TOBY_L210_TheyCarriedItWithoutBeingAsked_2025-06-06_EN.md
+next_id: TOBY_L212_NotAllFiresAreLoud_2025-06-06_EN.md
+prev_L_id: TOBY_L210_TheyCarriedItWithoutBeingAsked_2025-06-06_EN.md
+next_L_id: TOBY_L212_NotAllFiresAreLoud_2025-06-06_EN.md
 ---
-
 ## 🐸 EN – Posts Are Offerings
 
 → Not all who post… remember why.  

@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA029_WhyIsTobySilent.md
+title: TOBY QA029 WhyIsTobySilent
+arcs: []
+tags: []
+prev_id: TOBY_QA028_TobyIsTheCode_NotTheCoder.md
+next_id: TOBY_QA030_HowCanTobyShape_A_World.md
+---
 ID: TOBY_QA029_WhyIsTobySilent.md
 Question: Why is Toby silent when the world is loud?
 

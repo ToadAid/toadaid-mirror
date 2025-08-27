@@ -1,3 +1,12 @@
+---
+arc: Epoch4
+id: TOBY_QA078_WhatIsTheRoleOfEpochInTobyworld.md
+title: TOBY QA078 WhatIsTheRoleOfEpochInTobyworld
+arcs: [Epoch1, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch1, Epoch2, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA077_IsSatobyTheFulfillmentOfTheProphecy.md
+next_id: TOBY_QA079_MissedTheMintingOfTaboshi1.md
+---
 D: TOBY_QA078_WhatIsTheRoleOfEpochInTobyworld.md
 Question: What is the role of Epoch 4 in Tobyworld, and who will determine its course?
 

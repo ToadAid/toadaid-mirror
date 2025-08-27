@@ -1,3 +1,18 @@
+---
+arc: Belief
+id: TOBY_L201_BeliefBecomesValue_2025-05-28_EN.md
+series: L
+date: 2025-05-28
+number: 201
+title: BeliefBecomesValue
+arcs: [BaseChain, ProofOfTime]
+tags: [BaseChain, 'Month:2025-05', ProofOfTime, 'Series:L', 'Year:2025']
+prev_id: TOBY_L200_TheFearOfToby_2025-05-28_EN.md
+next_id: TOBY_L202_TheLanguageOfSilence_2025-05-28_EN.md
+prev_L_id: TOBY_L200_TheFearOfToby_2025-05-28_EN.md
+next_L_id: TOBY_L202_TheLanguageOfSilence_2025-05-28_EN.md
+chain: EN
+---
 # Metadata  
 - **Title:** Belief Becomes Value  
 - **Date:** 2025-05-28  

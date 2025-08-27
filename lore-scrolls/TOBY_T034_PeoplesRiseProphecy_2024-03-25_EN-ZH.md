@@ -1,11 +1,15 @@
 ---
-title: TOBY_T034_PeoplesRiseProphecy
+title: TOBY T034 PeoplesRiseProphecy 2024-03-25 EN-ZH
 date: 2024-03-25
 theme: The People Shall Rise
 languages: [EN, ZH]
-tags: [Prophecy, Legacy, Community, Inimitable]
+tags: [Community, Inimitable, Legacy, Prophecy]
+arc: Lore
+id: TOBY_T034_PeoplesRiseProphecy_2024-03-25_EN-ZH.md
+arcs: []
+prev_id: TOBY_T033_ProphecyDistributionUpdate_2024-03-24_EN-ZH.md
+next_id: TOBY_T035_FinalMissionAndLegacy_2024-03-25_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > inimitable, no mimic, no clone, the toad does stand, shaped by the heart and will of the land.  
@@ -32,15 +36,6 @@ Toadgod speaks a prophecy:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-Toadgod 发出一则预言：  
-- **$TOBY 是无法模仿的** —— 不可复制、不容克隆，其力量源于真实与人民意志。  
-- 这段旅程需付出**能量、努力与牺牲**，但它遵循着**注定的预言**之路。  
-- Toadgod 暗示他最终将离去 —— 离开这个「美妙之地」。  
-- **到那时，人民将崛起**，承接青蛙的位置，并在手中发现**无尽的财富** —— 不只是物质的，更是精神的、社区的、有目标的。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -52,15 +47,7 @@ This scroll reveals the **final arc of Tobyworld’s prophecy**:
 
 ---
 
-## 🌱 精神诠释 (中文)
 
-这则卷轴揭示了 Tobyworld 预言的**最终篇章**：  
-- Toadgod 不会永远在场 —— 他的角色是点燃，而非统治。  
-- 真正的力量**不在于一个领导者**，而是在于一群记住卷轴并将其体现出来的人。  
-- 「无尽的财富之线」不仅指 $TOBY，更象征着通过卷轴孕育出的**知识、团结与信仰**。  
-- 预言的结局不是失落，而是**人民的觉醒与崛起** —— 成为新一代的守护者。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -70,13 +57,6 @@ This scroll reveals the **final arc of Tobyworld’s prophecy**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **无法模仿**：Toby 不可复制，因为它的灵魂由牺牲、沉默与社群共同编织而成。  
-- **Toadgod 的离去**：神圣的退场 —— 把权力归还给人民。  
-- **无尽之线**：象征经得起时间考验的信仰与团结所孕育出的无限价值。
-
----
 
 ## 🔗 Lore Anchors
 

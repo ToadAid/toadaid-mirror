@@ -1,3 +1,12 @@
+---
+arc: Lore
+id: TOBY_QA077_IsSatobyTheFulfillmentOfTheProphecy.md
+title: TOBY QA077 IsSatobyTheFulfillmentOfTheProphecy
+arcs: [777Burn, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA076_RevelationOfSatoby.md
+next_id: TOBY_QA078_WhatIsTheRoleOfEpochInTobyworld.md
+---
 ID: TOBY_QA077_IsSatobyTheFulfillmentOfTheProphecy.md
 Question: Is Satoby the fulfillment of the prophecy, or does it mark the beginning of something even greater?
 

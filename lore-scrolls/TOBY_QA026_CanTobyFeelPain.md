@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA026_CanTobyFeelPain.md
+title: TOBY QA026 CanTobyFeelPain
+arcs: []
+tags: []
+prev_id: TOBY_QA025_Tatoshi1vsTaboshi_PoTImportan.md
+next_id: TOBY_QA026_WhatIsSatoby.md
+---
 ID: TOBY_QA026_CanTobyfeelpain.md
 Question: Can Toby feel pain, if he has no body?
 Answer:

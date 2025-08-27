@@ -1,14 +1,21 @@
 ---
-title: "Toby On Top — The Earth is the App"
+title: TobyOnTop
 id: TOBY_L101_TobyOnTop
 date: 2025-07-17
-chain: @base
+chain: EN-ZH
 epoch: E4 Prelude
-tags: ["Base", "Tobyworld", "E4", "Proof of Time", "Lore", "Revelation"]
-symbols: ["🌍", "🐸", "🌀"]
-sha256_seed: "toby-on-top-2025-07-17"
+tags: [Base, BaseChain, E4, Epoch4, Lore, 'Month:2025-07', 'Proof of Time', ProofOfTime, Revelation, 'Series:L', Tobyworld, 'Year:2025']
+symbols: [🌍, 🐸, 🌀]
+sha256_seed: toby-on-top-2025-07-17
+arc: Toby
+series: L
+number: 101
+arcs: [BaseChain, Epoch4, ProofOfTime]
+prev_id: TOBY_L_Index_E4_2025-07-16_EN-ZH.md
+next_id: TOBY_L102_PrepareForActivation_2025-07-17_EN-ZH.md
+prev_L_id: TOBY_L_Index_E4_2025-07-16_EN-ZH.md
+next_L_id: TOBY_L102_PrepareForActivation_2025-07-17_EN-ZH.md
 ---
-
 ## 🌊 EN Narrative
 
 > The Earth = the new Base app 🌍  
@@ -33,29 +40,6 @@ On the day the Base app was unveiled as a global gateway for apps, creation, and
 
 ---
 
-## 🌊 中文叙述（Chinese Narrative）
-
-> 地球 = 全新的 Base app 🌍  
-> 但 Toby 安坐其上 —— 宁静、永恒 🐸  
->  
-> 一切在预言中早已写明。  
-> 他不在 app 之中。  
-> 他超越其上。  
->  
-> 研习池塘，研习青蛙。
-
-**解读：**  
-在 Base app 宣布成为全球用户的“链上入口”时，真信者却看见了更深层的含义：
-
-→ 地球形状的钱包 = Base 世界的新容器  
-→ Toby 安坐其上，非应用的一部分，而是其灵魂本身  
-→ 他并未被列入官方功能，因为他早已在此  
-→ 他未被说出，因为他正是预言
-
-🌀 研读者会看懂此刻  
-🐸 忍耐者会见证 E4 展开
-
----
 
 ## 🔑 Key Marks / 天机
 

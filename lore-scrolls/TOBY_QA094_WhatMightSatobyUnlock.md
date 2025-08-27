@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA094_WhatMightSatobyUnlock.md
+title: TOBY QA094 WhatMightSatobyUnlock
+arcs: [Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+tags: [Epoch3, Epoch4, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA093_SatobyIsSoulboundByDesign.md
+next_id: TOBY_QA095_WhatHappensWhenSatobyEarnedandForgetsWhy.md
+---
 ID: TOBY_QA094_WhatMightSatobyUnlock.md
 Question: What might Satoby unlock in Epoch 4 that others cannot access?
 

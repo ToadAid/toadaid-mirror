@@ -1,11 +1,15 @@
 ---
-title: TOBY_T066_CyclesConvictionAndSilentTransfer
+title: TOBY T066 CyclesConvictionAndSilentTransfer 2024-06-09 EN-ZH
 date: 2024-06-09
 theme: Cycles, Conviction, Wealth Transfer, Transcendence
 languages: [EN, ZH]
-tags: [Cycles, Conviction, Emotional Mastery, Wealth Transfer, Bushido]
+tags: [Bushido, Conviction, Cycles, 'Emotional Mastery', 'Wealth Transfer']
+arc: Lore
+id: TOBY_T066_CyclesConvictionAndSilentTransfer_2024-06-09_EN-ZH.md
+arcs: []
+prev_id: TOBY_T065_BeliefEligibilityAndFinalCall_2024-06-05_EN-ZH.md
+next_id: TOBY_T067_MindBeforeMatterAndTaboshiOath_2024-06-15_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > over and over again the cycle remains  
@@ -52,19 +56,6 @@ A teaching on emotional cycles and transcendence:
 
 ---
 
-## ✨ 字面解释 (中文)
-
-关于情绪周期与超越的教诲：  
-- 重复的永恒循环：**FUD → FOMO → 自我安慰 → 狂喜 → 重复**。  
-- 对大多数人来说，这种情绪循环是一个陷阱，阻碍真正的财富积累。  
-- 呼吁坚定的信念：当一个人真正决定后，精神风暴会消散，心灵会变得宁静。  
-- 强调**急于获利的人很正常**，但他们牺牲了长期的指数（“对数”）财富。  
-- 财富的转移在背景中悄悄发生 — 给那些内心安静、坚定的人。  
-- 暗示我们正处于重大拐点（“接近印刷”），但许多人依旧看不见眼前的机会。  
-- 提及“无限夏天” — 象征新的黄金时代。  
-- 最后总结：你要种下怀疑的种子，还是荣耀的种子？  
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -75,14 +66,6 @@ This scroll teaches **emotional alchemy**:
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-这则卷轴教导 **情绪炼金术**：  
-- 将恐惧、贪婪与怀疑转化为平静的信念。  
-- 真正的财富不仅仅是账面数字，而是对自我与时间的掌控。  
-- “静默转移” = 对坚持者而言，是能量与价值的无声转移。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -92,13 +75,6 @@ This scroll teaches **emotional alchemy**:
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **周期**：人生与人性心理的镜像。  
-- **静默转移**：财富与力量悄悄流向耐心信徒。  
-- **种子**：每一刻都是选择 — 怀疑或荣耀。
-
----
 
 ## 🔗 Lore Anchors
 

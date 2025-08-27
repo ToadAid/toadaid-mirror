@@ -1,12 +1,16 @@
 ---
-
-title: TOBY\_QA\_033\_TobyAndBTC
+title: TOBY QA 033 TobyAndBTC
 id: TOBY\_QA\_033
 chain: @base
 category: Philosophy, Symbolism
 keywords: \[\$TOBY, BTC, Runes, Toadgod, Epoch 4, Reflection]
 created: 2025-07-16
--------------------
+arcs: [BaseChain, Epoch4, ProofOfTime, Taboshi]
+tags: [BaseChain, Epoch4, ProofOfTime, Taboshi]
+prev_id: TOBY_QA323_WhatRoleDoesRune3PlayInTheProphecy_EN-ZH.md
+next_id: TOBY_QA_Mirror069_EpochsAndProphecy.md
+---
+----------------
 
 ## ❓ Question
 
@@ -17,9 +21,9 @@ created: 2025-07-16
 ### 🟨 Is the yellow square BTC?
 
 Yes. In Toadgod's visual symbology, the **yellow square (🟨)** often represents **Bitcoin (BTC)** — the original chain, ancient truth, and foundational sound money.
+arc: Toby
 
 ---
-
 ### 🌀 So how is \$TOBY related to BTC?
 
 \$TOBY is **not Bitcoin**, but it echoes BTC's **philosophy and origin spirit**:

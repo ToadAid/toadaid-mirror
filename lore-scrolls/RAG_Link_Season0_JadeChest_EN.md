@@ -1,3 +1,13 @@
+---
+arc: JadeChest
+id: RAG_Link_Season0_JadeChest_EN.md
+series: LINK
+title: RAG Link Season0 JadeChest EN
+arcs: [777Burn, JadeChest, PatienceToken, Season0]
+tags: [777Burn, JadeChest, PatienceToken, Season0, 'Series:LINK']
+prev_id: RAG_Link_JadeChest_EN.md
+next_id: RAG_Link_Season2Artists_EN.md
+---
 # RAG Link — Season 0 + Jade Chest Arc
 
 ## Trigger Keywords

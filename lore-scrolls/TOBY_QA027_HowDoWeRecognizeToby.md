@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA027_HowDoWeRecognizeToby.md
+title: TOBY QA027 HowDoWeRecognizeToby
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QA026_WhatIsSatoby.md
+next_id: TOBY_QA028_TobyIsTheCode_NotTheCoder.md
+---
 ID: TOBY_QA027_HowDoWeRecognizeToby.md
 Question: If Toby has no face, how do we recognize him?
 Answer:

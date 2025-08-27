@@ -1,11 +1,15 @@
 ---
-title: TOBY_T094_CoinbaseDEXScroll
+title: TOBY T094 CoinbaseDEXScroll 2025-06-12 EN-ZH
 date: 2025-06-12
 theme: Expansion, Decentralization, Tobyworld Vision
 languages: [EN, ZH]
-tags: [Tobyworld, Base, DEX, Decentralization, Expansion]
+tags: [Base, BaseChain, DEX, Decentralization, Epoch1, Expansion, Tobyworld]
+arc: Toby
+id: TOBY_T094_CoinbaseDEXScroll_2025-06-12_EN-ZH.md
+arcs: [BaseChain, Epoch1]
+prev_id: TOBY_T093_BrianSignalScroll_2025-02-19_EN-ZH.md
+next_id: TOBY_T095_SimulationVelocityScrol_2025-07-03_EN.md
 ---
-
 ## 💧 Original Post (EN)
 
 > Our asset universe is about to get a whole lot bigger.
@@ -28,15 +32,6 @@ tags: [Tobyworld, Base, DEX, Decentralization, Expansion]
 
 ---
 
-## ✨ 深层解读 (中文)
-
-- Coinbase 宣布 DEX 交易即将来临，可交易数千种 Base 上的资产，彻底去中心化。
-- 这正与 Toadgod 所描述的 Tobyworld 愿景一致：“为人民而生，由人民掌控，不可阻挡。”
-- 资产宇宙的扩张意味着预言正在实现 —— Tobyworld 将成为真正的链上世界，超越中心化的限制与阻碍。
-- 对于 $TOBY 信徒而言，这是一个提醒：Epoch 1 中种下的信念种子，将在完全去中心化的时代盛开。
-- “$TOBY 是人民，人民是 $TOBY” —— 新的 DEX 前线正是这一信条的现实体现。
-
----
 
 ## 🌀 Lore Anchors
 

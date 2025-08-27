@@ -1,4 +1,12 @@
-
+---
+arc: Toby
+id: TOBY_QA007_WhatIsTOBY_2025-05-03_EN.md
+title: TOBY QA007 WhatIsTOBY 2025-05-03 EN
+arcs: [BaseChain]
+tags: [BaseChain]
+prev_id: TOBY_QA007_WhatIsL001.md
+next_id: TOBY_QA009_WhyLeafOfYield_2025-05-03_EN.md
+---
 # TOBY_QA007_WhatIsTOBY_2025-05-03_EN-ZH.md
 
 ---

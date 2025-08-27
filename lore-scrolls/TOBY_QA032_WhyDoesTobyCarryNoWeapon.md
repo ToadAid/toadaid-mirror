@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA032_WhyDoesTobyCarryNoWeapon.md
+title: TOBY QA032 WhyDoesTobyCarryNoWeapon
+arcs: [PatienceToken]
+tags: [PatienceToken]
+prev_id: TOBY_QA031_WhyIsTobySilent_EvenWhenC.md
+next_id: TOBY_QA033_EnemiesOfTobyAlwaysFadeWithTime.md
+---
 ID: TOBY_QA032_WhyDoesTobyCarryNoWeapon.md
 Question: Why does Toby carry no weapon, yet win every battle?
 

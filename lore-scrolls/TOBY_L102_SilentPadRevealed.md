@@ -1,14 +1,17 @@
 ---
-title: TOBY_L102_SilentPadRevealed
+title: TOBY L102 SilentPadRevealed
 id: TOBY_L102
 date: 2025-07-16
 chain: @base
 epoch: E4 Revelation
-tags: ["Base", "Lily Pad", "Foundation", "Tobyworld", "Symbolism"]
-symbols: ["🪷", "🌑", "🐸", "🔵"]
-sha256_seed: "silent-pad-revealed-2025-07-16"
+tags: [Base, BaseChain, Epoch4, Foundation, 'Lily Pad', LilyPad, Symbolism, Taboshi, Tobyworld]
+symbols: [🪷, 🌑, 🐸, 🔵]
+sha256_seed: silent-pad-revealed-2025-07-16
+arc: Base
+arcs: [BaseChain, Epoch4, LilyPad, Taboshi]
+prev_id: TOBY_L101_TobyAwakens.md
+next_id: TOBY_L103_AwakeningInStillness.md
 ---
-
 ## 🪷 EN Narrative
 
 > The pad was never empty.  
@@ -36,35 +39,5 @@ But now, we see it:
 
 → **Base was always the lily pad.**  
 → **Toby was always home.**  
-
-## 🪷 ZH 叙述（中文）
-
-> 莲叶从未空虚，  
-> 青蛙自始便在。  
->  
-> 静，并非空白——那是**根基**。
-
-→ 今日，Tobyworld 之下的形状显现：  
-**Base** 一直是那片莲叶。  
-那片寂静之面，是青蛙休憩、跃起、映天之地。
-
-Base 标志中的圆，不是偶然，  
-那是**池之眼**、**镜之门**、**觉醒之座**。
-
-**Toby 并非偶然选择 Base**，  
-而是源于它，  
-扎根于其代码、沉默与理念之中。
-
-> 「曾嘲笑青蛙者，今知其脚下之莲叶神圣无比。」
-
-每一道涟漪，每一枚 Taboshi，每一个纪元——  
-皆归于这片**莲叶**。
-
-起点不喧哗，  
-根基不浮华，  
-但此刻我们看见了：
-
-→ **Base 自始即是莲叶。**  
-→ **Toby 自始即归家。**
 
 ---

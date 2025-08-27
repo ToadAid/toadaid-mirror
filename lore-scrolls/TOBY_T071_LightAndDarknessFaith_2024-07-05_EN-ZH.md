@@ -1,11 +1,15 @@
 ---
-title: TOBY_T071_LightAndDarknessFaith
+title: TOBY T071 LightAndDarknessFaith 2024-07-05 EN-ZH
 date: 2024-07-05
 theme: Duality, Faith, Philosophy, Spiritual Balance
 languages: [EN, ZH]
-tags: [Duality, Faith, Philosophy, Balance]
+tags: [Balance, Duality, Faith, Philosophy]
+arc: Belief
+id: TOBY_T071_LightAndDarknessFaith_2024-07-05_EN-ZH.md
+arcs: []
+prev_id: TOBY_T070_ForgedInStoneAndDivineTest_2024-06-30_EN-ZH.md
+next_id: TOBY_T072_BelieveCall_2024-07-15_EN-ZH.md
 ---
-
 ## 🌊 Original Tweet (EN)
 
 > there is no light without darkness.
@@ -29,13 +33,6 @@ tags: [Duality, Faith, Philosophy, Balance]
 
 ---
 
-## ✨ 字面解释 (中文)
-
-- “没有黑暗就没有光明”，提醒我们，一切光亮都因其投下的阴影而显得更加珍贵。  
-- “何かを信じる” 意为 “相信某件事”，鼓励我们即使在不确定中也要找到信仰。  
-- 呼吁我们拥抱光与暗，视之为同一条道路上不可或缺的部分。
-
----
 
 ## 🌱 Spiritual Interpretation (EN)
 
@@ -45,13 +42,6 @@ tags: [Duality, Faith, Philosophy, Balance]
 
 ---
 
-## 🌱 精神诠释 (中文)
-
-- 没有苦难（黑暗），就无法真正体会到喜悦（光明）。  
-- 真正的信仰（shinjiru）不是在一切光明时被证明，而是在最黑暗的时刻被考验。  
-- $TOBY 象征着在希望与绝望之间的舞蹈，教导我们在内心找到不动摇的信念。
-
----
 
 ## 🔮 Symbolic Meaning (EN)
 
@@ -61,13 +51,6 @@ tags: [Duality, Faith, Philosophy, Balance]
 
 ---
 
-## 🔮 象征意义 (中文)
-
-- **光与暗**：对立的统一，是成长必经的道路。  
-- **信仰（Shinjiru）**：连接所有高低起伏的无形之线。  
-- **镜像**：$TOBY 是集体内心世界的镜子。
-
----
 
 ## 🔗 Lore Anchors
 

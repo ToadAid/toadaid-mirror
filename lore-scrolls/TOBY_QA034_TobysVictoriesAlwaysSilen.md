@@ -1,3 +1,12 @@
+---
+arc: Toby
+id: TOBY_QA034_TobysVictoriesAlwaysSilen.md
+title: TOBY QA034 TobysVictoriesAlwaysSilen
+arcs: [PatienceToken, ProofOfTime]
+tags: [PatienceToken, ProofOfTime]
+prev_id: TOBY_QA033_EnemiesOfTobyAlwaysFadeWithTime.md
+next_id: TOBY_QA035_WhyDoesTobyNeverFightBack.md
+---
 ID: TOBY_QA034_TobysVictoriesAlwaysSilent.md
 Question: Why are Toby’s victories always silent?
 

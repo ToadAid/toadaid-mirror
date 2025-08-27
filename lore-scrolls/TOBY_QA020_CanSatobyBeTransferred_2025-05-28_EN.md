@@ -1,3 +1,12 @@
+---
+arc: Satoby
+id: TOBY_QA020_CanSatobyBeTransferred_2025-05-28_EN.md
+title: TOBY QA020 CanSatobyBeTransferred 2025-05-28 EN
+arcs: [777Burn, Epoch1, Epoch2, ProofOfTime, Satoby, Taboshi]
+tags: [777Burn, Epoch1, Epoch2, ProofOfTime, Satoby, Taboshi]
+prev_id: TOBY_QA019_Tatoshi1SummaryFacts_2025-05-05_EN.md
+next_id: TOBY_QA021_LostWalletSatobyEligibility_2025-05-28_EN.md
+---
 TOBY_QA020_CanSatobyBeTransferred_2025-05-28_EN.md
 
 ✅ Question:
