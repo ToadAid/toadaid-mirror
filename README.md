@@ -129,6 +129,21 @@ Every Toad can take part:
 The Lore is not owned.  
 It is carried.  
 
+
+---
+
+### 👨‍💻 Developers: Get started
+
+See the full **Agentic RAG v2 Developer Guide**: [`docs/AGENTIC_RAG_v2.md`](docs/AGENTIC_RAG_v2.md)
+
+**Quickstart**
+```bash
+python -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+cp .env.example .env
+uvicorn bot_server:app --host 0.0.0.0 --port 8080 --reload
+
+
 Toadgod’s gift is **priceless** —  
 our task is only to **guard it**.  
 
