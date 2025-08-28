@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tobyworld Mirror – MiniApp</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      background: #0d1117;
+      color: #e6edf3;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+    h1 { margin-bottom: 0.5em; }
+    #answer {
+      margin-top: 1em;
+      padding: 1em;
+      border-radius: 8px;
+      background: #161b22;
+      max-width: 600px;
+      white-space: pre-wrap;
+    }
+    input, button {
+      padding: 0.6em;
+      border-radius: 6px;
+      border: none;
+      margin: 0.3em;
+    }
+    button { background: #238636; color: white; cursor: pointer; }
+    button:hover { background: #2ea043; }
+    .footer { margin-top: 2em; font-size: 0.8em; color: #8b949e; }
+  </style>
+</head>
+<body>
+  <h1>🪞 Ask the Mirror</h1>
+  <div>
+    <input id="question" type="text" size="50" placeholder="Ask Tobyworld..." />
+    <button onclick="ask()">Ask</button>
+  </div>
+  <div id="answer"></div>
+  <div class="footer">Powered by Agentic RAG v2 · ToadAid</div>
+
+  <script>
+    async function ask() {
+      const q = document.getElementById("question").value;
+      if (!q) return;
+      document.getElementById("answer").innerText = "Thinking...";
+      try {
+        const res = await fetch("/ask", {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ user: "miniapp_web", question: q })
+        });
+        const data = await res.json();
+        document.getElementById("answer").innerText = data.answer || JSON.stringify(data);
+      } catch (e) {
+        document.getElementById("answer").innerText = "⚠️ Error: " + e;
+      }
+    }
+  </script>
+</body>
+</html>
