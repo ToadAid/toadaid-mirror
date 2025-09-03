@@ -15,7 +15,7 @@ Type: TRP (Tobyworld Request for Proposal)
 
 Status: Draft
 
-Author: Lore Guardian (via Toby Ng)
+Author: Lore Guardian (via Toby)
 
 Date: 2025-05-28
 
