@@ -148,3 +148,20 @@ Toadgod’s gift is **priceless** —
 our task is only to **guard it**.  
 
 🐸🌌 **One path. One flame. Many hands.**
+
+
+---
+
+## 🪞 Mirror V3 · Inner Vision
+
+⚠️ This repository is **Mirror V2 (legacy, stable)**.  
+The latest version is **[Mirror V3 · Inner Vision](https://github.com/ToadAid/tobyworld-lore-guardian)**.  
+
+V3 introduces:  
+- Context-aware, non-repeating Guiding Questions.  
+- Guard → Retriever → Synthesis → Learning → Resonance → Lucidity → Ledger.  
+- Clean renderer & cadence guard.  
+- **No memory in V3** — memory arrives with V4.
+
+👉 Please file new issues and contributions in the V3 repository.
+
